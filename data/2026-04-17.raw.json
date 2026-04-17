@@ -1,0 +1,349 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T10:49:49.553025+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 0
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: HaloMD’s legal win highlights the difficulty of challenging arbitration decisions",
+        "url": "https://www.statnews.com/2026/04/16/halomd-lawsuit-bluecross-blueshield-difficult-to-challenge-arbitration/",
+        "summary": "The ruling delivers clarity on the path forward for addressing problems with the No Surprises Act.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 21:51:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump taps former public health leader Erica Schwartz to run CDC",
+        "url": "https://www.statnews.com/2026/04/16/erica-schwartz-cdc-director-nominee/",
+        "summary": "Schwartz's background as a physician with plenty of government service experience will likely be popular among lawmakers.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 19:52:56 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A pancreatic cancer breakthrough, and new hope for an off-the-shelf CAR-T treatment",
+        "url": "https://www.statnews.com/2026/04/16/pancreatic-cancer-revolution-car-t-lymphoma-readout-loud/",
+        "summary": "This week on \"The Readout LOUD,\" a pancreatic cancer breakthrough and new hope for an off-the-shelf CAR-T treatment in lymphoma.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 19:37:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kennedy focuses on affordability, combating fraud in Capitol Hill hearings",
+        "url": "https://www.statnews.com/2026/04/16/rfk-jr-congressional-hearing-trump-health-agenda/",
+        "summary": "RFK Jr. focused on President Trump's health care agenda and largely avoided vaccines.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 18:41:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Researchers behind GLP-1 obesity drugs advance new approach: Drop GLP-1 as a target",
+        "url": "https://www.statnews.com/2026/04/16/glp1-weight-loss-new-approach/",
+        "summary": "Scientists are raising a provocative hypothesis about GLP-1 drugs for obesity: Perhaps targeting the GLP-1 hormone isn't actually necessary to achieve effective weight loss.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 15:58:16 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Cochrane review reignites Alzheimer’s amyloid wars",
+        "url": "https://www.statnews.com/2026/04/16/biotech-news-cochrane-review-reignites-alzheimers-amyloid-war/",
+        "summary": "Another Elevidys trial, FDA reconsiders peptides, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 15:18:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: RFK Jr. begins his testimony marathon",
+        "url": "https://www.statnews.com/2026/04/16/rfk-jr-begins-his-congressional-testimony-marathon-dc-diagnosis/",
+        "summary": "RFK Jr. will have to walk a careful line between touting his MAHA wins and avoiding talking about his politically divisive vaccine policy.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 14:38:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a review of Alzheimer’s drugs, FDA interest in compounded peptides, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/16/alzheimers-drugs-review-fda-panel-for-compounded-peptides/",
+        "summary": "The FDA will convene an outside panel of advisers to discuss whether to allow compounding pharmacies to manufacture certain peptides",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 13:15:21 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Medicare may nix breakthrough device payment pathway",
+        "url": "https://www.statnews.com/2026/04/16/medicare-breakthrough-device-payment-pathway-health-tech/",
+        "summary": "In this edition of STAT Health Tech: CMS may change breakthrough device payments, Zealthy's legal troubles, and more.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 13:11:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The mental health parity gap is gaping",
+        "url": "https://www.statnews.com/2026/04/16/health-news-the-mental-health-parity-gap-is-gaping/",
+        "summary": "RFK Jr.'s testimony to Congress, broader access to peptides, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 11:58:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roche to launch another Elevidys trial, with eyes on European approval",
+        "url": "https://www.statnews.com/2026/04/16/roche-elevidys-pivotal-trial-europe-sarepta/",
+        "summary": "Roche is launching a Phase 3 trial of the controversial Duchenne gene therapy Elevidys, hoping it could lead to approval in Europe.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 10:32:07 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Travere’s drug for a kidney disease doesn’t improve kidney function. The FDA approved it anyway",
+        "url": "https://www.statnews.com/2026/04/16/travere-therapeutics-kidney-disease-fda-approval/",
+        "summary": "How a rare disease drugmaker won FDA approval after a clinical trial disappointed.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 10:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: 7 key issues we’re watching as RFK Jr. faces a Congressional gauntlet",
+        "url": "https://www.statnews.com/2026/04/16/kennedy-congress-testimony-balance-maha-goals-trump-priorities/",
+        "summary": "RFK Jr. has a delicate task ahead of him as he faces a marathon of hearings on Capitol Hill.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: The medical AI revolution requires rethinking health care’s architecture",
+        "url": "https://www.statnews.com/2026/04/16/medical-ai-revolution-consumer-devices-health-records/",
+        "summary": "\"Instead of organizing health data around institutions, we might organize it around individuals,\" write Meta's Freddy Abnousi and Stanford's Celina Yong.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Voice-first chatbots will exacerbate AI’s mental health threat",
+        "url": "https://www.statnews.com/2026/04/16/voice-chatbots-ai-psychosis-mental-health/",
+        "summary": "The debate about AI and mental health has so far focused on content. But the way the content is delivered matters, too.",
+        "source": "STAT News",
+        "published": "Thu, 16 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/former-deputy-surgeon-general-erica-schwartz-md-nominated-cdc-director\" hreflang=\"en\">Former Deputy Surgeon General Erica Schwartz, M.D., nominated as CDC director</a>",
+        "url": "https://www.fiercehealthcare.com/providers/former-deputy-surgeon-general-erica-schwartz-md-nominated-cdc-director",
+        "summary": "Compared to prior nominees and acting directors, the Navy officer and retired rear admiral is a highly qualified and uncontroversial choice. She would be stepping into an agency that has been upended and largely leaderless.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 4:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/apa-launches-digital-badge-solutions-library-trusted-digital-health-tools\" hreflang=\"en\">APA launches resource library for trusted digital mental health tools</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/apa-launches-digital-badge-solutions-library-trusted-digital-health-tools",
+        "summary": "The APA Labs Digital Badge Solutions Library lets users browse resources related to behavioral health and wellness, clinical tools, family, pediatrics and monitoring and sleep, relaxation and mindfulness.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 11:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rfk-jr-kicks-string-congressional-hearings-talk-white-house-budget-plan\" hreflang=\"en\">RFK Jr. kicks off string of congressional hearings to talk White House budget plan</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rfk-jr-kicks-string-congressional-hearings-talk-white-house-budget-plan",
+        "summary": "Department of Health and Human Services Secretary Robert F. Kennedy Jr. is in front of the first in a gauntlet of congressional hearings as he stumps for the president's health budget request.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—UnityPoint outsourcing hits at least 207; Baylor Scott &amp; White sheds 321 insurance staff</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/dime-led-initiative-brings-together-pharma-virtual-providers-digital-pharmacies-develop\" hreflang=\"en\">DiMe-led initiative brings together pharma, virtual providers, digital pharmacies to develop blueprint for DTC pharma models</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/dime-led-initiative-brings-together-pharma-virtual-providers-digital-pharmacies-develop",
+        "summary": "The Digital Medicine Society is leading an effort, in partnership with pharma companies, virtual-first providers and digital pharmacies, to establish a scalable blueprint for direct-to-patient pharma models as the market continues to evolve.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 7:41am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/seqster-launches-new-clinical-site-data-tool-names-bioivt-deployment-partner\" hreflang=\"en\">Seqster launches new data tool to turn clinical sites into 'research-ready data collection points'</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/seqster-launches-new-clinical-site-data-tool-names-bioivt-deployment-partner",
+        "summary": "The new tool allows clinical sites to share patient-consented electronic health record (EHR) data with clinical trial sponsors, seeking to eliminate barriers to involvement in research.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 15, 2026 12:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/carrot-launches-proprietary-ai-platform-personalized-fertility-family-care\" hreflang=\"en\">Carrot launches proprietary AI platform for personalized fertility, family care</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/carrot-launches-proprietary-ai-platform-personalized-fertility-family-care",
+        "summary": "The platform, dubbed Carrot Intelligence, has powered several recent AI-powered initiatives from the company, including its metabolic health program Sprints and Global Price Monitoring System.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 15, 2026 4:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/progyny-unveils-new-fertility-benefit-option-small-mid-size-employers\" hreflang=\"en\">Progyny unveils new fertility benefit option for small, mid-size employers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/progyny-unveils-new-fertility-benefit-option-small-mid-size-employers",
+        "summary": "Women's health and fertility company Progyny has unveiled a new fully-insured benefit option that it says will make it easier for small- and mid-size employers to offer fertility coverage to their workers.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 15, 2026 1:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/uc-health-workers-plan-open-ended-system-wide-strike-may-14\" hreflang=\"en\">UC Health workers plan open-ended, system-wide strike for May 14</a>",
+        "url": "https://www.fiercehealthcare.com/providers/uc-health-workers-plan-open-ended-system-wide-strike-may-14",
+        "summary": "A union representing 25,000 UC Health service and patient care workers said the massive academic health system hasn't negotiated in good faith since contracts expired in 2024.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 15, 2026 3:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/baylor-scott-white-health-plan-depart-individual-market-medicaid-year\" hreflang=\"en\">Baylor Scott &amp; White Health Plan to depart individual market, Medicaid this year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/baylor-scott-white-health-plan-depart-individual-market-medicaid-year",
+        "summary": "The health plan of Texas-based Baylor Scott &amp; White will exit the individual marketplaces as well as Medicaid, the health system announced this week.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 15, 2026 3:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/goodrx-launches-72-mg-wegovy-dose-self-pay-patients-399-month\" hreflang=\"en\">GoodRx launches 7.2-mg Wegovy dose for self-pay patients at $399 per month</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/goodrx-launches-72-mg-wegovy-dose-self-pay-patients-399-month",
+        "summary": "Alongside the $399 monthly dose, patients can choose to get a two-month supply for $798 or a three-month supply for $1,197.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 15, 2026 1:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/providers-back-new-bipartisan-bill-eliminating-medicare-chronic-care-management-cost\" hreflang=\"en\">Providers back bipartisan bill eliminating Medicare chronic care management cost sharing</a>",
+        "url": "https://www.fiercehealthcare.com/providers/providers-back-new-bipartisan-bill-eliminating-medicare-chronic-care-management-cost",
+        "summary": "A small monthly fee is keeping millions of eligible Medicare beneficiaries from a slew of beneficial and cost-saving care coordination services, backers of the newly introduced Chronic Care Management Improvement Act say.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 15, 2026 1:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/ryghtai-launches-free-clinical-trial-site-search-engine\" hreflang=\"en\">RyghtAI launches clinical site search engine to aid drug developers, CROs with trial design</a>",
+        "url": "https://www.fiercebiotech.com/cro/ryghtai-launches-free-clinical-trial-site-search-engine",
+        "summary": "Clinical site selection platform RyghtAI has launched a search engine designed to give drug developers and contract research organizations access to a comprehensive database of clinical research sites.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 1:29pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question\" hreflang=\"en\">'Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again</a>",
+        "url": "https://www.fiercebiotech.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question",
+        "summary": "The anti-amyloid drug class has yielded some FDA approvals and plenty of failed candidates. Now, researchers are looking at the overall track record of the group and painting an unpleasant picture about the efficacy of these drugs.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 10:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-pockets-25m-refund-meiragtx-struggling-eye-disease-gene-therapy\" hreflang=\"en\">Johnson &amp; Johnson hands back failed eye disease gene therapy to MeiraGTx </a>",
+        "url": "https://www.fiercebiotech.com/biotech/jj-pockets-25m-refund-meiragtx-struggling-eye-disease-gene-therapy",
+        "summary": "After its bet on a rare eye disease gene therapy ended in a phase 3 fail, Johnson &amp; Johnson is returning the asset to sender as MeiraGTx buys back back full rights to botaretigene sparoparvovec (bota-vec) for $25 million upfront.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 10:19am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/big-pharma-backed-storm-blows-56m-fundraise-launches-phase-2-sarcoma-trial\" hreflang=\"en\">Pfizer–backed Storm blows into $56M series C, launches phase 2 sarcoma trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-storm-blows-56m-fundraise-launches-phase-2-sarcoma-trial",
+        "summary": "Storm Therapeutics has closed a $56 million series C financing and launched a Phase 2 trial of its lead asset for sarcoma patients.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 10:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aligos-sells-china-rights-hpv-drug-hepatology-player-amoytop-445m-deal\" hreflang=\"en\">Aligos sells China rights to HBV drug to hepatology player Amoytop in $445M deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aligos-sells-china-rights-hpv-drug-hepatology-player-amoytop-445m-deal",
+        "summary": "Aligos Therapeutics has secured a $25 million upfront fee from hepatology biopharma Amoytop in exchange for the China rights to its phase 2-stage chronic hepatitis B virus (HBV) treatment.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 8:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/rare-disease-research-and-mytomorrows-partner-rare-disease-clinical-trial-access\" hreflang=\"en\">Rare Disease Research, myTomorrows team up to help patients access trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/rare-disease-research-and-mytomorrows-partner-rare-disease-clinical-trial-access",
+        "summary": "Clinical trial site network Rare Disease Research (RDR) is partnering with health tech company myTomorrows to increase trial visibility and support more referrals from community and specialist care settings for rare disease trials.",
+        "source": "Fierce Biotech",
+        "published": "Apr 14, 2026 2:37pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eying-3-approvals-coming-years-ocugens-ceo-wants-bring-gene-therapy-masses\" hreflang=\"en\">Eying 3 approvals in 2 years, Ocugen’s CEO wants to bring gene therapy to the masses</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eying-3-approvals-coming-years-ocugens-ceo-wants-bring-gene-therapy-masses",
+        "summary": "Many gene therapy outfits focus on technical advances, Ocugen CEO Shankar Musunuri, Ph.D., said, meaning they miss out on broader commercial success.",
+        "source": "Fierce Biotech",
+        "published": "Apr 9, 2026 4:07pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/qiagen-launches-latest-diagnostic-bloodstream-infections\" hreflang=\"en\">Qiagen launches latest diagnostic for bloodstream infections</a>",
+        "url": "https://www.fiercebiotech.com/medtech/qiagen-launches-latest-diagnostic-bloodstream-infections",
+        "summary": "Qiagen has moved into syndromic testing for bloodstream infections with the launch of its newest offering.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 7:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/early-stage-funding-slumps-toward-post-pandemic-low-piling-more-pressure-biotech-startups\" hreflang=\"en\">Early-stage funding slumps toward post-pandemic low, piling more pressure on biotech startups</a>",
+        "url": "https://www.fiercebiotech.com/biotech/early-stage-funding-slumps-toward-post-pandemic-low-piling-more-pressure-biotech-startups",
+        "summary": "A slow start to 2026 has put first-time biotech financings on course for their worst year since before the pandemic, reducing the already limited funding opportunities available for startups.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 4:28am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-advisory-committee-set-weigh-taking-action-certain-unapproved-peptides\" hreflang=\"en\">UPDATED: Heeding RFK Jr.'s call, FDA reclassifies 12 unapproved peptides ahead of advisory committee meeting</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-advisory-committee-set-weigh-taking-action-certain-unapproved-peptides",
+        "summary": "The FDA’s Pharmacy Compounding Advisory Committee will convene this summer to discuss seven peptides that are currently restricted from use in compounded medications.",
+        "source": "Fierce Biotech",
+        "published": "Apr 15, 2026 4:25pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/novartis-ceo-vas-narasimhan-joins-anthropic-board-pharmas-link-ai-deepens\" hreflang=\"en\">Novartis CEO Vas Narasimhan joins Anthropic’s board as biopharma’s ties to AI deepen</a>",
+        "url": "https://www.fiercebiotech.com/ai-and-machine-learning/novartis-ceo-vas-narasimhan-joins-anthropic-board-pharmas-link-ai-deepens",
+        "summary": "AI heavyweight Anthropic has appointed Novartis CEO Vas Narasimhan to its board of directors as the link between the pharmaceutical industry and Silicon Valley deepens.",
+        "source": "Fierce Biotech",
+        "published": "Apr 15, 2026 10:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spain-boston-biotech-initiative-aims-raise-200m-venture-fund-support-collaboration\" hreflang=\"en\">Spain sets up Boston-focused VC fund with goal of raising $200M for biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spain-boston-biotech-initiative-aims-raise-200m-venture-fund-support-collaboration",
+        "summary": "The Spanish government has announced a goal to raise a $200 million venture capital fund to launch the Spain-Boston biotechnology initiative to expand international collaboration.",
+        "source": "Fierce Biotech",
+        "published": "Apr 15, 2026 10:07am",
+        "importance_hint": 5
+      },
+      {
+        "title": "从智力孤岛到通用平台：华为与南方医院如何重构医院「AI操作系统」",
+        "url": "https://www.36kr.com/p/3769219932471810",
+        "summary": "HAIP平台，AI时代的医院底层基建。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 16 Apr 2026 09:34:57 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "质能用Rust重构底座解信创安全痛点",
+        "url": "https://www.36kr.com/p/3752179785384710",
+        "summary": "质能科技以全栈Rust方案重构计算体系。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 16 Apr 2026 02:56:37 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "脑机接口：人机共融临界点，开启生命与智能融合新纪元",
+        "url": "https://www.36kr.com/p/3767663752020744",
+        "summary": "脑机接口打破了传统人机交互的物理边界，推动着人类社会向人机共融的方向逐步迈进。云岫资本针对脑机接口产业的核心逻辑和产业格局进行深度研究，欢迎与我们交流",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 15 Apr 2026 10:21:54 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": []
+  }
+}

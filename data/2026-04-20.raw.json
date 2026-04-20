@@ -1,0 +1,262 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T12:16:45.467395+08:00",
+  "counts": {
+    "news": 30,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: AACR 2026: More strong data for Revolution Medicines’ KRAS drug",
+        "url": "https://www.statnews.com/2026/04/19/aacr-2026-strong-data-for-revolution-medicines-kras-drug/",
+        "summary": "You're reading the web version of STAT's popup newsletter, AACR in 30 seconds, your guide to what's happening at the American Association of Cancer Researchers' annual meeting. Sign up here.We’re&#8230;",
+        "source": "STAT News",
+        "published": "Sun, 19 Apr 2026 21:47:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The race to catch KRAS, pancreatic cancer’s ‘greasy ball,’ and create the most promising drug in decades",
+        "url": "https://www.statnews.com/2026/04/19/daraxonrasib-pancreatic-cancer-kras-revolution-medicines-patient-story/",
+        "summary": "Daraxonrasib, a pancreatic cancer drug from Revolution Medicines, is showing unprecedented success. For patients like Leanna Stokes, survival time doubled.",
+        "source": "STAT News",
+        "published": "Sun, 19 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How Trump is pushing psychedelics reform through the health agencies",
+        "url": "https://www.statnews.com/2026/04/18/psychedelics-ptsd-mental-health-research-boost-from-trump-executive-order/",
+        "summary": "Trump directed the federal government to rush access to psychedelic treatments and reevaluate their status as controlled substances.",
+        "source": "STAT News",
+        "published": "Sat, 18 Apr 2026 15:00:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Optimism for Trump’s CDC pick is tempered by questions about RFK Jr.’s role",
+        "url": "https://www.statnews.com/2026/04/18/erica-schwartz-cdc-director-nominee-reaction-cautious-optimism/",
+        "summary": "As one CDC employee, who asked not to be named, put it on Friday, among staff “the general vibe is guarded but hopeful.”",
+        "source": "STAT News",
+        "published": "Sat, 18 Apr 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The podcast bringing together MAHA and public health for hard conversations",
+        "url": "https://www.statnews.com/2026/04/18/maha-public-health-why-should-i-trust-you-podcast/",
+        "summary": "“These sides aren't talking to each other. And there's a lot riding on it”: The hosts of “Why Should I Trust You?” on bringing together MAHA and public health.",
+        "source": "STAT News",
+        "published": "Sat, 18 Apr 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/doj-seeks-immediate-asset-freeze-receivership-against-telehealth-company-zealthy\" hreflang=\"en\">DOJ seeks immediate asset freeze, receivership against telehealth company Zealthy</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/doj-seeks-immediate-asset-freeze-receivership-against-telehealth-company-zealthy",
+        "summary": "The Department of Justice filed a motion seeking an immediate asset freeze and receivership for telehealth company Zealthy and its CEO Kyle Robertson over alleged fraudulent prescribing and other deceptive practices, according to court documents.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 19, 2026 9:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/affordability-transparency-look-large-employers-top-healthcare-concerns\" hreflang=\"en\">Affordability, transparency: A look at large employers' top healthcare concerns</a>",
+        "url": "https://www.fiercehealthcare.com/payers/affordability-transparency-look-large-employers-top-healthcare-concerns",
+        "summary": "The Purchaser Business Group on Health has released new data that highlights some of the key healthcare priorities of its jumbo employer members, with—perhaps unsurprisingly—the escalating affordability crisis as the biggest challenge.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 3:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/gen-ai-chatbots-continually-struggle-differential-diagnoses-mass-general\" hreflang=\"en\">Gen AI chatbots continually struggle with differential diagnoses, Mass General Brigham study finds</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/gen-ai-chatbots-continually-struggle-differential-diagnoses-mass-general",
+        "summary": "Mass General Brigham researchers evaluated 21 different generative AI LLMs against 29 standardized clinical vignettes from January to December 2025.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 9:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/over-80-pcps-concerned-about-financial-stability-over-next-several-years-elation-health\" hreflang=\"en\">Over 80% of PCPs concerned about financial stability over next several years</a>",
+        "url": "https://www.fiercehealthcare.com/providers/over-80-pcps-concerned-about-financial-stability-over-next-several-years-elation-health",
+        "summary": "Despite financial concerns, 93% of physicians report remaining committed to primary care, the survey found.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 11:38am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/socialrx-teams-nyc-federally-qualified-health-center-social-prescribing\" hreflang=\"en\">SocialRx teams up with FQHC in NYC to prescribe arts and culture for chronically ill patients</a>",
+        "url": "https://www.fiercehealthcare.com/providers/socialrx-teams-nyc-federally-qualified-health-center-social-prescribing",
+        "summary": "Providers will be able to connect patients to non-clinical, community-based experiences that support mental health and reduce social isolation.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 1:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/industry-voices-doj-jumps-340b-cases-over-state-law-raising-questions-about-federal\" hreflang=\"en\">Industry Voices—DOJ jumps into 340B cases over state law, raising questions about federal plans for the program</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/industry-voices-doj-jumps-340b-cases-over-state-law-raising-questions-about-federal",
+        "summary": "How courts resolve the tension between state regulation and federal preemption will shape 340B contracting and data‑sharing expectations for years to come, write attorneys at Troutman Pepper Locke.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 11:02am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/former-deputy-surgeon-general-erica-schwartz-md-nominated-cdc-director\" hreflang=\"en\">Former Deputy Surgeon General Erica Schwartz, M.D., nominated as CDC director</a>",
+        "url": "https://www.fiercehealthcare.com/providers/former-deputy-surgeon-general-erica-schwartz-md-nominated-cdc-director",
+        "summary": "Compared to prior nominees and acting directors, the Navy officer and retired rear admiral is a highly qualified and uncontroversial choice. She would be stepping into an agency that has been upended and largely leaderless.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 4:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/apa-launches-digital-badge-solutions-library-trusted-digital-health-tools\" hreflang=\"en\">APA launches resource library for trusted digital mental health tools</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/apa-launches-digital-badge-solutions-library-trusted-digital-health-tools",
+        "summary": "The APA Labs Digital Badge Solutions Library lets users browse resources related to behavioral health and wellness, clinical tools, family, pediatrics and monitoring and sleep, relaxation and mindfulness.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 11:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/providers-advantage-out-network-billing-disputes-likely-continue-capstone\" hreflang=\"en\">Providers' advantage on out-of-network billing disputes likely to continue: Capstone</a>",
+        "url": "https://www.fiercehealthcare.com/finance/providers-advantage-out-network-billing-disputes-likely-continue-capstone",
+        "summary": "A new report from the strategy firm suggests a quarter-by-quarter increase in Independent Dispute Resolution filings will persist due to structural incentives for providers to engage in the process. Any potential shakeup in the dynamic is likely to come from payers like Anthem rather than policymakers.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 2:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rfk-jr-kicks-string-congressional-hearings-talk-white-house-budget-plan\" hreflang=\"en\">RFK Jr. kicks off string of congressional hearings to talk White House budget plan</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rfk-jr-kicks-string-congressional-hearings-talk-white-house-budget-plan",
+        "summary": "Department of Health and Human Services Secretary Robert F. Kennedy Jr. is in front of the first in a gauntlet of congressional hearings as he stumps for the president's health budget request.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—UnityPoint outsourcing hits at least 207; Baylor Scott &amp; White sheds 321 insurance staff</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/dime-led-initiative-brings-together-pharma-virtual-providers-digital-pharmacies-develop\" hreflang=\"en\">DiMe-led initiative brings together pharma, virtual providers, digital pharmacies to develop blueprint for DTC pharma models</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/dime-led-initiative-brings-together-pharma-virtual-providers-digital-pharmacies-develop",
+        "summary": "The Digital Medicine Society is leading an effort, in partnership with pharma companies, virtual-first providers and digital pharmacies, to establish a scalable blueprint for direct-to-patient pharma models as the market continues to evolve.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 7:41am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/aacr-former-genentech-leader-engineers-startup-vision-smart-cancer-drugs\" hreflang=\"en\">AACR: Former Genentech leader engineers startup with vision for ‘smart’ cancer drugs</a>",
+        "url": "https://www.fiercebiotech.com/research/aacr-former-genentech-leader-engineers-startup-vision-smart-cancer-drugs",
+        "summary": "Just a few years ago, Daniel Chen, M.D., Ph.D., was spending his days in his backyard, sketching out designs for new antibody-drug conjugates with a friend. Now, he’s sharing with the world the result of those complicated doodles: a biotech startup with a focus on “smart” cancer drugs.",
+        "source": "Fierce Biotech",
+        "published": "Apr 19, 2026 9:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/fda-celebrates-one-year-ending-animal-testing-experts-caution-theres-still-long-way-go\" hreflang=\"en\">FDA celebrates progress to end animal testing but experts warn there’s still a long way to go</a>",
+        "url": "https://www.fiercebiotech.com/cro/fda-celebrates-one-year-ending-animal-testing-experts-caution-theres-still-long-way-go",
+        "summary": "The FDA says it has hit the one-year goals of its roadmap for ending animal testing. Experts are split on how impactful the agency's actions will be.",
+        "source": "Fierce Biotech",
+        "published": "Apr 19, 2026 12:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-veteran-pazdur-bemoans-state-agency-warns-political-influence\" hreflang=\"en\">AACR: FDA vet Pazdur bemoans state of agency, warns of political influence and ‘sense of anxiety’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-veteran-pazdur-bemoans-state-agency-warns-political-influence",
+        "summary": "Asked by Fierce if he'd consider returning to the FDA, Pazdur said he wouldn't serve again under the Trump administration \"for obvious reasons.\"",
+        "source": "Fierce Biotech",
+        "published": "Apr 17, 2026 11:33pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-debuts-pd-1xvegf-bispecific-data-nsclc-remains-tight-lipped-phase-3-plans\" hreflang=\"en\">AACR: Merck unveils PD-1xVEGF bispecific data in NSCLC, remains tight-lipped on phase 3 plans</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-debuts-pd-1xvegf-bispecific-data-nsclc-remains-tight-lipped-phase-3-plans",
+        "summary": "More than a year after licensing its PD-1xVEGF bispecific, Merck &amp; Co. has finally unveiled the first clinical data from the antibody. The results suggest the drug boasts similar safety and efficacy in non-small cell lung cancer compared with the field’s frontrunners.",
+        "source": "Fierce Biotech",
+        "published": "Apr 17, 2026 12:23pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ucbs-115b-deal-neurona-touches-several-ambitions-including-strategic-expansion-advanced\" hreflang=\"en\">UCB pays $650M+ for Neurona, marking 'strategic expansion' into regenerative medicine</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ucbs-115b-deal-neurona-touches-several-ambitions-including-strategic-expansion-advanced",
+        "summary": "The agreement fulfills several ambitions for UCB. Besides building its epilepsy position, it \"marks a strategic expansion into regenerative medicine and advanced therapies,\" the Belgian biopharma explained.",
+        "source": "Fierce Biotech",
+        "published": "Apr 17, 2026 1:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquisition-architect-swings-structure\" hreflang=\"en\">Chutes &amp; Ladders—Metsera acquisition architect swings to Structure</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquisition-architect-swings-structure",
+        "summary": "After helping guide Metsera through its high-profile, $10 billion acquisition by Pfizer last year, Matthew Lang is swinging over to a different obesity biotech as chief operating officer and general counsel at Structure Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 4:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/openai-launches-biotech-specific-ai-model-gpt-rosalind\" hreflang=\"en\">OpenAI launches biotech-specific AI model dubbed GPT-Rosalind</a>",
+        "url": "https://www.fiercebiotech.com/biotech/openai-launches-biotech-specific-ai-model-gpt-rosalind",
+        "summary": "Following its recently announced partnership with Novo Nordisk, OpenAI is introducing a new reasoning model, GPT-Rosalind, to support research in biology, drug discovery and translational medicine.",
+        "source": "Fierce Biotech",
+        "published": "Apr 17, 2026 9:41am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-lowers-eps-guidance-exact-sciences-buy-shares-slide\" hreflang=\"en\">Abbott lowers EPS guidance on Exact Sciences buy as shares slide </a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-lowers-eps-guidance-exact-sciences-buy-shares-slide",
+        "summary": "Abbott's first-quarter numbers reflect is operational complexity.",
+        "source": "Fierce Biotech",
+        "published": "Apr 17, 2026 7:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roivants-ceo-thinks-china-red-herring\" hreflang=\"en\">Roivant’s CEO thinks China is a ‘red herring’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roivants-ceo-thinks-china-red-herring",
+        "summary": "China’s biotech rise has been a persistent concern for federal health leaders, Congress, and many biopharma executives. But to Roivant CEO Matt Gline, the country is nothing more than a red herring.&nbsp;",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 11:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline\" hreflang=\"en\">Kailera CEO 'knew we were in a good spot' before obesity biotech's record-breaking $625M IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline",
+        "summary": "Kailera Therapeutics appears to have set a new benchmark for biotech IPOs with an upsized $625 million offering to fund its pipeline of obesity therapies.",
+        "source": "Fierce Biotech",
+        "published": "Apr 17, 2026 4:44am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/small-pools-big-ideas-how-rare-disease-community-reimagining-clinical-trials\" hreflang=\"en\">Small pools, big ideas: How the rare disease community is reimagining clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/small-pools-big-ideas-how-rare-disease-community-reimagining-clinical-trials",
+        "summary": "The traditional gold standard of clinical trials with a randomized, placebo-controlled design involving hundreds of patients has inherently been unfeasible for the rare disease community.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 4:23pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/ryghtai-launches-free-clinical-trial-site-search-engine\" hreflang=\"en\">RyghtAI launches clinical site search engine to aid drug developers, CROs with trial design</a>",
+        "url": "https://www.fiercebiotech.com/cro/ryghtai-launches-free-clinical-trial-site-search-engine",
+        "summary": "Clinical site selection platform RyghtAI has launched a search engine designed to give drug developers and contract research organizations access to a comprehensive database of clinical research sites.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 1:29pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "万字拆解：AI五大门派的底牌、命门与终极赌局",
+        "url": "https://www.36kr.com/p/3771730656477956",
+        "summary": "对技术路线的信仰和拥有排兵布阵的实权，是这些人事变动背后的重要推动力，也是技术分野的开端。",
+        "source": "36Kr 医疗AI",
+        "published": "Sat, 18 Apr 2026 06:30:24 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+        "url": "https://huggingface.co/papers/2604.15231",
+        "summary": "Vision-language models (VLM) have markedly advanced AI-driven interpretation and reporting of complex medical imaging, such as computed tomography (CT). Yet, existing methods largely relegate clinicians to passive observers of final outputs, offering no interpretable reasoning trace for them to inspect, validate, or refine. To address this, we introduce RadAgent, a tool-using AI agent that generates CT reports through a stepwise and interpretable process. Each resulting report is accompanied by a fully inspectable trace of intermediate decisions and tool interactions, allowing clinicians to ex",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-15T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

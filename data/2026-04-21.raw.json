@@ -1,0 +1,366 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T10:28:32.779021+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: At AACR, a provocative use of CAR-T, Merck’s new thing and cancer’s geography problem",
+        "url": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-multiple-myeloma-merck-rural-health-ai/",
+        "summary": "At AACR, a bold use of CAR-T raises hopes and provocative questions about its use in smoldering multiple myeloma.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 21:59:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Former banker brought on to revitalize Pfizer’s strategy departs his post",
+        "url": "https://www.statnews.com/2026/04/20/andrew-baum-pfizer-leaves-post/",
+        "summary": "Andrew Baum, a former Citi analyst, has left his role as Pfizer's executive vice president and chief strategy and innovation officer.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 21:31:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In early trial, CAR-T results raise hope of preventing multiple myeloma in high-risk patients",
+        "url": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/",
+        "summary": "A CAR-T trial shows promise in preventing smoldering multiple myeloma from becoming the real thing.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 20:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump order to advance psychedelic treatments generates excitement — and worries",
+        "url": "https://www.statnews.com/2026/04/20/trump-eo-psychedelics-advocates-hail-executive-order-fret-politicized-science/",
+        "summary": "President Trump’s executive order on was largely applauded by advocates. But some also quietly worried the White House’s role risks politicizing their field and undermining its credibility.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 17:32:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The contradiction at the heart of Republicans’ embrace of psychedelics",
+        "url": "https://www.statnews.com/2026/04/20/trump-executive-order-psychedelics-republicans-veterans-ibogaine/",
+        "summary": "“The research is clear about one thing: Recovery is not primarily a pharmacological event,” write Dimitri Mugianis and Ross Ellenhorn.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 17:10:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly’s $3.25 billion acquisition of Kelonia Therapeutics caps startup’s tortuous ride",
+        "url": "https://www.statnews.com/2026/04/20/kelonia-therapeutics-eli-lilly-slide-deck-memo/",
+        "summary": "Kelonia Therapeutics, a small biotech company, long struggled to stay afloat. Now it's been acquired by Eli Lilly for $3.25 billion.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 15:59:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The PBMs fight back, and arbitration doesn’t lose",
+        "url": "https://www.statnews.com/2026/04/20/pbms-push-back-price-transparency-no-surprises-act-lawsuits/",
+        "summary": "We unpack the contentious fight over drug price transparency.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 15:17:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Finally cracking KRAS as a druggable target",
+        "url": "https://www.statnews.com/2026/04/20/biotech-news-finally-cracking-kras-as-a-druggable-target/",
+        "summary": "The Breakthrough Prize winners, Trump's psychedelics executive order, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 13:29:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Trump boosting psychedelic treatment, the future for weight-loss drugs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/20/pharmalittle-were-reading-about-trump-boosting-psychedelic-treatment-the-future-for-weight-loss-drugs-and-more/",
+        "summary": "And more pharma news from the Pharmalot campus via the Pharmalittle newsletter",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 13:14:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How weed affects adolescent brains",
+        "url": "https://www.statnews.com/2026/04/20/health-news-how-weed-affects-adolescent-brains/",
+        "summary": "The latest CDC director nominee, the ongoing measles outbreak, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 11:40:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Extended use of Nektar Therapeutics drug shows promise in alopecia",
+        "url": "https://www.statnews.com/2026/04/20/nektar-drug-rezpeg-hair-growth-alopecia/",
+        "summary": "Extended use of a drug from Nektar Therapeutics promoted hair growth in people with alopecia.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 11:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A controversy over research monkeys highlights ambiguity over health standards",
+        "url": "https://www.statnews.com/pharmalot/2026/04/20/animal-testing-peta-questions-pfizer-research-monkey-health/",
+        "summary": "A leading animal rights group is accusing Pfizer of running afoul of its own standards in the handling of research monkeys.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Politicians are using low teen birth rates to further restrict access to birth control, abortion",
+        "url": "https://www.statnews.com/2026/04/20/teen-birth-rates-falling-abortion-birth-control-policy/",
+        "summary": "“Both narratives — that teen birth rates are too high or too low — problematize teen pregnancy and childbearing,” writes Riley J. Steiner.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: PBMs warn Trump’s proposal to disclose drug prices is illegal",
+        "url": "https://www.statnews.com/2026/04/20/pbm-reform-proposal-draws-lobbyist-opposition/",
+        "summary": "Pharma industry middlemen are pushing back on a major drug price transparency proposal.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Measles outbreak means my immunocompromised son can’t leave the house without extreme safety measures",
+        "url": "https://www.statnews.com/2026/04/20/immunocompromised-children-measles-return-mmr-community/",
+        "summary": "Hundreds of thousands of families are making life-or-death decisions as measles continues to spread.",
+        "source": "STAT News",
+        "published": "Mon, 20 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-pilot-accelerate-payments-rural-hospitals\" hreflang=\"en\">UnitedHealthcare to eliminate most prior authorizations for rural providers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-pilot-accelerate-payments-rural-hospitals",
+        "summary": "UnitedHealthcare is building on its work to support rural hospitals, and will now exempt these facilities from most prior authorizations.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 14, 2026 1:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cvs-mass-general-brigham-primary-care-deal-would-increase-annual-care-spending-40m-report\" hreflang=\"en\">CVS, Mass General Brigham primary care deal would increase annual care spending by $40M, report predicts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cvs-mass-general-brigham-primary-care-deal-would-increase-annual-care-spending-40m-report",
+        "summary": "A \"conservative\" preliminary estimate from a Massachusetts watchdog agency acknowledged likely access gains from a pending MinuteClinic affiliation deal, but said the major health system's higher prices would substantially boost commercial healthcare spending.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 2:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Blue Shield of California names chief pharmacy officer; ChristianaCare CEO to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership\" hreflang=\"en\">A look inside Highmark and Spring Health's mental well-being partnership</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership",
+        "summary": "Just over two years ago, Highmark joined forces with Spring Health to launch a new mental well-being platform that made it far easier for members to access critical services. Now, the partners are offering a look at how that program has worked for members.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 3:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-2-new-tools-aimed-expanding-clinical-access\" hreflang=\"en\">Hippocratic AI rolls out 2 new tools aimed at expanding clinical access, improving nurse workflow</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-2-new-tools-aimed-expanding-clinical-access",
+        "summary": "The startup developed the tools, dubbed AI Front Door and Nurse Co-Pilot, as voice AI tools for patients and inpatient nurses.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 12:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/connecticut-doctors-now-sue-patients-most-over-medical-bills-surpassing-hospitals\" hreflang=\"en\">In Connecticut, doctors now sue patients most over medical bills, surpassing hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/providers/connecticut-doctors-now-sue-patients-most-over-medical-bills-surpassing-hospitals",
+        "summary": "Records show lawsuits by doctors and other nonhospital providers now account for more than 80% of healthcare collections cases filed against patients and their families in 2024.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 11:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/why-payers-need-agent-agent-orchestration\" hreflang=\"en\">Why Payers Need Agent-to-Agent Orchestration</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/why-payers-need-agent-agent-orchestration",
+        "summary": "To move beyond fragmented pilot programs and achieve truly efficient service, payers must adopt a strategic, unified approach to managing their intelligent workforce.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 9, 2026 2:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/practices/breast-cancers-next-precision-medicine-revolution-may-lie-molecular-residual-disease\" hreflang=\"en\">Breast cancer’s next precision medicine revolution may lie in molecular residual disease</a>",
+        "url": "https://www.fiercehealthcare.com/practices/breast-cancers-next-precision-medicine-revolution-may-lie-molecular-residual-disease",
+        "summary": "New data shows potential for ctDNA to guide treatment decisions for patients with triple-negative breast cancer",
+        "source": "Fierce Healthcare",
+        "published": "Apr 10, 2026 11:21am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/beyond-visit-how-ai-companion-technology-reshaping-outcomes-aging-populations\" hreflang=\"en\">Beyond the Visit: How AI Companion Technology Is Reshaping Outcomes for Aging Populations</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/beyond-visit-how-ai-companion-technology-reshaping-outcomes-aging-populations",
+        "summary": "Most care happens between visits, and most of it is invisible. New AI companion models are changing what plans can see, measure, and influence.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 16, 2026 2:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/oscar-unveils-lucie-one-stop-shop-individual-market-plans-and-supplemental-benefits\" hreflang=\"en\">Oscar unveils Lucie, its one-stop shop for individual market plans, supplemental benefits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/oscar-unveils-lucie-one-stop-shop-individual-market-plans-and-supplemental-benefits",
+        "summary": "Oscar Health is aiming to rethink the way people shop for coverage with the launch of its new marketplace, Lucie.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 4:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/doj-seeks-immediate-asset-freeze-receivership-against-telehealth-company-zealthy\" hreflang=\"en\">DOJ seeks immediate asset freeze, receivership against telehealth company Zealthy</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/doj-seeks-immediate-asset-freeze-receivership-against-telehealth-company-zealthy",
+        "summary": "The Department of Justice filed a motion seeking an immediate asset freeze and receivership for telehealth company Zealthy and its CEO, Kyle Robertson, over alleged fraudulent prescribing and other deceptive practices, according to court documents.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 19, 2026 9:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/affordability-transparency-look-large-employers-top-healthcare-concerns\" hreflang=\"en\">Affordability, transparency: A look at large employers' top healthcare concerns</a>",
+        "url": "https://www.fiercehealthcare.com/payers/affordability-transparency-look-large-employers-top-healthcare-concerns",
+        "summary": "The Purchaser Business Group on Health has released new data that highlights some of the key healthcare priorities of its jumbo employer members, with—perhaps unsurprisingly—the escalating affordability crisis as the biggest challenge.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 3:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aacr-endeavoring-go-global-zai-lab-offers-reality-check-chinas-biotech-ascent\" hreflang=\"en\">AACR: Endeavoring to go global, Zai Lab offers reality check on China’s biotech ascent</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aacr-endeavoring-go-global-zai-lab-offers-reality-check-chinas-biotech-ascent",
+        "summary": "Since its 2014 founding, Zai Lab has built its business by licensing drugs from Big Pharma. But in the last three years, the company has sought to leverage its footholds in China and the U.S. to become a multinational biopharma in its own right.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 1:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-inks-850m-biobucks-deal-tj-china-rights-late-stage-immune-antibody\" hreflang=\"en\">Biogen inks $850M biobucks deal with TJ Biopharma for China rights to late-stage immune antibody</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogen-inks-850m-biobucks-deal-tj-china-rights-late-stage-immune-antibody",
+        "summary": "Following its move to secure ex-China rights to the CD38-directed antibody felzartamab, Biogen is doubling down and building on an existing partnership with local drugmaker TJ Biopharma.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-picks-another-vivo-car-t-company-7b-deal-kelonia\" hreflang=\"en\">Lilly picks up another in vivo CAR-T company with Kelonia buyout worth up to $7B</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-picks-another-vivo-car-t-company-7b-deal-kelonia",
+        "summary": "Eli Lilly is picking up its second in vivo CAR-T company of the year, paying $3.25 billion in upfront cash for Kelonia Therapeutics and its phase 1-stage myeloma therapy.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 9:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-boosts-diagnostics-offering-595m-saga-buyout\" hreflang=\"en\">Roche boosts diagnostics offerings with $595M Saga buyout </a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-boosts-diagnostics-offering-595m-saga-buyout",
+        "summary": "Roche is handing over $595 million to bolster its Foundation Medicine business with a deal to snap up SAGA Diagnostics.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 2:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-readies-scd-drug-11b-forma-buy-approval-push-after-phase-3-win\" hreflang=\"en\">Novo readies SCD drug from $1.1B Forma buyout for approval push after phase 3 win </a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-readies-scd-drug-11b-forma-buy-approval-push-after-phase-3-win",
+        "summary": "Novo Nordisk is gearing up to submit its rare blood disorder drug to the FDA after the former Forma Therapeutics asset reduced a painful complication of sickle cell disease (SCD) in a phase 3 study.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 7:56am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/fixing-failed-spray-dried-formulations-faster\" hreflang=\"en\">When Spray Drying Falls Short: A Faster Path Forward</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/fixing-failed-spray-dried-formulations-faster",
+        "summary": "Learn how early intervention can help drug developers convert suboptimal formulations into scalable, clinically viable solutions.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 10:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-wuxi-apptecs-integrated-platform-helping-therapies-move-faster-discovery-patients\" hreflang=\"en\">How WuXi AppTec’s Integrated Platform Is Helping Therapies Move Faster from Discovery to Patients</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-wuxi-apptecs-integrated-platform-helping-therapies-move-faster-discovery-patients",
+        "summary": "In a complex therapeutic landscape, WuXi AppTec is simplifying the path from discovery to patient. Find out how.",
+        "source": "Fierce Biotech",
+        "published": "Apr 15, 2026 1:52pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/biomarkers-are-reshaping-oncology-trial-design\" hreflang=\"en\">Biomarkers are reshaping oncology trial design</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/biomarkers-are-reshaping-oncology-trial-design",
+        "summary": "Discover how biomarker strategies are transforming oncology trials and accelerating precision medicine breakthroughs.",
+        "source": "Fierce Biotech",
+        "published": "Apr 13, 2026 1:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/3-bioprocessing-trends-and-critical-enabler-thats-quietly-driving-them\" hreflang=\"en\">3 bioprocessing trends—and the critical enabler that’s quietly driving them </a>",
+        "url": "https://www.fiercebiotech.com/sponsored/3-bioprocessing-trends-and-critical-enabler-thats-quietly-driving-them",
+        "summary": "Bioprocessing is evolving rapidly in a shifting landscape of innovative and complex products, processes and technologies. In this new era, three important trends are materializing—and there’s a critical (but perhaps unsung) enabler to thank for that: modernized, single-use systems such as leak-free 2D bags.",
+        "source": "Fierce Biotech",
+        "published": "Apr 9, 2026 12:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazenecas-faith-il-33-inhibitor-continues-pay-latest-copd-phase-3-win\" hreflang=\"en\">AstraZeneca’s faith in IL-33 inhibitor continues to pay off with latest phase 3 COPD win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazenecas-faith-il-33-inhibitor-continues-pay-latest-copd-phase-3-win",
+        "summary": "AstraZeneca’s chronic obstructive pulmonary disease (COPD) candidate has served up a third phase 3 win, offering further evidence the Big Pharma may have cracked the anti-IL-33 code.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 4:53am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/odyssey-charts-fresh-voyage-public-markets-after-abandoning-ipo-plans-last-year\" hreflang=\"en\">Odyssey charts fresh voyage to public markets after abandoning IPO plans last year</a>",
+        "url": "https://www.fiercebiotech.com/biotech/odyssey-charts-fresh-voyage-public-markets-after-abandoning-ipo-plans-last-year",
+        "summary": "In another sign that the biotech IPO market is heating back up, Odyssey Therapeutics has made a fresh announcement of its intention to go public.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 4:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/agenus-focuses-survival-data-0-response-rate-triggers-primary-miss\" hreflang=\"en\">Agenus focuses on survival data as 0% response rate triggers primary miss</a>",
+        "url": "https://www.fiercebiotech.com/biotech/agenus-focuses-survival-data-0-response-rate-triggers-primary-miss",
+        "summary": "A phase 2 trial combining Agenus’ and MiNK Therapeutics’ cancer candidates has missed its primary endpoint. But with the study generating early evidence the cocktail improves survival, the biotechs said the data support further assessment of the combination.",
+        "source": "Fierce Biotech",
+        "published": "Apr 20, 2026 5:53am",
+        "importance_hint": 5
+      },
+      {
+        "title": "中国械企十年跨境并购：有人豪掷59亿买巨亏，有人花1亿赚10倍",
+        "url": "https://www.36kr.com/p/3772991336416005",
+        "summary": "中资械企跨境并购回暖，逻辑从技术引进转向全球化布局。",
+        "source": "36Kr 医疗科技",
+        "published": "Sun, 19 Apr 2026 07:28:19 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Geometric coherence of single-cell CRISPR perturbations reveals regulatory architecture and predicts cellular stress",
+        "url": "https://huggingface.co/papers/2604.16642",
+        "summary": "Genome engineering has achieved remarkable sequence-level precision, yet predicting the transcriptomic state that a cell will occupy after perturbation remains an open problem. Single-cell CRISPR screens measure how far cells move from their unperturbed state, but this effect magnitude ignores a fundamental question: do the cells move together? Two perturbations with identical magnitude can produce qualitatively different outcomes if one drives cells coherently along a shared trajectory while the other scatters them across expression space. We introduce a geometric stability metric, Shesha, th",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Universal statistical signatures of evolution in artificial intelligence architectures",
+        "url": "https://huggingface.co/papers/2604.10571",
+        "summary": "We test whether artificial intelligence architectural evolution obeys the same statistical laws as biological evolution. Compiling 935 ablation experiments from 161 publications, we show that the distribution of fitness effects (DFE) of architectural modifications follows a heavy-tailed Student's t-distribution with proportions (68% deleterious, 19% neutral, 13% beneficial for major ablations, n=568) that place AI between compact viral genomes and simple eukaryotes. The DFE shape matches D. melanogaster (normalized KS=0.07) and S. cerevisiae (KS=0.09); the elevated beneficial fraction (13% vs.",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-11T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation",
+        "url": "https://huggingface.co/papers/2604.15950",
+        "summary": "Pancreatic ductal adenocarcinoma (PDAC) segmentation on contrast-enhanced CT is inherently ambiguous: inter-rater disagreement among experts reflects genuine uncertainty rather than annotation noise. Standard deep learning approaches assume a single ground truth, producing probabilistic outputs that can be poorly calibrated and difficult to interpret under such ambiguity. We present TwinTrack, a framework that addresses this gap through post-hoc calibration of ensemble segmentation probabilities to the empirical mean human response (MHR) -the fraction of expert annotators labeling a voxel as t",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-16T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+        "url": "https://huggingface.co/papers/2604.15231",
+        "summary": "Vision-language models (VLM) have markedly advanced AI-driven interpretation and reporting of complex medical imaging, such as computed tomography (CT). Yet, existing methods largely relegate clinicians to passive observers of final outputs, offering no interpretable reasoning trace for them to inspect, validate, or refine. To address this, we introduce RadAgent, a tool-using AI agent that generates CT reports through a stepwise and interpretable process. Each resulting report is accompanied by a fully inspectable trace of intermediate decisions and tool interactions, allowing clinicians to ex",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-15T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

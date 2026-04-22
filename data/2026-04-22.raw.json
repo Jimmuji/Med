@@ -1,0 +1,366 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T10:31:16.004900+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: With successful trials, Roche takes its MS drug to regulators, but safety questions loom",
+        "url": "https://www.statnews.com/2026/04/21/roche-multiple-scleroris-efficacy-safety/",
+        "summary": "The Swiss drugmaker Roche presented the latest data for its experimental multiple sclerosis drug, setting the stage for the company to seek approval.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 23:15:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: From Revolution Medicines, more strong data on KRAS drug and a glimpse of a ‘novel class’ beyond it",
+        "url": "https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-revolution-medicines-future/",
+        "summary": "A company that is changing the outlook on pancreatic cancer has more promising data for treatments near-term and for a generation beyond.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 23:03:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kyverna Therapeutics plans to submit cell therapy for stiff person syndrome for FDA approval",
+        "url": "https://www.statnews.com/2026/04/21/kyverna-therapeutics-stiff-person-syndrome/",
+        "summary": "A one-time cell therapy from Kyverna Therapeutics for stiff person syndrome, a rare disease, improved mobility and reduced disabilities in a late-stage trial.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 22:45:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: At AACR, more strong results for Revolution Medicine’s KRAS drug, plus assurance from NCI’s director",
+        "url": "https://www.statnews.com/2026/04/21/aacr-2026-pancreatic-cancer-oral-cancer-wildfires-nci-director/",
+        "summary": "At AACR, Revolution Medicines presented more eye-catching data about its KRAS-targeting treatment, and Anthony Letai declared the state of cancer research steady.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 22:18:45 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Key GOP senators push back on Trump’s plan to cut NIH, reorganize HHS",
+        "url": "https://www.statnews.com/2026/04/21/senate-budget-writers-skeptical-kennedy-hhs-budget-cuts/",
+        "summary": "Lawmakers seem poised to reject cuts to biomedical research and public health spending for a second straight year.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 20:59:41 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Insurers refuse to join Medicare pilot offering weight loss drugs to seniors at steep discount",
+        "url": "https://www.statnews.com/2026/04/21/trump-medicare-weight-loss-drug-plan-unraveling-insurer-pushback/",
+        "summary": "Health insurers would have likely faced a financial strain by participating in the Medicare pilot.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 20:17:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Flu vaccine no longer mandated for U.S. troops, defense secretary says",
+        "url": "https://www.statnews.com/2026/04/21/flu-vaccine-military-no-longer-required-hegseth/",
+        "summary": "Defense Secretary Pete Hegseth announced Tuesday that the U.S. military will no longer require all American troops to get the flu vaccine.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 16:42:56 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: UnitedHealth earnings beat expectations in the first quarter, but hurdles persist",
+        "url": "https://www.statnews.com/2026/04/21/unitedhealth-earnings-beat-expectations-in-first-quarter-2026/",
+        "summary": "UnitedHealth’s financial performance in the first quarter far exceeded analyst’s expectations in both its Optum and UnitedHealthcare divisions.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 16:05:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: RFK Jr. to face four GOP doctors at Senate hearings",
+        "url": "https://www.statnews.com/2026/04/21/kennedy-senate-hearings-hhs-budget-bill-cassidy-what-to-watch/",
+        "summary": "We'll be zeroed in on Kennedy's exchanges with one doc in particular: Bill Cassidy.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 15:26:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: I’m an expert on presidential health. The 25th Amendment is not an option for removing Trump",
+        "url": "https://www.statnews.com/2026/04/21/25th-amendment-trump-physician-medical-decline/",
+        "summary": "Those calling for Trump’s removal under the 25th Amendment are misguided. Here’s why, writes Lawrence K. Altman.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 15:01:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Judge postpones OxyContin-maker Purdue Pharma’s sentencing to let opioid victims attend in person",
+        "url": "https://www.statnews.com/2026/04/21/purdue-pharma-oxycontin-justice-department-settlement-criminal-sentence/",
+        "summary": "A judge is expected to sentence OxyContin maker Purdue Pharma to forfeit $225 million to the Justice Department on Tuesday, clearing the way for the company to finalize a settlement&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 14:48:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: CMS to ask every state for new audits of health care providers",
+        "url": "https://www.statnews.com/2026/04/21/cms-requires-state-audits-health-care-providers-medicare-medicaid/",
+        "summary": "The Trump administration has been heavily focused on combating purported fraud in federal health care programs.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 14:24:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kelonia Therapeutics’ road from floundering to $3 billion",
+        "url": "https://www.statnews.com/2026/04/21/biotech-news-kelonia-road-from-floundering-to-3-billion/",
+        "summary": "BioAge bets on inflammation, a short Pfizer career, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 13:37:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Purdue Pharma settlement, a setback for Merck and Eisai, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/21/purdue-pharma-settlement-setback-for-merck-and-eisai/",
+        "summary": "A U.S. judge is expected to direct Purdue Pharma to forfeit $225 million to the Justice Department, clearing the way for a massive settlement",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 13:34:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "This CDC conference was always open to the public. Until now",
+        "url": "https://www.statnews.com/2026/04/21/health-news-cdc-conference-was-always-open-to-the-public-until-now/",
+        "summary": "A federal ruling against Kennedy's gender declaration, when food insecure families don't qualify for SNAP, and other health news",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 13:04:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026\" hreflang=\"en\">Community Health Systems reports low volumes, earnings dip for Q1 2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026",
+        "summary": "The first major for-profit to report quarterly performance in the new year fell behind its prior-year numbers, with same-store admissions and adjusted admissions declines of 1.3% and 0.5%, respectively.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 4:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms\" hreflang=\"en\">'Don't be a wimp,' Mark Cuban tells lawmakers hesitant to break up PBMs</a>",
+        "url": "https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms",
+        "summary": "The entrepreneur outlines his belief that pressure from vertically integrated insurers and pharmacy benefit managers is preventing an efficient healthcare market. He also called on the Trump administration to \"do your job\" and ramp up enforcement, noting that drug manufacturers today are much more scared of a formulary exclusion than the president himself.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 2:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat\" hreflang=\"en\">UnitedHealth Group spotlights AI investments as part of operational turnaround</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat",
+        "summary": "Artificial intelligence is one of the tentpoles of UnitedHealth's turnaround effort, and the company's top brass offered a look at where it's making key investments.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 8:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/merger-create-nations-largest-suicide-prevention-nonprofit\" hreflang=\"en\">Merger to create nation's largest suicide prevention nonprofit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/merger-create-nations-largest-suicide-prevention-nonprofit",
+        "summary": "Should their merger close, the American Foundation for Suicide Prevention and The Jed Foundation would have an annual operating budget of about $75 million and net assets of around $140 million.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 11:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/oz-previews-plan-push-states-revalidate-medicaid-providers\" hreflang=\"en\">Oz previews new plan to push states toward revalidating Medicaid providers</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/oz-previews-plan-push-states-revalidate-medicaid-providers",
+        "summary": "CMS Administrator Mehmet Oz on Tuesday previewed the agency's next steps in its effort to root out fraud, waste and abuse in Medicaid.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 11:23am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/covera-health-medmo-combine-create-first-complete-diagnostic-imaging-platform\" hreflang=\"en\">Covera Health, Medmo combine to create end-to-end diagnostic imaging platform</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/covera-health-medmo-combine-create-first-complete-diagnostic-imaging-platform",
+        "summary": "The coordinated diagnostic imaging platform will reach nearly six million patients across all 50 states.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ecri-spins-out-healthcare-supply-chain-division-staritas-backed-pe-firm-accel-kkr\" hreflang=\"en\">ECRI spins out healthcare supply chain division into Staritas, backed by PE firm Accel-KKR</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ecri-spins-out-healthcare-supply-chain-division-staritas-backed-pe-firm-accel-kkr",
+        "summary": "ECRI, a nonprofit healthcare quality and safety organization, spun out its spend management and recall management solutions an independent company backed by a strategic growth investment from Accel-KKR.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 7:01am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospitals-adverse-transparency-clashing-industry-groups-spar-mulligan-340b-rebate-pilot\" hreflang=\"en\">'Hospitals adverse to transparency'—clashing industry groups spar on mulligan 340B rebate pilot</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospitals-adverse-transparency-clashing-industry-groups-spar-mulligan-340b-rebate-pilot",
+        "summary": "The administration's second stab at a rebate program for statutory drug discounts drew familiar arguments and new alarm bells over a potential expansion from last year's aborted iteration of the pharma-friendly pilot program.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 5:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-pilot-accelerate-payments-rural-hospitals\" hreflang=\"en\">UnitedHealthcare to eliminate most prior authorizations for rural providers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-pilot-accelerate-payments-rural-hospitals",
+        "summary": "UnitedHealthcare is building on its work to support rural hospitals, and will now exempt these facilities from most prior authorizations.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 14, 2026 1:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cvs-mass-general-brigham-primary-care-deal-would-increase-annual-care-spending-40m-report\" hreflang=\"en\">CVS, Mass General Brigham primary care deal would increase annual care spending by $40M, report predicts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cvs-mass-general-brigham-primary-care-deal-would-increase-annual-care-spending-40m-report",
+        "summary": "A \"conservative\" preliminary estimate from a Massachusetts watchdog agency acknowledged likely access gains from a pending MinuteClinic affiliation deal, but said the major health system's higher prices would substantially boost commercial healthcare spending.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 2:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Blue Shield of California names chief pharmacy officer; ChristianaCare CEO to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/physician-burnout-falls-third-year-2025-419-american-medical-association\" hreflang=\"en\">Physician burnout falls for third year in 2025 to 42%, AMA data shows</a>",
+        "url": "https://www.fiercehealthcare.com/providers/physician-burnout-falls-third-year-2025-419-american-medical-association",
+        "summary": "Specialties reporting the highest levels of burnout include emergency medicine, urological surgery and radiology while the lowest rates of burnout were reported among infectious diseases, nephrology and dermatology.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 10:18am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-unpacks-death-imbalance-secondary-endpoints-phase-3-multiple-sclerosis-trials\" hreflang=\"en\">Roche unpacks death imbalance, secondary endpoints in phase 3 multiple sclerosis trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-unpacks-death-imbalance-secondary-endpoints-phase-3-multiple-sclerosis-trials",
+        "summary": "Roche has shared details of fatalities in its phase 3 relapsing multiple sclerosis trials, revealing that deaths from infections, diabetes complications and an accident contributed to an imbalance between the fenebrutinib and control cohorts.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 10:37am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/racing-toward-first-fda-nod-autoimmune-car-t-kyverna-bolsters-lead-full-sps-dataset\" hreflang=\"en\">Racing toward first FDA nod for autoimmune CAR-T, Kyverna bolsters lead with full SPS dataset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/racing-toward-first-fda-nod-autoimmune-car-t-kyverna-bolsters-lead-full-sps-dataset",
+        "summary": "Kyverna Therapeutics has unveiled the full results from its registrational trial of miv-cel in stiff person syndrome (SPS), providing a comprehensive look at what could become the first-ever CAR-T therapy approved for an autoimmune disease.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 3:19pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aacr-revolution-rolls-pancreatic-cancer-ras-wave-rises\" hreflang=\"en\">AACR: Revolution sees pancreatic cancer win as 'tip of the iceberg' as RAS wave rises</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aacr-revolution-rolls-pancreatic-cancer-ras-wave-rises",
+        "summary": "After dropping headline-grabbing phase 3 data for its pancreatic cancer candidate daraxonrasib, last Monday, Revolution Medicines is not resting on its laurels. The Bay Area biotech spent several recent days in San Diego highlighting earlier data for its lead candidate and the rest of its pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Apr 18, 2026 12:34pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Replimune reduces staff; Astellas shutters cell therapy site</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Tortugas' $106M beachhead; Ray shines with $125M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/analyst-turned-executive-andrew-baum-leaves-his-strategy-post-pfizer-reports\" hreflang=\"en\">Pfizer's strategy head Andrew Baum to step down following brief tenure: reports </a>",
+        "url": "https://www.fiercebiotech.com/pharma/analyst-turned-executive-andrew-baum-leaves-his-strategy-post-pfizer-reports",
+        "summary": "Pfizer's chief strategy and innovation officer Andrew Baum is stepping down merely two years into the role, according to reports.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 10:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tortugas-comes-out-its-shell-106m-fund-4-phase-2-stage-neuro-drugs\" hreflang=\"en\">Tortugas comes out of its shell with $106M to fund 4 phase 2-stage neuro drugs licensed from Asia</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tortugas-comes-out-its-shell-106m-fund-4-phase-2-stage-neuro-drugs",
+        "summary": "A pair of Sage veterans has launched a neurology-focused startup armed with $106 million and a clinical-stage pipeline of assets licensed from Eisai and Hansoh.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 10:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ray-therapeutics-shines-light-125m-round-targeting-genetic-eye-therapy\" hreflang=\"en\">Ray Therapeutics shines a light on $125M round targeting genetic eye therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ray-therapeutics-shines-light-125m-round-targeting-genetic-eye-therapy",
+        "summary": "Gene therapy biotech Ray Therapeutics has announced the closing of a $125 million series B financing to support the company’s vision restoration candidates for patients with retinal degeneration.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 10:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/merck-litespark-shocker-welireg-triplet-misses-mark-first-line-kidney-cancer\" hreflang=\"en\">In a Merck Litespark shocker, Welireg triplet misses the mark in first-line kidney cancer</a>",
+        "url": "https://www.fiercebiotech.com/pharma/merck-litespark-shocker-welireg-triplet-misses-mark-first-line-kidney-cancer",
+        "summary": "After prevailing in two kidney cancer trials in the refractory and early-stage settings, Merck &amp; Co.’s blockbuster prospect Welireg surprisingly failed to ignite hope as a first-line treatment.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 9:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/pulnovo-medical-scores-100m-oversubscribed-finance-round-led-medtronic\" hreflang=\"en\">Pulnovo Medical scores $100M in finance round led by Medtronic</a>",
+        "url": "https://www.fiercebiotech.com/medtech/pulnovo-medical-scores-100m-oversubscribed-finance-round-led-medtronic",
+        "summary": "Pulnovo Medical, a Chinese medtech focused on therapies that target pulmonary hypertension and heart failure, hauled in $100 million in an oversubscribed finance round led by Medtronic.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 8:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/foundation-medicine-boosts-bristol-myers-squibb-collab-new-diagnostic-target\" hreflang=\"en\">Foundation Medicine expands Bristol Myers Squibb collaboration with new diagnostic target</a>",
+        "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-boosts-bristol-myers-squibb-collab-new-diagnostic-target",
+        "summary": "Roche’s Foundation Medicine is deepening its longstanding ties with Bristol Myers Squibb as the companies team up on a new target.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 7:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/50m-flagship-pioneering-serif-hopes-write-new-chapter-dna-medicines\" hreflang=\"en\">With $50M from Flagship Pioneering, Serif strives to write new chapter for DNA medicines</a>",
+        "url": "https://www.fiercebiotech.com/biotech/50m-flagship-pioneering-serif-hopes-write-new-chapter-dna-medicines",
+        "summary": "With a few chemical tweaks and some dutiful protein partners, a new biotech from Flagship Pioneering thinks it has cracked the code to turn DNA into a brand-new class of therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 2:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "美团VS淘宝闪购，在医疗赛道正面硬刚，底牌全亮了",
+        "url": "https://www.36kr.com/p/3775955998454536",
+        "summary": "美团VS淘宝闪购，在医疗赛道正面硬刚，底牌全亮了",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 21 Apr 2026 04:48:50 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
+        "url": "https://huggingface.co/papers/2604.15760",
+        "summary": "We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large language models: can an LLM identify a professional scenario before attempting to solve it. Existing frontier benchmarks have saturated, and most knowledge-work evaluations to date reduce to extraction or task completion against a specification. KWBench targets the step before that: recognizing the governing structure of the situation from raw inputs alone.\n  The benchmark contains 223 tasks sourced from practitioners across acquisitions, contract negotiations, clinical pha",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-16T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "When Background Matters: Breaking Medical Vision Language Models by Transferable Attack",
+        "url": "https://huggingface.co/papers/2604.17318",
+        "summary": "Vision-Language Models (VLMs) are increasingly used in clinical diagnostics, yet their robustness to adversarial attacks remains largely unexplored, posing serious risks. Existing medical attacks focus on secondary objectives such as model stealing or adversarial fine-tuning, while transferable attacks from natural images introduce visible distortions that clinicians can easily detect. To address this, we propose MedFocusLeak, a highly transferable black-box multimodal attack that induces incorrect yet clinically plausible diagnoses while keeping perturbations imperceptible. The method injects",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-18T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification",
+        "url": "https://huggingface.co/papers/2604.14258",
+        "summary": "Large language models are typically post-trained using supervised fine-tuning (SFT) and reinforcement learning (RL), yet effectively unifying efficient knowledge injection with robust generalization remains challenging. In this work, we provide a training-dynamics analysis showing that SFT can be interpreted as a special case of policy gradient optimization with an extremely sparse implicit reward and unstable inverse-probability weighting, which together lead to single-path dependency, entropy collapse, and gradient explosion. Motivated by this diagnosis, we propose Group Fine-Tuning (GFT), a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-14T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "MedConclusion: A Benchmark for Biomedical Conclusion Generation from Structured Abstracts",
+        "url": "https://huggingface.co/papers/2604.06505",
+        "summary": "Large language models (LLMs) are widely explored for reasoning-intensive research tasks, yet resources for testing whether they can infer scientific conclusions from structured biomedical evidence remain limited. We introduce MedConclusion, a large-scale dataset of 5.7M PubMed structured abstracts for biomedical conclusion generation. Each instance pairs the non-conclusion sections of an abstract with the original author-written conclusion, providing naturally occurring supervision for evidence-to-conclusion reasoning. MedConclusion also includes journal-level metadata such as biomedical categ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-06T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

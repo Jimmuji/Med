@@ -1,0 +1,358 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T12:10:38.233740+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Publicly, Kennedy embraces a more moderate MAHA",
+        "url": "https://www.statnews.com/2026/04/22/kennedy-congressional-testimony-analysis-new-moderate-maha/",
+        "summary": "Kennedy continues to make waves across health care, but he's pulled back on a number of core MAHA issues.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 21:58:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Federal test of AI prior authorization is delaying care for seniors, report says",
+        "url": "https://www.statnews.com/2026/04/22/cms-wiser-program-delays-care-washington-state-hospitals-senator-says/",
+        "summary": "A new Medicare prior authorization test is delaying care at Washington state hospitals – and should be scrapped, senator says.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 21:13:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Former tobacco executive joins CDC senior leadership, raising concerns over industry influence",
+        "url": "https://www.statnews.com/2026/04/22/newly-appointed-cdc-official-has-tobacco-industry-ties/",
+        "summary": "Naming a former Imperial Brands executive for a CDC job is the latest example, advocates say, of tobacco industry influence in Trump administration.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 21:12:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At AACR, talk of Chinese biotech, oncology’s comms issue, and more",
+        "url": "https://www.statnews.com/2026/04/22/aacr-2026-revolution-medicines-astrazeneca-oncology-research/",
+        "summary": "At AACR, there was talk of Chinese biotech's place in cancer research, oncology’s comms issue, and more.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 18:29:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Video: Robert F. Kennedy Jr. testifies before Senate HELP committee",
+        "url": "https://www.statnews.com/2026/04/22/video-coverage-rfk-jr-testimony-senate-help-committee/",
+        "summary": "Watch RFK Jr. testify before the Senate's health care panel.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 17:40:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Increased calls to 988 hotline associated with a drop in suicides among young people, study finds",
+        "url": "https://www.statnews.com/2026/04/22/988-hotline-linked-11-percent-drop-youth-suicide-jama-study/",
+        "summary": "Suicide rates among young people dropped 11% after the U.S. launched the 988 national suicide and crisis hotline, a new study shows",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Gene therapy trial for deafness adds evidence to drug’s efficacy",
+        "url": "https://www.statnews.com/2026/04/22/gene-therapy-deafness-otof-gene-targeted-impressive-trial-results/",
+        "summary": "After gene therapy for a rare form of deafness, 90% of participants in a clinical trial in China had significant improvement in hearing.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The latest biotech news: RevMed, Roche, Kyverna CAR-T therapy",
+        "url": "https://www.statnews.com/2026/04/22/biotech-news-revmed-previews-next-gen-ras-inhibiting-drug/",
+        "summary": "Everything you need to know about biotech today from The Readout newsletter",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 14:40:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Medicare’s obesity drug pilot, an experimental Roche MS drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/22/medicare-obesity-drug-pilot-program-experimental-roche-ms-drug/",
+        "summary": "The Trump administration has dropped a plan for insurers to provide cheap weight loss drugs to seniors through a Medicare pilot program",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 13:38:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Moderna continues bird flu vax study, but limits work in the U.S.",
+        "url": "https://www.statnews.com/2026/04/22/health-news-moderna-bird-flu-vaccine-study-continues-with-us-limits/",
+        "summary": "Flu shot no longer mandated for U.S. troops, \"healthy\" snacks, and other news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 11:48:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Behind every miracle drug is a story",
+        "url": "https://www.statnews.com/2026/04/22/drug-story-thomas-goetz-interview/",
+        "summary": "“In every drug, there is a much larger story to tell about health and medicine and society and business and economics,” says Thomas Goetz.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Are MAHA snacks really better for you? Nutrition experts parse a grocery aisle gold rush",
+        "url": "https://www.statnews.com/2026/04/22/better-for-you-snacks-maha-influence-food-companies/",
+        "summary": "From protein Pop-Tarts to avocado-oil chips, a MAHA-fueled snack revolution promises healthier eating. Experts say it may mostly be illusion.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: NASA’s plans for living in space should prioritize immunology and infectious disease",
+        "url": "https://www.statnews.com/2026/04/22/artemis-space-travel-immunology-infectious-disease-bacteria/",
+        "summary": "Infectious diseases could pose serious risks for interplanetary travelers.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The CDC’s ‘disease detective’ program turns 75",
+        "url": "https://www.statnews.com/2026/04/22/eis-anniversary-cdc-disease-detectives-conference/",
+        "summary": "The CDC’s EIS program has trained more than 4,300 people to be the next generation of public health leaders.",
+        "source": "STAT News",
+        "published": "Wed, 22 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: With successful trials, Roche takes its MS drug to regulators, but safety questions loom",
+        "url": "https://www.statnews.com/2026/04/21/roche-multiple-scleroris-efficacy-safety/",
+        "summary": "The Swiss drugmaker Roche presented the latest data for its experimental multiple sclerosis drug, setting the stage for the company to seek approval.",
+        "source": "STAT News",
+        "published": "Tue, 21 Apr 2026 23:15:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/zocdoc-partners-yelp-allow-real-time-scheduling\" hreflang=\"en\">Zocdoc partners with Yelp to allow real-time scheduling</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/zocdoc-partners-yelp-allow-real-time-scheduling",
+        "summary": "The capability is now available on Yelp’s iOS app on provider pages and through the platform’s new artificial intelligence chatbot, Yelp Assistant. It will expand to Android and desktop later this year, the announcement said.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 12:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care\" hreflang=\"en\">Amazon One Medical launches GLP-1 program integrated with primary care</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care",
+        "summary": "Patients can take advantage of the GLP-1 management program through their One Medical primary care clinician. Medications are available for quick delivery to all 50 states, with nearly 3,000 cities having same-day delivery available.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 3:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan\" hreflang=\"en\">RFK Jr. continues congressional hearing appearances to talk White House budget plan </a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. went in front of the Senate Committee on Health, Education, Labor and Pensions, his latest in a string of congressional hearings.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 2:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/elevance-health-raises-2026-outlook-it-posts-18b-q1-profit\" hreflang=\"en\">Elevance Health seeing shift to bronze tier in ACA plans</a>",
+        "url": "https://www.fiercehealthcare.com/payers/elevance-health-raises-2026-outlook-it-posts-18b-q1-profit",
+        "summary": "Elevance Health is raising its guidance for 2026 even as its Q1 profits declined year-over-year.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 7:52am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026\" hreflang=\"en\">Community Health Systems attributes Q1 volumes stumble to consumers' macroeconomic fears, payers' prior auth denials</a>",
+        "url": "https://www.fiercehealthcare.com/providers/community-health-systems-reports-low-volumes-earnings-dip-q1-2026",
+        "summary": "Same-store admissions and adjusted admissions respectively declined 1.3% and 0.5% year over year. Executives pointed to cross-market dropoffs among patients with high-deductible and managed care plans.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 4:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/why-unitedhealth-group-betting-big-doulas\" hreflang=\"en\">Why UnitedHealth Group is betting big on doulas</a>",
+        "url": "https://www.fiercehealthcare.com/payers/why-unitedhealth-group-betting-big-doulas",
+        "summary": "Fierce Senior Writer Paige Minemyer speaks with Catherine Anderson of UnitedHealth Group about why the insurer is expanding doula support nationwide and what that could mean for maternal and infant health outcomes across the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 2:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-delays-part-d-glp-1-model-amid-skepticism-insurers\" hreflang=\"en\">CMS delays Part D GLP-1 model amid skepticism from insurers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-delays-part-d-glp-1-model-amid-skepticism-insurers",
+        "summary": "The Trump administration is delaying a voluntary model that aimed to expand access to GLP-1s in Part D after pushback from insurers.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 11:29am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oak-hcft-backs-courier-healths-50m-series-b-build-out-ai-biopharma-patient-experience\" hreflang=\"en\">Oak HC/FT backs Courier Health's $50M series B to build out AI for the biopharma patient experience</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oak-hcft-backs-courier-healths-50m-series-b-build-out-ai-biopharma-patient-experience",
+        "summary": "Courier Health raised $50 million in series B funding to scale its AI-powered platform purpose-built for biopharma that manages the end-to-end patient journey.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 7:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/amperos-health-secures-16m-series-funding-announces-industrys-new-first-ai\" hreflang=\"en\">Amperos Health secures $16M in series A funding, unveils AI-native denial management solution</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/amperos-health-secures-16m-series-funding-announces-industrys-new-first-ai",
+        "summary": "Amperos Health CEO and co-founder Michal Miernowski told Fierce Healthcare the newly announced funding will support scaling the organization and its platform.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 4:51pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms\" hreflang=\"en\">'Don't be a wimp,' Mark Cuban tells lawmakers hesitant to break up PBMs</a>",
+        "url": "https://www.fiercehealthcare.com/payers/dont-be-wimp-mark-cuban-tells-lawmakers-hesitant-break-pbms",
+        "summary": "The entrepreneur outlines his belief that pressure from vertically integrated insurers and pharmacy benefit managers is preventing an efficient healthcare market. He also called on the Trump administration to \"do your job\" and ramp up enforcement, noting that drug manufacturers today are much more scared of a formulary exclusion than the president himself.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 2:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat\" hreflang=\"en\">UnitedHealth Group spotlights AI investments as part of operational turnaround</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-2026-outlook-it-posts-q1-earnings-revenue-beat",
+        "summary": "Artificial intelligence is one of the tentpoles of UnitedHealth's turnaround effort, and the company's top brass offered a look at where it's making key investments.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 8:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/merger-create-nations-largest-suicide-prevention-nonprofit\" hreflang=\"en\">Merger to create nation's largest suicide prevention nonprofit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/merger-create-nations-largest-suicide-prevention-nonprofit",
+        "summary": "Should their merger close, the American Foundation for Suicide Prevention and The Jed Foundation would have an annual operating budget of about $75 million and net assets of around $140 million.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 11:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-reneges-remainder-rigel-deal-another-blow-ripk1-inhibitors\" hreflang=\"en\">Lilly reneges on remainder of Rigel deal in another blow for RIPK1 inhibitors</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-reneges-remainder-rigel-deal-another-blow-ripk1-inhibitors",
+        "summary": "Just a few months after ripping up the central nervous system-focused portion of its RIPK1 deal with Rigel Pharmaceuticals, Eli Lilly has now thrown out the rest of the pact, too.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 2:54pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/merck-goes-google-ai-push-1b-enterprise-deal\" hreflang=\"en\">Merck goes with Google for AI push, striking enterprise partnership worth up to $1B</a>",
+        "url": "https://www.fiercebiotech.com/ai-and-machine-learning/merck-goes-google-ai-push-1b-enterprise-deal",
+        "summary": "Amid industry layoffs and M&amp;A headlines, Big Pharma's embrace of AI is gaining more steam.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/aacr-nci-leader-letai-assures-anxious-researchers-funding-strong\" hreflang=\"en\">AACR: NCI leader Letai battles ‘misinformation’ to assure anxious researchers that ‘funding is strong’</a>",
+        "url": "https://www.fiercebiotech.com/research/aacr-nci-leader-letai-assures-anxious-researchers-funding-strong",
+        "summary": "NCI Director Letai envisions a return to normalcy for cancer research funding after last year's turmoil.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 2:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/acuitymd-gets-80m-help-bolster-ai-medtech-industry-commercial-teams\" hreflang=\"en\">AcuityMD raises $80M to help bolster AI in the medtech industry</a>",
+        "url": "https://www.fiercebiotech.com/medtech/acuitymd-gets-80m-help-bolster-ai-medtech-industry-commercial-teams",
+        "summary": "AcuityMD has raised $80 million—with a company valuation now nearing $1 billion—to use its artificial intelligence (AI) platform to boost multiple aspects of how medtech companies operate.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 3:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/mckesson-swaps-minority-stake-surgical-unit-apollo-funds-125b\" hreflang=\"en\">McKesson swaps minority stake in surgical unit to Apollo Funds for $1.25B</a>",
+        "url": "https://www.fiercebiotech.com/medtech/mckesson-swaps-minority-stake-surgical-unit-apollo-funds-125b",
+        "summary": "McKesson has let go of a minority share of its medical/surgical solutions division for $1.25 billion to Apollo Funds as part of the healthcare service giant’s plan to take the unit public next year.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 7:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-narrows-focus-anticoagulant-once-anchored-anthos-spinout\" hreflang=\"en\">Novartis narrows focus for anticoagulant after failure to best Eliquis in phase 3 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-narrows-focus-anticoagulant-once-anchored-anthos-spinout",
+        "summary": "A little over a year after reabsorbing its anticoagulant abelacimab, Novartis has now terminated two phase 3 trials for the antibody.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 5:58pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-unpacks-death-imbalance-secondary-endpoints-phase-3-multiple-sclerosis-trials\" hreflang=\"en\">Roche unpacks death imbalance, secondary endpoints in phase 3 multiple sclerosis trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-unpacks-death-imbalance-secondary-endpoints-phase-3-multiple-sclerosis-trials",
+        "summary": "Roche has shared details of fatalities in its phase 3 relapsing multiple sclerosis trials, revealing that deaths from infections, diabetes complications and an accident contributed to an imbalance between the fenebrutinib and control cohorts.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 10:37am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/racing-toward-first-fda-nod-autoimmune-car-t-kyverna-bolsters-lead-full-sps-dataset\" hreflang=\"en\">Racing toward first FDA nod for autoimmune CAR-T, Kyverna bolsters lead with full SPS dataset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/racing-toward-first-fda-nod-autoimmune-car-t-kyverna-bolsters-lead-full-sps-dataset",
+        "summary": "Kyverna Therapeutics has unveiled the full results from its registrational trial of miv-cel in stiff person syndrome (SPS), providing a comprehensive look at what could become the first-ever CAR-T therapy approved for an autoimmune disease.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 3:19pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aacr-revolution-rolls-pancreatic-cancer-ras-wave-rises\" hreflang=\"en\">AACR: Revolution sees pancreatic cancer win as 'tip of the iceberg' as RAS wave rises</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aacr-revolution-rolls-pancreatic-cancer-ras-wave-rises",
+        "summary": "After dropping headline-grabbing phase 3 data for its pancreatic cancer candidate daraxonrasib, last Monday, Revolution Medicines is not resting on its laurels. The Bay Area biotech spent several recent days in San Diego highlighting earlier data for its lead candidate and the rest of its pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Apr 18, 2026 12:34pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Replimune reduces staff; Astellas shutters cell therapy site</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Tortugas' $106M beachhead; Ray shines with $125M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/analyst-turned-executive-andrew-baum-leaves-his-strategy-post-pfizer-reports\" hreflang=\"en\">Pfizer's strategy head Andrew Baum to step down following brief tenure: reports </a>",
+        "url": "https://www.fiercebiotech.com/pharma/analyst-turned-executive-andrew-baum-leaves-his-strategy-post-pfizer-reports",
+        "summary": "Pfizer's chief strategy and innovation officer Andrew Baum is stepping down merely two years into the role, according to reports.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 10:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "流量 2.0 时代",
+        "url": "https://www.36kr.com/p/3777806449792256",
+        "summary": "积极拥抱互联网转型吧，以新的方式焕发互联网新的价值。",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 22 Apr 2026 11:21:57 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "全球首发，中国脑机接口，怎么就突然超过美国了？",
+        "url": "https://www.36kr.com/p/3778064395785480",
+        "summary": "中国脑机接口全球首证，医疗落地领先。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 23 Apr 2026 02:26:31 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "美团VS淘宝闪购，在医疗赛道正面硬刚，底牌全亮了",
+        "url": "https://www.36kr.com/p/3775955998454536",
+        "summary": "美团VS淘宝闪购，在医疗赛道正面硬刚，底牌全亮了",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 21 Apr 2026 04:48:50 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
+        "url": "https://huggingface.co/papers/2604.15760",
+        "summary": "We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large language models: can an LLM identify a professional scenario before attempting to solve it. Existing frontier benchmarks have saturated, and most knowledge-work evaluations to date reduce to extraction or task completion against a specification. KWBench targets the step before that: recognizing the governing structure of the situation from raw inputs alone.\n  The benchmark contains 223 tasks sourced from practitioners across acquisitions, contract negotiations, clinical pha",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-16T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

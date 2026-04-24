@@ -1,0 +1,358 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T12:14:49.511684+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "A CAR-T biotech’s dramatic turnaround, and drugmakers’ tactics to drive more scripts",
+        "url": "https://www.statnews.com/2026/04/23/readout-loud-podcast-kelonia-lilly-telehealth-pharma-medicare-obesity/",
+        "summary": "This week on \"The Readout LOUD\": a CAR-T biotech's dramatic turnaround, and drugmakers' tactics to drive more scripts. Listen now.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 21:34:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump celebrates closing first round of drug pricing deals, promises more ahead",
+        "url": "https://www.statnews.com/2026/04/23/trump-drug-price-deal-regeneron-mfn-negotiations/",
+        "summary": "A deal with Regeneron was the last of 17 initially sought by the White House.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 20:05:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Heart’s beat may help it beat cancer, mouse research suggests",
+        "url": "https://www.statnews.com/2026/04/23/why-heart-cancer-is-rare-study-offers-new-theory/",
+        "summary": "The constant pressure that the heart is under from beating thousands of times a day may create an environment hostile to cancers",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 18:08:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s boosting of psychedelics, cannabis signal a new era in GOP drug policy",
+        "url": "https://www.statnews.com/2026/04/23/gop-drug-policy-trump-psychedelics-marijuana/",
+        "summary": "The Trump administration, in a stark departure from the \"Just Say No\" era, is funding psychedelics research and rescheduling marijuana.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 18:05:52 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Legislatures in Colorado and Virginia resist moves to constrain drug affordability boards",
+        "url": "https://www.statnews.com/pharmalot/2026/04/23/legislatures-colorado-virginia-drug-affordability-boards/",
+        "summary": "Legislators in two states are resisting efforts to restrict prescription drug affordability boards.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 16:55:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Dropping the flu vaccine requirement puts U.S. military readiness at risk",
+        "url": "https://www.statnews.com/2026/04/23/military-flu-shots-no-longer-required-retired-general-criticizes-move/",
+        "summary": "Since the 1918 pandemic, the military has acknowledged the threat of influenza. Now that’s changing.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 16:15:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sanofi research priorities in flux as new CEO logs in",
+        "url": "https://www.statnews.com/2026/04/23/biotech-news-sanofi-research-priorities-in-flux-with-new-ceo/",
+        "summary": "A gene therapy for deafness, all eyes on Erasca, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 16:14:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: CMS, FDA team up to fast-track reimbursement for breakthrough devices",
+        "url": "https://www.statnews.com/2026/04/23/cms-fda-propose-new-faster-breakthrough-devices-coverage/",
+        "summary": "Federal regulators are proposing a new, faster Medicare coverage pathway for medical devices deemed by the FDA as breakthroughs.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 15:28:06 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: RFK Jr. backs off some MAHA issues",
+        "url": "https://www.statnews.com/2026/04/23/kennedy-backs-vaccines-defends-glyphosate-pharma-deals/",
+        "summary": "RFK Jr. is backing vaccinations and defending secret deals with pharma companies.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 14:47:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AMA calls for regulatory crackdown on chatbots, wellness AI",
+        "url": "https://www.statnews.com/2026/04/23/ama-urges-crackdown-on-chatbots-wellness-ai-health-tech/",
+        "summary": "In this edition of STAT Health Tech: OpenAI's targets clinicians, AMA's call for regulatory crackdown, and bargain-basement telehealth visits.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 13:39:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift",
+        "url": "https://www.statnews.com/2026/04/23/trump-reclassifies-state-licensed-medical-marijuana-less-dangerous-drug/",
+        "summary": "President Trump is reclassifying state-licensed medical marijuana as a less-dangerous drug, a major policy shift long sought by advocates.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 13:24:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about cheap telehealth visits, pharma withholding meds in Europe, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/23/telehealth-visits-pharma-withholding-new-meds-in-europe/",
+        "summary": "Drugmakers have begun using coupons to discount the cost of telehealth visits with clinicians who can prescribe their drugs",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 13:22:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Across 7 hearings, RFK Jr. talks a new, more moderate MAHA",
+        "url": "https://www.statnews.com/2026/04/23/health-news-rfk-jr-more-moderate-maha-hearing/",
+        "summary": "Discount telehealth visits, maternal mortality data, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 12:00:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Can Erasca be biotech’s next big thing? We’ll see",
+        "url": "https://www.statnews.com/2026/04/23/erasca-oncology-cancer-drug-stock/",
+        "summary": "Can Erasca be biotech's next big thing?",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Kennedy’s new silence on vaccines is political — and it won’t last",
+        "url": "https://www.statnews.com/2026/04/23/kennedy-vaccines-midterms-politics/",
+        "summary": "Kennedy’s public messaging on vaccines has shifted ahead of the midterms. It won’t last.",
+        "source": "STAT News",
+        "published": "Thu, 23 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ai-powered-prior-authorizations-medicare-have-greatly-delayed-care-wash-hospitals-say\" hreflang=\"en\">AI-powered prior authorizations for Medicare have greatly delayed care, Washington state hospitals say</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ai-powered-prior-authorizations-medicare-have-greatly-delayed-care-wash-hospitals-say",
+        "summary": "The Centers for Medicare &amp; Medicaid Services' experimental WISeR Model has Medicare patients waiting two to four times longer for procedures, according to a Washington senator's report citing early data from 16 hospitals in her state.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 5:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Cityblock names former UHC exec as chief health officer; Blue Shield taps chief pharmacy officer</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-files-suit-over-telemarketing-scheme-selling-fake-ppo-insurance\" hreflang=\"en\">FTC files suit over telemarketing scheme selling fake PPO insurance</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-files-suit-over-telemarketing-scheme-selling-fake-ppo-insurance",
+        "summary": "The Federal Trade Commission has filed suit to intervene in a scheme in which it says fraudulent telemarketers targeted individuals seeking insurance coverage.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 3:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/molina-strikes-prudent-tone-2026-outlook-amid-positive-signs-medicaid-spending\" hreflang=\"en\">Molina strikes 'prudent' tone on 2026 outlook amid positive signs on Medicaid spending</a>",
+        "url": "https://www.fiercehealthcare.com/payers/molina-strikes-prudent-tone-2026-outlook-amid-positive-signs-medicaid-spending",
+        "summary": "Molina Healthcare took the \"prudent\" route of reaffirming its 2026 outlook as questions loom in the Medicaid business.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 2:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-secures-11th-hour-settlement-pe-firm-welsh-carson-over-alleged-roll-scheme\" hreflang=\"en\">FTC reaches tentative deal in anesthesiology 'roll-up scheme' litigation</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-secures-11th-hour-settlement-pe-firm-welsh-carson-over-alleged-roll-scheme",
+        "summary": "The regulator's 2023 complaint against USAP was rife with criticisms of its private equity backer. There was no mention of the firm in this week's announcement, which follows a separate 2025 deal and a new commission chair less opposed to such investors on a matter of principle.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 17, 2025 5:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cms-fda-announce-new-program-speed-medicare-coverage-breakthrough-medical-devices\" hreflang=\"en\">CMS, FDA announce new program to speed up Medicare coverage of breakthrough medical devices</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cms-fda-announce-new-program-speed-medicare-coverage-breakthrough-medical-devices",
+        "summary": "The Trump administration unveiled a new program to speed up Medicare coverage for breakthrough devices, touting that the new pathway cuts red tape for medical device companies to gain reimbursement. CMS said it will pause the existing TCET pathway.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 10:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/telehealth-provider-him-hers-adds-all-fda-approved-glp-1s-platform\" hreflang=\"en\">Telehealth provider Him &amp; Hers adds all FDA-approved GLP-1s to platform</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/telehealth-provider-him-hers-adds-all-fda-approved-glp-1s-platform",
+        "summary": "Providers can now send prescriptions of Eli Lily’s Zepbound, Mounjaro and oral Foundayo, as well as Novo Nordisk’s Ozempic and Wegovy.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 10:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openai-launches-chatgpt-clinicians-free-ai-tool-physicians-nps-and\" hreflang=\"en\">OpenAI launches ChatGPT for Clinicians, a free AI tool for physicians, NPs and pharmacists</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-launches-chatgpt-clinicians-free-ai-tool-physicians-nps-and",
+        "summary": "OpenAI unveiled on Wednesday ChatGPT for Clinicians, a version of ChatGPT designed to support clinical tasks like documentation and medical research.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 7:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/conservative-think-tank-paragon-health-calls-its-shots-hospital-policy-reform\" hreflang=\"en\">Conservative think tank Paragon Health calls its shots on hospital policy reform</a>",
+        "url": "https://www.fiercehealthcare.com/providers/conservative-think-tank-paragon-health-calls-its-shots-hospital-policy-reform",
+        "summary": "A conservative policy shop with proven sway over the Trump administration released a new report undercutting the hospital industry's claims of widespread financial distress. An included 12-point wish list spanning site-neutral Medicare rates to more specific tax reporting builds on its recent victories over the hospital lobby.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 4:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/zocdoc-partners-yelp-allow-real-time-scheduling\" hreflang=\"en\">Zocdoc partners with Yelp to allow real-time scheduling</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/zocdoc-partners-yelp-allow-real-time-scheduling",
+        "summary": "The capability is now available on Yelp’s iOS app on provider pages and through the platform’s new artificial intelligence chatbot, Yelp Assistant. It will expand to Android and desktop later this year, the announcement said.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 12:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care\" hreflang=\"en\">Amazon One Medical launches GLP-1 program integrated with primary care</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/amazon-one-medical-launches-glp-1-program-integrated-primary-care",
+        "summary": "Patients can take advantage of the GLP-1 management program through their One Medical primary care clinician. Medications are available for quick delivery to all 50 states, with nearly 3,000 cities having same-day delivery available.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 3:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan\" hreflang=\"en\">RFK Jr. continues congressional hearing appearances to talk White House budget plan </a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. went in front of the Senate Committee on Health, Education, Labor and Pensions, his latest in a string of congressional hearings.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 2:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval\" hreflang=\"en\">Regeneron ushers in new genetic medicine era with groundbreaking gene therapy approval</a>",
+        "url": "https://www.fiercebiotech.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval",
+        "summary": "Travis Smith was a very serious baby. Born completely unable to hear, his mother, Sierra, struggled to see his personality shine through his mute world.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 3:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/roche-pharma-ceo-maintains-oral-serd-could-be-largest-product-company-history-despite-data\" hreflang=\"en\">Despite data concerns, Roche’s oral SERD can still be largest product in company history: exec</a>",
+        "url": "https://www.fiercebiotech.com/pharma/roche-pharma-ceo-maintains-oral-serd-could-be-largest-product-company-history-despite-data",
+        "summary": "While the scale of the currency headwinds in Roche’s first-quarter financial update caught many off guard, the company’s earnings call still featured much discussion on a pivotal pipeline prospect: the oral SERD drug giredestrant. The drug carries blockbuster ambitions, yet its commercial path has been clouded by imperfect clinical data.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 1:31pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-ends-work-phase-1-stage-immunostimulatory-drug-conjugate-cancer-patients\" hreflang=\"en\">Pfizer cans work on next-gen conjugate in cancer patients</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-ends-work-phase-1-stage-immunostimulatory-drug-conjugate-cancer-patients",
+        "summary": "Pfizer has abandoned work on a PD-L1-targeting drug that was being tested in patients with various cancers.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 11:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kurma-closes-252m-vc-vehicle-coming-short-its-target-ahead-prior-fund\" hreflang=\"en\">Kurma closes €215M Europe-focused fund to spread across 20 biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kurma-closes-252m-vc-vehicle-coming-short-its-target-ahead-prior-fund",
+        "summary": "Kurma Partners has closed its fourth biotech venture capital fund after raising 215 million euros ($252 million) to support European startups.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 11:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/debt-acceptable-prices-roche-ceo-lists-3-reasons-sitting-out-big-pharma-deal-spree\" hreflang=\"en\">From debt to ‘acceptable’ prices: Roche CEO lists 3 reasons for sitting out Big Pharma M&amp;A spree</a>",
+        "url": "https://www.fiercebiotech.com/biotech/debt-acceptable-prices-roche-ceo-lists-3-reasons-sitting-out-big-pharma-deal-spree",
+        "summary": "While Big Pharmas embarked on a frenzy of acquisitions over recent weeks, Roche’s CEO has explained to Fierce why the Swiss drugmaker is happy to sit this round out.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 5:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-interim-ceo-defends-hudsons-dupixent-legacy-accepts-number-setbacks-rd\" hreflang=\"en\">Sanofi CFO defends Hudson’s Dupixent legacy, but accepts ‘number of setbacks’ in R&amp;D</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-interim-ceo-defends-hudsons-dupixent-legacy-accepts-number-setbacks-rd",
+        "summary": "As Sanofi counts down the days before its new leader arrives, the pharma's CFO acknowledged to Fierce that there have been a “certain number of setbacks.”",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 4:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-reneges-remainder-rigel-deal-another-blow-ripk1-inhibitors\" hreflang=\"en\">Lilly reneges on remainder of Rigel deal in another blow for RIPK1 inhibitors</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-reneges-remainder-rigel-deal-another-blow-ripk1-inhibitors",
+        "summary": "Just a few months after ripping up the central nervous system-focused portion of its RIPK1 deal with Rigel Pharmaceuticals, Eli Lilly has now thrown out the rest of the pact, too.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 2:54pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/merck-goes-google-ai-push-1b-enterprise-deal\" hreflang=\"en\">Merck goes with Google for AI push, striking enterprise partnership worth up to $1B</a>",
+        "url": "https://www.fiercebiotech.com/ai-and-machine-learning/merck-goes-google-ai-push-1b-enterprise-deal",
+        "summary": "Amid industry layoffs and M&amp;A headlines, Big Pharma's embrace of AI is gaining more steam.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/aacr-nci-leader-letai-assures-anxious-researchers-funding-strong\" hreflang=\"en\">AACR: NCI leader Letai battles ‘misinformation’ to assure anxious researchers that ‘funding is strong’</a>",
+        "url": "https://www.fiercebiotech.com/research/aacr-nci-leader-letai-assures-anxious-researchers-funding-strong",
+        "summary": "NCI Director Letai envisions a return to normalcy for cancer research funding after last year's turmoil.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 2:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/acuitymd-gets-80m-help-bolster-ai-medtech-industry-commercial-teams\" hreflang=\"en\">AcuityMD raises $80M to help bolster AI in the medtech industry</a>",
+        "url": "https://www.fiercebiotech.com/medtech/acuitymd-gets-80m-help-bolster-ai-medtech-industry-commercial-teams",
+        "summary": "AcuityMD has raised $80 million—with a company valuation now nearing $1 billion—to use its artificial intelligence (AI) platform to boost multiple aspects of how medtech companies operate.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 3:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/johnson-johnson-teams-vizai-hematoma-detection\" hreflang=\"en\">Johnson &amp; Johnson teams up with Viz.ai on hematoma detection </a>",
+        "url": "https://www.fiercebiotech.com/medtech/johnson-johnson-teams-vizai-hematoma-detection",
+        "summary": "Johnson &amp; Johnson is working with artificial intelligence (AI) disease detection and care coordination platform Viz.ai to boost its neurovascular offerings.",
+        "source": "Fierce Biotech",
+        "published": "Apr 21, 2026 6:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/mckesson-swaps-minority-stake-surgical-unit-apollo-funds-125b\" hreflang=\"en\">McKesson swaps minority stake in surgical unit to Apollo Funds for $1.25B</a>",
+        "url": "https://www.fiercebiotech.com/medtech/mckesson-swaps-minority-stake-surgical-unit-apollo-funds-125b",
+        "summary": "McKesson has let go of a minority share of its medical/surgical solutions division for $1.25 billion to Apollo Funds as part of the healthcare service giant’s plan to take the unit public next year.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 7:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "流量 2.0 时代",
+        "url": "https://www.36kr.com/p/3777806449792256",
+        "summary": "积极拥抱互联网转型吧，以新的方式焕发互联网新的价值。",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 22 Apr 2026 11:21:57 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "全球首发，中国脑机接口，怎么就突然超过美国了？",
+        "url": "https://www.36kr.com/p/3778064395785480",
+        "summary": "中国脑机接口全球首证，医疗落地领先。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 23 Apr 2026 02:26:31 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts",
+        "url": "https://huggingface.co/papers/2604.16926",
+        "summary": "Electroencephalography (EEG) foundation models have shown strong potential for learning generalizable representations from large-scale neural data, yet their clinical deployment is hindered by distribution shifts across clinical settings, devices, and populations. Test-time adaptation (TTA) offers a promising solution by enabling models to adapt to unlabeled target data during inference without access to source data, a valuable property in healthcare settings constrained by privacy regulations and limited labeled data. However, its effectiveness for EEG remains largely underexplored. In this w",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-17T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Streaming Structured Inference with Flash-SemiCRF",
+        "url": "https://huggingface.co/papers/2604.18780",
+        "summary": "Semi-Markov Conditional Random Fields (semi-CRFs) assign labels to segments of a sequence rather than to individual positions, enabling exact inference over segment-level features and principled uncertainty estimates at their boundaries. However, existing implementations must materialize a large edge potential tensor whose size grows with sequence length, maximum segment length, and label count, becoming prohibitive for speech-scale state spaces and intractable at genomic scales where sequences can exceed 100,000 positions. This memory bottleneck has limited the adoption of exact segment-level",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-19T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

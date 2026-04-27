@@ -1,0 +1,246 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T10:22:09.551372+08:00",
+  "counts": {
+    "news": 27,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Doctor, wife of acting U.S. attorney general, appointed to NIH advisory council",
+        "url": "https://www.statnews.com/2026/04/26/kristine-blanche-appointed-nih-advisory-council/",
+        "summary": "An integrative medicine doctor who is the wife of the acting U.S. attorney general has been named as a member to one of the advisory councils that provides critical funding&#8230;",
+        "source": "STAT News",
+        "published": "Sun, 26 Apr 2026 21:43:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Nancy Cox, a CDC veteran and a stalwart in global flu research, dies at 77",
+        "url": "https://www.statnews.com/2026/04/25/nancy-cox-flu-researcher-obituary/",
+        "summary": "Nancy Cox, a CDC veteran who for decades was a global leader in influenza research, has died at 77.",
+        "source": "STAT News",
+        "published": "Sat, 25 Apr 2026 14:28:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The podcast telling the stories behind Ambien, Ozempic, EpiPens, and other game-changing drugs",
+        "url": "https://www.statnews.com/2026/04/25/drug-story-podcast-interview-transcript/",
+        "summary": "“We're basically not using our body as directed,” says \"Drug Story\" host Thomas Goetz.",
+        "source": "STAT News",
+        "published": "Sat, 25 Apr 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hca-healthcare-executives-shrug-q1-volumes-disruptions-reaffirm-fy2026-guidance\" hreflang=\"en\">HCA Healthcare executives shrug off Q1 volumes disruptions, reaffirm FY2026 guidance</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-executives-shrug-q1-volumes-disruptions-reaffirm-fy2026-guidance",
+        "summary": "A sharp end to the flu season and disruptive winter storms dragged the country's largest for-profit health system in January. Executives said there's already signs of recovery since the stumble and pointed to favorable activity among states' Medicaid subsidy programs.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 2:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/lawmakers-introduce-bipartisan-legislation-improve-access-quality-care-medicare\" hreflang=\"en\">Lawmakers introduce bipartisan legislation to improve access, quality of care in Medicare Advantage plans</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/lawmakers-introduce-bipartisan-legislation-improve-access-quality-care-medicare",
+        "summary": "The Medicare Advantage Improvement Act of 2026, introduced April 20, aims to “directly address” barriers to coverage and treatment for America’s seniors.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 2:42pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-aetna-tout-progress-standardize-prior-authorization-part-industry-wide\" hreflang=\"en\">UnitedHealthcare, Aetna, Cigna tout progress to standardize prior authorization as part of industry-wide commitment</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-aetna-tout-progress-standardize-prior-authorization-part-industry-wide",
+        "summary": "Major health insurers are advancing efforts to standardize prior authorization requirements as part of an effort to simplify paperwork for providers and reduce delays in medical care.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 11:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-hospitals-are-very-online-what-happens-when-theyre-plunged-digital\" hreflang=\"en\">Industry Voices—Hospitals are very online, but what happens when they're plunged into 'digital darkness'?</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-hospitals-are-very-online-what-happens-when-theyre-plunged-digital",
+        "summary": "Healthcare organizations have a responsibility to prepare their people and their systems for the analog reality that a cyberattack, an outage or a cascading infrastructure failure can impose at any moment, writes ECRI President and CEO Marcus Schabacker, M.D., Ph.D.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 10:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/northwell-health-unveils-first-its-kind-toolkit-gun-violence-prevention-healthcare\" hreflang=\"en\">Northwell Health unveils toolkit for gun violence prevention in healthcare settings</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/northwell-health-unveils-first-its-kind-toolkit-gun-violence-prevention-healthcare",
+        "summary": "The new digital toolkit serves as a practical guide for health systems to adapt, implement and scale strategies on system, community, clinical and organization levels.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 3:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ai-powered-prior-authorizations-medicare-have-greatly-delayed-care-wash-hospitals-say\" hreflang=\"en\">AI-powered prior authorizations for Medicare have greatly delayed care, Washington state hospitals say</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ai-powered-prior-authorizations-medicare-have-greatly-delayed-care-wash-hospitals-say",
+        "summary": "The Centers for Medicare &amp; Medicaid Services' experimental WISeR Model has Medicare patients waiting two to four times longer for procedures, according to a Washington senator's report citing early data from 16 hospitals in her state.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 5:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Cityblock names former UHC exec as chief health officer; Blue Shield taps chief pharmacy officer</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/govt-funding-uncertainty-medicaid-cuts-top-concern-66-healthcare-finance-leaders-strata\" hreflang=\"en\">Healthcare finance leaders cite federal funding uncertainty, Medicaid cuts as top concerns</a>",
+        "url": "https://www.fiercehealthcare.com/finance/govt-funding-uncertainty-medicaid-cuts-top-concern-66-healthcare-finance-leaders-strata",
+        "summary": "Amid funding uncertainty, 57% of leaders report reducing costs as their top priority for the year—followed closely by managing strategic and performance improvement initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 22, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-files-suit-over-telemarketing-scheme-selling-fake-ppo-insurance\" hreflang=\"en\">FTC files suit over telemarketing scheme selling fake PPO insurance</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-files-suit-over-telemarketing-scheme-selling-fake-ppo-insurance",
+        "summary": "The Federal Trade Commission has filed suit to intervene in a scheme in which it says fraudulent telemarketers targeted individuals seeking insurance coverage.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 3:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/molina-strikes-prudent-tone-2026-outlook-amid-positive-signs-medicaid-spending\" hreflang=\"en\">Molina strikes 'prudent' tone on 2026 outlook amid positive signs on Medicaid spending</a>",
+        "url": "https://www.fiercehealthcare.com/payers/molina-strikes-prudent-tone-2026-outlook-amid-positive-signs-medicaid-spending",
+        "summary": "Molina Healthcare took the \"prudent\" route of reaffirming its 2026 outlook as questions loom in the Medicaid business.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 2:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-secures-11th-hour-settlement-pe-firm-welsh-carson-over-alleged-roll-scheme\" hreflang=\"en\">FTC reaches tentative deal in anesthesiology 'roll-up scheme' litigation</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-secures-11th-hour-settlement-pe-firm-welsh-carson-over-alleged-roll-scheme",
+        "summary": "The regulator's 2023 complaint against USAP was rife with criticisms of its private equity backer. There was no mention of the firm in this week's announcement, which follows a separate 2025 deal and a new commission chair less opposed to such investors on a matter of principle.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 17, 2025 5:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cms-fda-announce-new-program-speed-medicare-coverage-breakthrough-medical-devices\" hreflang=\"en\">CMS, FDA announce new program to speed up Medicare coverage of breakthrough medical devices</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cms-fda-announce-new-program-speed-medicare-coverage-breakthrough-medical-devices",
+        "summary": "The Trump administration unveiled a new program to speed up Medicare coverage for breakthrough devices, touting that the new pathway cuts red tape for medical device companies to gain reimbursement. CMS said it will pause the existing TCET pathway.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 10:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/thermo-fisher-sees-higher-q1-earnings-amid-strong-biopharma-demand\" hreflang=\"en\">Thermo Fisher sees higher Q1 earnings amid strong biopharma demand</a>",
+        "url": "https://www.fiercebiotech.com/medtech/thermo-fisher-sees-higher-q1-earnings-amid-strong-biopharma-demand",
+        "summary": "Thermo Fisher Scientific reported “a strong start to the year,” buoyed by strong demand from its pharma and biotech customers, investment in new technologies and the closing of its $9 billion acquisition of clinical trial data company Clario.",
+        "source": "Fierce Biotech",
+        "published": "Apr 25, 2026 2:54am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/compass-usona-score-fda-national-priority-vouchers-amid-trump-administrations-psychedelic\" hreflang=\"en\">Compass, Usona and Transcend score FDA national priority vouchers amid Trump administration’s psychedelic push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/compass-usona-score-fda-national-priority-vouchers-amid-trump-administrations-psychedelic",
+        "summary": "The FDA is awarding national priority vouchers to Compass Pathways, Usona Institute and Transcend Therapeutics for their psychedelic treatments.",
+        "source": "Fierce Biotech",
+        "published": "Apr 24, 2026 3:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/wcg-acquires-contract-network-aiming-streamline-clinical-trial-process\" hreflang=\"en\">WCG acquires The Contract Network in bid to streamline clinical trial execution</a>",
+        "url": "https://www.fiercebiotech.com/cro/wcg-acquires-contract-network-aiming-streamline-clinical-trial-process",
+        "summary": "Clinical trials solutions provider WCG is acquiring tech company The Contract Network to improve alignment and decision-making across clinical trial initiation.",
+        "source": "Fierce Biotech",
+        "published": "Apr 24, 2026 12:59pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/frenzied-feeding-playing-defense-and-disruption-lillys-kelonia-acquisition-and-future-vivo\" hreflang=\"en\">After Lilly’s $7B Kelonia deal, are there any in vivo CAR-T biotechs left to buy?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/frenzied-feeding-playing-defense-and-disruption-lillys-kelonia-acquisition-and-future-vivo",
+        "summary": "Despite the recent “feeding frenzy,” Pitchbook’s Ben Zercher told Fierce he expects in vivo CAR-T dealmaking to slow due to a shortage of viable acquisition targets.",
+        "source": "Fierce Biotech",
+        "published": "Apr 24, 2026 2:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-helus-shuffles-out-ceo-after-two-months-adds-experienceto-science-board\" hreflang=\"en\">Chutes &amp; Ladders—Helus shuffles out CEO after two months, adds experience to science board</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-helus-shuffles-out-ceo-after-two-months-adds-experienceto-science-board",
+        "summary": "Two months after bringing in Michael Cola to man the helm at Helus Pharma, the company’s board has requested his departure, effective immediately. As such, co-founder and executive chairman Eric So will again take on the role as interim CEO as the search for a permanent successor begins.",
+        "source": "Fierce Biotech",
+        "published": "Apr 24, 2026 3:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/avalyn-aims-181m-ipo-fund-phase-3-trials-reformulated-respiratory-drugs\" hreflang=\"en\">Avalyn aims for $182M IPO to fund phase 3 trials of reformulated respiratory drugs </a>",
+        "url": "https://www.fiercebiotech.com/biotech/avalyn-aims-181m-ipo-fund-phase-3-trials-reformulated-respiratory-drugs",
+        "summary": "Avalyn Pharma is hoping to rake in around $181.8 million from an IPO, which the biotech will use to take its inhaled versions of approved drugs for respiratory conditions into late-stage studies.",
+        "source": "Fierce Biotech",
+        "published": "Apr 24, 2026 3:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval\" hreflang=\"en\">Regeneron ushers in new genetic medicine era with groundbreaking gene therapy approval</a>",
+        "url": "https://www.fiercebiotech.com/pharma/regeneron-ushers-new-genetic-medicine-era-groundbreaking-gene-therapy-approval",
+        "summary": "Travis Smith was a very serious baby. Born completely unable to hear, his mother, Sierra, struggled to see his personality shine through his mute world.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 3:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/roche-pharma-ceo-maintains-oral-serd-could-be-largest-product-company-history-despite-data\" hreflang=\"en\">Despite data concerns, Roche’s oral SERD can still be largest product in company history: exec</a>",
+        "url": "https://www.fiercebiotech.com/pharma/roche-pharma-ceo-maintains-oral-serd-could-be-largest-product-company-history-despite-data",
+        "summary": "While the scale of the currency headwinds in Roche’s first-quarter financial update caught many off guard, the company’s earnings call still featured much discussion on a pivotal pipeline prospect: the oral SERD drug giredestrant. The drug carries blockbuster ambitions, yet its commercial path has been clouded by imperfect clinical data.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 1:31pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-ends-work-phase-1-stage-immunostimulatory-drug-conjugate-cancer-patients\" hreflang=\"en\">Pfizer cans work on next-gen conjugate in cancer patients</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-ends-work-phase-1-stage-immunostimulatory-drug-conjugate-cancer-patients",
+        "summary": "Pfizer has abandoned work on a PD-L1-targeting drug that was being tested in patients with various cancers.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 11:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kurma-closes-252m-vc-vehicle-coming-short-its-target-ahead-prior-fund\" hreflang=\"en\">Kurma closes €215M Europe-focused fund to spread across 20 biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kurma-closes-252m-vc-vehicle-coming-short-its-target-ahead-prior-fund",
+        "summary": "Kurma Partners has closed its fourth biotech venture capital fund after raising 215 million euros ($252 million) to support European startups.",
+        "source": "Fierce Biotech",
+        "published": "Apr 22, 2026 11:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/debt-acceptable-prices-roche-ceo-lists-3-reasons-sitting-out-big-pharma-deal-spree\" hreflang=\"en\">From debt to ‘acceptable’ prices: Roche CEO lists 3 reasons for sitting out Big Pharma M&amp;A spree</a>",
+        "url": "https://www.fiercebiotech.com/biotech/debt-acceptable-prices-roche-ceo-lists-3-reasons-sitting-out-big-pharma-deal-spree",
+        "summary": "While Big Pharmas embarked on a frenzy of acquisitions over recent weeks, Roche’s CEO has explained to Fierce why the Swiss drugmaker is happy to sit this round out.",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 5:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-interim-ceo-defends-hudsons-dupixent-legacy-accepts-number-setbacks-rd\" hreflang=\"en\">Sanofi CFO defends Hudson’s Dupixent legacy, but accepts ‘number of setbacks’ in R&amp;D</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-interim-ceo-defends-hudsons-dupixent-legacy-accepts-number-setbacks-rd",
+        "summary": "As Sanofi counts down the days before its new leader arrives, the pharma's CFO acknowledged to Fierce that there have been a “certain number of setbacks.”",
+        "source": "Fierce Biotech",
+        "published": "Apr 23, 2026 4:08am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts",
+        "url": "https://huggingface.co/papers/2604.16926",
+        "summary": "Electroencephalography (EEG) foundation models have shown strong potential for learning generalizable representations from large-scale neural data, yet their clinical deployment is hindered by distribution shifts across clinical settings, devices, and populations. Test-time adaptation (TTA) offers a promising solution by enabling models to adapt to unlabeled target data during inference without access to source data, a valuable property in healthcare settings constrained by privacy regulations and limited labeled data. However, its effectiveness for EEG remains largely underexplored. In this w",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-17T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Streaming Structured Inference with Flash-SemiCRF",
+        "url": "https://huggingface.co/papers/2604.18780",
+        "summary": "Semi-Markov Conditional Random Fields (semi-CRFs) assign labels to segments of a sequence rather than to individual positions, enabling exact inference over segment-level features and principled uncertainty estimates at their boundaries. However, existing implementations must materialize a large edge potential tensor whose size grows with sequence length, maximum segment length, and label count, becoming prohibitive for speech-scale state spaces and intractable at genomic scales where sequences can exceed 100,000 positions. This memory bottleneck has limited the adoption of exact segment-level",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-19T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

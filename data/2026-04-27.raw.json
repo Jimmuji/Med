@@ -1,8 +1,8 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T10:22:09.551372+08:00",
+  "generated_at": "2026-04-27T12:27:25.594712+08:00",
   "counts": {
-    "news": 27,
+    "news": 28,
     "papers": 2
   },
   "items": {
@@ -222,6 +222,14 @@
         "source": "Fierce Biotech",
         "published": "Apr 23, 2026 4:08am",
         "importance_hint": 4
+      },
+      {
+        "title": "860亿巨头的亲儿子，一把融资10亿",
+        "url": "https://www.36kr.com/p/3782162311076868",
+        "summary": "国产推理GPU公司曦望，刚刚融了超10亿元。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 27 Apr 2026 02:22:44 GMT",
+        "importance_hint": 3
       }
     ],
     "papers": [

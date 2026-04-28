@@ -1,0 +1,334 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T12:31:07.520100+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "New U.S. recommendation on hepatitis B vaccine will have dire consequences, studies project",
+        "url": "https://www.statnews.com/2026/04/27/jama-studies-hepatitis-b-vaccination-newborns/",
+        "summary": "Policy that recommends offering hep B vaccine at birth only to babies perceived to be at risk will lead to increased numbers of infected infants, new studies project.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 20:51:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Supreme Court grapples with multibillion-dollar wave of lawsuits over Roundup cancer claims",
+        "url": "https://www.statnews.com/2026/04/27/supreme-court-lawsuits-roundup-weedkiller-cancer-claims/",
+        "summary": "The Supreme Court seemed divided Monday over whether to block thousands of lawsuits alleging the maker of the weedkiller Roundup failed to warn people it could cause cancer.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 20:46:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Erasca touts strong, though preliminary, results in trial of pancreatic and lung cancer therapy",
+        "url": "https://www.statnews.com/2026/04/27/erasca-pancreatic-cancer-study-results/",
+        "summary": "The drugmaker Erasca said results on its experimental pill in a trial of pancreatic cancer and non-small cell lung cancer exceeded its expectations.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 20:01:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Dems say RFK Jr. has a pattern of failing to answer their questions",
+        "url": "https://www.statnews.com/2026/04/27/rfk-jr-questions-from-democrats-unanswered-congressional-hearings/",
+        "summary": "Kennedy broke his pledge to share a controversial contract, highlighting Democrats' frustrations with the health secretary.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 19:21:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration warns against using federal dollars on fentanyl test strips",
+        "url": "https://www.statnews.com/2026/04/27/trump-administration-samhsa-clear-shift-from-harm-reduction/",
+        "summary": "The Trump administration underlines a “clear shift away from harm reduction and practices” that it says facilitates illegal drug use.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 18:07:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: An insider reveals the real goals of prior authorization",
+        "url": "https://www.statnews.com/2026/04/27/former-united-healthcare-executive-interview-prior-authorization/",
+        "summary": "Years ago, Archelle Georgiou helped squash prior auths at one of America's biggest health insurers.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 14:51:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Astellas retries XLMTM gene therapy after deaths",
+        "url": "https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/",
+        "summary": "Veradermics' hair loss pill late-stage trial success, FDA fast-tracks reviews for psychedelics, and more biotech news",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 13:20:40 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/",
+        "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 13:18:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What’s the true risk for eating disorders with GLP-1s?",
+        "url": "https://www.statnews.com/2026/04/27/health-news-true-risk-of-eating-disorders-and-wegovy-ozempic/",
+        "summary": "The state of Covid-19 in 2026, a hat to treat depression, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 12:42:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
+        "url": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/",
+        "summary": "With good results from Intellia, the CRISPR field faces the question: How attractive will the one-and-done approach be to patients and doctors?",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 11:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Oruka’s long-acting psoriasis therapy posts strong results in mid-stage study",
+        "url": "https://www.statnews.com/2026/04/27/ourka-psoriasis-inectable-treatment-study/",
+        "summary": "A long-acting injectable treatment for plaque psoriasis helped 63% of patients achieve complete skin clearance in a clinical trial, its maker, Oruka Therapeutics, reported.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 11:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Veradermics’ hair loss drug succeeds in late-stage trial",
+        "url": "https://www.statnews.com/2026/04/27/veradermics-hair-loss-drug-succeeds-late-stage-trial/",
+        "summary": "The company is one of the most advanced players in the hair loss field, which has seen a surge of investor enthusiasm.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Zap in a cap: How one neurotech startup is using a hat to treat depression",
+        "url": "https://www.statnews.com/2026/04/27/motif-neurotech-gets-fda-nod-brain-implant-depression/",
+        "summary": "FDA approved a request from Motif Neurotech, to start an initial feasibility trial to test a brain implant to treat depression.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "NIH-funded research lags in reporting sex differences, new study finds",
+        "url": "https://www.statnews.com/2026/04/27/nih-research-guidelines-sabv-sex-as-biological-variable/",
+        "summary": "Fewer than half of papers published by NIH-funded researchers analyze or report their data by sex, a new study found.",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 09:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "What happened to Covid?",
+        "url": "https://www.statnews.com/2026/04/27/is-covid-still-a-thing-expert-analysis-who-needs-vaccine-booster-shot/",
+        "summary": "The thinking about what risk Covid poses — or doesn't pose — has shifted in recent years. What does it mean for you?",
+        "source": "STAT News",
+        "published": "Mon, 27 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/solace-health-expands-care-navigation-services-commercially-insured-patients\" hreflang=\"en\">Solace Health expands care navigation services to commercially insured patients</a>",
+        "url": "https://www.fiercehealthcare.com/payers/solace-health-expands-care-navigation-services-commercially-insured-patients",
+        "summary": "Solace previously connected Medicare and Medicare Advantage patients to its services, which are now also available to many commercially insured patients, including UnitedHealthcare and Anthem Blue Cross Blue Shield.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 3:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/utah-medical-licensing-board-urges-state-shut-down-doctronic-ai-prescribing\" hreflang=\"en\">Utah Medical Licensing Board urges state to shut down Doctronic AI prescribing pilot </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-medical-licensing-board-urges-state-shut-down-doctronic-ai-prescribing",
+        "summary": "Doctors in the state of Utah are challenging an artificial intelligence-powered prescription medication refill system they say puts patient safety at risk.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 7:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humanas-centerwell-mark-cubans-cost-plus-drugs-handle-employers-prescriptions\" hreflang=\"en\">Humana's CenterWell, Mark Cuban Cost Plus Drugs partner to tackle employers' drug costs</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humanas-centerwell-mark-cubans-cost-plus-drugs-handle-employers-prescriptions",
+        "summary": "The arrangement aims to create new \"end-to-end employer prescription solutions\" fueled by Cost Plus Drugs' software platform and drug pricing, as well as CenterWell Pharmacy's distribution infrastructure.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 12:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ama-urges-lawmakers-implement-stronger-safeguards-ai-chatbots-mental-health\" hreflang=\"en\">AMA urges lawmakers to implement stronger safeguards for AI chatbots in mental health</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ama-urges-lawmakers-implement-stronger-safeguards-ai-chatbots-mental-health",
+        "summary": "Recommendations from the organization include enforcing transparency standards, creating a risk-based oversight framework and mandating ongoing safety monitoring.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 10:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-payers-attitudes-toward-specialty-drug-management\" hreflang=\"en\">A look at payers' attitudes toward specialty drug management</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-payers-attitudes-toward-specialty-drug-management",
+        "summary": "Insurers are putting a growing focus on specialty drugs covered under the medical benefit, and on re-evaluating the efficacy of traditional rebate models, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 4:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/unityai-builds-out-agentic-ai-staffing-operations-keep-pace-patient-demand\" hreflang=\"en\">UnityAI builds out agentic AI for staffing operations to match outpatient clinicians with patient demand</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/unityai-builds-out-agentic-ai-staffing-operations-keep-pace-patient-demand",
+        "summary": "Nashville-based health tech startup UnityAI built out an agentic AI platform to streamline day-to-day staff scheduling and match it in real time with patient demand.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 7:15am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/rethinking-prior-authorization-better-outcomes\" hreflang=\"en\">Rethinking Prior Authorization for Better Outcomes</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/rethinking-prior-authorization-better-outcomes",
+        "summary": "Abarca’s Javier Gonzalez explores how trust, tech and policy can transform prior authorization and improve access and efficiency.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 21, 2026 10:49am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/what-healthcare-investors-see-risk-adjustment-due-diligence-buyers-often-miss\" hreflang=\"en\">What Healthcare Investors See in Risk Adjustment Due Diligence That Buyers Often Miss</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/what-healthcare-investors-see-risk-adjustment-due-diligence-buyers-often-miss",
+        "summary": "Same technology. Same use case. But they were asking questions most buyers never think to ask. That gap is worth examining.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 17, 2026 1:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-googleorg-johnson-johnson-foundation-partner-ai-training\" hreflang=\"en\">Health Tech Weekly Rundown: Google invests in AI training for rural health workers; State of genAI adoption in healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-googleorg-johnson-johnson-foundation-partner-ai-training",
+        "summary": "Google.org and the Johnson &amp; Johnson Foundation announced a $10 million philanthropic collaboration to fund AI literacy training for rural healthcare workers across the U.S., aiming to bridge the adoption gap.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 12:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hca-healthcare-executives-shrug-q1-volumes-disruptions-reaffirm-fy2026-guidance\" hreflang=\"en\">HCA Healthcare executives shrug off Q1 volumes disruptions, reaffirm FY2026 guidance</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-executives-shrug-q1-volumes-disruptions-reaffirm-fy2026-guidance",
+        "summary": "A sharp end to the flu season and disruptive winter storms dragged the country's largest for-profit health system in January. Executives said there's already signs of recovery since the stumble and pointed to favorable activity among states' Medicaid subsidy programs.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 2:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/lawmakers-introduce-bipartisan-legislation-improve-access-quality-care-medicare\" hreflang=\"en\">Lawmakers introduce bipartisan legislation to improve access, quality of care in Medicare Advantage plans</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/lawmakers-introduce-bipartisan-legislation-improve-access-quality-care-medicare",
+        "summary": "The Medicare Advantage Improvement Act of 2026, introduced April 20, aims to “directly address” barriers to coverage and treatment for America’s seniors.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 2:42pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-aetna-tout-progress-standardize-prior-authorization-part-industry-wide\" hreflang=\"en\">UnitedHealthcare, Aetna, Cigna tout progress to standardize prior authorization as part of industry-wide commitment</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-aetna-tout-progress-standardize-prior-authorization-part-industry-wide",
+        "summary": "Major health insurers are advancing efforts to standardize prior authorization requirements as part of an effort to simplify paperwork for providers and reduce delays in medical care.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 24, 2026 11:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/seaport-hemab-chart-courses-180m-ipos-fund-depression-clotting-candidates\" hreflang=\"en\">Seaport, Hemab chart courses for $180M IPOs to fund depression, clotting candidates</a>",
+        "url": "https://www.fiercebiotech.com/biotech/seaport-hemab-chart-courses-180m-ipos-fund-depression-clotting-candidates",
+        "summary": "Both Seaport and Hemab are hoping to bring in around $180 million each from their public listings this week, in the latest sign that biotech IPOs are regaining their momentum.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 11:41am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/compass-therapeutics-stock-heads-south-after-cancer-bispecific-misses-overall-survival\" hreflang=\"en\">Compass Therapeutics’ stock heads south after cancer bispecific misses on overall survival</a>",
+        "url": "https://www.fiercebiotech.com/biotech/compass-therapeutics-stock-heads-south-after-cancer-bispecific-misses-overall-survival",
+        "summary": "Compass Therapeutics shed half its stock price this morning as investors digested its bispecific antibody’s failure to hit an overall survival (OS) endpoint in a phase 2/3 study.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 10:41am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astellas-thins-early-pipeline-swaps-out-struggling-rare-disease-gene-therapy\" hreflang=\"en\">Astellas thins early pipeline, swaps out struggling rare disease gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astellas-thins-early-pipeline-swaps-out-struggling-rare-disease-gene-therapy",
+        "summary": "Astellas Pharma has done some spring cleaning of its pipeline, dropping two phase 1 candidates and slamming the brakes on a troubled gene therapy.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 10:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/ligand-snaps-fellow-biotech-royalty-aggregator-xoma-739m\" hreflang=\"en\">Ligand snaps up fellow biotech royalty aggregator Xoma for $739M</a>",
+        "url": "https://www.fiercebiotech.com/pharma/ligand-snaps-fellow-biotech-royalty-aggregator-xoma-739m",
+        "summary": "After Xoma Royalty went on a dealmaking spree last year, the biotech royalty aggregator is now itself being bought out by its peer Ligand Pharmaceuticals.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 9:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-sells-microbiology-biz-1b-european-equity-firm\" hreflang=\"en\">Thermo Fisher Scientific sells microbiology business for $1B to European private equity firm</a>",
+        "url": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-sells-microbiology-biz-1b-european-equity-firm",
+        "summary": "Thermo Fisher Scientific is shedding its microbiology business to private equity firm Astorg nearly a year after rumors of a potential sale first surfaced.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 8:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/blood-test-powered-ai-shows-early-promise-monitoring-rare-childhood-cancer\" hreflang=\"en\">Blood test powered by AI shows early promise in monitoring rare childhood cancer</a>",
+        "url": "https://www.fiercebiotech.com/medtech/blood-test-powered-ai-shows-early-promise-monitoring-rare-childhood-cancer",
+        "summary": "A new liquid biopsy test using artificial intelligence models could help spot a rare type of bone and soft tissue cancer that predominantly affects children and adolescents.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 3:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/orukas-psoriasis-data-hailed-outright-win-over-skyrizi-spurring-big-blockbuster-forecasts\" hreflang=\"en\">Oruka’s psoriasis data hailed as ‘outright win over Skyrizi,’ spurring big blockbuster forecasts</a>",
+        "url": "https://www.fiercebiotech.com/biotech/orukas-psoriasis-data-hailed-outright-win-over-skyrizi-spurring-big-blockbuster-forecasts",
+        "summary": "Oruka Therapeutics’ long-acting plaque psoriasis candidate cleared the skin of 63.5% of patients in a phase 2a trial, leading Jefferies analysts to predict the asset could beat out AbbVie’s Skyrizi and generate sales of up to $10 billion. The biotech’s share price opened up 30% at $89.50.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 9:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/intellia-races-vivo-crispr-therapy-fda-after-phase-3-data-paint-compelling-picture\" hreflang=\"en\">Intellia races in vivo CRISPR therapy to FDA after phase 3 data paint ‘compelling’ picture</a>",
+        "url": "https://www.fiercebiotech.com/biotech/intellia-races-vivo-crispr-therapy-fda-after-phase-3-data-paint-compelling-picture",
+        "summary": "A phase 3 trial of Intellia Therapeutics’ in vivo gene editing therapy lonvoguran ziclumeran has hit its primary endpoint, leading the biotech to start a rolling submission for FDA approval.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 9:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/endoscopic-procedure-can-help-slow-weight-rebound-glp-1-treatment-study\" hreflang=\"en\">Endoscopic procedure can help slow weight rebound from stopping GLP-1 treatment: study</a>",
+        "url": "https://www.fiercebiotech.com/medtech/endoscopic-procedure-can-help-slow-weight-rebound-glp-1-treatment-study",
+        "summary": "A simple outpatient procedure currently used for type 2 diabetes patients in Europe can help those on Eli Lilly’s obesity drug tirzepatide keep most of their weight off when stopping the med.",
+        "source": "Fierce Biotech",
+        "published": "Apr 26, 2026 7:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-continues-ma-streak-23b-deal-next-gen-jak-inhibitor-biotech-ajax\" hreflang=\"en\">Lilly maintains M&amp;A hot streak with $2.3B deal for next-gen JAK inhibitor biotech Ajax</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-continues-ma-streak-23b-deal-next-gen-jak-inhibitor-biotech-ajax",
+        "summary": "Eli Lilly’s run of near-weekly acquisitions still shows no sign of letting up, with the Big Pharma now buying Ajax Therapeutics for its clinical-stage myelofibrosis therapy.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 8:00am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/tandem-diabetes-issues-software-device-correction-insulin-pump-malfunction\" hreflang=\"en\">Tandem Diabetes issues software device correction for insulin pump malfunction </a>",
+        "url": "https://www.fiercebiotech.com/medtech/tandem-diabetes-issues-software-device-correction-insulin-pump-malfunction",
+        "summary": "Tandem Diabetes Care issued an urgent medical device correction to upgrade the software of its Tandem Mobi insulin pumps that can fail to deliver critical medicine to patients.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 8:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/british-biotech-vc-funding-shows-signs-recovery-ipo-rebound-yet-materialize\" hreflang=\"en\">British biotech VC funding shows ‘signs of recovery,’ but IPO rebound yet to materialize</a>",
+        "url": "https://www.fiercebiotech.com/biotech/british-biotech-vc-funding-shows-signs-recovery-ipo-rebound-yet-materialize",
+        "summary": "The 552 million pounds ($747 million) raised by British biotechs in the first quarter of the year has been hailed as a “sign of recovery,” although an anticipated resurgence of IPOs across the nation has yet to materialize.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 4:22am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts",
+        "url": "https://huggingface.co/papers/2604.16926",
+        "summary": "Electroencephalography (EEG) foundation models have shown strong potential for learning generalizable representations from large-scale neural data, yet their clinical deployment is hindered by distribution shifts across clinical settings, devices, and populations. Test-time adaptation (TTA) offers a promising solution by enabling models to adapt to unlabeled target data during inference without access to source data, a valuable property in healthcare settings constrained by privacy regulations and limited labeled data. However, its effectiveness for EEG remains largely underexplored. In this w",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-17T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

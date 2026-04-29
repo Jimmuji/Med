@@ -1,0 +1,374 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T12:26:23.249397+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "New report shows some health equity wins. Experts fear they will be short-lived",
+        "url": "https://www.statnews.com/2026/04/29/health-disparity-study-commonwealth-fund-reports-fragile-gains/",
+        "summary": "A report released Wednesday highlights successes in reducing health disparities in U.S. states between 2022 and 2024.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 04:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "In first meeting, federal autism committee focuses on ‘profound autism’",
+        "url": "https://www.statnews.com/2026/04/28/federal-autism-advisory-committee-profound-autism-new-definition/",
+        "summary": "The committee met for the first time since Kennedy fired most of the committee’s scientific experts and replaced them with activists and advocates.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 02:48:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Health system CEOs get off easy at Congressional hearing on affordability",
+        "url": "https://www.statnews.com/2026/04/28/health-system-ceos-congressional-hearing-affordability-health-care-costs/",
+        "summary": "Committee members largely blamed the other party’s health care policies for driving U.S. health care prices to levels inaccessible to many Americans.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 22:10:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AIDS group sues Trump administration over undisclosed agreement with Gilead",
+        "url": "https://www.statnews.com/pharmalot/2026/04/28/aids-activist-group-sues-trump-administration-gilead-agreement/",
+        "summary": "The AIDS advocacy group PrEP4All has sued the Trump administration over an undisclosed agreement with Gilead.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 20:31:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA launches effort to speed up clinical trials, using AI",
+        "url": "https://www.statnews.com/2026/04/28/fda-real-time-clinical-trials-pilot-project-astrazeneca-amgen-cancer-drugs/",
+        "summary": "Monitoring trials in real time may help shorten the time interval between trial phases.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 19:24:35 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Healthcare or health care? Help STAT decide",
+        "url": "https://www.statnews.com/2026/04/28/ap-style-change-health-care-one-word-or-two/",
+        "summary": "Should STAT use “healthcare” or “health care”? We want to hear from you.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 18:27:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: FDA commissioner: ‘Smarter,’ real-time clinical trials could transform drug development",
+        "url": "https://www.statnews.com/2026/04/28/fda-clinical-trial-endpoints-real-time-drug-development/",
+        "summary": "“For the first time, FDA regulators will be able to see what’s happening in a clinical trial, looking at endpoints in the cloud as they occur,” writes FDA commissioner.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 17:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Fauci adviser David Morens indicted on charges of concealing emails, avoiding records requests",
+        "url": "https://www.statnews.com/2026/04/28/fauci-adviser-david-morens-indicted-concealing-emails-avoiding-foia/",
+        "summary": "The charges against Morens come after Congressional probes related to the origins of the virus that causes Covid-19.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 17:12:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Supreme Court to hear case about ‘skinny labeling’ and generic access",
+        "url": "https://www.statnews.com/pharmalot/2026/04/28/supreme-court-case-skinny-labeling-generics-access/",
+        "summary": "The Supreme Court Wednesday will hear oral arguments about a simmering controversy over so-called skinny labels, with implications for the availability of generics.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 15:36:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Boehringer’s obesity drug shows 16.6% weight loss; more data needed",
+        "url": "https://www.statnews.com/2026/04/28/biotech-news-boehringer-drug-looks-efficacious-but-more-data-needed/",
+        "summary": "Eli Lilly's deal with Profluent, Erasca's RAS-targeting cancer pill, and more biotech news today",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 13:36:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Google’s clinical director on AI challenges",
+        "url": "https://www.statnews.com/2026/04/28/googles-clinical-director-on-ai-chatbot-challenges-health-tech/",
+        "summary": "In this edition of STAT Health Tech newsletter: a conversation with Google's clinical director, an update on Doctronic's Utah experiment, and more.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 13:24:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about warnings over Trump’s MFN plan, Purdue Pharma sentencing, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/28/warnings-over-trump-drug-pricing-plan-purdue-pharma-sentencing/",
+        "summary": "The Novartis CEO warned that Trump's drug pricing policy poses a “very difficult situation” and the reality will soon catch up with drugmakers and patients",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 13:18:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Predicting consequences of new hepatitis B vaccine recs",
+        "url": "https://www.statnews.com/2026/04/28/health-news-dangerous-consequences-of-new-hep-b-vaccine-guidelines/",
+        "summary": "New data on public trust in science, AI and mental health, and other news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 11:46:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly enlists AI startup for next-generation gene editors",
+        "url": "https://www.statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/",
+        "summary": "Eli Lilly's deal with Profluent aims to go beyond CRISPR by using AI-designed enzymes to insert entire genes. It could reshape genetic medicine.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Google clinical director says AI can be a ‘bridge’ for people having a mental health crisis",
+        "url": "https://www.statnews.com/2026/04/28/google-gemini-ai-mental-health-safety-interview-clinical-director-megan-jones-bell/",
+        "summary": "Google's clinical director Megan Bell Jones on how the company is addressing concerns over mental health impacts of its AI products.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-raises-2026-guidance-strong-q1-revenue-earnings-results\" hreflang=\"en\">Centene swings to $1.5B profit as Medicaid business improves even as ACA membership falls by 2 million</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-raises-2026-guidance-strong-q1-revenue-earnings-results",
+        "summary": "Centene kicked off the first quarter with better-than-expected revenue and adjusted earnings results, signaling a recovery from a rough 2025 as the insurer makes progress in managing medical costs.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 7:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/capitol-hill-health-system-ceos-agree-rational-reworking-site-neutral-payments\" hreflang=\"en\">On Capitol Hill, health system CEOs agree to 'rational reworking' of site-neutral payments</a>",
+        "url": "https://www.fiercehealthcare.com/providers/capitol-hill-health-system-ceos-agree-rational-reworking-site-neutral-payments",
+        "summary": "A hearing on healthcare prices that convened the heads of HCA Healthcare, CommonSpirit Health and other systems had plenty of finger pointing and at least one clear concession on a policy issue long opposed by the hospital lobby.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 4:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/look-national-academy-medicines-change-makers-accelerators-program\" hreflang=\"en\">A look at the National Academy of Medicine’s Change Maker Accelerators Program </a>",
+        "url": "https://www.fiercehealthcare.com/providers/look-national-academy-medicines-change-makers-accelerators-program",
+        "summary": "The program is part of NAM’s broader Change Maker campaign, which works to advance the national plan’s priority areas. About 520 organizations have become members since the campaign launched in October 2023.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 3:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/iks-health-acquire-trubridge-557m-deal\" hreflang=\"en\">IKS Health to acquire TruBridge in $557M deal</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/iks-health-acquire-trubridge-557m-deal",
+        "summary": "The acquisition will combine IKS Health’s care enablement capabilities with TruBridge’s revenue cycle management and electronic health records (EHRs) solutions for rural and community hospitals. It is expected to support more than 2,000 healthcare organizations and more than 150,000 clinicians across the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 11:34am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/big-companies-position-themselves-payday-50b-federal-rural-health-fund\" hreflang=\"en\">Big companies position themselves for payday from $50B federal rural health fund</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/big-companies-position-themselves-payday-50b-federal-rural-health-fund",
+        "summary": "State plans reveal that a heavy dose of prescribed spending will go to companies that can increase the use of electronic health records, strengthen cybersecurity, and improve state and health system technology platforms. And, at least four large-scale coalitions of companies are now pitching multipronged services to the states.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 10:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ccs-deploys-enterprise-wide-agentic-ai-across-chronic-care-operations\" hreflang=\"en\">CCS deploys enterprise-wide agentic AI across chronic care operations</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ccs-deploys-enterprise-wide-agentic-ai-across-chronic-care-operations",
+        "summary": "CCS rolled out an agentic AI solution, dubbed CeeCee, that's designed to streamline the patient experience, improve medical supply workflows and boost operational efficiency, executives said.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 11:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/uchicago-medicine-artisight-partner-smart-hospital-platform-deployment\" hreflang=\"en\">UChicago Medicine, Artisight partner on system-wide rollout of smart hospital platform</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/uchicago-medicine-artisight-partner-smart-hospital-platform-deployment",
+        "summary": "More than 1,800 devices will be deployed across patient rooms, post-anesthesia care units, operating rooms and UChicago’s new 575,000-square-foot cancer care facility, the organizations said.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 4:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/medical-professional-liability-premiums-rise-seventh-straight-year\" hreflang=\"en\">Medical professional liability premiums rise for 7th straight year</a>",
+        "url": "https://www.fiercehealthcare.com/providers/medical-professional-liability-premiums-rise-seventh-straight-year",
+        "summary": "Nearly 40% of claims from leading medical liability insurers reflected year-to-year premium increases in 2025, even as the portion of physicians who have faced a lawsuit in the past year has stayed \"relatively low,\" the American Medical Association wrote in a pair of new reports.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 4:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/solace-health-expands-care-navigation-services-commercially-insured-patients\" hreflang=\"en\">Solace Health expands care navigation services to commercially insured patients</a>",
+        "url": "https://www.fiercehealthcare.com/payers/solace-health-expands-care-navigation-services-commercially-insured-patients",
+        "summary": "Solace previously connected Medicare and Medicare Advantage patients to its services, which are now also available to many commercially insured patients, including UnitedHealthcare and Anthem Blue Cross Blue Shield.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 3:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/utah-medical-licensing-board-urges-state-shut-down-doctronic-ai-prescribing\" hreflang=\"en\">Utah Medical Licensing Board urges state to shut down Doctronic AI prescribing pilot </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-medical-licensing-board-urges-state-shut-down-doctronic-ai-prescribing",
+        "summary": "Doctors in the state of Utah are challenging an artificial intelligence-powered prescription medication refill system they say puts patient safety at risk.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 7:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humanas-centerwell-mark-cubans-cost-plus-drugs-handle-employers-prescriptions\" hreflang=\"en\">Humana's CenterWell, Mark Cuban Cost Plus Drugs partner to tackle employers' drug costs</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humanas-centerwell-mark-cubans-cost-plus-drugs-handle-employers-prescriptions",
+        "summary": "The arrangement aims to create new \"end-to-end employer prescription solutions\" fueled by Cost Plus Drugs' software platform and drug pricing, as well as CenterWell Pharmacy's distribution infrastructure.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 12:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ama-urges-lawmakers-implement-stronger-safeguards-ai-chatbots-mental-health\" hreflang=\"en\">AMA urges lawmakers to implement stronger safeguards for AI chatbots in mental health</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ama-urges-lawmakers-implement-stronger-safeguards-ai-chatbots-mental-health",
+        "summary": "Recommendations from the organization include enforcing transparency standards, creating a risk-based oversight framework and mandating ongoing safety monitoring.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 27, 2026 10:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-flags-concerns-astrazeneca-camizestrant-truqap-ahead-advisory-committee-meeting\" hreflang=\"en\">FDA flags concerns for AstraZeneca's camizestrant, Truqap ahead of advisory committee meeting</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-flags-concerns-astrazeneca-camizestrant-truqap-ahead-advisory-committee-meeting",
+        "summary": "The FDA has released briefing documents detailing its concerns for AstraZeneca’s cancer drugs camizestrant and Truqap ahead of an upcoming advisory committee meeting, the first such gathering in about nine months.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 2:22pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-unveils-plan-real-time-review-clinical-trial-data-astrazeneca-and-amgen-already-board\" hreflang=\"en\">FDA unveils plan for real-time review of clinical trial data, with AstraZeneca and Amgen already on board</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-unveils-plan-real-time-review-clinical-trial-data-astrazeneca-and-amgen-already-board",
+        "summary": "The FDA today announced a new initiative to allow its reviewers to access information from clinical trials in real time, with two major industry players already taking part in a pilot program.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 1:23pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/protagonist-opts-475m-takeda-instead-splitting-us-rusfertide-profits\" hreflang=\"en\">Protagonist opts for $475M in Takeda payouts instead of splitting US rusfertide profits</a>",
+        "url": "https://www.fiercebiotech.com/biotech/protagonist-opts-475m-takeda-instead-splitting-us-rusfertide-profits",
+        "summary": "After mulling its options for the past few months, Protagonist Therapeutics has decided to pocket $475 million from Takeda rather than split the U.S. profits for a near-approval hematology asset.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 10:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition\" hreflang=\"en\">AbbVie dips into boiling RAS waters with $1.45B biobucks deal that could end in acquisition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition",
+        "summary": "AbbVie has agreed to help finance a KRAS inhibitor from Kestrel Therapeutics in a deal that could hit up to $1.45 billion in value and end with AbbVie buying the company outright.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incytes-jak-inhibitor-scores-phase-3-vitiligo-wins-cant-quite-shake-rinvoq\" hreflang=\"en\">Incyte’s JAK inhibitor scores phase 3 vitiligo wins but can’t quite shake off Rinvoq</a>",
+        "url": "https://www.fiercebiotech.com/biotech/incytes-jak-inhibitor-scores-phase-3-vitiligo-wins-cant-quite-shake-rinvoq",
+        "summary": "Incyte’s povorcitinib has scored a pair of phase 3 wins for a skin condition, although analysts noted the JAK inhibitor didn’t quite live up to AbbVie’s Rinvoq.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 9:19am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/erasca-hits-home-run-cancer-data-suffers-42-stock-drop\" hreflang=\"en\">Erasca hits ‘home run’ with cancer data as analyst suggests stock drop prompted by patient death</a>",
+        "url": "https://www.fiercebiotech.com/biotech/erasca-hits-home-run-cancer-data-suffers-42-stock-drop",
+        "summary": "Erasca has backed up bullish claims about its pan-RAS drug having a best-in-class profile, publishing phase 1 data that an analyst said reveal a “home run profile.”",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 8:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Coultreon reels in $125M series A</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-pens-22b-pact-bezos-backed-profluent-work-recombinase-based-gene-editing\" hreflang=\"en\">Lilly pens $2.2B pact with Bezos-backed Profluent to work on recombinase-based gene editing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-pens-22b-pact-bezos-backed-profluent-work-recombinase-based-gene-editing",
+        "summary": "Eli Lilly’s latest attempt to strengthen its genetic medicine offering has seen the pharma team up with Profluent to develop AI-designed recombinases to address diseases with severe unmet needs.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 8:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-thwarts-cyberattack-its-it-systems-wake-data-breech-stryker\" hreflang=\"en\">Medtronic thwarts cyberattack on its IT systems in wake of data breach at Stryker</a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-thwarts-cyberattack-its-it-systems-wake-data-breech-stryker",
+        "summary": "Medtronic, the largest medical device maker in the world, said it contained a cyberattack on its corporate IT systems and that the breach didn’t impact any of its products or patients.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 8:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/merck-kgaa-remepy-team-software-enhanced-hybrid-drugs-rare-tumors\" hreflang=\"en\">Merck KGaA, Remepy team up on software-enhanced hybrid drugs for rare tumors</a>",
+        "url": "https://www.fiercebiotech.com/medtech/merck-kgaa-remepy-team-software-enhanced-hybrid-drugs-rare-tumors",
+        "summary": "German drugmaker Merck KGaA is teaming up with Israeli biotech Remepy to develop so-called hybrid drugs that pair a pharmaceutical with a personalized, AI-driven digital component to enhance the therapy.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 1:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rebranded-belgian-biotech-lands-125m-rescued-galapagos-drug-candidates\" hreflang=\"en\">Rebranded Belgian biotech lands $125M for rescued Galapagos drug candidates</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rebranded-belgian-biotech-lands-125m-rescued-galapagos-drug-candidates",
+        "summary": "After launching in 2025 as a refuge for shipwrecked assets from Galapagos, Onco3R Therapeutics is rebranding as Coultreon Biopharma and filling its treasure chest with a $125 million series A.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 2:51pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/janux-axes-solid-tumor-t-cell-engager-after-poor-phase-1-showing\" hreflang=\"en\">Janux axes solid tumor T-cell engager after poor phase 1 showing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/janux-axes-solid-tumor-t-cell-engager-after-poor-phase-1-showing",
+        "summary": "After a disappointing phase 1 showing, Janux Therapeutics is kicking one of its bispecific T-cell engagers to the curb.",
+        "source": "Fierce Biotech",
+        "published": "Apr 27, 2026 5:47pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "a16z Speedrun SR006 全解析：AI创业的“高密度样本池” （上篇）",
+        "url": "https://www.36kr.com/p/3786499459685632",
+        "summary": "Speedrun旗下SR006路演日：一份观察当下 AI 创业范式与早期项目密度的硅谷样本。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 29 Apr 2026 02:05:15 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+        "url": "https://huggingface.co/papers/2604.25914",
+        "summary": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinement, single-language creation-only tasks, and assumption of perfect intent. To bridge these gaps, we introduce DV-World, a benchmark of 260 tasks designed to evaluate DV agents across real-world professional lifecycles. DV-World spans three domains: DV-Sheet for native spreadsheet manipulation including chart and dashboard creation as well as diagnostic repair; DV-Evolution for adapting and restruct",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora",
+        "url": "https://huggingface.co/papers/2604.24819",
+        "summary": "Reliably transferring specialized human knowledge from text into large language models remains a fundamental challenge in artificial intelligence. Fine-tuning on domain corpora has enabled substantial capability gains, but the process operates without feedback: when a model fails on a domain task, there is no method to diagnose what is deficient in the training data, and the only recourse is to add more data indiscriminately. Here we show that when a structured knowledge representation extracted from the source corpus serves as the shared foundation for both training data and evaluation, the c",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Question Answering in Industrial Asset Maintenance",
+        "url": "https://huggingface.co/papers/2604.23446",
+        "summary": "Industrial maintenance environments increasingly rely on AI systems to assist operators in understanding asset behavior, diagnosing failures, and evaluating interventions. Although large language models (LLMs) enable fluent natural-language interaction, deployed maintenance assistants routinely produce generic explanations that are weakly grounded in telemetry, omit verifiable provenance, and offer no testable support for counterfactual or action-oriented reasoning that undermine trust in safety-critical settings. We present IndustryAssetEQA, a neurosymbolic operational intelligence system tha",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-24T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings",
+        "url": "https://huggingface.co/papers/2604.24597",
+        "summary": "We provide evidence of quantum kernel advantage under noiseless simulation in binary insurance classification on MIMIC-CXR chest radiographs using quantum support vector machines (QSVM) with frozen embeddings from three medical foundation models (MedSigLIP-448, RAD-DINO, ViT-patch32). We propose a two-tier fair comparison framework in which both classifiers receive identical PCA-q features. At Tier 1 (untuned QSVM vs. untuned linear SVM, C = 1 both sides), QSVM wins minority-class F1 in all 18 tested configurations (17 at p < 0.001, 1 at p < 0.01). The classical linear kernel collapses to majo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Improving Vision-language Models with Perception-centric Process Reward Models",
+        "url": "https://huggingface.co/papers/2604.24583",
+        "summary": "Recent advancements in reinforcement learning with verifiable rewards (RLVR) have significantly improved the complex reasoning ability of vision-language models (VLMs). However, its outcome-level supervision is too coarse to diagnose and correct errors within the reasoning chain. To this end, we propose Perceval, a process reward model (PRM) that enables token-level error grounding, which can extract image-related claims from the response and compare them one by one with the visual evidence in the image, ultimately returning claims that contain perceptual errors. Perceval is trained with perce",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

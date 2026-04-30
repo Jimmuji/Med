@@ -1,0 +1,382 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T12:29:01.480206+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 6
+  },
+  "items": {
+    "news": [
+      {
+        "title": "HHS appeals ruling that stalled many of Kennedy’s vaccine policy changes",
+        "url": "https://www.statnews.com/2026/04/29/hhs-appealing-acip-vaccine-policy-lawsuit-ruling/",
+        "summary": "The appeal is the latest twist in the closely watched lawsuit filed by the American Association of Pediatrics.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 00:36:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Supreme Court justices appear to signal ‘skinny labeling’ can survive",
+        "url": "https://www.statnews.com/pharmalot/2026/04/29/supreme-court-justices-debate-skinny-labeling-patent-infringement/",
+        "summary": "At Wednesday's argument, the justices did not appear to question whether skinny labeling is valid.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 22:15:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why conversations around health AI may be evolving beyond hype",
+        "url": "https://www.statnews.com/2026/04/29/health-ai-conversations-evolving-beyond-hype-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis, Brittany Trang argues that the tide may be turning when it comes to how the health care industry talks about AI.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 16:13:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Infant formula largely safe from heavy metals, FDA finds",
+        "url": "https://www.statnews.com/2026/04/29/fda-baby-formula-safety-tests-contaminants/",
+        "summary": "FDA sampled 312 major infant formula brands and found low or undetectable levels of pesticide residue, PFAS, heavy metals and phthalates.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 15:20:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A patent win for Pfizer and BridgeBio",
+        "url": "https://www.statnews.com/2026/04/29/biotech-news-a-patent-win-for-pfizer-and-bridgebio/",
+        "summary": "A change to FDA clinical trial data review, Rocket sells its priority review voucher, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 13:43:25 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about the FDA speeding up trials, a Supreme Court hearing on ‘skinny labels,’ and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/29/fda-plan-to-speed-clinical-trials-supreme-court-skinny-labels/",
+        "summary": "The FDA announced efforts to make clinical trials more efficient, starting by reviewing data in real time from trials conducted by AstraZeneca and Amgen",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 13:09:22 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Food safety experts warn of USDA brain drain",
+        "url": "https://www.statnews.com/2026/04/29/health-news-food-safety-experts-warn-usda-brain-drain/",
+        "summary": "An autism advisory committee finally meets again, antipsychotics and dementia, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 11:51:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Did Kennedy just stack the deck on FDA oversight of peptides?",
+        "url": "https://www.statnews.com/2026/04/29/rfk-jr-peptides-upcoming-fda-policy-shift-compounding-drugs/",
+        "summary": "RFK Jr. had long signaled that he was going to do something big on peptides. Now the moment has arrived.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The medical school nutrition blues",
+        "url": "https://www.statnews.com/2026/04/29/medical-school-nutrition-preventive-medicine-podcast/",
+        "summary": "“I don’t think anyone has the answers. But the conversation needs to start”: medical students on bringing a preventive mindset to medical education.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Why alternative medicine can feel so much better than mainstream health care",
+        "url": "https://www.statnews.com/2026/04/29/alternative-medicine-placebo-effect-cost-time/",
+        "summary": "Modern medicine is about making people better — not necessarily making them feel good.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New report shows some health equity wins. Experts fear they will be short-lived",
+        "url": "https://www.statnews.com/2026/04/29/health-disparity-study-commonwealth-fund-reports-fragile-gains/",
+        "summary": "A report released Wednesday highlights successes in reducing health disparities in U.S. states between 2022 and 2024.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 04:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "In first meeting, federal autism committee focuses on ‘profound autism’",
+        "url": "https://www.statnews.com/2026/04/28/federal-autism-advisory-committee-profound-autism-new-definition/",
+        "summary": "The committee met for the first time since Kennedy fired most of the committee’s scientific experts and replaced them with activists and advocates.",
+        "source": "STAT News",
+        "published": "Wed, 29 Apr 2026 02:48:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Health system CEOs get off easy at Congressional hearing on affordability",
+        "url": "https://www.statnews.com/2026/04/28/health-system-ceos-congressional-hearing-affordability-health-care-costs/",
+        "summary": "Committee members largely blamed the other party’s health care policies for driving U.S. health care prices to levels inaccessible to many Americans.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 22:10:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AIDS group sues Trump administration over undisclosed agreement with Gilead",
+        "url": "https://www.statnews.com/pharmalot/2026/04/28/aids-activist-group-sues-trump-administration-gilead-agreement/",
+        "summary": "The AIDS advocacy group PrEP4All has sued the Trump administration over an undisclosed agreement with Gilead.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 20:31:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA launches effort to speed up clinical trials, using AI",
+        "url": "https://www.statnews.com/2026/04/28/fda-real-time-clinical-trials-pilot-project-astrazeneca-amgen-cancer-drugs/",
+        "summary": "Monitoring trials in real time may help shorten the time interval between trial phases.",
+        "source": "STAT News",
+        "published": "Tue, 28 Apr 2026 19:24:35 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/teladoc-health-reports-strong-momentum-behind-betterhelp-insurance-shift-ceo-says\" hreflang=\"en\">Teladoc Health reports strong momentum behind BetterHelp insurance shift, CEO says</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-reports-strong-momentum-behind-betterhelp-insurance-shift-ceo-says",
+        "summary": "Teladoc Health reported a 2% decline in revenue in the first quarter, but the telehealth giant touted \"meaningful progress\" in scaling insurance coverage for its BetterHelp mental health business as a catalyst for future growth.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 4:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/universal-health-services-q1-2026-earnings-growth-dampened-volume-hits\" hreflang=\"en\">Universal Health Services' Q1 2026 earnings growth dampened by volume hits</a>",
+        "url": "https://www.fiercehealthcare.com/providers/universal-health-services-q1-2026-earnings-growth-dampened-volume-hits",
+        "summary": "Executives asserted the acute and behavioral care provider will ramp up business and meet its growth target for the full year, and expanded on the company's Talkspace deal, exchange volumes and AI deployments.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 1:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthcare-costs-remain-top-concern-voters-midterms-loom-kff\" hreflang=\"en\">Healthcare costs remain a top concern for voters as midterms loom: KFF</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthcare-costs-remain-top-concern-voters-midterms-loom-kff",
+        "summary": "Despite concern about other expenses—such as fuel following the launch of the war in Iran—healthcare costs remain at the top of the list for economic fears, a new survey shows.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 5:31pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/only-1-4-healthcare-orgs-able-absorb-increasing-health-benefit-costs-without-impacting\" hreflang=\"en\">Only 1 in 4 employers able to ‘absorb’ increasing health benefit costs without impacting business</a>",
+        "url": "https://www.fiercehealthcare.com/finance/only-1-4-healthcare-orgs-able-absorb-increasing-health-benefit-costs-without-impacting",
+        "summary": "The consulting firm surveyed 161 finance leaders for the April report. Some reported impacts from increased health benefits costs include reduced spending towards other benefits, slower wage growth and reduced investment.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 10:12am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-driven-coding-platform-arintra-rolls-out-new-documentation-improvement\" hreflang=\"en\">AI-driven coding platform Arintra rolls out new documentation improvement capabilities</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-driven-coding-platform-arintra-rolls-out-new-documentation-improvement",
+        "summary": "Healthcare providers will be able to identify documentation gaps using the AI coding platform’s new capabilities.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 1:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/push-expand-access-emergency-contraception\" hreflang=\"en\">The push to expand access to emergency contraception</a>",
+        "url": "https://www.fiercehealthcare.com/providers/push-expand-access-emergency-contraception",
+        "summary": "Emergency contraception is primarily sold in pharmacies. Cadence OTC is working to expand distribution of the morning-after pill beyond traditional channels.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 8:32am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-shares-fall-ma-star-ratings-headwinds-company-affirms-2026-outlook\" hreflang=\"en\">Humana pulls back the curtain on planning for 2027 MA bids</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-shares-fall-ma-star-ratings-headwinds-company-affirms-2026-outlook",
+        "summary": "Humana affirmed its outlook for 2026 on Wednesday morning, though the company's shares fell premarket as future star ratings performance is murky.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 7:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-raises-2026-guidance-strong-q1-revenue-earnings-results\" hreflang=\"en\">Centene swings to $1.5B profit as Medicaid business improves even as ACA membership falls by 2 million</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-raises-2026-guidance-strong-q1-revenue-earnings-results",
+        "summary": "Centene kicked off the first quarter with better-than-expected revenue and adjusted earnings results, signaling a recovery from a rough 2025 as the insurer makes progress in managing medical costs.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 7:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/capitol-hill-health-system-ceos-agree-rational-reworking-site-neutral-payments\" hreflang=\"en\">On Capitol Hill, health system CEOs agree to 'rational reworking' of site-neutral payments</a>",
+        "url": "https://www.fiercehealthcare.com/providers/capitol-hill-health-system-ceos-agree-rational-reworking-site-neutral-payments",
+        "summary": "A hearing on healthcare prices that convened the heads of HCA Healthcare, CommonSpirit Health and other systems had plenty of finger-pointing and at least one clear concession on a policy issue long opposed by the hospital lobby.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 4:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/look-national-academy-medicines-change-makers-accelerators-program\" hreflang=\"en\">A look at the National Academy of Medicine’s Change Maker Accelerators Program </a>",
+        "url": "https://www.fiercehealthcare.com/providers/look-national-academy-medicines-change-makers-accelerators-program",
+        "summary": "The program is part of NAM’s broader Change Maker campaign, which works to advance the national plan’s priority areas. About 520 organizations have become members since the campaign launched in October 2023.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 20, 2026 3:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/iks-health-acquire-trubridge-557m-deal\" hreflang=\"en\">IKS Health to acquire TruBridge in $557M deal</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/iks-health-acquire-trubridge-557m-deal",
+        "summary": "The acquisition will combine IKS Health’s care enablement capabilities with TruBridge’s revenue cycle management and electronic health records (EHRs) solutions for rural and community hospitals. It is expected to support more than 2,000 healthcare organizations and more than 150,000 clinicians across the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 11:34am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/big-companies-position-themselves-payday-50b-federal-rural-health-fund\" hreflang=\"en\">Big companies position themselves for payday from $50B federal rural health fund</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/big-companies-position-themselves-payday-50b-federal-rural-health-fund",
+        "summary": "State plans reveal that a heavy dose of prescribed spending will go to companies that can increase the use of electronic health records, strengthen cybersecurity, and improve state and health system technology platforms. And, at least four large-scale coalitions of companies are now pitching multipronged services to the states.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 10:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-hits-newron-schizophrenia-trial-clinical-hold-after-patient-death\" hreflang=\"en\">FDA hits Newron’s phase 3 schizophrenia trial with clinical hold in US after patient death</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-hits-newron-schizophrenia-trial-clinical-hold-after-patient-death",
+        "summary": "The FDA has halted U.S. enrollment for Newron Pharmaceuticals’ phase 3 schizophrenia trial, following the death of a patient outside of the country.",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 1:57pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-restarts-300m-investment-england-merck-not-budging\" hreflang=\"en\">AstraZeneca restarts £300M investment in UK, but Merck not budging</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-restarts-300m-investment-england-merck-not-budging",
+        "summary": "AstraZeneca has announced it will resume a £300 million investment program in the U.K., seven months after freezing the plans in frustration at national government drug pricing negotiations.",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 9:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Vivacta snags $50M+ series A; Coultreon reels in $125M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-inks-700m-emalex-buyout-bag-near-approval-tourette-drug\" hreflang=\"en\">Teva inks $700M Emalex buyout to bag near-approval Tourette drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-inks-700m-emalex-buyout-bag-near-approval-tourette-drug",
+        "summary": "Teva Pharmaceuticals has struck a deal to buy Emalex Biosciences for $700 million upfront, positioning the drugmaker to advance a Tourette syndrome candidate that is on the cusp of approval.",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 8:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/rising-costs-hit-ge-healthcare-profits-it-restructures-biz-units-exec-team\" hreflang=\"en\">Rising costs push GE HealthCare to cut outlook as it restructures units and leadership</a>",
+        "url": "https://www.fiercebiotech.com/medtech/rising-costs-hit-ge-healthcare-profits-it-restructures-biz-units-exec-team",
+        "summary": "Investors sent GE HealthCare into the red Wednesday morning as the company revealed it was cutting its profit outlook while also making structural changes to its business and executive teams.",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 7:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial\" hreflang=\"en\">AstraZeneca scraps FLAP inhibitor after flunking phase 2 asthma trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scraps-flap-inhibitor-flunked-phase-2-asthma-trial",
+        "summary": "AstraZeneca has scrapped an asthma program after the FLAP inhibitor flunked a phase 2 trial.",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 8:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/which-blockbuster-gsk-gunning-next-ceo-miels-points-looking-oncology\" hreflang=\"en\">Which blockbuster is GSK gunning for next? CEO Miels is looking to oncology</a>",
+        "url": "https://www.fiercebiotech.com/biotech/which-blockbuster-gsk-gunning-next-ceo-miels-points-looking-oncology",
+        "summary": "When it comes to GSK’s new dealmaking strategy of trying to outdo established blockbusters, CEO Luke Miels has told Fierce that oncology may offer the most tempting targets.",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 7:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-walks-away-100m-bet-mersana-sting-adc-pauses-mrna-bird-flu-shot\" hreflang=\"en\">GSK walks away from $100M bet on Mersana's STING ADC, pauses mRNA bird flu shot program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-walks-away-100m-bet-mersana-sting-adc-pauses-mrna-bird-flu-shot",
+        "summary": "GSK has finally called time on its pact with Mersana Therapeutics despite sinking $100 million to secure an option for an antibody-drug conjugate (ADC).",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 6:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-flags-concerns-astrazeneca-camizestrant-truqap-ahead-advisory-committee-meeting\" hreflang=\"en\">FDA flags concerns for AstraZeneca's camizestrant, Truqap ahead of advisory committee meeting</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-flags-concerns-astrazeneca-camizestrant-truqap-ahead-advisory-committee-meeting",
+        "summary": "The FDA has released briefing documents detailing its concerns for AstraZeneca’s cancer drugs camizestrant and Truqap ahead of an upcoming advisory committee meeting, the first such gathering in about nine months.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 2:22pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-unveils-plan-real-time-review-clinical-trial-data-astrazeneca-and-amgen-already-board\" hreflang=\"en\">FDA unveils plan for real-time review of clinical trial data, with AstraZeneca and Amgen already on board</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-unveils-plan-real-time-review-clinical-trial-data-astrazeneca-and-amgen-already-board",
+        "summary": "The FDA today announced a new initiative to allow its reviewers to access information from clinical trials in real time, with two major industry players already taking part in a pilot program.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 1:23pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/protagonist-opts-475m-takeda-instead-splitting-us-rusfertide-profits\" hreflang=\"en\">Protagonist opts for $475M in Takeda payouts instead of splitting US rusfertide profits</a>",
+        "url": "https://www.fiercebiotech.com/biotech/protagonist-opts-475m-takeda-instead-splitting-us-rusfertide-profits",
+        "summary": "After mulling its options for the past few months, Protagonist Therapeutics has decided to pocket $475 million from Takeda rather than split the U.S. profits for a near-approval hematology asset.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 10:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition\" hreflang=\"en\">AbbVie dips into boiling RAS waters with $1.45B biobucks deal that could end in acquisition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-dips-boiling-ras-waters-145b-biobucks-deal-could-end-acquisition",
+        "summary": "AbbVie has agreed to help finance a KRAS inhibitor from Kestrel Therapeutics in a deal that could hit up to $1.45 billion in value and end with AbbVie buying the company outright.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "a16z Speedrun SR006 全解析：AI创业的“高密度样本池” （上篇）",
+        "url": "https://www.36kr.com/p/3786499459685632",
+        "summary": "Speedrun旗下SR006路演日：一份观察当下 AI 创业范式与早期项目密度的硅谷样本。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 29 Apr 2026 02:05:15 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
+        "url": "https://huggingface.co/papers/2604.26904",
+        "summary": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absence of a systematic framework, especially one for synthesizing verifiable training data and integrating it with agent training and diagnostic evaluation. To address this challenge, we present ClawGym, a scalable framework that supports the full lifecycle of Claw-style personal agent development. Concretely, we construct ClawGym-SynData, a diverse dataset of 13.5K filtered tasks synthesized from pers",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-28T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+        "url": "https://huggingface.co/papers/2604.25914",
+        "summary": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinement, single-language creation-only tasks, and assumption of perfect intent. To bridge these gaps, we introduce DV-World, a benchmark of 260 tasks designed to evaluate DV agents across real-world professional lifecycles. DV-World spans three domains: DV-Sheet for native spreadsheet manipulation including chart and dashboard creation as well as diagnostic repair; DV-Evolution for adapting and restruct",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora",
+        "url": "https://huggingface.co/papers/2604.24819",
+        "summary": "Reliably transferring specialized human knowledge from text into large language models remains a fundamental challenge in artificial intelligence. Fine-tuning on domain corpora has enabled substantial capability gains, but the process operates without feedback: when a model fails on a domain task, there is no method to diagnose what is deficient in the training data, and the only recourse is to add more data indiscriminately. Here we show that when a structured knowledge representation extracted from the source corpus serves as the shared foundation for both training data and evaluation, the c",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Question Answering in Industrial Asset Maintenance",
+        "url": "https://huggingface.co/papers/2604.23446",
+        "summary": "Industrial maintenance environments increasingly rely on AI systems to assist operators in understanding asset behavior, diagnosing failures, and evaluating interventions. Although large language models (LLMs) enable fluent natural-language interaction, deployed maintenance assistants routinely produce generic explanations that are weakly grounded in telemetry, omit verifiable provenance, and offer no testable support for counterfactual or action-oriented reasoning that undermine trust in safety-critical settings. We present IndustryAssetEQA, a neurosymbolic operational intelligence system tha",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-24T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings",
+        "url": "https://huggingface.co/papers/2604.24597",
+        "summary": "We provide evidence of quantum kernel advantage under noiseless simulation in binary insurance classification on MIMIC-CXR chest radiographs using quantum support vector machines (QSVM) with frozen embeddings from three medical foundation models (MedSigLIP-448, RAD-DINO, ViT-patch32). We propose a two-tier fair comparison framework in which both classifiers receive identical PCA-q features. At Tier 1 (untuned QSVM vs. untuned linear SVM, C = 1 both sides), QSVM wins minority-class F1 in all 18 tested configurations (17 at p < 0.001, 1 at p < 0.01). The classical linear kernel collapses to majo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Improving Vision-language Models with Perception-centric Process Reward Models",
+        "url": "https://huggingface.co/papers/2604.24583",
+        "summary": "Recent advancements in reinforcement learning with verifiable rewards (RLVR) have significantly improved the complex reasoning ability of vision-language models (VLMs). However, its outcome-level supervision is too coarse to diagnose and correct errors within the reasoning chain. To this end, we propose Perceval, a process reward model (PRM) that enables token-level error grounding, which can extract image-related claims from the response and compare them one by one with the visual evidence in the image, ultimately returning claims that contain perceptual errors. Perceval is trained with perce",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

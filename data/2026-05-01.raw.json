@@ -1,0 +1,350 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T12:45:01.813583+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: OxyContin maker Purdue Pharma set to dissolve after judge approves its criminal sentence",
+        "url": "https://www.statnews.com/2026/04/30/oxycontin-maker-purdue-pharma-will-dissolve-criminal-sentence-approved/",
+        "summary": "At the hearing, the judge heard from mothers who lost sons to overdose, a teenager born into withdrawal, and people who spent years dealing with addiction treatment.",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 01:25:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Remembering J. Craig Venter: a relentless scientist who changed biotech — and was all too easily misunderstood",
+        "url": "https://www.statnews.com/2026/04/30/craig-venter-an-appreciation-pioneer-modern-genomics-dies-age-79/",
+        "summary": "J. Craig Venter, the scientist whose relentless ambition helped turn genetics from an artisanal trade into an industrialized information machine, died at 79.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 21:58:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Katherine Szarama named acting director of FDA’s vaccines and biologics center",
+        "url": "https://www.statnews.com/2026/04/30/fda-names-katherine-szarama-acting-director-cber/",
+        "summary": "Katherine Szarama, who joined the FDA last year to serve as Vinay Prasad’s deputy, will now fill his shoes at CBER.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 21:15:56 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In her own words: Surgeon general nominee Nicole Saphier expresses enthusiasm and caution for MAHA",
+        "url": "https://www.statnews.com/2026/04/30/surgeon-general-nominee-nicole-saphier-in-her-own-words/",
+        "summary": "Examining the past statements and writings of Trump's third surgeon general nominee, Dr. Nicole Saphier, on vaccines, autism, peptides, diet and more.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 20:39:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hair-raising trial results, and Servier’s M&A wishlist",
+        "url": "https://www.statnews.com/2026/04/30/investors-excited-hair-loss-drugs-ai-improve-clinical-trials-readout-loud/",
+        "summary": "Why are investors excited about hair loss drugs? Will AI make clinical trials run more smoothly? And more in \"The Readout LOUD,\" STAT's weekly biotech podcast.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 20:03:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: As artificial intelligence shows off diagnostic chops, scientists reckon with the way forward",
+        "url": "https://www.statnews.com/2026/04/30/open-ai-llm-model-outperforms-doctors-study-published-journal-science/",
+        "summary": "On Thursday, researchers published in Science the results of a study that tested an OpenAI model on diagnostic and clinical reasoning tasks.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 18:00:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Trump drops Casey Means as surgeon general nominee, opts for radiologist Nicole Saphier",
+        "url": "https://www.statnews.com/2026/04/30/trump-withdraws-casey-means-nomination-surgeon-general-taps-nicole-saphier/",
+        "summary": "Trump slammed Sen. Bill Cassidy for blocking his surgeon general pick, as he nominated a replacement.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 17:49:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA wants to exclude weight loss drugs from a compounding list",
+        "url": "https://www.statnews.com/pharmalot/2026/04/30/fda-weight-loss-drugs-new-rule-would-end-glp-1-compound-pharmacy/",
+        "summary": "FDA moves to remove semaglutide, tirzepatide, and liraglutide from its 503B compounding list, saying there's no shortage of GLP-1 drugs from Novo Nordisk and Eli Lilly.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 15:53:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Five-way obesity drug is super effective — in mice",
+        "url": "https://www.statnews.com/2026/04/30/biotech-news-five-way-obesity-drug-super-effective-in-mice/",
+        "summary": "A 'quintuple agonist,' Alector halts it Alzheimer's trial, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 15:38:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: DOJ, Elevance spar over access to top exec in Medicare Advantage fraud case",
+        "url": "https://www.statnews.com/2026/04/30/elevance-health-fraud-doj-says-access-blocked-key-witness/",
+        "summary": "Elevance said a top exec would depart, days after the Justice Department asked to depose him.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 15:34:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hinge has a new FDA-cleared migraine device",
+        "url": "https://www.statnews.com/2026/04/30/hinges-new-fda-cleared-migraine-device-health-tech/",
+        "summary": "In this edition of STAT Health Tech: FDA's plan to use AI to speed up trials, Hinge's new migraine device, and boosting cancer screening with texts.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 15:30:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Cigna will exit ACA individual markets next year, adding to tumult for patients",
+        "url": "https://www.statnews.com/2026/04/30/cigna-exits-aca-market-2027-369-thousand-people-affected/",
+        "summary": "ACA membership is tumbling after Congress failed to extend extra subsidies that helped people afford the coverage.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 15:07:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Democrats go hard on health care affordability",
+        "url": "https://www.statnews.com/2026/04/30/schumer-senate-health-policy-outline-focuses-on-affordability/",
+        "summary": "The Senate's top Democrat unveiled a health policy outline that calls for lowering patients' costs across the board.",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 14:50:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Supreme Court hearing on ‘skinny labels,’ AstraZeneca U.K. expansion, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/04/30/supreme-court-hearing-skinny-labels-astrazeneca-uk-expansion/",
+        "summary": "AstraZeneca will resume expansion of its U.K. R&#038;D operations after the trade deal with the U.S. included measures to lift U.K. drug spending",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 13:17:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Smog from wildfires increasingly harmful, data show",
+        "url": "https://www.statnews.com/2026/04/30/health-news-smog-from-wildfires-increasingly-harmful-over-time/",
+        "summary": "American baby formula testing, Medicaid work requirements, and more Morning Rounds health news",
+        "source": "STAT News",
+        "published": "Thu, 30 Apr 2026 11:47:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/providers-urge-education-department-reconsider-which-jobs-face-stiffer-student-loan-caps\" hreflang=\"en\">Education Department finalizes industry-opposed student loan caps</a>",
+        "url": "https://www.fiercehealthcare.com/providers/providers-urge-education-department-reconsider-which-jobs-face-stiffer-student-loan-caps",
+        "summary": "The final rule excludes post-baccalaureate health roles like advanced practice registered nurses and physician associates from higher borrowing caps permitted for \"professional\" degrees, like physicians. Healthcare groups had warned it could hamstring the clinical workforce pipeline.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 2, 2026 1:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tenet-healthcare-paces-ahead-earnings-despite-q1s-volume-curveballs\" hreflang=\"en\">Tenet Healthcare met Q1's volume curveballs with 'old-fashioned discipline'</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tenet-healthcare-paces-ahead-earnings-despite-q1s-volume-curveballs",
+        "summary": "With much of the quarter's volume disruptions sequestered to January and early February, CEO Saum Sutaria, M.D., said Tenet was able to regain ground by adjusting its expenses to better reflect demand, rebooking ambulatory procedures and “focusing more on some of our other type of work in the hospitals.”",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 3:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-pulls-surgeon-general-nomination-casey-means-names-nicole-saphier-new-pick\" hreflang=\"en\">Trump pulls surgeon general nomination of Casey Means, names Nicole Saphier as new pick</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-pulls-surgeon-general-nomination-casey-means-names-nicole-saphier-new-pick",
+        "summary": "The president blamed Senate HELP Chair Bill Cassidy for blocking the confirmation of Means, an influential voice within the Make America Healthy Again movement. His new choice is a practicing radiologist, Fox News medical contributor and an author previously critical of the government's COVID-19 pandemic response.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 2:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/doj-launches-west-coast-strike-force-target-fraud-arizona-nevada-northern-california\" hreflang=\"en\">DOJ launches West Coast Health Care Strike Force to target fraud in Arizona, Nevada, Northern California</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/doj-launches-west-coast-strike-force-target-fraud-arizona-nevada-northern-california",
+        "summary": "The Department of Justice has formed a new fraud strike force to target schemes across Arizona, Nevada and Northern California, the agency announced Thursday.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 4:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-posts-165b-profit-q1-earnings-beat\" hreflang=\"en\">Cigna to exit ACA market, pursue strategic alternatives for eviCore unit</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-posts-165b-profit-q1-earnings-beat",
+        "summary": "The Cigna Group beat the Street on both earnings and revenue in the first quarter of 2026, posting $1.65 billion in profit for Q1.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 7:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Gravity Rail tackles AI-powered patient engagement; Zócalo Health pockets $15M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/parsley-health-functional-medicine-provider-now-network-nationwide\" hreflang=\"en\">Functional medicine provider Parsley Health now in-network nationwide</a>",
+        "url": "https://www.fiercehealthcare.com/payers/parsley-health-functional-medicine-provider-now-network-nationwide",
+        "summary": "Today’s nationwide expansion represents a tenfold increase in coverage, per the company. The company offers healthcare via telehealth nationwide or in-person in Los Angeles and New York City.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 12:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/waystar-boasts-growth-investments-q1-2026-earnings\" hreflang=\"en\">Waystar kicks off 2026 with strong growth as it targets AI at $100B RCM labor pool</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/waystar-boasts-growth-investments-q1-2026-earnings",
+        "summary": "Waystar is pivoting its focus from task-level automation toward agentic workflows. \"That shift unlocks a much larger opportunity, the approximately $100 billion in annual revenue cycle labor services performed across the industry today,\" CEO Matt Hawkins said.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 11:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-partners-national-rural-health-association-expand-ai-understanding\" hreflang=\"en\">Viz.ai partners with National Rural Health Association to expand AI understanding, access to rural hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-partners-national-rural-health-association-expand-ai-understanding",
+        "summary": "The newly announced collaboration between the two organizations will provide rural health systems with practical guidance on AI implementation through educational opportunities, case studies and more.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 3:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/photon-maker-modern-prescription-infrastructure-nabs-16m-scale\" hreflang=\"en\">Photon, maker of modern prescription infrastructure, nabs $16M to scale</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/photon-maker-modern-prescription-infrastructure-nabs-16m-scale",
+        "summary": "The lack of visibility into price and convenience in today's prescribing ecosystem leads to unnecessary transfers, unanswered phone calls and abandoned fills, Photon executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 8:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/aidoc-banks-150m-backed-goldman-sachs-scale-clinical-ai-foundation-model\" hreflang=\"en\">Aidoc banks $150M backed by Goldman Sachs to scale clinical AI foundation model</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/aidoc-banks-150m-backed-goldman-sachs-scale-clinical-ai-foundation-model",
+        "summary": "Clinical artificial intelligence startup Aidoc landed a $150 million funding round, less than a year after raising the same nine-figure amount in new financing.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 11:57pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/teladoc-health-reports-strong-momentum-behind-betterhelp-insurance-shift-ceo-says\" hreflang=\"en\">Teladoc Health reports strong momentum behind BetterHelp insurance shift, CEO says</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-reports-strong-momentum-behind-betterhelp-insurance-shift-ceo-says",
+        "summary": "Teladoc Health reported a 2% decline in revenue in the first quarter, but the telehealth giant touted \"meaningful progress\" in scaling insurance coverage for its BetterHelp mental health business as a catalyst for future growth.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 4:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-camizestrant-ambitions-stumble-fda-panel-rejects-novel-oral-serd-proposal\" hreflang=\"en\">AstraZeneca's camizestrant ambitions stumble as FDA panel rejects novel oral SERD proposal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-camizestrant-ambitions-stumble-fda-panel-rejects-novel-oral-serd-proposal",
+        "summary": "An FDA expert panel on Thursday voted 6 to 3 against AstraZeneca's proposal of using its oral SERD camizestrant in a novel first-line switch setting in HR-positive, HER2-negative metastatic breast cancer, dealing an early blow to the British pharma's $5 billion peak sales plan.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 1:18pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Autolus decreases headcount by 13%; Replimune reduces staff</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-calls-time-zymeworks-collab-ending-work-phase-1-stage-cancer-bispecific\" hreflang=\"en\">BMS calls time on Zymeworks collab, ending work on phase 1 cancer bispecific </a>",
+        "url": "https://www.fiercebiotech.com/biotech/bms-calls-time-zymeworks-collab-ending-work-phase-1-stage-cancer-bispecific",
+        "summary": "Bristol Myers Squibb has called time on a bispecific antibody partnership with Zymeworks that the Big Pharma inherited from Celgene.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/indivior-fails-phase-2-expects-significant-impact-rd-team\" hreflang=\"en\">Indivior warns of ‘significant impact’ on R&amp;D team after opioid use disorder drug fails phase 2</a>",
+        "url": "https://www.fiercebiotech.com/biotech/indivior-fails-phase-2-expects-significant-impact-rd-team",
+        "summary": "Indivior ended internal development of an opioid use disorder candidate after a phase 2 trial missed its primary endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 9:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/denmarks-leo-pharma-pays-50m-replay-and-its-preclinical-skin-disease-gene-therapy\" hreflang=\"en\">Leo Pharma pays $50M for Replay and its preclinical skin disease gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/denmarks-leo-pharma-pays-50m-replay-and-its-preclinical-skin-disease-gene-therapy",
+        "summary": "Danish dermatology specialist Leo Pharma is paying $50 million for U.S. gene writing biotech Replay and its preclinical gene therapy for a rare skin disease.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 5:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-raises-full-year-guidance-boosted-its-diagnostics-lab-testing-units\" hreflang=\"en\">Labcorp raises full-year guidance, boosted by diagnostics, lab services</a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-raises-full-year-guidance-boosted-its-diagnostics-lab-testing-units",
+        "summary": "Labcorp is raising its 2026 guidance, buoyed by demand for its diagnostics and central laboratory businesses.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 8:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/beone-agrees-2b-deal-option-preclinical-trispecific-antibody-chinas-huahui\" hreflang=\"en\">BeOne signs $2B deal for option on preclinical trispecific antibody from China’s Huahui </a>",
+        "url": "https://www.fiercebiotech.com/biotech/beone-agrees-2b-deal-option-preclinical-trispecific-antibody-chinas-huahui",
+        "summary": "BeOne Medicines is paying $20 million upfront to reserve the right to buy a preclinical PD-1xCTLA-4xVEGF trispecific antibody from China’s Huahui Health.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 6:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsks-700m-alector-bet-blows-alzheimers-drug-flunks-phase-2\" hreflang=\"en\">GSK’s $700M Alector bet blows up as Alzheimer’s drug flunks phase 2</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsks-700m-alector-bet-blows-alzheimers-drug-flunks-phase-2",
+        "summary": "GSK and Alector have stopped a phase 2 trial of their Alzheimer’s disease drug candidate after an interim analysis found the study was unlikely to hit its primary endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 4:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/avalyn-heads-nasdaq-oversized-300m-ipo-fund-reformulated-respiratory-drugs\" hreflang=\"en\">Avalyn heads to Nasdaq with oversized $300M IPO to fund reformulated respiratory drugs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/avalyn-heads-nasdaq-oversized-300m-ipo-fund-reformulated-respiratory-drugs",
+        "summary": "Avalyn Pharma has overshot its expectations with a $300 million IPO that the biotech will use to fund late-stage studies of its inhaled versions of approved respiratory drugs.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 3:21am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/caredx-expands-cancer-testing-260m-naveris-buy\" hreflang=\"en\">CareDx expands into cancer testing with $260M Naveris buy </a>",
+        "url": "https://www.fiercebiotech.com/medtech/caredx-expands-cancer-testing-260m-naveris-buy",
+        "summary": "Transplant-focused precision medicine company CareDx is making a move into the oncology space, scooping up Massachusetts-based biotech Naveris in a deal worth up to $260 million.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 2:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-plucks-egfr-degrader-pinetree-25-million\" hreflang=\"en\">AstraZeneca plucks preclinical EGFR degrader from Pinetree for $25M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-plucks-egfr-degrader-pinetree-25-million",
+        "summary": "AstraZeneca has paid $25 million to pick up a preclinical EGFR degrader that was at the center of its existing pact with Pinetree Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 2:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-hits-newron-schizophrenia-trial-clinical-hold-after-patient-death\" hreflang=\"en\">FDA hits Newron’s phase 3 schizophrenia trial with clinical hold in US after patient death</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-hits-newron-schizophrenia-trial-clinical-hold-after-patient-death",
+        "summary": "The FDA has halted U.S. enrollment for Newron Pharmaceuticals’ phase 3 schizophrenia trial, following the death of a patient outside of the country.",
+        "source": "Fierce Biotech",
+        "published": "Apr 29, 2026 1:57pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "蚂蚁阿福，开辟AI新战场",
+        "url": "https://www.36kr.com/p/3789392065764612",
+        "summary": "蚂蚁阿福的“行为经济学”",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 01 May 2026 01:08:31 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
+        "url": "https://huggingface.co/papers/2604.26904",
+        "summary": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absence of a systematic framework, especially one for synthesizing verifiable training data and integrating it with agent training and diagnostic evaluation. To address this challenge, we present ClawGym, a scalable framework that supports the full lifecycle of Claw-style personal agent development. Concretely, we construct ClawGym-SynData, a diverse dataset of 13.5K filtered tasks synthesized from pers",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-28T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+        "url": "https://huggingface.co/papers/2604.25914",
+        "summary": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinement, single-language creation-only tasks, and assumption of perfect intent. To bridge these gaps, we introduce DV-World, a benchmark of 260 tasks designed to evaluate DV agents across real-world professional lifecycles. DV-World spans three domains: DV-Sheet for native spreadsheet manipulation including chart and dashboard creation as well as diagnostic repair; DV-Evolution for adapting and restruct",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-27T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T12:37:01.268263+08:00",
+  "counts": {
+    "news": 35,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Federal appeals court blocks mailing of abortion pill mifepristone",
+        "url": "https://www.statnews.com/2026/05/02/mifepristone-abortion-pill-court-ruling-mailing-blocked/",
+        "summary": "Mifepristone, involved in most abortions in the U.S., can now be distributed only in person and at clinics.",
+        "source": "STAT News",
+        "published": "Sat, 02 May 2026 11:36:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT readers on MAHA activists, perimenopause, and diversity in medical school",
+        "url": "https://www.statnews.com/2026/05/02/stat-letters-to-editor-perimenopause-diversity-medical-school-maha/",
+        "summary": "“Unfortunately, the resources don't exist to take every flat-earther to the International Space Station to change their mind,” a STAT reader writes.",
+        "source": "STAT News",
+        "published": "Sat, 02 May 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: What do medical students think about their education?",
+        "url": "https://www.statnews.com/2026/05/02/medical-school-nutrition-preventive-care-rfk-jr/",
+        "summary": "“No one's pulling the pieces together”: a conversation with medical students about preventive care education.",
+        "source": "STAT News",
+        "published": "Sat, 02 May 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/05/01/up-and-down-the-ladder-the-latest-comings-and-goings-7/",
+        "summary": "Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we’ll share it with others.&#160;That’s right.&#160;Send us your changes, and&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 16:47:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Axsome wins FDA nod for Alzheimer’s agitation",
+        "url": "https://www.statnews.com/2026/05/01/biotech-news-axsome-wins-fda-nod-for-alzheimers-agitation/",
+        "summary": "Vinay Prasad's acting replacement, remembering genomics pioneer J. Craig Venter, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 14:08:31 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about obesity drugs and a compounding list, an AstraZeneca setback, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/01/obesity-drugs-excluded-from-compounding-list-astrazeneca-setback/",
+        "summary": "The FDA proposed excluding the active ingredients in popular obesity and diabetes drugs from a list of substances that can be used for compounded versions",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 13:45:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "PFAS is still in some infant formula",
+        "url": "https://www.statnews.com/2026/05/01/health-news-pfas-still-in-some-infant-formula/",
+        "summary": "Casey Means out as surgeon general nominee, America's renewed fertility anxiety, and more health news",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 13:12:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The psychedelic revolution is leaving behind people of color",
+        "url": "https://www.statnews.com/2026/05/01/psychedelics-law-black-hispanic-indigenous-groups-research/",
+        "summary": "Psychedelics’ potential as a form of treatment is virtually unmatched. But their promise faces both scientific uncertainty and thorny political questions.",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "‘Forever chemicals’ in baby formula? Scientists unpack FDA results",
+        "url": "https://www.statnews.com/2026/05/01/fda-infant-formula-safety-pfas-forever-chemical-levels-analyzed/",
+        "summary": "FDA review confirmed overall safety of 16 brands of baby formula. In a STAT Q&#038;A, experts unpack what low-level PFAS findings mean to worried moms.",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Her daughter Mila got a bespoke medicine. Now she’s starting a new biotech to make more",
+        "url": "https://www.statnews.com/2026/05/01/biotech-julia-vitarello-scaling-custom-therapy-everyone-medicines/",
+        "summary": "Efforts to make customized medicines at scale have hit commercial and regulatory roadblocks. Julia Vintarello is trying again.",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: America is worrying about fertility again. But it’s not really about families",
+        "url": "https://www.statnews.com/2026/05/01/america-birth-rate-decline-fertility-eugenics-policy/",
+        "summary": "Where the state once worried about too many births, it now worries about too few.",
+        "source": "STAT News",
+        "published": "Fri, 01 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/how-cleveland-clinic-working-startup-luminai-test-how-ai-can-run-hospital\" hreflang=\"en\">Cleveland Clinic taps startup Luminai to test how AI can run hospital operations</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/how-cleveland-clinic-working-startup-luminai-test-how-ai-can-run-hospital",
+        "summary": "As the Cleveland Clinic works with Luminai, tech leadership sees opportunities to use its tech to tackle other administrative workflows, especially in workflows that are high-volume, complex and operationally intensive, Rohit Chandra, Cleveland Clinic chief digital officer, said.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 11:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/senators-introduce-clean-extension-cost-based-payments-rural-hospitals\" hreflang=\"en\">Senators introduce clean extension to cost-based payments for some rural hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/providers/senators-introduce-clean-extension-cost-based-payments-rural-hospitals",
+        "summary": "The bipartisan reauthorization would add five more years to the Rural Community Hospital Demonstration, a payment model for hospitals with fewer than 51 beds but still too large for Critical Access Hospital designation.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 1:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-value-based-care-won-policy-argument-now-it-has-deliver\" hreflang=\"en\">Industry Voices—Value-based care won the policy argument. Now it has to deliver</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-value-based-care-won-policy-argument-now-it-has-deliver",
+        "summary": "Value-based care has succeeded in changing incentives. The next phase must focus on building the operational capacity required to deliver on those incentives.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 1:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-sage-launches-ehr-integrated-senior-care-workflows-st-lukes\" hreflang=\"en\">Health Tech Weekly Rundown: Sage launches Tasking for senior care workflows; St. Luke’s taps Auxira Health for cardiologist support</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-sage-launches-ehr-integrated-senior-care-workflows-st-lukes",
+        "summary": "Stay up-to-date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 10:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/beth-israel-lahey-health-rolls-out-heidi-ai-scribe-system-wide\" hreflang=\"en\">Beth Israel Lahey Health taps Heidi for system-wide AI scribe rollout</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/beth-israel-lahey-health-rolls-out-heidi-ai-scribe-system-wide",
+        "summary": "The scaled deployment follows a six-month trial for 1,000 providers at the Boston-based health system.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 12:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/omada-signs-optum-rx-new-glp-1-management-program\" hreflang=\"en\">Omada signs on with Optum Rx's GLP-1 management program</a>",
+        "url": "https://www.fiercehealthcare.com/payers/omada-signs-optum-rx-new-glp-1-management-program",
+        "summary": "Omada Health has signed on with Optum Rx to participate in its Weight Engage program, furthering the company's ability to scale its offerings to reach more people who need cardiometabolic care and support.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 2:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/sachshealth-survey-examines-american-perceptions-health-stakeholder-influence\" hreflang=\"en\">Who do Americans believe have the most influence in healthcare?</a>",
+        "url": "https://www.fiercehealthcare.com/providers/sachshealth-survey-examines-american-perceptions-health-stakeholder-influence",
+        "summary": "A new survey report explores the disconnect between who Americans consider influential in healthcare and who they wish had greater influence. The delta was greatest for clinicians.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 10:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tenet-healthcare-paces-ahead-earnings-despite-q1s-volume-curveballs\" hreflang=\"en\">Tenet Healthcare met Q1's volume curveballs with 'old-fashioned discipline'</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tenet-healthcare-paces-ahead-earnings-despite-q1s-volume-curveballs",
+        "summary": "With much of the quarter's volume disruptions sequestered to January and early February, CEO Saum Sutaria, M.D., said Tenet was able to regain ground by adjusting its expenses to better reflect demand, rebooking ambulatory procedures and “focusing more on some of our other types of work in the hospitals.”",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 3:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/providers-urge-education-department-reconsider-which-jobs-face-stiffer-student-loan-caps\" hreflang=\"en\">Education Department finalizes industry-opposed student loan caps</a>",
+        "url": "https://www.fiercehealthcare.com/providers/providers-urge-education-department-reconsider-which-jobs-face-stiffer-student-loan-caps",
+        "summary": "The final rule excludes post-baccalaureate health roles like advanced practice registered nurses and physician associates from higher borrowing caps permitted for \"professional\" degrees, like physicians. Healthcare groups had warned it could hamstring the clinical workforce pipeline.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 2, 2026 1:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-pulls-surgeon-general-nomination-casey-means-names-nicole-saphier-new-pick\" hreflang=\"en\">Trump pulls surgeon general nomination of Casey Means, names Nicole Saphier as new pick</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-pulls-surgeon-general-nomination-casey-means-names-nicole-saphier-new-pick",
+        "summary": "The president blamed Senate HELP Chair Bill Cassidy for blocking the confirmation of Means, an influential voice within the Make America Healthy Again movement. His new choice is a practicing radiologist, Fox News medical contributor and an author previously critical of the government's COVID-19 pandemic response.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 2:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/doj-launches-west-coast-strike-force-target-fraud-arizona-nevada-northern-california\" hreflang=\"en\">DOJ launches West Coast Health Care Strike Force to target fraud in Arizona, Nevada, Northern California</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/doj-launches-west-coast-strike-force-target-fraud-arizona-nevada-northern-california",
+        "summary": "The Department of Justice has formed a new fraud strike force to target schemes across Arizona, Nevada and Northern California, the agency announced Thursday.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 4:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-posts-165b-profit-q1-earnings-beat\" hreflang=\"en\">Cigna to exit ACA market, pursue strategic alternatives for eviCore unit</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-posts-165b-profit-q1-earnings-beat",
+        "summary": "The Cigna Group beat the Street on both earnings and revenue in the first quarter of 2026, posting $1.65 billion in profit for Q1.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 30, 2026 7:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ma-used-be-only-way-go-why-seaports-ceo-opted-upsized-255m-ipo\" hreflang=\"en\">‘M&amp;A used to be the only way to go’: Why Seaport’s CEO opted for route to upsized $255M IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ma-used-be-only-way-go-why-seaports-ceo-opted-upsized-255m-ipo",
+        "summary": "\"We want to develop those programs as far as we can ourselves,” Seaport CEO Daphne Zohar told Fierce.",
+        "source": "Fierce Biotech",
+        "published": "May 1, 2026 3:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/summit-pd-1vegf-interim-trial-miss-surprises-analysts-shares-tumble\" hreflang=\"en\">Summit's PD-1xVEGF interim trial miss surprises analysts, shares tumble</a>",
+        "url": "https://www.fiercebiotech.com/pharma/summit-pd-1vegf-interim-trial-miss-surprises-analysts-shares-tumble",
+        "summary": "A surprise interim trial miss in ivonescimab’s closely watched Harmoni-3 trial has sent Summit Therapeutics’ shares tumbling, casting a shadow over the company’s momentum as the star PD-1xVEGF bispecific heads into the ASCO annual meeting with a prestigious spot on the plenary session.",
+        "source": "Fierce Biotech",
+        "published": "May 1, 2026 10:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cber-chief-prasad-steps-aside-deputy-takes-reins-search-successor-continues\" hreflang=\"en\">CBER chief Prasad steps aside, deputy takes the reins as search for successor continues</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cber-chief-prasad-steps-aside-deputy-takes-reins-search-successor-continues",
+        "summary": "Katherine Szarama, Ph.D., will take over as CBER director in an acting capacity while the search for a permanent director continues.",
+        "source": "Fierce Biotech",
+        "published": "May 1, 2026 9:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ligand-tries-disembark-part-viking-pact-alleging-contract-breach\" hreflang=\"en\">Ligand tries to disembark from part of Viking pact, alleging contract breach</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ligand-tries-disembark-part-viking-pact-alleging-contract-breach",
+        "summary": "Viking Therapeutics’ collaboration with Ligand Pharmaceuticals has sailed into some trouble, with one of the partners keen to jettison part of the pact.",
+        "source": "Fierce Biotech",
+        "published": "May 1, 2026 8:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-astellas-appoints-new-top-strategist-sanofi-japan\" hreflang=\"en\">Chutes &amp; Ladders—Astellas appoints new top strategist from Sanofi Japan</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astellas-appoints-new-top-strategist-sanofi-japan",
+        "summary": "After last month’s departure of longtime executive Adam Pearson, Astellas has picked out a new strategist to fill the open spot on its C-suite with Takahiko Iwaya, who takes over as chief strategy officer on July 1.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 5:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-axes-5b-car-t-dream-months-after-touting-best-disease-efficacy\" hreflang=\"en\">J&amp;J axes $5B CAR-T dream months after touting best-in-disease efficacy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jj-axes-5b-car-t-dream-months-after-touting-best-disease-efficacy",
+        "summary": "Johnson &amp; Johnson has dropped a pair of CAR-T cell therapies, axing programs it once predicted could deliver peak sales north of $5 billion.",
+        "source": "Fierce Biotech",
+        "published": "May 1, 2026 8:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/genomics-inks-partnership-deal-greywolf-assess-gene-datasets\" hreflang=\"en\">Genomics inks partnership deal with Greywolf to assess gene datasets</a>",
+        "url": "https://www.fiercebiotech.com/medtech/genomics-inks-partnership-deal-greywolf-assess-gene-datasets",
+        "summary": "Genomics inked a partnership deal with fellow U.K.-based biotech Greywolf Therapeutics to organize and evaluate ERAP enzymes and how they influence autoimmune disease risks.",
+        "source": "Fierce Biotech",
+        "published": "May 1, 2026 8:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-abandons-candidates-cancer-and-sjogrens-syndrome-after-ph-2-data-not-par\" hreflang=\"en\">Amgen abandons candidates for cancer, Sjögren’s syndrome over weak ph. 2 data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-candidates-cancer-and-sjogrens-syndrome-after-ph-2-data-not-par",
+        "summary": "Amgen has pulled the plug on midstage drug candidates for cancer and the autoimmune disease Sjögren’s syndrome, terminating five clinical trials in the process.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 6:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-camizestrant-ambitions-stumble-fda-panel-rejects-novel-oral-serd-proposal\" hreflang=\"en\">AstraZeneca's camizestrant ambitions stumble as FDA panel rejects novel oral SERD proposal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-camizestrant-ambitions-stumble-fda-panel-rejects-novel-oral-serd-proposal",
+        "summary": "An FDA expert panel on Thursday voted 6 to 3 against AstraZeneca's proposal of using its oral SERD camizestrant in a novel first-line switch setting in HR-positive, HER2-negative metastatic breast cancer, dealing an early blow to the British pharma's $5 billion peak sales plan.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 1:18pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Autolus decreases headcount by 13%; Replimune reduces staff</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-calls-time-zymeworks-collab-ending-work-phase-1-stage-cancer-bispecific\" hreflang=\"en\">BMS calls time on Zymeworks collab, ending work on phase 1 cancer bispecific </a>",
+        "url": "https://www.fiercebiotech.com/biotech/bms-calls-time-zymeworks-collab-ending-work-phase-1-stage-cancer-bispecific",
+        "summary": "Bristol Myers Squibb has called time on a bispecific antibody partnership with Zymeworks that the Big Pharma inherited from Celgene.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/indivior-fails-phase-2-expects-significant-impact-rd-team\" hreflang=\"en\">Indivior warns of ‘significant impact’ on R&amp;D team after opioid use disorder drug fails phase 2</a>",
+        "url": "https://www.fiercebiotech.com/biotech/indivior-fails-phase-2-expects-significant-impact-rd-team",
+        "summary": "Indivior ended internal development of an opioid use disorder candidate after a phase 2 trial missed its primary endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 9:43am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains",
+        "url": "https://huggingface.co/papers/2604.24902",
+        "summary": "Foundation models are routinely fine-tuned for use in particular domains, yet safety assessments are typically conducted only on base models, implicitly assuming that safety properties persist through downstream adaptation. We test this assumption by analyzing the safety behavior of 100 models, including widely deployed fine-tunes in the medical and legal domains as well as controlled adaptations of open foundation models alongside their bases. Across general-purpose and domain-specific safety benchmarks, we find that benign fine-tuning induces large, heterogeneous, and often contradictory cha",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
+        "url": "https://huggingface.co/papers/2604.26904",
+        "summary": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absence of a systematic framework, especially one for synthesizing verifiable training data and integrating it with agent training and diagnostic evaluation. To address this challenge, we present ClawGym, a scalable framework that supports the full lifecycle of Claw-style personal agent development. Concretely, we construct ClawGym-SynData, a diverse dataset of 13.5K filtered tasks synthesized from pers",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-28T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

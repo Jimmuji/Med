@@ -1,0 +1,326 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T12:13:34.417841+08:00",
+  "counts": {
+    "news": 37,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: French regulator fines Novo and Lilly over weight loss ad campaigns",
+        "url": "https://www.statnews.com/pharmalot/2026/05/04/french-regulator-fines-novo-lilly-weight-loss-ad-campaigns/",
+        "summary": "France's medicines regulator has fined Novo Nordisk and Eli Lilly over their weight loss ad campaigns.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 18:16:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Mifepristone court ruling makes drug development riskier for everyone",
+        "url": "https://www.statnews.com/2026/05/04/mifepristone-supreme-court-fda-biotech-pharma/",
+        "summary": "The 5th Circuit’s ruling on mifepristone “is bad for health care access, and it’s also bad for innovation,” writes Grace E. Colón.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 17:34:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies",
+        "url": "https://www.statnews.com/2026/05/04/supreme-court-restores-access-abortion-pill-mifepristone/",
+        "summary": "The Supreme Court on Monday restored broad access to the abortion pill mifepristone, blocking a ruling that had threatened to upend one of the main ways abortion is provided across the&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 15:24:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Researchers urge study of paternal deaths, though a new paper finds fatherhood is protective",
+        "url": "https://www.statnews.com/2026/05/04/maternal-health-paternal-mortality-new-study-jama-pediatrics/",
+        "summary": "A research letter published on Monday in JAMA Pediatrics argues that paternal mortality deserve more attention",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pump the brakes on AI, buddy; and deposition deadlock",
+        "url": "https://www.statnews.com/2026/05/04/elevance-medicare-advantage-lawsuit-artificial-intelligence-emergency-departments/",
+        "summary": "It's tough to write nuanced headlines, but a new study on AI in emergency rooms is getting way overhyped.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 14:44:04 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "UCB to acquire maker of antibody treatments for autoimmune diseases",
+        "url": "https://www.statnews.com/2026/05/04/biotech-news-ucb-acquires-candid-antibody-treatments/",
+        "summary": "A second shot at gene therapy for Huntington's, China's tightening grip on pharma supply chains, and more Readout biotech updates",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 14:28:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak",
+        "url": "https://www.statnews.com/2026/05/04/what-to-know-about-hantavirus-cruise-ship-outbreak/",
+        "summary": "A rodent-borne illness is suspected of causing an outbreak aboard a cruise ship that has killed three people and sickened others. Here's what to know about hantavirus.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 13:59:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an abortion pill controversy, another UCB deal, and more news",
+        "url": "https://www.statnews.com/pharmalot/2026/05/04/abortion-pill-mifepristone-controversy-ucb-deal/",
+        "summary": "Two drugmakers asked the U.S. Supreme Court to restore mail-order access to the abortion pill mifepristone, after an appeals court suspended deliveries",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 13:58:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Federal court blocks mailing of mifepristone",
+        "url": "https://www.statnews.com/2026/05/04/health-news-federal-court-blocks-mailing-of-mifepristone/",
+        "summary": "Longevity \"blue zones,\" an update on uterine transplant science, and more Morning Rounds health news",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 13:28:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech raises $42 million to run Huntington’s disease trial",
+        "url": "https://www.statnews.com/2026/05/04/biotech-startup-latus-bio-raises-42-million-run-huntingtons-trial/",
+        "summary": "Latus Bio raised $42 million as it prepares to seek FDA approval to start a clinical trial for its gene therapy for Huntington's disease.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 11:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: STAT+: China’s strict new supply chain regulations could create massive problems for Western biopharma companies",
+        "url": "https://www.statnews.com/2026/05/04/china-biotech-pharmaceuticals-supply-chain-regulations/",
+        "summary": "China is now a peer competitor in drug innovation — and it intends to stay that way on its own terms, writes Dennis Kwok.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Are blue zones real? Answering that question is harder than ever",
+        "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
+        "summary": "\"Blue zones\" as a concept have strayed far and wide from their humble roots, write Shelley Wood and Eric Topol.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Immigration changes are driving foreign researchers to leave the U.S. — or not come to begin with",
+        "url": "https://www.statnews.com/2026/05/04/trump-immigration-policy-stat-survey-measures-science-impact/",
+        "summary": "Labs are seeing fewer applications from international students and researchers, and some doctoral students are considering leaving early.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/american-hospital-association-west-health-institute-partner-improve-health-system-tech\" hreflang=\"en\">American Hospital Association, West Health Institute partner to help health systems scale new tech</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/american-hospital-association-west-health-institute-partner-improve-health-system-tech",
+        "summary": "The three-year initiative will prioritize EHR optimization, virtual care and AI utilization and integration for participating health systems and hospitals.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 3:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/commonspirits-ohio-based-trinity-health-system-exploring-upmc-integration\" hreflang=\"en\">CommonSpirit locks in sale of Ohio-based Trinity Health System to UPMC</a>",
+        "url": "https://www.fiercehealthcare.com/providers/commonspirits-ohio-based-trinity-health-system-exploring-upmc-integration",
+        "summary": "The parties have progressed their talks to a definitive agreement that would give UPMC a foothold in the neighboring Buckeye State.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2025 3:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/wakemed-healths-plans-join-atrium-health-face-swift-pushback-nc-officials\" hreflang=\"en\">WakeMed Health's plans to join Atrium Health face swift pushback from NC officials</a>",
+        "url": "https://www.fiercehealthcare.com/providers/wakemed-healths-plans-join-atrium-health-face-swift-pushback-nc-officials",
+        "summary": "A combination unveiled May 1 would bring WakeMed Health $2 billion in promised investment from the major nonprofit system. State officials voiced concerns about the impact of such consolidation and the value of those commitments, delaying a planned go-ahead vote by a county board.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 1:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/48-reproductive-age-medicaid-enrollees-living-states-restricting-abortion-coverage-kff\" hreflang=\"en\">Nearly half of reproductive age women with Medicaid coverage live in states restricting abortion: KFF</a>",
+        "url": "https://www.fiercehealthcare.com/providers/48-reproductive-age-medicaid-enrollees-living-states-restricting-abortion-coverage-kff",
+        "summary": "Despite the expansion of abortion funding for Medicaid enrollees, nearly half of women of reproductive age with Medicaid coverage live in a state that follows the Hyde Amendment restrictions (29%) or has a law banning the provision of abortion (19%).",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 11:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-ceo-expects-short-delay-cms-proposed-risk-adjustment-changes\" hreflang=\"en\">Alignment CEO expects short delay for CMS' proposed risk adjustment changes</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-ceo-expects-short-delay-cms-proposed-risk-adjustment-changes",
+        "summary": "Alignment Healthcare executives weighed in on the final Medicare Advantage rate notice last week, with CEO John Kao saying he expects regulators to return to plans for a new risk adjustment model in short order.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 2:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/scotus-temporarily-restores-online-access-abortion-pill-after-appeals-court-ruling\" hreflang=\"en\">SCOTUS temporarily restores online access to abortion pill after appeals court ruling</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/scotus-temporarily-restores-online-access-abortion-pill-after-appeals-court-ruling",
+        "summary": "The U.S. Supreme Court has temporarily reinstated online access to the abortion pill mifepristone after a federal appeals court in New Orleans ruled to prevent mifepristone from being prescribed over the phone and sent through the mail in the U.S. while a Louisiana lawsuit plays out.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 11:50am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Cuts at HCA Healthcare; Baptist Health laying off 150</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/your-payment-integrity-partner-shouldnt-be-problem\" hreflang=\"en\">The Case for a More Proactive Payment Integrity Program</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/your-payment-integrity-partner-shouldnt-be-problem",
+        "summary": "Spring is the season of renewals and hard conversations. If your payment integrity program hasn't kept pace with a shifting market, the gap between what you're paying and what you should be paying is growing every day. Here's what a proactive approach actually looks like.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 4:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/how-mrd-testing-reshaping-breast-cancer-risk-assessment\" hreflang=\"en\">How MRD Testing Is Reshaping Breast Cancer Risk Assessment</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/how-mrd-testing-reshaping-breast-cancer-risk-assessment",
+        "summary": "New B-59 data shows circulating tumor DNA (ctDNA) and molecular residual disease (MRD) testing can better predict recurrence risk and help guide more personalized care in TNBC.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 23, 2026 2:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/orchestrating-affordability-critical-new-role-health-plan\" hreflang=\"en\">Orchestrating Affordability: The Critical New Role of the Health Plan</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/orchestrating-affordability-critical-new-role-health-plan",
+        "summary": "Affordability won’t come from being a passive payer. See how health plans can connect networks, benefits, and experience to lower total cost.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 4:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/deeper-dive-access-model-whos-participating-potential-headwinds-and-how-it-could-spur\" hreflang=\"en\">A deeper dive into the ACCESS Model—Who’s participating, potential headwinds and how it could spur health plan adoption</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/deeper-dive-access-model-whos-participating-potential-headwinds-and-how-it-could-spur",
+        "summary": "Many of the 150 digital health companies tapped to participate in the first cohort of the ACCESS model are bullish that it marks an inflection point for connected care and a way to prove out that AI-enabled medical services can move the needle on cost and quality.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 26, 2026 1:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/how-cleveland-clinic-working-startup-luminai-test-how-ai-can-run-hospital\" hreflang=\"en\">Cleveland Clinic taps startup Luminai to test how AI can run hospital operations</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/how-cleveland-clinic-working-startup-luminai-test-how-ai-can-run-hospital",
+        "summary": "As the Cleveland Clinic works with Luminai, tech leadership sees opportunities to use its tech to tackle other administrative workflows, especially in workflows that are high-volume, complex and operationally intensive, Rohit Chandra, Cleveland Clinic chief digital officer, said.",
+        "source": "Fierce Healthcare",
+        "published": "May 1, 2026 11:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing\" hreflang=\"en\">Private Swiss biotechs hit record funding amid slowdown in public financing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
+        "summary": "Funding for privately traded Swiss biotechs hit a new high last year, climbing 38% to 1.15 billion Swiss francs ($1.5 billion). However, a relatively small pool of companies drove the funding jump while many of their peers raised nothing, echoing the global gap between the haves and have-nots.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 8:32am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved\" hreflang=\"en\">Vertex drops Moderna-partnered inhaled cystic fibrosis candidate after unresolved tolerability issues</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved",
+        "summary": "After pausing a trial for a Moderna-partnered cystic fibrosis candidate due to subpar tolerability, Vertex Pharmaceuticals has now decided to discontinue the program entirely.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 5:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda\" hreflang=\"en\">Passage launches strategic review and 75% layoffs after gene therapy path blocked by FDA</a>",
+        "url": "https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda",
+        "summary": "After some tough feedback from the FDA on the path forward for its lead gene therapy, Passage Bio has launched a strategic review and set out a plan to whittle down its headcount by 75%.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 12:36pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/concerted-industry-government-effort-strand-ceo-jake-becraft-fda-ind-reform-and-china\" hreflang=\"en\">‘A concerted industry-government effort’: Strand Therapeutics CEO Jake Becraft on FDA’s IND reform and China</a>",
+        "url": "https://www.fiercebiotech.com/biotech/concerted-industry-government-effort-strand-ceo-jake-becraft-fda-ind-reform-and-china",
+        "summary": "For Jake Becraft, Ph.D., the future of America’s biomedical innovation isn’t just playing out in the lab but is being shaped by industrial policy. In a recent interview with Fierce Biotech, the Strand Therapeutics CEO warned that the U.S. faces a critical choice: either modernize its regulatory framework for early-stage clinical trials or risk losing the capabilities permanently.",
+        "source": "Fierce Biotech",
+        "published": "Apr 28, 2026 2:42am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win\" hreflang=\"en\">Takeda pivotal trial win improves convenience for PID patients relative to HyQvia</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-asset-improves-convenience-pid-patients-relative-hyqvia-phase-2-win",
+        "summary": "A pivotal study of a Takeda primary immunodeficiency disease (PID) asset has hit its primary endpoint, demonstrating pharmacokinetic (PK) comparability between the asset and HyQvia, which was approved to treat PID in 2014.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 10:09am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mirum-maps-fda-path-after-anti-itch-candidate-scores-ph-2-win\" hreflang=\"en\">Mirum maps FDA path after anti-itch candidate scores ph. 2 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mirum-maps-fda-path-after-anti-itch-candidate-scores-ph-2-win",
+        "summary": "Mirum Pharmaceuticals is moving toward an FDA filing after its small molecule volixibat significantly reduced severe itching in patients with a rare liver disease.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 10:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions\" hreflang=\"en\">Windward catches $165M breeze to fuel long-acting TSLP ambitions</a>",
+        "url": "https://www.fiercebiotech.com/biotech/windward-catches-165m-breeze-fuel-long-acting-tslp-ambitions",
+        "summary": "Windward Bio is in full sail with a $165 million crossover financing to push its long-acting anti-TSLP antibody into phase 3, betting that a twice-yearly dosing schedule will be a key differentiator in an increasingly crowded respiratory market.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 10:07am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celcuitys-gedatolisib-beats-novartis-piqray-phase-3-breast-cancer-study\" hreflang=\"en\">Celcuity’s gedatolisib beats Novartis’ Piqray in phase 3 breast cancer study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/celcuitys-gedatolisib-beats-novartis-piqray-phase-3-breast-cancer-study",
+        "summary": "A phase 3 trial of Celcuity’s pan-PI3K/mTOR inhibitor has hit its primary endpoint, clearing the biotech to file a second submission for a molecule already under review by the FDA.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 5:53am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/scaling-theranostics-through-access-safety-and-trust\" hreflang=\"en\">Scaling theranostics through access, safety and trust</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/scaling-theranostics-through-access-safety-and-trust",
+        "summary": "Curium’s Mike Patterson on improving access, safety and trust to scale theranostics and enhance patient care.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 4:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ucb-inks-2b-candid-buyout-join-gilead-autoimmune-field\" hreflang=\"en\">UCB inks $2B Candid buyout to join Gilead in autoimmune field</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ucb-inks-2b-candid-buyout-join-gilead-autoimmune-field",
+        "summary": "UCB has struck a deal to acquire Candid Therapeutics for $2 billion upfront, hijacking a planned reverse merger with Rallybio to challenge Gilead for an emerging opportunity for T-cell engagers.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 5:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/real-momentum-or-completely-absurd-trump-support-offers-psychedelic-field-murky-path\" hreflang=\"en\">‘Real momentum’ or ‘completely absurd’? How Trump’s support has shaken up psychedelics</a>",
+        "url": "https://www.fiercebiotech.com/biotech/real-momentum-or-completely-absurd-trump-support-offers-psychedelic-field-murky-path",
+        "summary": "The Trump administration's support could launch psychedelics across the regulatory finish line or doom the field to perpetual questions of legitimacy.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 12:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/nuvalent-teams-guardant-health-companion-diagnostics\" hreflang=\"en\">Nuvalent teams up with Guardant Health for companion diagnostics</a>",
+        "url": "https://www.fiercebiotech.com/medtech/nuvalent-teams-guardant-health-companion-diagnostics",
+        "summary": "Massachusetts biotech Nuvalent is turning to Guardant Health to develop companion diagnostics for its targeted cancer drugs, signing a multi-year deal to tap into Guardant’s “Infinity” platform.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 2:49am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+        "url": "https://huggingface.co/papers/2605.02240",
+        "summary": "We introduce PhysicianBench, a benchmark for evaluating LLM agents on physician tasks grounded in real clinical setting within electronic health record (EHR) environments. Existing medical agent benchmarks primarily focus on static knowledge recall, single-step atomic actions, or action intent without verifiable execution against the environment. As a result, they fail to capture the long-horizon, composite workflows that characterize real clinical systems. PhysicianBench comprises 100 long-horizon tasks adapted from real consultation cases between primary care and subspecialty physicians, wit",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-03T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains",
+        "url": "https://huggingface.co/papers/2604.24902",
+        "summary": "Foundation models are routinely fine-tuned for use in particular domains, yet safety assessments are typically conducted only on base models, implicitly assuming that safety properties persist through downstream adaptation. We test this assumption by analyzing the safety behavior of 100 models, including widely deployed fine-tunes in the medical and legal domains as well as controlled adaptations of open foundation models alongside their bases. Across general-purpose and domain-specific safety benchmarks, we find that benign fine-tuning induces large, heterogeneous, and often contradictory cha",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-26T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

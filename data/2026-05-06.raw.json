@@ -1,0 +1,366 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T12:31:03.478893+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Did AI really beat doctors at diagnosis?",
+        "url": "https://www.statnews.com/2026/05/05/did-ai-really-beat-doctors-at-diagnosis-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A high-profile study on AI's diagnostic capabilities, role of telehealth in abortion access, and an Epic lawsuit.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 19:51:55 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharma’s reputation among patient groups rose last year, but concerns remain over access and pricing",
+        "url": "https://www.statnews.com/pharmalot/2026/05/05/pharma-reputation-patient-groups-rose-slightly-last-year/",
+        "summary": "The pharma industry saw its reputation among patient groups inch up last year, a new survey finds, but concerns remain over access and pricing.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 17:45:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A new attack on AMA’s billing codes",
+        "url": "https://www.statnews.com/2026/05/05/cpt-codes-draw-scrutiny-dc-diagnosis-newsletter/",
+        "summary": "A key GOP lawmaker is broadening the party's efforts to combat health care fraud.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 17:00:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Are analysts too quick to gloss over Lilly’s liver case?",
+        "url": "https://www.statnews.com/2026/05/05/biotech-news-analysts-glossing-over-eli-lilly-liver-case/",
+        "summary": "Cytokinetics' Myqorzo's trial results, Johnson &#038; Johnson's IBD therapy, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 14:35:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. targeting antidepressants, J&J pushing an IBD drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/05/rfk-jr-targets-ssri-antidepressants-jnj-pushes-ibd-drug/",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. announced initiatives to rein in prescribing of SSRIs, the most widely used antidepressants",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 13:12:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What you need to know about hantavirus (don’t panic)",
+        "url": "https://www.statnews.com/2026/05/05/health-news-hantavirus-what-to-know-dont-panic-though/",
+        "summary": "The latest on the abortion pill, paternal deaths, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 11:44:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cytokinetics drug Myqorzo meets twin efficacy goals in study of genetic heart disease",
+        "url": "https://www.statnews.com/2026/05/05/cytokinetics-myqorzo-non-obstructive-hypertrophic-cardiomyopathy-trial/",
+        "summary": "A Cytokinetics heart disease drug — already approved in one indication — succeeded in another Phase 3 trial, a potential boost for sales.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 11:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Top lawmaker takes aim at doctor lobby, linking AMA’s billing codes to fraud fight",
+        "url": "https://www.statnews.com/2026/05/05/ama-payment-codes-fraud-target-gop-oversight-james-comer/",
+        "summary": "A top Republican is asking if the AMA's codes are helping to fuel health care fraud.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The cruise ship hantavirus outbreak is a warning sign to the U.S.",
+        "url": "https://www.statnews.com/2026/05/05/hantavirus-cruise-ship-outbreak-who-world-cup/",
+        "summary": "Leaving the WHO means the U.S. lacks access to necessary information about infectious disease.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The ‘brain drain’ narrative about health professionals misses half of the story",
+        "url": "https://www.statnews.com/2026/05/05/brain-drain-doctors-returning-home-systems/",
+        "summary": "52 health professionals returned home to 43 countries. Here are the unexpected challenges and opportunities they faced.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Johnson & Johnson advances IBD therapy, despite trial miss",
+        "url": "https://www.statnews.com/2026/05/05/johnson-and-johnson-ibd-therapy-no-meaningful-improvement/",
+        "summary": "A closely watched therapy developed by Johnson &#38; Johnson failed to show a statistically meaningful improvement for IBD patients.",
+        "source": "STAT News",
+        "published": "Tue, 05 May 2026 05:05:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: French regulator fines Novo and Lilly over weight loss ad campaigns",
+        "url": "https://www.statnews.com/pharmalot/2026/05/04/french-regulator-fines-novo-lilly-weight-loss-ad-campaigns/",
+        "summary": "France's medicines regulator has fined Novo Nordisk and Eli Lilly over their weight loss ad campaigns.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 18:16:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Mifepristone court ruling makes drug development riskier for everyone",
+        "url": "https://www.statnews.com/2026/05/04/mifepristone-supreme-court-fda-biotech-pharma/",
+        "summary": "The 5th Circuit’s ruling on mifepristone “is bad for health care access, and it’s also bad for innovation,” writes Grace E. Colón.",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 17:34:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies",
+        "url": "https://www.statnews.com/2026/05/04/supreme-court-restores-access-abortion-pill-mifepristone/",
+        "summary": "The Supreme Court on Monday restored broad access to the abortion pill mifepristone, blocking a ruling that had threatened to upend one of the main ways abortion is provided across the&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 15:24:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Researchers urge study of paternal deaths, though a new paper finds fatherhood is protective",
+        "url": "https://www.statnews.com/2026/05/04/maternal-health-paternal-mortality-new-study-jama-pediatrics/",
+        "summary": "A research letter published on Monday in JAMA Pediatrics argues that paternal mortality deserve more attention",
+        "source": "STAT News",
+        "published": "Mon, 04 May 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/pricey-management-consultants-brought-little-no-observable-benefits-nonprofit-hospitals\" hreflang=\"en\">For nonprofit hospitals, pricey management consultants haven't yielded better performances: study</a>",
+        "url": "https://www.fiercehealthcare.com/providers/pricey-management-consultants-brought-little-no-observable-benefits-nonprofit-hospitals",
+        "summary": "An analysis comparing nonprofit hospitals that did or did not hire a management consultant found on average \"no evidence of meaningful changes” across various measures of their finances, operations or quality-of-care outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "May 5, 2026 4:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Highmark hires former Optum CEO; Premier taps new chief</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/wellstar-partners-bd-implement-ai-driven-medication-management-system\" hreflang=\"en\">Wellstar partners with BD to implement AI-driven medication management system</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/wellstar-partners-bd-implement-ai-driven-medication-management-system",
+        "summary": "The companies said the collaboration “reflects a shared vision to strengthen safety, efficiency and patient outcomes across the continuum of care” in the May 5 announcement.",
+        "source": "Fierce Healthcare",
+        "published": "May 5, 2026 2:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-reduce-prior-auth-requirements-30\" hreflang=\"en\">UnitedHealthcare to reduce prior auth requirements by 30%</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-reduce-prior-auth-requirements-30",
+        "summary": "UnitedHealthcare announced Tuesday that it will further ease prior authorization requirements for a slew of services.",
+        "source": "Fierce Healthcare",
+        "published": "May 5, 2026 1:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Enzo Health pockets $20M; XCaliber lands $6.5M for agentic operating system </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/american-medical-associations-handling-cpt-codes-enters-congress-crosshairs\" hreflang=\"en\">House Oversight chair asks CMS how CPT coding complexity fuels improper billing</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/american-medical-associations-handling-cpt-codes-enters-congress-crosshairs",
+        "summary": "Another top Republican lawmaker floated plans to overhaul the Current Procedural Terminology, or CPT, codes in a letter criticizing their complexity and suggesting the American Medical Association's handling of the proprietary system \"creates an environment where billing inaccuracies can flourish.\"",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2025 12:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cvs-expand-biosimilar-formulary-adoptions-improve-affordability-accessibility\" hreflang=\"en\">CVS to expand biosimilar formulary adoptions to improve affordability, accessibility</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cvs-expand-biosimilar-formulary-adoptions-improve-affordability-accessibility",
+        "summary": "The move to prioritize biosimilars comes as the company seeks to improve affordability, access and value. Changes will be effective July 1.",
+        "source": "Fierce Healthcare",
+        "published": "May 5, 2026 11:16am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-rolls-out-outbound-ai-agent-personalized-patient-outreach\" hreflang=\"en\">Assort Health rolls out outbound AI agent for personalized patient outreach</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-rolls-out-outbound-ai-agent-personalized-patient-outreach",
+        "summary": "Startup Assort Health developed an outbound AI agent that can proactively reach out to patients to automate appointment rescheduling, close open referrals, tackle payment collections and accelerate flu shot outreach.",
+        "source": "Fierce Healthcare",
+        "published": "May 5, 2026 7:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthcare-dealmakers-uconn-health-grows-centene-subsidiaries-merge-and-more\" hreflang=\"en\">Healthcare Dealmakers—UConn Health grows, Centene subsidiaries merge and more</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-uconn-health-grows-centene-subsidiaries-merge-and-more",
+        "summary": "UnitedHealth Group's plans to acquire a tech platform, TruBridge to be acquired for $557 million and more merger and acquisition news from April.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 4:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/american-hospital-association-west-health-institute-partner-improve-health-system-tech\" hreflang=\"en\">American Hospital Association, West Health Institute partner to help health systems scale new tech</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/american-hospital-association-west-health-institute-partner-improve-health-system-tech",
+        "summary": "The three-year initiative will prioritize EHR optimization, virtual care and AI utilization and integration for participating health systems and hospitals.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 3:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/commonspirits-ohio-based-trinity-health-system-exploring-upmc-integration\" hreflang=\"en\">CommonSpirit locks in sale of Ohio-based Trinity Health System to UPMC</a>",
+        "url": "https://www.fiercehealthcare.com/providers/commonspirits-ohio-based-trinity-health-system-exploring-upmc-integration",
+        "summary": "The parties have progressed their talks to a definitive agreement that would give UPMC a foothold in the neighboring Buckeye State.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2025 3:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/wakemed-healths-plans-join-atrium-health-face-swift-pushback-nc-officials\" hreflang=\"en\">WakeMed Health's plans to join Atrium Health face swift pushback from NC officials</a>",
+        "url": "https://www.fiercehealthcare.com/providers/wakemed-healths-plans-join-atrium-health-face-swift-pushback-nc-officials",
+        "summary": "A combination unveiled May 1 would bring WakeMed Health $2 billion in promised investment from the major nonprofit system. State officials voiced concerns about the impact of such consolidation and the value of those commitments, delaying a planned go-ahead vote by a county board.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 1:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-arcellx-buyout-close-gilead-trims-108-jobs-car-t-biotechs-redwood-city-outpost\" hreflang=\"en\">After Arcellx buyout close, Gilead trims 108 jobs at CAR-T biotech's Redwood City outpost</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-arcellx-buyout-close-gilead-trims-108-jobs-car-t-biotechs-redwood-city-outpost",
+        "summary": "With Gilead's $7.8 billion buyout of Arcellx complete, the California pharma is consolidating some of the workforce at the acquired company.",
+        "source": "Fierce Biotech",
+        "published": "May 5, 2026 3:05pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/madrigal-boosts-mash-pipeline-1b-biobucks-license-arrowhead-asset\" hreflang=\"en\">Madrigal continues MASH deal spree with $1B biobucks license for Arrowhead asset rejected by J&amp;J</a>",
+        "url": "https://www.fiercebiotech.com/biotech/madrigal-boosts-mash-pipeline-1b-biobucks-license-arrowhead-asset",
+        "summary": "Madrigal Pharmaceuticals has struck a backloaded deal for the global license to an Arrowhead Pharmaceuticals phase 1 asset for patients with metabolic dysfunction-associated steatohepatitis (MASH).",
+        "source": "Fierce Biotech",
+        "published": "May 5, 2026 10:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Cytospire's $83M for TCEs; Vivacta snags $50M+ series A</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/olympus-endorobotics-distribution-pact-robot-assisted-endoscopic-tech\" hreflang=\"en\">Olympus, EndoRobotics in distribution pact for robot-assisted endoscopic tech</a>",
+        "url": "https://www.fiercebiotech.com/medtech/olympus-endorobotics-distribution-pact-robot-assisted-endoscopic-tech",
+        "summary": "Olympus inked a collaboration deal for the global distribution of robot-assisted technologies produced by South Korea’s EndoRobotics with a focus on endoscopic procedures.",
+        "source": "Fierce Biotech",
+        "published": "May 5, 2026 10:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub\" hreflang=\"en\">Sanofi expands AI capabilities, investing $294M to scale Toronto hub</a>",
+        "url": "https://www.fiercebiotech.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub",
+        "summary": "Sanofi is supercharging its artificial intelligence capabilities. The French pharma is investing $294 million to expand its global AI center of excellence in Toronto, kicking off a scale-up of the digital infrastructure it built at the Canadian hub four years ago.",
+        "source": "Fierce Biotech",
+        "published": "May 5, 2026 9:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizers-23b-trillium-bet-ends-failure-remaining-cd47-blocker-scrapped\" hreflang=\"en\">Pfizer’s $2.3B Trillium bet ends in failure as remaining CD47 blocker scrapped along with T-cell engager</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizers-23b-trillium-bet-ends-failure-remaining-cd47-blocker-scrapped",
+        "summary": "Pfizer’s $2.3 billion bet on Trillium Therapeutics doesn’t look like it will ever pay out, with the Big Pharma abandoning the second and final clinical-stage candidate from that acquisition.",
+        "source": "Fierce Biotech",
+        "published": "May 5, 2026 9:17am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/foundation-medicine-links-fulgent-genetics-offer-new-gene-test\" hreflang=\"en\">Foundation Medicine links with Fulgent Genetics to offer new gene test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-links-fulgent-genetics-offer-new-gene-test",
+        "summary": "Roche’s Foundation Medicine has linked with Fulgent Genetics to offer a new diagnostic test that identifies a person’s genetic makeup that can determine how they metabolize and process drugs.",
+        "source": "Fierce Biotech",
+        "published": "May 5, 2026 8:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/viridians-tepezza-rival-racks-second-phase-3-win-clearing-path-fda\" hreflang=\"en\">Viridian’s Tepezza rival racks up second phase 3 win, clearing path to FDA</a>",
+        "url": "https://www.fiercebiotech.com/biotech/viridians-tepezza-rival-racks-second-phase-3-win-clearing-path-fda",
+        "summary": "A second phase 3 trial of Viridian Therapeutics’ anti-IGF-1R antibody has hit its primary endpoint as the company prepares to file for FDA approval next year and challenge Amgen for a blockbuster market.",
+        "source": "Fierce Biotech",
+        "published": "May 5, 2026 4:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/american-biotech-innovation-alliance-debuts-unify-domestic-strategy-amid-global-threats\" hreflang=\"en\">The American Biotech Innovation Alliance launches to unify domestic strategy amid global competition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/american-biotech-innovation-alliance-debuts-unify-domestic-strategy-amid-global-threats",
+        "summary": "A cross-section of biotech leaders is launching the American Biotech Innovation Alliance (ABIA) with the goal of uniting stakeholders and defining a national strategy to sustain and expand U.S. leadership in biotech innovation.",
+        "source": "Fierce Biotech",
+        "published": "May 1, 2026 2:26pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing\" hreflang=\"en\">Private Swiss biotechs hit record funding amid slowdown in public financing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/private-swiss-biotechs-scale-record-funding-peak-amid-slowdown-public-financing",
+        "summary": "Funding for privately traded Swiss biotechs hit a new high last year, climbing 38% to 1.15 billion Swiss francs ($1.5 billion). However, a relatively small pool of companies drove the funding jump while many of their peers raised nothing, echoing the global gap between the haves and have-nots.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 8:32am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved\" hreflang=\"en\">Vertex drops Moderna-partnered inhaled cystic fibrosis candidate after unresolved tolerability issues</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vertex-drops-moderna-partnered-inhaled-cystic-fibrosis-candidate-after-unresolved",
+        "summary": "After pausing a trial for a Moderna-partnered cystic fibrosis candidate due to subpar tolerability, Vertex Pharmaceuticals has now decided to discontinue the program entirely.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 5:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda\" hreflang=\"en\">Passage launches strategic review and 75% layoffs after gene therapy path blocked by FDA</a>",
+        "url": "https://www.fiercebiotech.com/biotech/passage-launches-strategic-review-and-75-layoffs-after-gene-therapy-path-blocked-fda",
+        "summary": "After some tough feedback from the FDA on the path forward for its lead gene therapy, Passage Bio has launched a strategic review and set out a plan to whittle down its headcount by 75%.",
+        "source": "Fierce Biotech",
+        "published": "May 4, 2026 12:36pm",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Healthcare AI GYM for Medical Agents",
+        "url": "https://huggingface.co/papers/2605.02943",
+        "summary": "Clinical reasoning demands multi-step interactions -- gathering patient history, ordering tests, interpreting results, and making safe treatment decisions -- yet a unified training environment provides the breadth of clinical domains and specialized tools to train generalizable medical AI agents through reinforcement learning remains elusive. We present a comprehensive empirical study of multi-turn agentic RL for medical AI, built on , a gymnasium-compatible environment spanning 10 clinical domains with 3.6K+ tasks, 135 domain-specific tools, and a knowledge base of 828K medical passages. Our ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-30T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+        "url": "https://huggingface.co/papers/2605.04012",
+        "summary": "Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on complex scenarios with rich context making it difficult to draw conclusions about how these systems perform for patients reporting symptoms in everyday life. We deployed SymptomAI, a set of conversational AI agents for end-to-end patient interviewing and differential diagnosis (DDx), via the Fitbit app in a study that randomized participants (N=13,917) to interact with five AI agents. This corpus captu",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-04T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Linking spatial biology and clinical histology via Haiku",
+        "url": "https://huggingface.co/papers/2605.00925",
+        "summary": "Integrating molecular, morphological, and clinical data is essential for basic and translational biomedical research, yet systematic frameworks for jointly modeling these modalities remain limited. Here we present Haiku, a tri-modal contrastive learning model trained on multiplexed immunofluorescence (mIF). It comprises 26.7 million spatial proteomics patches from 3,218 tissue sections across 1,606 patients spanning 11 organ types, with matched hematoxylin and eosin (H&E) histology and clinical metadata aligned in a shared embedding space. Haiku enables three-way cross-modal retrieval, improve",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-29T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Assessing Pancreatic Ductal Adenocarcinoma Vascular Invasion: the PDACVI Benchmark",
+        "url": "https://huggingface.co/papers/2604.27582",
+        "summary": "Surgical resection remains the only potentially curative treatment for pancreatic ductal adenocarcinoma (PDAC), and eligibility depends on accurate assessment of vascular invasion (VI), i.e., tumor extension into adjacent critical vessels. Despite its importance for preoperative staging and surgical planning, computational VI assessment remains underexplored. Two major challenges are the lack of public datasets and the diagnostic ambiguity at the tumor-vessel interface, which leads to substantial inter-rater variability even among expert radiologists. To address these limitations, we introduce",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+        "url": "https://huggingface.co/papers/2605.02240",
+        "summary": "We introduce PhysicianBench, a benchmark for evaluating LLM agents on physician tasks grounded in real clinical setting within electronic health record (EHR) environments. Existing medical agent benchmarks primarily focus on static knowledge recall, single-step atomic actions, or action intent without verifiable execution against the environment. As a result, they fail to capture the long-horizon, composite workflows that characterize real clinical systems. PhysicianBench comprises 100 long-horizon tasks adapted from real consultation cases between primary care and subspecialty physicians, wit",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-03T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T12:13:19.803035+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Fraudulent citations, blamed on AI hallucinations, are becoming more common in research papers",
+        "url": "https://www.statnews.com/2026/05/07/lancet-study-finds-steep-rise-fraudulent-citations-academic-papers/",
+        "summary": "“Fabricated” citations that do not reference real academic papers are spreading in the literature, polluting the public record of science, a new study found",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 22:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Key takeaways from WHO briefing on hantavirus cruise ship outbreak",
+        "url": "https://www.statnews.com/2026/05/07/hantavirus-outbreak-key-takeaways-who-cruise-ship-briefing/",
+        "summary": "Here are key takeaways from a WHO briefing on the hantavirus outbreak aboard a cruise ship.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 19:41:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Seaport’s IPO adventure, obesity pill battles, and Makary’s troubles",
+        "url": "https://www.statnews.com/2026/05/07/readout-loud-podcast-seaport-ipo-fda-makary-white-house/",
+        "summary": "This week on \"The Readout LOUD\" podcast: Seaport Therapeutics’ successful IPO, obesity pill battles, and the FDA commissioner's White House troubles.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 18:15:31 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Science is becoming less disruptive. Is an aging workforce to blame?",
+        "url": "https://www.statnews.com/2026/05/07/young-researchers-more-innovative-new-study-says/",
+        "summary": "Most researchers conduct their more disruptive work early in their careers, but as they age, they tend to abandon that groundbreaking energy",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 18:00:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Official leading CDC’s cruise ship program retires",
+        "url": "https://www.statnews.com/2026/05/07/luis-rodriguez-retires-cdc-vessel-sanitation-program-amid-hantavirus-outbreak/",
+        "summary": "The hantavirus outbreak on the MV Hondius has focused the public's attention on cruise ship safety.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 16:54:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: More political interference at the FDA?",
+        "url": "https://www.statnews.com/2026/05/07/fda-political-interference-sanofi-tzield-rfk-hhs-ssri/",
+        "summary": "A political appointee gets in the way of a Sanofi drug's approval, and more from STAT's D.C. Diagnosis newsletter.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 14:54:12 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Sanofi and an FDA voucher, FDA rethinking a rejection, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/07/sanofi-diabetes-drug-voucher-fda-rethinking-rare-disease-rejection/",
+        "summary": "Sanofi asked the FDA to pull teplizumab out of a speedy review voucher program after a political appointee disagreed with staff over its approval",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 13:47:21 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA revisits a rare cancer treatment it rejected a few months ago",
+        "url": "https://www.statnews.com/2026/05/07/biotech-news-fda-reconsiders-rare-cancer-treatment-after-surprise-rejection/",
+        "summary": "Secret drug pricing deals, a virtual AI cancer clinic, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 13:23:56 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: OpenAI’s health policy wishlist, CGM news from Dexcom, and more",
+        "url": "https://www.statnews.com/2026/05/07/openai-policy-wishlist-dexcom-cgm-updates-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A health policy blueprint from OpenAI, CGM updates from Dexcom, and push back against whole body scans.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 13:14:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA to reconsider treatment for rare cancer after its surprise rejection",
+        "url": "https://www.statnews.com/2026/05/07/fda-reconsider-rare-disease-drug-ebvallo/",
+        "summary": "The companies developing Ebvallo reached an agreement with the FDA to address its main reason for rejecting the drug.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 12:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Hospital shootings steadily increased since 2000",
+        "url": "https://www.statnews.com/2026/05/07/health-news-hospital-shootings-steadily-on-the-rise/",
+        "summary": "What the FDA has lost, why hantavirus isn't the next pandemic, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 11:36:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Next-gen Duchenne drug from Entrada disappoints",
+        "url": "https://www.statnews.com/2026/05/07/entrada-duchenne-exon-skipping-study-disappointment/",
+        "summary": "A next-gen Duchenne therapy from Entrada Therapeutics fell short in an early study, as a number of companies race to make improved drugs.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 11:05:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Color me skeptical: Drinking gold is not an ALS cure",
+        "url": "https://www.statnews.com/2026/05/07/clene-als-treatment-gold-does-it-work/",
+        "summary": "In this week's Biotech Scorecard newsletter, Adam Feuerstein takes on the company touting gold microdust suspended in water as an ALS treatment.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Angelini Pharma buys Catalyst Pharmaceuticals and its rare disease drugs for $4.1B",
+        "url": "https://www.statnews.com/2026/05/07/angelini-pharma-acquires-catalyst-pharmaceuticals-rare-disease-neurology-firdapse/",
+        "summary": "The Italian firm Angelini Pharma is buying Catalyst Pharmaceuticals, the maker of rare disease drugs, for $4.1 billion.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 08:34:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Cruise ship hantavirus outbreak worries experts, though they discount pandemic fears",
+        "url": "https://www.statnews.com/2026/05/07/hantavirus-cruise-ship-outbreak-scientists-say-not-new-pandemic/",
+        "summary": "Scientists are worried that hantaviruses haven’t been as well studied as they ought to be, but not that the MV Hondius cruise ship is ground zero for the next pandemic.",
+        "source": "STAT News",
+        "published": "Thu, 07 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/retail/amazon-pharmacy-offer-home-delivery-novo-nordisks-ozempic-pill\" hreflang=\"en\">Amazon Pharmacy to offer home delivery for Novo Nordisk's Ozempic pill</a>",
+        "url": "https://www.fiercehealthcare.com/retail/amazon-pharmacy-offer-home-delivery-novo-nordisks-ozempic-pill",
+        "summary": "Amazon Pharmacy will make Novo Nordisk's Ozempic pill available for home delivery, the company announced Thursday.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 4:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/staffing-firm-cross-country-healthcare-be-acquired-knox-lane-437m\" hreflang=\"en\">Staffing firm Cross Country Healthcare to be acquired by Knox Lane for $437M</a>",
+        "url": "https://www.fiercehealthcare.com/finance/staffing-firm-cross-country-healthcare-be-acquired-knox-lane-437m",
+        "summary": "The deal would bring the 40-year-old, publicly traded company under a growth-oriented investment firm with a prior background in healthcare staffing.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 3:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/clover-healths-ma-membership-grows-51-year-over-year\" hreflang=\"en\">Clover Health's MA membership grows 51% year-over-year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/clover-healths-ma-membership-grows-51-year-over-year",
+        "summary": "Clover Health's membership climbed 51% year-over-year in the first quarter, reaching 155,773, per its earnings report released Wednesday.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 3:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/pennsylvania-sues-characterai-over-ai-chatbot-allegedly-unlawfully\" hreflang=\"en\">Pennsylvania sues Character.ai over AI chatbot allegedly presenting itself as licensed medical professional</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/pennsylvania-sues-characterai-over-ai-chatbot-allegedly-unlawfully",
+        "summary": "The state's suit alleges Character.ai violated the state's Medical Practice Act after an AI chatbot falsely claimed to be a licensed psychiatrist, even providing a fake license number.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 11:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/hims-hers-debuts-labs-ai-ai-care-agent-interpret-lab-results\" hreflang=\"en\">Hims &amp; Hers debuts its first AI care agent to interpret biomarker lab results</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hims-hers-debuts-labs-ai-ai-care-agent-interpret-lab-results",
+        "summary": "Labs AI is a custom-built AI system that reasons across customers’ biomarker histories and personal health profiles to produce insights that are specific, safe and actionable.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 6:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/oscar-healths-profit-hits-679m-membership-rises-q1\" hreflang=\"en\">Oscar Health's profit hits $679M, membership rises in Q1</a>",
+        "url": "https://www.fiercehealthcare.com/payers/oscar-healths-profit-hits-679m-membership-rises-q1",
+        "summary": "Oscar Health is seeing some favorable signs on the embattled individual market.",
+        "source": "Fierce Healthcare",
+        "published": "May 6, 2026 6:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ardent-health-touts-outpatient-growth-checked-labor-spend-during-hectic-q1\" hreflang=\"en\">Ardent Health touts outpatient growth, checked labor spend during hectic Q1</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ardent-health-touts-outpatient-growth-checked-labor-spend-during-hectic-q1",
+        "summary": "The publicly traded for-profit beat the consensus revenue and earnings estimates and said it now has increased confidence in hitting its full-year financial targets.",
+        "source": "Fierce Healthcare",
+        "published": "May 6, 2026 4:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/joint-commission-nachc-partner-training-new-accreditation-community-health-centers\" hreflang=\"en\">Joint Commission, NACHC partner on training, new accreditation for community health centers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/joint-commission-nachc-partner-training-new-accreditation-community-health-centers",
+        "summary": "The duo will develop education, training and advisory services for community health centers. A new accreditation program will also be created.",
+        "source": "Fierce Healthcare",
+        "published": "May 6, 2026 4:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/nearly-8-10-employers-say-glp-1-coverage-spiking-benefit-costs-business-group-health\" hreflang=\"en\">Nearly 8 in 10 employers say GLP-1 coverage drives up benefit costs: Business Group on Health</a>",
+        "url": "https://www.fiercehealthcare.com/finance/nearly-8-10-employers-say-glp-1-coverage-spiking-benefit-costs-business-group-health",
+        "summary": "Seventy-two percent of respondents said they would likely continue GLP-1 coverage through 2027 while 10% do not expect to continue coverage.",
+        "source": "Fierce Healthcare",
+        "published": "May 6, 2026 1:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/peacehealth-sued-over-plans-tap-out-state-staffer-apollomd-oregon-eds\" hreflang=\"en\">PeaceHealth, physician group agree to 'reset' litigious ED staffing dispute</a>",
+        "url": "https://www.fiercehealthcare.com/providers/peacehealth-sued-over-plans-tap-out-state-staffer-apollomd-oregon-eds",
+        "summary": "A joint statement appears to signal an upcoming deal in a lawsuit over a staffing decision that drew national attention as an early challenge to Oregon's recent statute restricting corporate medicine.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 24, 2026 2:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/leapfrog-groups-latest-safety-grades-have-far-fewer-low-scores-removal-non-participating\" hreflang=\"en\">Leapfrog Group's latest safety grades have far fewer low scores since removal of non-participating hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/providers/leapfrog-groups-latest-safety-grades-have-far-fewer-low-scores-removal-non-participating",
+        "summary": "The patient safety group spotlighted broad improvements in most patient safety and experience measures among the first set of grades following a court-ordered removal of hospitals that declined to voluntarily submit data.",
+        "source": "Fierce Healthcare",
+        "published": "May 6, 2026 12:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-health-beats-street-29b-q1-profit\" hreflang=\"en\">CVS execs say company on track to meet MA margin goals by 2028</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-health-beats-street-29b-q1-profit",
+        "summary": "CVS Health beat the Street on both earnings and revenue in Q1, posting $2.9 billion in profit for the quarter.",
+        "source": "Fierce Healthcare",
+        "published": "May 6, 2026 7:50am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue\" hreflang=\"en\">Chutes &amp; Ladders—Biopharma veteran takes her CEO Cue</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue",
+        "summary": "Not long after the departure of former CEO Usman Azam, a new leader is taking her Cue in the form of Shao-Lee Lin, M.D., Ph.D. Lin steps into Cue’s president and chief exec spot after previously serving as founder and CEO of eye disease specialist Acelyrin, which later merged with Alumis.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/banyan-bioinnovations-puts-down-roots-100m-and-icon-partnership\" hreflang=\"en\">Banyan BioInnovations puts down roots with $100M, Icon partnership</a>",
+        "url": "https://www.fiercebiotech.com/cro/banyan-bioinnovations-puts-down-roots-100m-and-icon-partnership",
+        "summary": "Banyan BioInnovations is debuting with more than $100 million aimed at developing NewCos around promising clinical assets, plus a partnership with global contract research organization Icon.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 11:01am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/beone-shelves-5-cancer-programs-halts-phase-2-rheumatoid-arthritis-trial\" hreflang=\"en\">BeOne shelves 5 cancer programs, halts phase 2 rheumatoid arthritis trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/beone-shelves-5-cancer-programs-halts-phase-2-rheumatoid-arthritis-trial",
+        "summary": "BeOne Medicines has shaken up its early pipeline, dropping five phase 1 cancer programs and stopping a phase 2 arthritis trial based on new data.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 10:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study\" hreflang=\"en\">Antibodies that stop measles from stabbing cells could become new treatments for the surging virus, study suggests</a>",
+        "url": "https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study",
+        "summary": "Though a measles vaccine has existed for more than 60 years, much still remains unknown about how exactly the shot generates protection against the virus. Now, scientists have turned to the immune systems of vaccinated people to dig up answers—and their findings may lead to new medicines against the resurgent disease.",
+        "source": "Fierce Biotech",
+        "published": "May 6, 2026 12:18pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next\" hreflang=\"en\">FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next",
+        "summary": "After a surprise rejection in January, the FDA has agreed to reconsider a T-cell therapy based on the same single-arm trial that the agency had previously found problematic. The case could reignite investors’ hope of a potential reversal for uniQure's high-profile gene therapy, too.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 10:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/blackstone-invests-250m-anagram-reduce-burden-cf-complication\" hreflang=\"en\">Blackstone invests $250M in Anagram to reduce burden of cystic fibrosis complication</a>",
+        "url": "https://www.fiercebiotech.com/biotech/blackstone-invests-250m-anagram-reduce-burden-cf-complication",
+        "summary": "For people living with exocrine pancreatic insufficiency due to cystic fibrosis, the only treatment option is a regimen that can include up to 40 pills a day. With a $250 million investment from Blackstone Life Sciences, Anagram Therapeutics hopes to reduce that pill burden to just three pills daily.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 10:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ascendis-axes-il-2-program-retreat-oncology-expansion\" hreflang=\"en\">Ascendis axes IL-2 program in retreat from oncology expansion </a>",
+        "url": "https://www.fiercebiotech.com/biotech/ascendis-axes-il-2-program-retreat-oncology-expansion",
+        "summary": "Ascendis Pharma has ended internal development of its IL-2 candidate, pivoting away from oncology and calling time on an asset it once tipped for accelerated approval.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 10:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-shell-out-1b-acquire-pathai-move-boost-ai-based-dx-algorithms\" hreflang=\"en\">Roche shells out up to $1B for PathAI in move to boost artificial intelligence-powered diagnostics</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-shell-out-1b-acquire-pathai-move-boost-ai-based-dx-algorithms",
+        "summary": "Roche is set to pay out a little more than $1 billion to acquire digital pathology specialist Path AI in a move the pharma giant hopes will bolster the use of artificial intelligence in diagnostic algorithms.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 8:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/entradas-stock-craters-dmd-data-underperform-expectations-handing-advantage-novartis\" hreflang=\"en\">Entrada's stock craters as DMD data underperform expectations, handing advantage to Novartis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/entradas-stock-craters-dmd-data-underperform-expectations-handing-advantage-novartis",
+        "summary": "Entrada Therapeutics’ Duchenne muscular dystrophy data have fallen well short of expectations, crashing the biotech’s stock as investors evaluated the fallout from a key readout expected to validate its platform.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 9:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/drug-development-ma-big-pharmas-showcase-measurable-impact-ai\" hreflang=\"en\">From drug development to M&amp;A, Big Pharmas showcase AI’s ‘measurable impact’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/drug-development-ma-big-pharmas-showcase-measurable-impact-ai",
+        "summary": "The recent run of first-quarter earnings results marked a shift for Big Pharmas away from AI hype and toward explaining how the technology is being applied in practice.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 5:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulet-boosts-guidance-q1-update-it-deals-recall-saga\" hreflang=\"en\">Insulet boosts guidance in Q1 update as it grapples with recall saga  </a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulet-boosts-guidance-q1-update-it-deals-recall-saga",
+        "summary": "Insulet is upping its guidance after a strong first quarter, though ongoing recalls continue to cast a shadow for investors.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 2:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ipsen-scuttles-liver-disease-candidates-952m-albireo-acquisition\" hreflang=\"en\">Ipsen scuttles liver disease candidates from $952M Albireo acquisition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ipsen-scuttles-liver-disease-candidates-952m-albireo-acquisition",
+        "summary": "Ipsen has set aside the two drug candidates it picked up from a 2023 acquisition of liver disease specialist Albireo, with one of the assets discontinued entirely.",
+        "source": "Fierce Biotech",
+        "published": "May 6, 2026 2:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "科技正在重塑“睡眠呼吸暂停”的治疗方式",
+        "url": "https://www.36kr.com/p/3752364302009095",
+        "summary": "一大批全新疗法开始走入大众视野。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 07 May 2026 23:06:55 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "DeepSleep（好睡乐）完成数百万元天使轮融资，用“无感干预”重塑睡眠赛道 | 36氪首发",
+        "url": "https://www.36kr.com/p/3797236593695752",
+        "summary": "用“无感干预”重塑睡眠赛道。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 06 May 2026 06:27:56 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "SWE-WebDevBench: Evaluating Coding Agent Application Platforms as Virtual Software Agencies",
+        "url": "https://huggingface.co/papers/2605.04637",
+        "summary": "The emergence of \"vibe coding\" platforms, where users describe applications in natural language and AI agents autonomously generate full-stack software, has created a need for rigorous evaluation beyond code-level benchmarks. In order to assess them as virtual software development agencies on understanding business requirements, making architectural decisions, writing production code, handling iterative modifications, and maintaining business readiness, we introduce SWE-WebDev Bench, a 68-metric evaluation framework spanning 25 primary and 43 diagnostic metrics across seven groups, organized a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-05T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills",
+        "url": "https://huggingface.co/papers/2604.20441",
+        "summary": "Background: Agent skills are increasingly deployed as modular, reusable capability units in AI agent systems. Medical research agent skills require safeguards beyond general-purpose evaluation, including scientific integrity, methodological validity, reproducibility, and boundary safety. This study developed and preliminarily evaluated a domain-specific audit framework for medical research agent skills, with a focus on reliability against expert review. Methods: We developed MedSkillAudit (skill-auditor@1.0), a layered framework assessing skill release readiness before deployment. We evaluated",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-21T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

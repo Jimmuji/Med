@@ -1,0 +1,254 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T12:55:19.205803+08:00",
+  "counts": {
+    "news": 28,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Experts wonder ‘Where is the CDC?’ as hantavirus outbreak unfolds",
+        "url": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/",
+        "summary": "The CDC is playing an unusually small, and quiet, role in responding to the hantavirus outbreak.",
+        "source": "STAT News",
+        "published": "Sat, 09 May 2026 18:28:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: RFK Jr. allegedly ‘collected’ a dead raccoon’s penis. Was it bioethically justifiable?",
+        "url": "https://www.statnews.com/2026/05/09/rfk-jr-raccoon-penis-whale-bear-cub-bioethics/",
+        "summary": "There are scientific reasons to study raccoon reproductive anatomy. But did RFK Jr.’s actions fit within a bioethical framework?",
+        "source": "STAT News",
+        "published": "Sat, 09 May 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Dr. Glaucomflecken wants the corporatization of medicine to be national news",
+        "url": "https://www.statnews.com/2026/05/09/dr-glaucomflecken-podcast-interview-transcript/",
+        "summary": "“We want, we need to keep medicine local. I think that's good for patients, it's good for communities,” Dr. Glaucomflecken says on the “First Opinion Podcast.”",
+        "source": "STAT News",
+        "published": "Sat, 09 May 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/advancing-frontline-care-quadruplet-regimen-transplant-ineligible-myeloma-patients\" hreflang=\"en\">Advancing Frontline Care With a Quadruplet Regimen for Transplant-Ineligible Myeloma Patients</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/advancing-frontline-care-quadruplet-regimen-transplant-ineligible-myeloma-patients",
+        "summary": "Explore a quadruplet treatment regimen now approved for newly diagnosed multiple myeloma patients who are transplant ineligible.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 25, 2026 1:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m\" hreflang=\"en\">Sanford Health unveils deal to integrate Minnesota-area North Memorial Health, invest $600M</a>",
+        "url": "https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m",
+        "summary": "The deal, expected to close later this year, is another attempt from the major rural nonprofit system to enter the Minneapolis market. To do so, it plans a $600 million investment into the two-hospital North Memorial Health, which will help stabilize one financially strained safety-net facility and double the size of the other.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/aca-exchanges-dominated-q1-earnings-calls-heres-what-payer-health-system-execs-had-say\" hreflang=\"en\">The ACA exchanges dominated Q1 earnings calls. Here's what payer, health system execs had to say</a>",
+        "url": "https://www.fiercehealthcare.com/finance/aca-exchanges-dominated-q1-earnings-calls-heres-what-payer-health-system-execs-had-say",
+        "summary": "Political tumult around the Affordable Care Act's exchanges colored the final months of 2025, and talk about what the marketplaces look like now dominated many insurer and provider earnings calls in Q1.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 12:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/ai-powered-behavioral-health-provider-theris-launches-out-stealth\" hreflang=\"en\">AI-augmented behavioral health provider Theris launches out of stealth</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/ai-powered-behavioral-health-provider-theris-launches-out-stealth",
+        "summary": "As sessions take place, AI agents record and analyze sessions, with the goal of augmenting care and automating clinical workflows.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:57pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/trump-plans-fire-fda-chief-makary-report\" hreflang=\"en\">Trump plans to fire FDA chief Marty Makary: report</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/trump-plans-fire-fda-chief-makary-report",
+        "summary": "President Donald Trump has approved a plan to fire FDA Commissioner Marty Makary, M.D., according to a report from The Wall Street Journal.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/study-incentives-healthcare-address-its-climate-footprint\" hreflang=\"en\">How policy, reimbursement incentives, could help healthcare address its climate footprint</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/study-incentives-healthcare-address-its-climate-footprint",
+        "summary": "Climate change poses clear risks to healthcare, a recently published Health Affairs analysis reads, making recommendations on decarbonization and climate resilience strategies.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 6:03pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-its-time-make-more-strategic-bets-ai-healthcare\" hreflang=\"en\">Op-ed: It's time to make more strategic bets on AI in healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-its-time-make-more-strategic-bets-ai-healthcare",
+        "summary": "EY's John Ward outlines how healthcare leaders with limited investment resources make the right AI moves for&nbsp;near-term and long-term value.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 10:29am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-tether-launches-medical-ai-phones-wearables-medaptus\" hreflang=\"en\">Health Tech Weekly Rundown: Tether rolls out medical AI for phones, wearables; Medaptus launches operational ‘command center’</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-tether-launches-medical-ai-phones-wearables-medaptus",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 1:04pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/retail/amazon-pharmacy-offer-home-delivery-novo-nordisks-ozempic-pill\" hreflang=\"en\">Amazon Pharmacy to offer home delivery for Novo Nordisk's Ozempic pill</a>",
+        "url": "https://www.fiercehealthcare.com/retail/amazon-pharmacy-offer-home-delivery-novo-nordisks-ozempic-pill",
+        "summary": "Amazon Pharmacy will make Novo Nordisk's Ozempic pill available for home delivery, the company announced Thursday.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 4:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/staffing-firm-cross-country-healthcare-be-acquired-knox-lane-437m\" hreflang=\"en\">Staffing firm Cross Country Healthcare to be acquired by Knox Lane for $437M</a>",
+        "url": "https://www.fiercehealthcare.com/finance/staffing-firm-cross-country-healthcare-be-acquired-knox-lane-437m",
+        "summary": "The deal would bring the 40-year-old, publicly traded company under a growth-oriented investment firm with a prior background in healthcare staffing.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 3:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/clover-healths-ma-membership-grows-51-year-over-year\" hreflang=\"en\">Clover Health's MA membership grows 51% year-over-year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/clover-healths-ma-membership-grows-51-year-over-year",
+        "summary": "Clover Health's membership climbed 51% year-over-year in the first quarter, reaching 155,773, per its earnings report released Wednesday.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 3:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/pennsylvania-sues-characterai-over-ai-chatbot-allegedly-unlawfully\" hreflang=\"en\">Pennsylvania sues Character.ai over AI chatbot allegedly presenting itself as licensed medical professional</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/pennsylvania-sues-characterai-over-ai-chatbot-allegedly-unlawfully",
+        "summary": "The state's suit alleges Character.ai violated the state's Medical Practice Act after an AI chatbot falsely claimed to be a licensed psychiatrist, even providing a fake license number.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 11:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/mrd-decision-engine-rethinking-oncology-trial-design-early-phase-registration\" hreflang=\"en\">MRD as a Decision Engine: Rethinking Oncology Trial Design from Early Phase to Registration</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/mrd-decision-engine-rethinking-oncology-trial-design-early-phase-registration",
+        "summary": "As MRD shifts from prognostic marker to intervention trigger, sponsors must rethink trial design, endpoints and decision-making.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 5:15pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response\" hreflang=\"en\">New Hepta blood test could predict GLP-1 response </a>",
+        "url": "https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response",
+        "summary": "While GLP-1s like Ozempic and Wegovy are being widely prescribed for weight loss, doctors currently do not have a way to predict if a patient will successfully respond to the drugs.",
+        "source": "Fierce Biotech",
+        "published": "May 9, 2026 3:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/trump-plans-fire-fda-chief-makary-report\" hreflang=\"en\">Trump plans to fire FDA chief Marty Makary: report</a>",
+        "url": "https://www.fiercebiotech.com/pharma/trump-plans-fire-fda-chief-makary-report",
+        "summary": "President Donald Trump has approved a plan to fire FDA Commissioner Marty Makary, M.D., according to a report from The Wall Street Journal.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 3:17pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene\" hreflang=\"en\">A protective gene sent to the liver cleared amyloid from mouse brains, sparking hope for an Alzheimer’s gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene",
+        "summary": "The calling card of Alzheimer’s disease is a buildup of misfolded amyloid protein in the brain, but many medicines struggle to penetrate the barrier protecting the mind from outside interference. A new study suggests that crossing the blood-brain barrier might not be necessary at all to clear amyloid plaques—and that a one-time gene therapy could one day prove an effective treatment for the devastating neurodegenerative disease.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 11:13am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/analysts-cut-engene-cancer-sales-forecast-after-updated-data-widen-gap-jj\" hreflang=\"en\">Analysts cut enGene cancer sales forecast after updated data widen gap to J&amp;J</a>",
+        "url": "https://www.fiercebiotech.com/biotech/analysts-cut-engene-cancer-sales-forecast-after-updated-data-widen-gap-jj",
+        "summary": "Leerink Partners analysts slashed their sales forecast for enGene Therapeutics’ bladder cancer candidate after phase 2 data dented their belief that the biotech can match rivals, including Johnson &amp; Johnson.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 9:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue\" hreflang=\"en\">Chutes &amp; Ladders—Biopharma veteran takes her CEO Cue</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue",
+        "summary": "Not long after the departure of former CEO Usman Azam, a new leader is taking her Cue in the form of Shao-Lee Lin, M.D., Ph.D. Lin steps into Cue’s president and chief exec spot after previously serving as founder and CEO of eye disease specialist Acelyrin, which later merged with Alumis.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/odyssey-voyages-nasdaq-304m-ipo-fund-autoimmune-inflammatory-pipeline\" hreflang=\"en\">Odyssey’s CEO sees $304M IPO as chance to create a ‘little large pharma’ </a>",
+        "url": "https://www.fiercebiotech.com/biotech/odyssey-voyages-nasdaq-304m-ipo-fund-autoimmune-inflammatory-pipeline",
+        "summary": "Odyssey Therapeutics has become the latest biotech to voyage to the public markets via an upsized $304 million IPO this morning.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 4:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/banyan-bioinnovations-puts-down-roots-100m-and-icon-partnership\" hreflang=\"en\">Banyan BioInnovations puts down roots with $100M, Icon partnership</a>",
+        "url": "https://www.fiercebiotech.com/cro/banyan-bioinnovations-puts-down-roots-100m-and-icon-partnership",
+        "summary": "Banyan BioInnovations is debuting with more than $100 million aimed at developing NewCos around promising clinical assets, plus a partnership with global contract research organization Icon.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 11:01am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/beone-shelves-5-cancer-programs-halts-phase-2-rheumatoid-arthritis-trial\" hreflang=\"en\">BeOne shelves 5 cancer programs, halts phase 2 rheumatoid arthritis trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/beone-shelves-5-cancer-programs-halts-phase-2-rheumatoid-arthritis-trial",
+        "summary": "BeOne Medicines has shaken up its early pipeline, dropping five phase 1 cancer programs and stopping a phase 2 arthritis trial based on new data.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 10:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study\" hreflang=\"en\">Antibodies that stop measles from stabbing cells could become new treatments for the surging virus, study suggests</a>",
+        "url": "https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study",
+        "summary": "Though a measles vaccine has existed for more than 60 years, much still remains unknown about how exactly the shot generates protection against the virus. Now, scientists have turned to the immune systems of vaccinated people to dig up answers—and their findings may lead to new medicines against the resurgent disease.",
+        "source": "Fierce Biotech",
+        "published": "May 6, 2026 12:18pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next\" hreflang=\"en\">FDA to reconsider shock rejection of cell therapy Ebvallo. Could uniQure be next?</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-reconsider-surprisingly-rejected-cell-therapy-ebvallo-could-uniqure-be-next",
+        "summary": "After a surprise rejection in January, the FDA has agreed to reconsider a T-cell therapy based on the same single-arm trial that the agency had previously found problematic. The case could reignite investors’ hope of a potential reversal for uniQure's high-profile gene therapy, too.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 10:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/blackstone-invests-250m-anagram-reduce-burden-cf-complication\" hreflang=\"en\">Blackstone invests $250M in Anagram to reduce burden of cystic fibrosis complication</a>",
+        "url": "https://www.fiercebiotech.com/biotech/blackstone-invests-250m-anagram-reduce-burden-cf-complication",
+        "summary": "For people living with exocrine pancreatic insufficiency due to cystic fibrosis, the only treatment option is a regimen that can include up to 40 pills a day. With a $250 million investment from Blackstone Life Sciences, Anagram Therapeutics hopes to reduce that pill burden to just three pills daily.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 10:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "思派、镁信、圆心：曾经的“医药险”三巨头，如今走到命运分叉",
+        "url": "https://www.36kr.com/p/3804209465827328",
+        "summary": "行业从“医药险”的资本故事，回到商业基本面看盈利的阶段。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 11 May 2026 02:35:11 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation",
+        "url": "https://huggingface.co/papers/2605.06628",
+        "summary": "Modern sensors generate rich, high-fidelity data, yet applications operating on wearable or remote sensing devices remain constrained by bandwidth and power budgets. Standardized codecs such as JPEG and MPEG achieve efficient trade-offs between bitrate and perceptual quality but are designed for human perception, limiting their applicability to machine-perception tasks and non-traditional modalities such as spatial audio arrays, hyperspectral images, and 3D medical images. General-purpose compression schemes based on scalar quantization or resolution reduction are broadly applicable but fail t",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models",
+        "url": "https://huggingface.co/papers/2605.05758",
+        "summary": "Despite the success of large language models (LLMs) on general-purpose tasks, their performance in highly specialized domains such as biomedicine remains unsatisfactory. A key limitation is the inability of LLMs to effectively leverage biomedical tools, which clinical experts and biomedical researchers rely on extensively in daily workflows. While recent general-domain tool-calling datasets have substantially improved the capabilities of LLM agents, existing efforts in the biomedical domain largely rely on in-context learning and restrict models to a small set of tools. To address this gap, we",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-06T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

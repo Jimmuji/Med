@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T12:32:52.500468+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Supreme Court temporarily extends women’s access to a widely used abortion pill",
+        "url": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/",
+        "summary": "The Supreme Court is temporarily extending access to a widely used abortion pill while it considers whether to allow restrictions on the drug to take effect.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 20:14:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Colombia wins a key court ruling over a compulsory license issued for an HIV medicine",
+        "url": "https://www.statnews.com/pharmalot/2026/05/11/colombia-dolutegravir-court-case-patent-cost/",
+        "summary": "A South American court upheld the steps taken by the Colombian government when it issued a compulsory license two years ago for an HIV medicine.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 19:57:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
+        "url": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/",
+        "summary": "Last year, the FDA had warned that natural opioids in kratom were being turned into harmful products. Now President Trump says approval should be considered.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 18:04:34 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Medicare’s miss on Alzheimer’s drug spending",
+        "url": "https://www.statnews.com/2026/05/11/medicare-alzheimers-drugs-leqembi-kisunla-surprise-billing-lobbying/",
+        "summary": "Far fewer seniors than expected are taking costly Alzheimer's drugs.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 18:03:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "No FDA permission, no problem: New flavored vape policy worries experts",
+        "url": "https://www.statnews.com/2026/05/11/fda-vape-policy-new-guidance-favors-industry/",
+        "summary": "A new FDA policy will let some flavored vapes stay on the market without authorization.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 17:14:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Astellas treatment offers new hope to a devastated rare disease community",
+        "url": "https://www.statnews.com/2026/05/11/biotech-news-astellas-treatment-offers-hope-to-rare-disease-community/",
+        "summary": "Alzheimer's drug rollout letdown, a China-based heart drug startup, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 14:45:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Medicare and Alzheimer’s drugs, estrogen patch shortages, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/11/medicare-alzheimers-drugs-estrogen-patch-shortage/",
+        "summary": "People on Medicare are not getting the recently approved Alzheimer’s medications nearly as much as federal officials anticipated",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 13:12:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The connection between periods and mental health",
+        "url": "https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/",
+        "summary": "Plans to oust Makary, a looming Supreme Court deadline on mifepristone, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 11:52:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Provider, insurer groups rush to shape No Surprises Act arbitration rules",
+        "url": "https://www.statnews.com/2026/05/11/no-surprises-act-new-rules-dispute-resolution/",
+        "summary": "Doctors and insurers are battling to reshape the controversial No Surprises Act arbitration process, which has long frustrated both sides.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Animal skin disease confirmed in clusters of European men who have sex with men",
+        "url": "https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/",
+        "summary": "European researchers have diagnosed a number of men who have sex with other men with a skin disease that normally infects livestock.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare is spending far less than expected on new Alzheimer’s drugs",
+        "url": "https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/",
+        "summary": "Adoption has been slow with new Alzheimer’s drugs because the treatments are complicated to administer and the benefits are uncertain.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: AI doctors should be licensed. Here’s a framework to do that",
+        "url": "https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/",
+        "summary": "A state-by-state approach to clinical AI won’t work. Here’s a framework that can.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: What addiction medicine can teach us about depending on AI",
+        "url": "https://www.statnews.com/2026/05/11/ai-dependence-addiction-substances-relief-psychology/",
+        "summary": "People gradually rely on AI to reduce the discomfort of thinking. For some, that can become a problem.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Five years after disaster, a rare disease community gets new chance at treatment",
+        "url": "https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/",
+        "summary": "Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM.",
+        "source": "STAT News",
+        "published": "Mon, 11 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/kaiser-permanentes-investments-pick-slack-q1-operating-margin-slims-21\" hreflang=\"en\">Kaiser Permanente's investments pick up the slack as Q1 operating margin slims to 2.1%</a>",
+        "url": "https://www.fiercehealthcare.com/providers/kaiser-permanentes-investments-pick-slack-q1-operating-margin-slims-21",
+        "summary": "The country's largest nonprofit health system outlined elevated costs and a hit from the quarter's month-long labor strike for its year-over-year operating slowdown. However, favorable financial markets held its bottom line even at $2 billion.",
+        "source": "Fierce Healthcare",
+        "published": "May 11, 2026 12:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ama-unveils-policy-framework-combat-ai-deepfake-physician-impersonation\" hreflang=\"en\">AMA unveils policy framework to combat AI deepfake physician impersonation</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ama-unveils-policy-framework-combat-ai-deepfake-physician-impersonation",
+        "summary": "It’s the latest move from the organization urging increased safety of increasingly available AI solutions in healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "May 11, 2026 12:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthcare-chapter-11-filings-33-q1-2026-gibbins-advisors\" hreflang=\"en\">Healthcare bankruptcies up 33% in Q1 2026: report</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthcare-chapter-11-filings-33-q1-2026-gibbins-advisors",
+        "summary": "Senior care and clinics and physician practices saw the highest volumes of filings in Q1 with four filings each.",
+        "source": "Fierce Healthcare",
+        "published": "May 11, 2026 10:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/workplace-safety-top-priority-93-healthcare-leaders-axon-survey\" hreflang=\"en\">Workplace safety is a top priority for 93% of healthcare leaders: Axon survey</a>",
+        "url": "https://www.fiercehealthcare.com/providers/workplace-safety-top-priority-93-healthcare-leaders-axon-survey",
+        "summary": "To offset potential disruptions, eight in 10 healthcare leaders favor increasing investments geared toward improving safety and operational efficiency.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 11:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/advancing-frontline-care-quadruplet-regimen-transplant-ineligible-myeloma-patients\" hreflang=\"en\">Advancing Frontline Care With a Quadruplet Regimen for Transplant-Ineligible Myeloma Patients</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/advancing-frontline-care-quadruplet-regimen-transplant-ineligible-myeloma-patients",
+        "summary": "Explore a quadruplet treatment regimen now approved for newly diagnosed multiple myeloma patients who are transplant ineligible.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 25, 2026 1:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/omada-health-posts-42-revenue-boost-q1-joins-eli-lilly-employer-weight-loss-program\" hreflang=\"en\">Omada Health posts 42% revenue jump in Q1, joins Eli Lilly employer weight loss program</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/omada-health-posts-42-revenue-boost-q1-joins-eli-lilly-employer-weight-loss-program",
+        "summary": "Omada Health reported revenue of $78 million in the first quarter, up 42% year over year as the company continues to expand its commercial reach and is seeing traction from its big investments in GLP-1 capabilities.",
+        "source": "Fierce Healthcare",
+        "published": "May 10, 2026 8:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m\" hreflang=\"en\">Sanford Health unveils deal to integrate Minnesota-area North Memorial Health, invest $600M</a>",
+        "url": "https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m",
+        "summary": "The deal, expected to close later this year, is another attempt from the major rural nonprofit system to enter the Minneapolis market. To do so, it plans a $600 million investment into the two-hospital North Memorial Health, which will help stabilize one financially strained safety-net facility and double the size of the other.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/aca-exchanges-dominated-q1-earnings-calls-heres-what-payer-health-system-execs-had-say\" hreflang=\"en\">The ACA exchanges dominated Q1 earnings calls. Here's what payer, health system execs had to say</a>",
+        "url": "https://www.fiercehealthcare.com/finance/aca-exchanges-dominated-q1-earnings-calls-heres-what-payer-health-system-execs-had-say",
+        "summary": "Political tumult around the Affordable Care Act's exchanges colored the final months of 2025, and talk about what the marketplaces look like now dominated many insurer and provider earnings calls in Q1.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 12:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/ai-powered-behavioral-health-provider-theris-launches-out-stealth\" hreflang=\"en\">AI-augmented behavioral health provider Theris launches out of stealth</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/ai-powered-behavioral-health-provider-theris-launches-out-stealth",
+        "summary": "As sessions take place, AI agents record and analyze sessions, with the goal of augmenting care and automating clinical workflows.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:57pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/trump-plans-fire-fda-chief-makary-report\" hreflang=\"en\">UPDATED—Trump plans to fire FDA chief Marty Makary: report</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/trump-plans-fire-fda-chief-makary-report",
+        "summary": "President Donald Trump has approved a plan to fire FDA Commissioner Marty Makary, M.D., according to a report from The Wall Street Journal.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/study-incentives-healthcare-address-its-climate-footprint\" hreflang=\"en\">How policy, reimbursement incentives, could help healthcare address its climate footprint</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/study-incentives-healthcare-address-its-climate-footprint",
+        "summary": "Climate change poses clear risks to healthcare, a recently published Health Affairs analysis reads, making recommendations on decarbonization and climate resilience strategies.",
+        "source": "Fierce Healthcare",
+        "published": "May 7, 2026 6:03pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-its-time-make-more-strategic-bets-ai-healthcare\" hreflang=\"en\">Op-ed: It's time to make more strategic bets on AI in healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-its-time-make-more-strategic-bets-ai-healthcare",
+        "summary": "EY's John Ward outlines how healthcare leaders with limited investment resources make the right AI moves for&nbsp;near-term and long-term value.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 10:29am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/daiichi-sankyo-targets-global-top-5-oncology-rank-2035-13b-efficiency-drive-new-5-year-plan\" hreflang=\"en\">Daiichi Sankyo targets global top 5 oncology rank by 2035, $1.3B efficiency drive in new 5-year plan</a>",
+        "url": "https://www.fiercebiotech.com/pharma/daiichi-sankyo-targets-global-top-5-oncology-rank-2035-13b-efficiency-drive-new-5-year-plan",
+        "summary": "Daiichi Sankyo aims to transform its antibody-drug conjugate leadership into a top global oncology standing. In a new five-year business plan unveiled Monday, the Japanese pharma outlined a roadmap to become a global top five oncology player by 2035, plus a major $1.3 billion cost optimization initiative.",
+        "source": "Fierce Biotech",
+        "published": "May 11, 2026 9:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data\" hreflang=\"en\">Amid M&amp;A buzz, Inhibrx's OX40-Keytruda combo shows promise in early look at midphase data </a>",
+        "url": "https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data",
+        "summary": "Adding Inhibrx Biosciences’ OX40 agonist to Keytruda doubled the response rate in a midphase clinical trial, encouraging the biotech to advance a program that reportedly attracted the interest of Merck &amp; Co.",
+        "source": "Fierce Biotech",
+        "published": "May 11, 2026 9:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-finds-new-home-parkinsons-cell-therapy-ai-biotech-cellular-intelligence\" hreflang=\"en\">Novo salvages happy ending for scrapped Parkinson’s cell therapy via deal with AI biotech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-finds-new-home-parkinsons-cell-therapy-ai-biotech-cellular-intelligence",
+        "summary": "Novo Nordisk has found the latest buyer for one of its orphaned cell therapies.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 4:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/mrd-decision-engine-rethinking-oncology-trial-design-early-phase-registration\" hreflang=\"en\">MRD as a Decision Engine: Rethinking Oncology Trial Design from Early Phase to Registration</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/mrd-decision-engine-rethinking-oncology-trial-design-early-phase-registration",
+        "summary": "As MRD shifts from prognostic marker to intervention trigger, sponsors must rethink trial design, endpoints and decision-making.",
+        "source": "Fierce Biotech",
+        "published": "Apr 30, 2026 5:15pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/setting-new-standard-prefillable-syringe-systems\" hreflang=\"en\">Setting a new standard in prefillable syringe systems</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/setting-new-standard-prefillable-syringe-systems",
+        "summary": "How a fully integrated syringe system helps pharma teams cut risk, time and regulatory burden.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 12:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/quantum-firm-hailed-amgen-tech-leader-extraordinary-platform-plans-ipo\" hreflang=\"en\">Quantum firm hailed by Amgen tech leader as an ‘extraordinary platform’ plans IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/quantum-firm-hailed-amgen-tech-leader-extraordinary-platform-plans-ipo",
+        "summary": "A quantum tech firm that has collaborated with—and received investment from—Amgen is now planning to go public.",
+        "source": "Fierce Biotech",
+        "published": "May 10, 2026 8:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response\" hreflang=\"en\">New Hepta blood test could predict GLP-1 response </a>",
+        "url": "https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response",
+        "summary": "While GLP-1s like Ozempic and Wegovy are being widely prescribed for weight loss, doctors currently do not have a way to predict if a patient will successfully respond to the drugs.",
+        "source": "Fierce Biotech",
+        "published": "May 9, 2026 3:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/trump-plans-fire-fda-chief-makary-report\" hreflang=\"en\">UPDATED—Trump plans to fire FDA chief Marty Makary: report</a>",
+        "url": "https://www.fiercebiotech.com/pharma/trump-plans-fire-fda-chief-makary-report",
+        "summary": "President Donald Trump has approved a plan to fire FDA Commissioner Marty Makary, M.D., according to a report from The Wall Street Journal.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 3:17pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene\" hreflang=\"en\">A protective gene sent to the liver cleared amyloid from mouse brains, sparking hope for an Alzheimer’s gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene",
+        "summary": "The calling card of Alzheimer’s disease is a buildup of misfolded amyloid protein in the brain, but many medicines struggle to penetrate the barrier protecting the mind from outside interference. A new study suggests that crossing the blood-brain barrier might not be necessary at all to clear amyloid plaques—and that a one-time gene therapy could one day prove an effective treatment for the devastating neurodegenerative disease.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 11:13am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/analysts-cut-engene-cancer-sales-forecast-after-updated-data-widen-gap-jj\" hreflang=\"en\">Analysts cut enGene cancer sales forecast after updated data widen gap to J&amp;J</a>",
+        "url": "https://www.fiercebiotech.com/biotech/analysts-cut-engene-cancer-sales-forecast-after-updated-data-widen-gap-jj",
+        "summary": "Leerink Partners analysts slashed their sales forecast for enGene Therapeutics’ bladder cancer candidate after phase 2 data dented their belief that the biotech can match rivals, including Johnson &amp; Johnson.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 9:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue\" hreflang=\"en\">Chutes &amp; Ladders—Biopharma veteran takes her CEO Cue</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biopharma-veteran-takes-her-ceo-cue",
+        "summary": "Not long after the departure of former CEO Usman Azam, a new leader is taking her Cue in the form of Shao-Lee Lin, M.D., Ph.D. Lin steps into Cue’s president and chief exec spot after previously serving as founder and CEO of eye disease specialist Acelyrin, which later merged with Alumis.",
+        "source": "Fierce Biotech",
+        "published": "May 7, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/odyssey-voyages-nasdaq-304m-ipo-fund-autoimmune-inflammatory-pipeline\" hreflang=\"en\">Odyssey’s CEO sees $304M IPO as chance to create a ‘little large pharma’ </a>",
+        "url": "https://www.fiercebiotech.com/biotech/odyssey-voyages-nasdaq-304m-ipo-fund-autoimmune-inflammatory-pipeline",
+        "summary": "Odyssey Therapeutics has become the latest biotech to voyage to the public markets via an upsized $304 million IPO this morning.",
+        "source": "Fierce Biotech",
+        "published": "May 8, 2026 4:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "硅基时代的双螺旋：AI时代To B与To C的底座兼容与组织升维",
+        "url": "https://www.36kr.com/p/3804494386766081",
+        "summary": "AI时代To B与To C的兼容与组织升维。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 11 May 2026 08:05:29 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "思派、镁信、圆心：曾经的“医药险”三巨头，如今走到命运分叉",
+        "url": "https://www.36kr.com/p/3804209465827328",
+        "summary": "行业从“医药险”的资本故事，回到商业基本面看盈利的阶段。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 11 May 2026 02:35:11 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation",
+        "url": "https://huggingface.co/papers/2605.09810",
+        "summary": "Protein function is often controlled by ligands that bias the direction of state transitions, such as agonists and antagonists, rather than stabilizing a single conformation. This is especially important for clinically relevant G protein-coupled receptors (GPCRs), where therapeutic efficacy depends on functional directionality. Structure-based design methods optimize binding to static conformations and cannot represent non-reversible, directional effects or systematically distinguish agonist from antagonist behavior. To address this gap, we introduce Transition-Directed Discrete Diffusion for ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-09T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Uncovering Entity Identity Confusion in Multimodal Knowledge Editing",
+        "url": "https://huggingface.co/papers/2605.06096",
+        "summary": "Multimodal knowledge editing (MKE) aims to correct the internal knowledge of large vision-language models after deployment, yet the behavioral patterns of post-edit models remain underexplored. In this paper, we identify a systemic failure mode in edited models, termed Entity Identity Confusion (EIC): edited models exhibit an absurd behavior where text-only queries about the original entity's identity unexpectedly return information about the new entity. To rigorously investigate EIC, we construct EC-Bench, a diagnostic benchmark that directly probes how image-entity bindings shift before and ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "From Holo Pockets to Electron Density: GPT-style Drug Design with Density",
+        "url": "https://huggingface.co/papers/2605.08767",
+        "summary": "Recent advances in generative modeling have enabled significant progress in structure-based drug design (SBDD). Existing methods typically condition molecule generation on empty binding pockets from holo complexes, overlooking informative components such as the filler (ligands and solvent). Here, we leverage low-resolution electron density (ED) derived from the filler as a physically grounded condition for de novo drug design. We consider two types of ED, calculated and cryo-EM/X-ray, obtainable from computational or experimental sources, supporting unified pre-training and experimental integr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-08T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

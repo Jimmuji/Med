@@ -1,0 +1,374 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T12:39:02.005603+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Why Marty Makary was the worst FDA commissioner in 25 years",
+        "url": "https://www.statnews.com/2026/05/12/marty-makary-worst-fda-commissioner-25-years-stat-writer-matthew-herper/",
+        "summary": "Marty Makary, who resigned under pressure from the FDA, brought to the job a fundamental lack of understanding of the nature of the role, STAT's Matthew Herper writes.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 20:21:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Males who discuss suicide seek help less often than females, report finds",
+        "url": "https://www.statnews.com/2026/05/12/suicide-in-men-crisis-text-line-report-males-see-seeking-help-as-weakness/",
+        "summary": "Out of 1.5 million messages received in 2025, the Crisis Text Line found that less then 20% of the texters identified as male only",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 19:21:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: European Union inks a draft deal to boost local production of medicines and avoid shortages",
+        "url": "https://www.statnews.com/pharmalot/2026/05/12/european-union-draft-deal-boost-local-drug-production-avoid-shortages/",
+        "summary": "The E.U. reached a provisional deal to strengthen the supply of essential medicines and avoid shortages by ‌boosting domestic production and reducing reliance on imports.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 18:18:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Makary departs FDA amid turmoil as Diamantas, agency’s top food official, steps in",
+        "url": "https://www.statnews.com/2026/05/12/fda-commissioner-marty-makary-resigns-kyle-diamantas-acting/",
+        "summary": "Food and Drug Administration Commissioner Marty Makary is resigning from his role after a tumultuous tenure.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 17:20:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Supreme Court extends mifepristone deadline",
+        "url": "https://www.statnews.com/2026/05/12/health-news-supreme-court-extends-mifepristone-deadline/",
+        "summary": "The deadliest drug in the country, the new name for PCOS, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 16:24:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hims takes a $33 million hit from GLP-1 ‘pivot’",
+        "url": "https://www.statnews.com/2026/05/12/hims-takes-33-million-hit-from-glp1-pivot-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Hims earnings, Omada's PBM strategy, and the uphill battle faced by new sepsis algorithms.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 16:21:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hims’ sales miss as telehealth competition grows",
+        "url": "https://www.statnews.com/2026/05/12/biotech-news-hims-sales-miss-as-telehealth-competition-grows/",
+        "summary": "Bristol's partnership with Hengrui Pharma, Viiv loses HIV treatment case, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 16:19:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: STAT examines America’s deadliest drug",
+        "url": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/",
+        "summary": "STAT examines America's failure to address excessive alcohol use across decades.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 14:23:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about pharma lobbying, Bristol’s deal with a Chinese partner, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/12/trumprx-pharma-lobbying-bristol-deal-with-chinese-partner/",
+        "summary": "The 17 pharmaceutical companies anchoring TrumpRx poured more than $130 million into federal lobbying in 2025 — a nearly 23% surge",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 13:25:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Capsida says it still doesn’t know what caused gene therapy death",
+        "url": "https://www.statnews.com/2026/05/12/capsida-gene-therapy-trial-death-protein-target-adam-15/",
+        "summary": "Some in the gene therapy field lament lost time while Capsida kept silent about the brain receptor it was targeting when things went wrong.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In the battle of sepsis algorithms, performance alone doesn’t predict victory",
+        "url": "https://www.statnews.com/2026/05/12/ai-sepsis-detection-startups-challenge-epic-systems/",
+        "summary": "As new AI models for predicting sepsis hit the market, experts say performance alone will not drive adoption by hospitals.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "PCOS’s new name is PMOS, a small letter change that required a big scientific process",
+        "url": "https://www.statnews.com/2026/05/12/pcos-now-called-pmos-polyendocrine-metabolic-ovarian-syndrome/",
+        "summary": "A revised name for PCOS — polyendocrine metabolic ovarian syndrome, or PMOS — was introduced in a paper published Tuesday.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 09:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
+        "url": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/",
+        "summary": "Advocates for people with HIV and sickle cell disease are among those pushing for exemptions from Medicaid’s new work requirements.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Pharma and biotech leaders are destroying their own industry",
+        "url": "https://www.statnews.com/2026/05/12/biotech-pharmaceutical-industry-china-leaders-destroying-industry/",
+        "summary": "American biotech leaders are destroying their own industry.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "6 takeaways from STAT’s investigation into the U.S. alcohol epidemic",
+        "url": "https://www.statnews.com/2026/05/12/america-alcohol-epidemic-deadliest-drug-series-key-takeaways/",
+        "summary": "Alcohol is the culprit behind the United States' most enduring and overlooked drug crisis. Here are 6 takeaways from STAT's new investigative series, The Deadliest Drug.",
+        "source": "STAT News",
+        "published": "Tue, 12 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/mayo-clinic-ceo-gianrico-farrugia-stepping-down-years-end\" hreflang=\"en\">Mayo Clinic CEO Gianrico Farrugia stepping down at year's end</a>",
+        "url": "https://www.fiercehealthcare.com/providers/mayo-clinic-ceo-gianrico-farrugia-stepping-down-years-end",
+        "summary": "Mayo Clinic is looking for a new leader as Gianrico Farrugia, M.D., who has served as president and CEO since 2019, announced he would step down at the end of this year.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 5:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/university-california-union-near-may-14-strike-deadline-no-deal-hand\" hreflang=\"en\">University of California, union near May 14 strike deadline with no deal in hand</a>",
+        "url": "https://www.fiercehealthcare.com/providers/university-california-union-near-may-14-strike-deadline-no-deal-hand",
+        "summary": "A union representing 25,000 UC Health service and patient care workers has so far rebuffed updated contract offers from the public institution. More talks are scheduled through Wednesday.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 3:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hims-hers-posts-92m-loss-q1-it-shifts-branded-glp-1-medications\" hreflang=\"en\">Hims &amp; Hers posts $92M loss in Q1 as it shifts to branded GLP-1 medications</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-posts-92m-loss-q1-it-shifts-branded-glp-1-medications",
+        "summary": "Online health and wellness company Hims &amp; Hers posted a $92 million loss in the first quarter as it transitions its weight loss business to selling branded GLP-1 weight loss treatments, shifting away from compounded weight loss drugs.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 2:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/providence-puts-years-losses-rearview-its-third-consecutive-quarter-operating-gains\" hreflang=\"en\">Providence puts years of losses in rearview with its third consecutive quarter of operating gains</a>",
+        "url": "https://www.fiercehealthcare.com/providers/providence-puts-years-losses-rearview-its-third-consecutive-quarter-operating-gains",
+        "summary": "The West Coast nonprofit health system reported a 1.5% operating margin and roughly $360 million net improvement for the first quarter, which management attributed to a slew of restructures, divestitures and other initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 1:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/fda-commissioner-marty-makary-resigns-capping-turbulent-tenure\" hreflang=\"en\">FDA Commissioner Marty Makary to resign, capping turbulent tenure: report</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/fda-commissioner-marty-makary-resigns-capping-turbulent-tenure",
+        "summary": "Marty Makary, M.D., is resigning as FDA commissioner Tuesday, ending a brief but tumultuous tenure marked by mounting criticism from all sides, according to reports.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 1:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/1-5-marketplace-enrollees-dropped-their-coverage-2026-media-report\" hreflang=\"en\">1 in 5 marketplace enrollees dropped their coverage in 2026: media report</a>",
+        "url": "https://www.fiercehealthcare.com/payers/1-5-marketplace-enrollees-dropped-their-coverage-2026-media-report",
+        "summary": "About 21% of people who enrolled in coverage through Healthcare.gov have dropped out this year, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 2:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/fitness-wearable-whoop-adds-demand-clinician-access-ehr-syncing\" hreflang=\"en\">Fitness wearable Whoop adds on-demand clinician access, EHR syncing</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/fitness-wearable-whoop-adds-demand-clinician-access-ehr-syncing",
+        "summary": "The company says these updates will allow users to “gain a deeper understanding” of how medications, conditions and procedures can impact performance.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 11:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/public-vaccine-criticism-quiets-rfk-jr-keeps-safety-inquiries-running-background-nyt\" hreflang=\"en\">As public vaccine criticism quiets, RFK Jr. keeps safety inquiries running in background: NYT</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/public-vaccine-criticism-quiets-rfk-jr-keeps-safety-inquiries-running-background-nyt",
+        "summary": "Amid apparent overtures from the Trump administration to curb public vaccine criticism ahead of the midterms this fall, the secretary of the Department of Health and Human Services is allegedly continuing his crusade in the background.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 10:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/optum-rx-unveils-new-transparent-pbm-model\" hreflang=\"en\">Optum Rx unveils new transparent PBM model</a>",
+        "url": "https://www.fiercehealthcare.com/payers/optum-rx-unveils-new-transparent-pbm-model",
+        "summary": "UnitedHealth Group's pharmacy benefit manager, Optum Rx, is making the shift to a more transparent model, the company announced Monday.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 11:25am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/skil-care-launches-specialized-healthcare-product-innovation-program\" hreflang=\"en\">Skil-Care launches specialized healthcare product innovation program</a>",
+        "url": "https://www.fiercehealthcare.com/providers/skil-care-launches-specialized-healthcare-product-innovation-program",
+        "summary": "Through the new program, organizations and clinicians can work with the manufacturer to turn frontline needs into products.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/included-health-launches-ai-powered-solution-connect-members-providers\" hreflang=\"en\">Included Health launches AI-powered solution to connect members to providers</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/included-health-launches-ai-powered-solution-connect-members-providers",
+        "summary": "The new tool, dubbed Provider Connect, is embedded in the virtual care company’s AI assistant.",
+        "source": "Fierce Healthcare",
+        "published": "May 11, 2026 3:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/broken-pipeline-mental-healthcare-lgbtq-teenagers\" hreflang=\"en\">The broken pipeline of mental healthcare for LGBTQ teenagers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/broken-pipeline-mental-healthcare-lgbtq-teenagers",
+        "summary": "Despite strong demand, 44% of LGBTQ youth who want mental healthcare say they cannot access it. Fierce Healthcare and Uncloseted Media investigate why.",
+        "source": "Fierce Healthcare",
+        "published": "May 11, 2026 7:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kyverna-begins-rolling-submission-autoimmune-car-t-sps-amid-fda-request-more-natural\" hreflang=\"en\">Kyverna begins rolling submission for autoimmune CAR-T as FDA requests more natural history analysis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kyverna-begins-rolling-submission-autoimmune-car-t-sps-amid-fda-request-more-natural",
+        "summary": "Kyverna Therapeutics has officially started a rolling submission to the FDA for miv-cel as the company conducts additional natural history analysis at the agency's request, keeping the candidate on track to be the first autoimmune CAR-T to reach the market.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 4:05pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-commissioner-marty-makary-resigns-capping-turbulent-tenure\" hreflang=\"en\">FDA Commissioner Marty Makary to resign, capping turbulent tenure: report</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-commissioner-marty-makary-resigns-capping-turbulent-tenure",
+        "summary": "Marty Makary, M.D., is resigning as FDA commissioner Tuesday, ending a brief but tumultuous tenure marked by mounting criticism from all sides, according to reports.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 1:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/alphabets-ai-biotech-isomorphic-labs-bags-21b-series-b-fuel-next-gen-drug-design-model\" hreflang=\"en\">Alphabet's AI biotech Isomorphic Labs bags $2.1B series B to fuel next-gen drug design model</a>",
+        "url": "https://www.fiercebiotech.com/biotech/alphabets-ai-biotech-isomorphic-labs-bags-21b-series-b-fuel-next-gen-drug-design-model",
+        "summary": "If any proof was needed that big money is still available for AI drug development, look no further than the 10-figure series B hauled in by Isomorphic Labs.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 11:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Isomorphic's $2B series B; Cytospire's $83M for TCEs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-furthers-inflammatory-expansion-eu407m-biobuck-bet-immunitas-asset\" hreflang=\"en\">Boehringer furthers inflammatory expansion with €407M biobucks bet on Immunitas asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-furthers-inflammatory-expansion-eu407m-biobuck-bet-immunitas-asset",
+        "summary": "Boehringer Ingelheim has put up 407.5 million euros in biobucks to secure global rights to a first‑in‑class antibody Immunitas Therapeutics is developing for chronic inflammatory and autoimmune diseases.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 9:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazenecas-800m-bet-undermined-immunogenicity-phase-3\" hreflang=\"en\">AstraZeneca’s $800M bet undermined by immunogenicity in phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazenecas-800m-bet-undermined-immunogenicity-phase-3",
+        "summary": "Immunogenicity dragged on the efficacy of AstraZeneca’s rare endocrine disorder prospect in a phase 3 trial, causing the $800 million molecule’s response rate to fall short of the bar set by Ascendis Pharma’s Yorvipath.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 9:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/charles-river-debuts-ai-diagnostic-tool-cut-down-pathology-timelines\" hreflang=\"en\">Charles River debuts AI diagnostic tool to cut down pathology timelines </a>",
+        "url": "https://www.fiercebiotech.com/medtech/charles-river-debuts-ai-diagnostic-tool-cut-down-pathology-timelines",
+        "summary": "Charles River is rolling out an artificial intelligence-backed digital pathology platform with a goal of trimming at least one week from standard pathology timelines and workflows.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 8:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-nabs-european-approval-second-eli-lilly-partnered-alzheimers-test\" hreflang=\"en\">Roche nabs European approval for second Eli Lilly-partnered Alzheimer’s test </a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-nabs-european-approval-second-eli-lilly-partnered-alzheimers-test",
+        "summary": "Roche has secured a European CE mark for its second Alzheimer’s test that can both help confirm the disease and rule it out.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 4:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/blood-based-approach-could-detect-early-heart-kidney-disease-study-finds\" hreflang=\"en\">Blood-based approach could detect early heart, kidney disease, study finds</a>",
+        "url": "https://www.fiercebiotech.com/medtech/blood-based-approach-could-detect-early-heart-kidney-disease-study-finds",
+        "summary": "Scientists know that damage to microscopic blood vessels can provide an early warning sign of heart and kidney disease. But current methods for monitoring these tiny vessels are too impractical for widespread screening.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 2:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bayer-scraps-protein-therapeutic-hypertension-phase-1-pipeline-along-neuropathic-pain-drug\" hreflang=\"en\">Bayer scraps protein therapy for hypertension from phase 1, along with neuropathic pain drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bayer-scraps-protein-therapeutic-hypertension-phase-1-pipeline-along-neuropathic-pain-drug",
+        "summary": "Bayer has removed a protein therapeutic for hypertension and a treatment for diabetic neuropathic pain from its phase 1 pipeline.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 5:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/enterprise-reports-phase-2-cystic-fibrosis-win-succeeding-where-big-pharma-stumbled\" hreflang=\"en\">Enterprise reports phase 2 cystic fibrosis win, succeeding where Big Pharma stumbled</a>",
+        "url": "https://www.fiercebiotech.com/biotech/enterprise-reports-phase-2-cystic-fibrosis-win-succeeding-where-big-pharma-stumbled",
+        "summary": "A phase 2 trial of Enterprise Therapeutics’ cystic fibrosis drug candidate has hit its primary endpoint, furthering the biotech’s pursuit of a target that companies including Vertex have worked on previously.",
+        "source": "Fierce Biotech",
+        "published": "May 11, 2026 7:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-inks-15b-biobuck-deal-bag-hengrui-assets-tap-chinas-rd-speed\" hreflang=\"en\">Bristol Myers Squibb inks $15B biobucks deal to bag Hengrui assets, tap China’s R&amp;D speed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bms-inks-15b-biobuck-deal-bag-hengrui-assets-tap-chinas-rd-speed",
+        "summary": "Bristol Myers Squibb has formed a broad partnership with Hengrui Pharma, paying $600 million upfront to advance 13 early-stage programs from across the two companies’ pipelines. The deal could be worth up to $15.2 billion.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 1:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "谨道行肛肠微创诊疗系统完成首批形成性试验，获评“颠覆性创新”",
+        "url": "https://www.36kr.com/p/3807147501198857",
+        "summary": "目前，该产品已完成开模定型，即将进入型式检验阶段。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 13 May 2026 03:12:04 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI时代，九家“旧经济”巨头的逆袭法则",
+        "url": "https://www.36kr.com/p/3807053149298439",
+        "summary": "AI时代，穿越技术周期的五组密码。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 13 May 2026 01:44:29 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "硅基时代的双螺旋：AI时代To B与To C的底座兼容与组织升维",
+        "url": "https://www.36kr.com/p/3804494386766081",
+        "summary": "AI时代To B与To C的兼容与组织升维。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 11 May 2026 08:05:29 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "SeePhys Pro: Diagnosing Modality Transfer and Blind-Training Effects in Multimodal RLVR for Physics Reasoning",
+        "url": "https://huggingface.co/papers/2605.09266",
+        "summary": "We introduce SeePhys Pro, a fine-grained modality transfer benchmark that studies whether models preserve the same reasoning capability when critical information is progressively transferred from text to image. Unlike standard vision-essential benchmarks that evaluate a single input form, SeePhys Pro features four semantically aligned variants for each problem with progressively increasing visual elements. Our evaluation shows that current frontier models are far from representation-invariant reasoners: performance degrades on average as information moves from language to diagrams, with visual",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-09T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+        "url": "https://huggingface.co/papers/2605.12495",
+        "summary": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to perform advanced reasoning tasks: Reasoning Text-to-Image Generation, where the model actively infers implicit user intents, and Self-Reflective Refinement, where it autonomously diagnoses and corrects misalignments in generated outputs. To address the challenge of providing stable supervision for ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-11T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control",
+        "url": "https://huggingface.co/papers/2604.26326",
+        "summary": "Reinforcement learning (RL) has enabled complex reasoning abilities in large language models (LLMs). However, most RL algorithms suffer from performance saturation, preventing continued gains as RL training scales. This problem can be characterized by the collapse of entropy, a key diagnostic for exploration in RL. Existing attempts focus on preventing entropy collapse through regularization or clipping. However, their resulting entropy curves often exhibit instability in the long term, which hinders performance gains. In this paper, we introduce Entrocraft, a simple rejection-sampling approac",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-09T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T12:38:33.116578+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Hantavirus risk remains low, CDC says, citing its ‘playbook’ response",
+        "url": "https://www.statnews.com/2026/05/13/hantavirus-outbreak-cdc-briefing-cruise-ship-outbreak-response/",
+        "summary": "Despite rising concern about the hantavirus outbreak on a cruise ship, two CDC doctors say the risk to the public remains low.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 21:12:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Officials say $1.3 billion in Medicaid money to California will be deferred over suspicions of fraud",
+        "url": "https://www.statnews.com/2026/05/13/medicaid-money-california-deferred-fraud-suspiscions/",
+        "summary": "Vice President JD Vance announced a $1.3 billion deferral in Medicaid reimbursements to California, as part of an initiative to root out fraud in federal health programs.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 19:42:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The hantavirus is a wake-up call. Will the Trump administration answer it?",
+        "url": "https://www.statnews.com/2026/05/13/hantavirus-biocontainment-response-cdc-who-pandemic-preparedness/",
+        "summary": "Arriving in the isolation ward of a biocontainment hospital is an unsettling, scary experience. In 2014, I spent 19 days in one while being treated for Ebola, watching the news&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 19:10:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis",
+        "url": "https://www.statnews.com/2026/05/13/health-misinformation-doctors-hospitals-social-media-policies/",
+        "summary": "Hospitals and health systems need to loosen the reins and let physicians combat social media misinformation, writes Adam Goodcoff.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 18:15:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What the Trump administration wants in its next FDA leader",
+        "url": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/",
+        "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 17:26:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
+        "url": "https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/",
+        "summary": "About 70,000 Americans died of drug overdoses last year — about 14% fewer than the previous year, according to preliminary government data.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 16:16:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Medicare halts enrollment of new hospice, home health providers",
+        "url": "https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/",
+        "summary": "The Centers for Medicare and Medicaid Services said it will pause the enrollment of new hospice and home health providers.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 15:17:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The ‘velocity of obesity’ aims to show which nations are slowing an epidemic",
+        "url": "https://www.statnews.com/2026/05/13/obesity-rates-bmi-rising-low-income-countries-plateau-wealthier-nations/",
+        "summary": "A study finds the rise in U.S. obesity rates have hit a plateau in children but are still climbing for adults, and are still high compared to those in other&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "New subpoena suggests DOJ has begun criminal investigation of gender-affirming care",
+        "url": "https://www.statnews.com/2026/05/13/gender-affirming-care-minors-doj-subpoenas-suggest-criminal-probe/",
+        "summary": "Several hospitals have received federal grand jury subpoenas regarding gender-affirming care for minors, suggesting a criminal investigation has begun.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 13:54:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Gene therapy viruses linked to a boy’s tumor",
+        "url": "https://www.statnews.com/2026/05/13/biotech-news-gene-therapy-viruses-linked-to-a-boys-tumor/",
+        "summary": "The case for Makary as the WOAT, Cassidy's seat at risk ahead of midterms, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 13:35:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about FDA’s Makary resigning, a Lilly weight loss drug trial, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/13/fda-makary-resigning-lilly-weight-loss-drug-trial/",
+        "summary": "FDA Commissioner Marty Makary is resigning, and Kyle Diamantas, the agency's top food regulator, will step in as acting commissioner",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 13:28:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AI medical devices’ dirty FDA secret",
+        "url": "https://www.statnews.com/2026/05/13/ai-medical-devices-dirty-fda-secret-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis newsletter: A look at the quirks of the most common FDA medical device approval pathway, sepsis algorithms, and more.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 13:13:54 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Extreme heat is worsening faster for Black Americans",
+        "url": "https://www.statnews.com/2026/05/13/health-news-extreme-heat-worsens-faster-for-black-american/",
+        "summary": "Bill Cassidy's can't-win conundrum, what RFK Jr. gets right and wrong about antidepressants, and more health news",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 11:46:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Scientists link boy’s tumor to gene therapy viruses, in rare finding",
+        "url": "https://www.statnews.com/2026/05/13/gene-therapy-cancer-risks-mps-hurler-syndrome/",
+        "summary": "Doctors have linked a boy's tumor to a gene therapy, but say the rare risks need to be weighed against the profound benefits such medicines can offer.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Drug meant to make gene therapy safer may also make it less effective",
+        "url": "https://www.statnews.com/2026/05/13/encoded-therapeutics-dravet-syndrome-study-sirolimus-safety-tradeoff/",
+        "summary": "Encoded Therapeutics gives a heads-up to other gene therapy company about the trade-offs with a drug meant to improve safety.",
+        "source": "STAT News",
+        "published": "Wed, 13 May 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-withhold-13b-medicaid-funds-california-puts-state-officials-notice-about-fraud\" hreflang=\"en\">CMS to withhold $1.3B in Medicaid funds from California, puts state officials on notice about fraud</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-withhold-13b-medicaid-funds-california-puts-state-officials-notice-about-fraud",
+        "summary": "Just hours after the Trump administration announced action against fraud in the hospice and home health spaces, Vice President JD Vance put state regulators on notice that the feds are poised for further action.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 5:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/elsevier-report-finds-docs-more-burnt-out-skeptical-ai-nurses\" hreflang=\"en\">Docs more burnt out, skeptical of AI than nurses, survey report finds</a>",
+        "url": "https://www.fiercehealthcare.com/providers/elsevier-report-finds-docs-more-burnt-out-skeptical-ai-nurses",
+        "summary": "Across many measures, doctors struggle more than nurses, the report found, and have a more negative view of how their organizations use AI.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 2:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/nyu-langone-health-says-it-received-grand-jury-subpoena-over-gender-affirming-care\" hreflang=\"en\">NYU Langone Health says it received grand jury subpoena over gender-affirming care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/nyu-langone-health-says-it-received-grand-jury-subpoena-over-gender-affirming-care",
+        "summary": "The health system disclosed that it is \"one of several institutions\" facing a criminal investigation over its delivery of the services to minors, an escalation in the Trump administration's pressure campaign.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 11:24am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/new-payer-backed-ad-campaign-pushes-no-surprises-act-idr-reform\" hreflang=\"en\">New payer-backed ad campaign pushes for No Surprises Act IDR reform</a>",
+        "url": "https://www.fiercehealthcare.com/payers/new-payer-backed-ad-campaign-pushes-no-surprises-act-idr-reform",
+        "summary": "A new seven-figure ad campaign takes aim at the \"misaligned incentives\" in the No Surprises Act arbitration process, arguing they \"create a ‘fox guarding the hen house’ dynamic.\"",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 3:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-systems-are-exploring-ai-powered-opportunistic-screening-new-cms-reimbursement\" hreflang=\"en\">Health systems are exploring AI-powered cardiac risk screening. New CMS reimbursement could unlock a business case for it</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-systems-are-exploring-ai-powered-opportunistic-screening-new-cms-reimbursement",
+        "summary": "Bunkerhill Health executives offered a deeper look at the process for securing a CMS reimbursement pathway for AI-enabled cardiovascular analysis.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 11:11am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-pauses-hospice-home-health-medicare-enrollments-fraud-crackdown\" hreflang=\"en\">CMS pauses hospice, home health Medicare enrollments in fraud crackdown</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-pauses-hospice-home-health-medicare-enrollments-fraud-crackdown",
+        "summary": "The Trump administration has issued a six-month moratorium on hospice and home health agencies enrolling in Medicare as part of its efforts to combat fraud.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 1:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/most-mental-health-practitioners-satisfied-work-simplepractice-finds\" hreflang=\"en\">Most mental health practitioners satisfied with work, financially stable, SimplePractice finds</a>",
+        "url": "https://www.fiercehealthcare.com/providers/most-mental-health-practitioners-satisfied-work-simplepractice-finds",
+        "summary": "The report, which draws on survey insights and aggregated data from the platform, looked at job satisfaction, financial health and AI sentiment among mental health practitioners.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 11:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/aca-exchanges-take-spotlight-q1\" hreflang=\"en\">ACA exchanges take spotlight in Q1 </a>",
+        "url": "https://www.fiercehealthcare.com/providers/aca-exchanges-take-spotlight-q1",
+        "summary": "Paige Minemyer and Dave Muoio break down the biggest trends from payer and health system Q1 earnings, including ACA exchange instability, winter storm fallout and signs of a Medicare Advantage rebound.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 11:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/mayo-clinic-ceo-gianrico-farrugia-stepping-down-years-end\" hreflang=\"en\">Mayo Clinic CEO Gianrico Farrugia stepping down at year's end</a>",
+        "url": "https://www.fiercehealthcare.com/providers/mayo-clinic-ceo-gianrico-farrugia-stepping-down-years-end",
+        "summary": "Mayo Clinic is looking for a new leader as Gianrico Farrugia, M.D., who has served as president and CEO since 2019, announced he would step down at the end of this year.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 5:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/university-california-union-near-may-14-strike-deadline-no-deal-hand\" hreflang=\"en\">University of California, union near May 14 strike deadline with no deal in hand</a>",
+        "url": "https://www.fiercehealthcare.com/providers/university-california-union-near-may-14-strike-deadline-no-deal-hand",
+        "summary": "A union representing 25,000 UC Health service and patient care workers has so far rebuffed updated contract offers from the public institution. More talks are scheduled through Wednesday.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 3:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hims-hers-posts-92m-loss-q1-it-shifts-branded-glp-1-medications\" hreflang=\"en\">Hims &amp; Hers posts $92M loss in Q1 as it shifts to branded GLP-1 medications</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-posts-92m-loss-q1-it-shifts-branded-glp-1-medications",
+        "summary": "Online health and wellness company Hims &amp; Hers posted a $92 million loss in the first quarter as it transitions its weight loss business to selling branded GLP-1 weight loss treatments, shifting away from compounded weight loss drugs.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 2:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/providence-puts-years-losses-rearview-its-third-consecutive-quarter-operating-gains\" hreflang=\"en\">Providence puts years of losses in rearview with its third consecutive quarter of operating gains</a>",
+        "url": "https://www.fiercehealthcare.com/providers/providence-puts-years-losses-rearview-its-third-consecutive-quarter-operating-gains",
+        "summary": "The West Coast nonprofit health system reported a 1.5% operating margin and roughly $360 million net improvement for the first quarter, which management attributed to a slew of restructures, divestitures and other initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 1:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/icon-opens-early-phase-research-unit-san-antonio-satellite-clinics-grow-trial-capabilities\" hreflang=\"en\">Icon opens early-phase research unit in San Antonio, plus satellite clinics to grow trial capabilities</a>",
+        "url": "https://www.fiercebiotech.com/cro/icon-opens-early-phase-research-unit-san-antonio-satellite-clinics-grow-trial-capabilities",
+        "summary": "Global contract research organization Icon has announced the opening of a new research facility in San Antonio, Texas, along with satellite clinics in Houston and Lawrence, Kansas, to expand its clinical trial capabilities.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 1:18pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy\" hreflang=\"en\">With $1B Novo deal and diabetes ambitions undimmed, Lexicon is in ‘good shape to go crazy’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy",
+        "summary": "Lexicon CEO Michael Exton told Fierce how he set the company's development and financial pathway \"on a very different trajectory.\"",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 9:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fosun-pays-60m-option-aribios-phase-3-alzheimers-asset\" hreflang=\"en\">Fosun pays $60M for option on AriBio’s phase 3 Alzheimer’s asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fosun-pays-60m-option-aribios-phase-3-alzheimers-asset",
+        "summary": "Fosun Pharma has paid $60 million for an option on AriBio’s late-phase Alzheimer’s disease program, securing the chance to expand its rights to the asset in exchange for a further $80 million.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 9:16am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/valneva-lay-15-workforce-face-adverse-trend-travel-vaccine-uptake\" hreflang=\"en\">Valneva to lay off up to 15% of workforce in face of ‘adverse trend’ in travel vaccines</a>",
+        "url": "https://www.fiercebiotech.com/biotech/valneva-lay-15-workforce-face-adverse-trend-travel-vaccine-uptake",
+        "summary": "Valneva is planning to shrink its headcount by up to 15% as the French vaccine developer continues to seek ways to cut costs.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 6:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/humacyte-cuts-spending-staff-it-seeks-boost-sluggish-sales-its-shelf-artery-implant\" hreflang=\"en\">Humacyte cuts spending, staff as it seeks to boost sluggish sales for its off-the-shelf artery implant</a>",
+        "url": "https://www.fiercebiotech.com/medtech/humacyte-cuts-spending-staff-it-seeks-boost-sluggish-sales-its-shelf-artery-implant",
+        "summary": "Humacyte was riding high in December 2024 when it secured an FDA green light for a groundbreaking implant. Now, as it looks to boost sales of the device, it’s making sweeping cuts to keep up.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 8:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-shutter-santa-rosa-plant-it-restructures-cardio-vascular-unit\" hreflang=\"en\">Medtronic to shutter Santa Rosa plant as it restructures cardiovascular unit</a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-shutter-santa-rosa-plant-it-restructures-cardio-vascular-unit",
+        "summary": "Medtronic will shutter its Santa Rosa facility that produces coronary stents and other heart-related products over the next two years as the device maker also looks to restructure its cardio business.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 8:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-0-4-against-nausea-and-vomiting-after-axing-another-asset\" hreflang=\"en\">Takeda 0 for 4 against nausea and vomiting after axing another asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-0-4-against-nausea-and-vomiting-after-axing-another-asset",
+        "summary": "Takeda has ended development of its nausea and vomiting drug candidate for strategic reasons, continuing its multi-year struggles in the therapeutic area.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 5:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/astrazeneca-pens-agentic-ai-licensing-deal-owkin\" hreflang=\"en\">AstraZeneca pens agentic AI licensing deal with Owkin</a>",
+        "url": "https://www.fiercebiotech.com/medtech/astrazeneca-pens-agentic-ai-licensing-deal-owkin",
+        "summary": "AstraZeneca is the latest Big Pharma company looking to tap into agentic artificial intelligence (AI), inking a three-year licensing deal with Owkin to leverage its autonomous “AI Scientist” platform.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 2:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kyverna-begins-rolling-submission-autoimmune-car-t-sps-amid-fda-request-more-natural\" hreflang=\"en\">Kyverna begins rolling submission for autoimmune CAR-T as FDA requests more natural history analysis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kyverna-begins-rolling-submission-autoimmune-car-t-sps-amid-fda-request-more-natural",
+        "summary": "Kyverna Therapeutics has officially started a rolling submission to the FDA for miv-cel as the company conducts additional natural history analysis at the agency's request, keeping the candidate on track to be the first autoimmune CAR-T to reach the market.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 4:05pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-commissioner-marty-makary-resigns-capping-turbulent-tenure\" hreflang=\"en\">FDA Commissioner Marty Makary to resign, capping turbulent tenure</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-commissioner-marty-makary-resigns-capping-turbulent-tenure",
+        "summary": "Marty Makary, M.D., is resigning as FDA commissioner Tuesday, ending a brief but tumultuous tenure marked by mounting criticism from all sides, according to reports.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 1:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/alphabets-ai-biotech-isomorphic-labs-bags-21b-series-b-fuel-next-gen-drug-design-model\" hreflang=\"en\">Alphabet's AI biotech Isomorphic Labs bags $2.1B series B to fuel next-gen drug design model</a>",
+        "url": "https://www.fiercebiotech.com/biotech/alphabets-ai-biotech-isomorphic-labs-bags-21b-series-b-fuel-next-gen-drug-design-model",
+        "summary": "If any proof was needed that big money is still available for AI drug development, look no further than the 10-figure series B hauled in by Isomorphic Labs.",
+        "source": "Fierce Biotech",
+        "published": "May 12, 2026 11:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Isomorphic's $2B series B; Cytospire's $83M for TCEs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "6月上海，这场论坛聊透出海真问题",
+        "url": "https://www.36kr.com/p/3807234971131656",
+        "summary": "6月11日上海GGF2026出海论坛，聚焦韧性全球化与AI",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 13 May 2026 05:04:56 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "谨道行肛肠微创诊疗系统完成首批形成性试验，获评“颠覆性创新”",
+        "url": "https://www.36kr.com/p/3807147501198857",
+        "summary": "目前，该产品已完成开模定型，即将进入型式检验阶段。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 13 May 2026 03:12:04 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI时代，九家“旧经济”巨头的逆袭法则",
+        "url": "https://www.36kr.com/p/3807053149298439",
+        "summary": "AI时代，穿越技术周期的五组密码。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 13 May 2026 01:44:29 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "EviMem: Evidence-Gap-Driven Iterative Retrieval for Long-Term Conversational Memory",
+        "url": "https://huggingface.co/papers/2604.27695",
+        "summary": "Long-term conversational memory requires retrieving evidence scattered across multiple sessions, yet single-pass retrieval fails on temporal and multi-hop questions. Existing iterative methods refine queries via generated content or document-level signals, but none explicitly diagnoses the evidence gap, namely what is missing from the accumulated retrieval set, leaving query refinement untargeted. We present EviMem, combining IRIS (Iterative Retrieval via Insufficiency Signals), a closed-loop framework that detects evidence gaps through sufficiency evaluation, diagnoses what is missing, and dr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-04-29T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

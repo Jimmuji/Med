@@ -1,0 +1,390 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T12:44:35.499772+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 6
+  },
+  "items": {
+    "news": [
+      {
+        "title": "PSA screening for prostate cancer reduces disease-specific deaths, new review shows",
+        "url": "https://www.statnews.com/2026/05/14/psa-tests-reduce-risk-prostate-cancer-deaths-new-study-cochrane-review/",
+        "summary": "Prostate-specific antigen (PSA) blood testing likely reduces the risk of death from prostate cancer, found a new review",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 00:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
+        "url": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/",
+        "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 21:49:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Makary’s departure and Cassidy’s tenuous Senate seat",
+        "url": "https://www.statnews.com/2026/05/14/readout-loud-podcast-makary-fda-trump-cassidy-senate/",
+        "summary": "This week's episode of “The Readout LOUD” is all about health politics, including Marty Makary's departure as FDA commissioner. Listen now.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 20:14:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT investigates the epidemic killing 178,000 Americans a year",
+        "url": "https://www.statnews.com/2026/05/14/deadliest-drug-alcohol-series-rick-berke-reader-letter/",
+        "summary": "Read Executive Editor Rick Berke's letter to STAT readers on \"The Deadliest Drug,\" a new investigative series into the country's failure to address excessive alcohol use.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 18:35:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: CDC plans to transfer monkeys to nonprofit’s sanctuary as it seeks to reduce animal testing",
+        "url": "https://www.statnews.com/pharmalot/2026/05/14/cdc-plans-transfer-monkeys-to-sanctuary-seeks-to-reduce-animal-testing/",
+        "summary": "The CDC intends to transfer more than 160 macaques to Born Free USA, a nonprofit that runs a large primate sanctuary in Texas, as the agency seeks to phase out&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 17:26:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The hunt for FDA’s next leader",
+        "url": "https://www.statnews.com/2026/05/14/next-fda-commissioner-bill-cassidy-primary-challenge-dc-diagnosis/",
+        "summary": "Marty Makary is out, and the Trump administration has a long wish list for its next FDA commissioner.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 16:52:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: MIT says research has fallen 10%, and grad student enrollment is down",
+        "url": "https://www.statnews.com/2026/05/14/mit-research-fell-10-percent-grad-student-enrollment-down/",
+        "summary": "At MIT, research has shrunk 10% from a year ago, and the school expects a persistent drop in graduate admissions.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 16:50:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: BeOne wins FDA approval in lymphoma race",
+        "url": "https://www.statnews.com/2026/05/14/biotech-news-beone-wins-fda-approval-in-lymphoma-race/",
+        "summary": "Diamantas takes the reins, Regenxbio stakes claim in Duchenne gene therapy, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 14:14:39 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Why big digital health players are missing from Medicare’s chronic care experiment",
+        "url": "https://www.statnews.com/2026/05/14/medicare-chronic-care-pilot-access-digital-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Why big digital health players skipped Medicare's ACCESS pilot, Isomorphic's big raise, and more.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 14:07:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about upbeat results for a Duchenne drug, Takeda layoffs, and much more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/14/biogen-regenxbio-report-results-for-alzheimers-duchenne-takeda-layoffs/",
+        "summary": "Biogen reported mixed results from a mid-stage clinical trial investigating a treatment for Alzheimer’s disease that targets the protein tau",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 13:44:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Three years of declining overdose deaths begets cautious optimism and some concerns",
+        "url": "https://www.statnews.com/2026/05/14/health-news-three-years-of-declining-overdose-deaths/",
+        "summary": "The next FDA leader, how the CDC is responding to hantavirus, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 11:54:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biogen’s tau-targeting Alzheimer’s drug posts mixed results in mid-stage study",
+        "url": "https://www.statnews.com/2026/05/14/biogen-alzheimers-tau-diranersen-midstage-study-mixed-results/",
+        "summary": "Biogen is moving its tau-targeting Alzheimer's drug into Phase 3 studies, despite mixed data from a Phase 2 trial.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 11:08:57 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Regenxbio says Duchenne gene therapy succeeded in clinical trial, paving way for FDA submission",
+        "url": "https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/",
+        "summary": "Regenxbio said its experimental gene therapy for Duchenne muscular dystrophy succeeded in a trial, paving the way for a submission to the FDA.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 11:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: CREATE Medicines, a biotech company developing CAR-T therapies, raises $122 million",
+        "url": "https://www.statnews.com/2026/05/14/create-medicines-car-t-raises-funding/",
+        "summary": "CREATE Medicines has a new name, an expanded pipeline, and now fresh funding to propel the company’s first CAR-T candidates through human trials.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 11:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: ‘No drama’ Diamantas should serve biotech well as acting FDA chief",
+        "url": "https://www.statnews.com/2026/05/14/fda-kyle-diamantas-biotech/",
+        "summary": "Kyle Diamantas, the acting commissioner of the FDA, is expected to be a drama-free, stabilizing caretaker at the top of the agency.",
+        "source": "STAT News",
+        "published": "Thu, 14 May 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Alignment Healthcare shuffles leadership team; Highmark hires former Optum CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cms-health-systems-ehr-vendors-join-payers-pledge-address-prior-authorization\" hreflang=\"en\">Epic, Oracle and Cleveland Clinic among companies to joining CMS prior authorization initiative</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cms-health-systems-ehr-vendors-join-payers-pledge-address-prior-authorization",
+        "summary": "A slew of additional \"early adopters\" from different corners of the industry said they will tackle the workflow, technical and operational barriers that have stymied adoption of electronic prior authorization, CMS said this week.",
+        "source": "Fierce Healthcare",
+        "published": "May 14, 2026 2:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/bipartisan-lawmakers-reintroduce-bill-barring-pbms-owning-pharmacies\" hreflang=\"en\">Bipartisan lawmakers reintroduce bill barring PBMs from owning pharmacies</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/bipartisan-lawmakers-reintroduce-bill-barring-pbms-owning-pharmacies",
+        "summary": "A bipartisan group of lawmakers in both chambers of Congress has reintroduced a bill aimed at barring companies from owning both a pharmacy benefit manager and retail pharmacies.",
+        "source": "Fierce Healthcare",
+        "published": "May 14, 2026 2:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: 9amHealth picks up $26M; Anomaly nabs $17M for payer intelligence platform</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/chromie-health-earns-2m-pre-seed-funding-launches-sms-ai-powered-staffing\" hreflang=\"en\">Chromie Health picks up $2M in pre-seed funding, launches SMS AI-powered nurse staffing agent</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/chromie-health-earns-2m-pre-seed-funding-launches-sms-ai-powered-staffing",
+        "summary": "Chromie Health CEO and co-founder Douglas Ford told Fierce Healthcare the tool has already helped fill more than 35,000 last-minute nursing shifts.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 12:56pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/court-approves-sale-cvs-omnicare-unit-genierx-holdings\" hreflang=\"en\">Court approves sale of CVS' Omnicare unit to GenieRx Holdings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/court-approves-sale-cvs-omnicare-unit-genierx-holdings",
+        "summary": "CVS' Omnicare unit has secured court approval to sell its business to virtual care company GenieRx Holdings, the healthcare giant announced Thursday.",
+        "source": "Fierce Healthcare",
+        "published": "May 14, 2026 1:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/university-california-union-near-may-14-strike-deadline-no-deal-hand\" hreflang=\"en\">University of California, union reach late-night deal to avert system-wide strike</a>",
+        "url": "https://www.fiercehealthcare.com/providers/university-california-union-near-may-14-strike-deadline-no-deal-hand",
+        "summary": "A union representing 25,000 UC Health service and patient care workers struck an 11th hour tentative agreement it says includes substantial pay increases and affordable healthcare rates.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 3:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-launches-ai-powered-pulmonary-care-platform\" hreflang=\"en\">Viz.ai launches AI-powered pulmonary care platform</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-launches-ai-powered-pulmonary-care-platform",
+        "summary": "The new Viz Pulmonary Suite combines acute and chronic pulmonary workflows into a single solution, which the company says, is the first of its kind for such care.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 3:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/nearly-80-payers-prefer-vendor-built-ai-solutions-innovaccer\" hreflang=\"en\">Nearly 80% of payers prefer vendor-built AI solutions, survey finds</a>",
+        "url": "https://www.fiercehealthcare.com/payers/nearly-80-payers-prefer-vendor-built-ai-solutions-innovaccer",
+        "summary": "Seventy-five percent of respondents report plans to spend an average of $10 million on AI over the course of the next three to five years.",
+        "source": "Fierce Healthcare",
+        "published": "May 12, 2026 4:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/salesforce-echo-health-ventures-backs-opturas-175m-series-track-value-ai\" hreflang=\"en\">Salesforce Ventures, Echo Health Ventures back Optura's $17.5M series A to track AI performance</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/salesforce-echo-health-ventures-backs-opturas-175m-series-track-value-ai",
+        "summary": "Optura claims that more than $2 billion in AI initiatives currently run on its platform, with $120 million in tracked value at a 700% return on AI investment on in-flight initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 7:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-withhold-13b-medicaid-funds-california-puts-state-officials-notice-about-fraud\" hreflang=\"en\">CMS to withhold $1.3B in Medicaid funds from California, puts state officials on notice about fraud</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-withhold-13b-medicaid-funds-california-puts-state-officials-notice-about-fraud",
+        "summary": "Just hours after the Trump administration announced action against fraud in the hospice and home health spaces, Vice President JD Vance put state regulators on notice that the feds are poised for further action.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 5:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/elsevier-report-finds-docs-more-burnt-out-skeptical-ai-nurses\" hreflang=\"en\">Docs more burned out, skeptical of AI than nurses, survey report finds</a>",
+        "url": "https://www.fiercehealthcare.com/providers/elsevier-report-finds-docs-more-burnt-out-skeptical-ai-nurses",
+        "summary": "Across many measures, doctors struggle more than nurses, the report found, and have a more negative view of how their organizations use AI.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 2:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-ac-immune-ceo-bids-adieu\" hreflang=\"en\">Chutes &amp; Ladders—AC Immune CEO bids adieu</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-ac-immune-ceo-bids-adieu",
+        "summary": "Andrea Pfeifer, Ph.D., the longtime leader of Swiss neurodegeneration outfit AC Immune, is retiring from the C-suite to spend more time with her family. Pfeifer will be replaced in the interim by board chair Martin Zügel, M.D., while the company hunts for a permanent new chief.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 4:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/signant-health-buys-ametris-unite-data-streams-clinical-trials\" hreflang=\"en\">Signant Health buys Ametris to unite data streams in clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/signant-health-buys-ametris-unite-data-streams-clinical-trials",
+        "summary": "Tech provider Signant Health announced the acquisition of Ametris to unite its electronic clinical outcome assessments with Ametris’ wearable-derived digital outcome measures.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 12:13pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/biopharma-leaders-rally-behind-pazdur-fda-commissioner-pick-does-he-want-role\" hreflang=\"en\">Biopharma leaders rally behind Pazdur for FDA commissioner pick. But does he want the role?</a>",
+        "url": "https://www.fiercebiotech.com/pharma/biopharma-leaders-rally-behind-pazdur-fda-commissioner-pick-does-he-want-role",
+        "summary": "With the FDA now rudderless following the revelation that commissioner Marty Makary, M.D., is stepping down, voices across biopharma have joined in support of the FDA’s former top drug regulator Richard Pazdur, M.D., as President Donald Trump’s next logical pick to lead the agency.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 10:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ceo-bioages-triple-threat-drug-aims-treat-cardiovascular-ocular-and-cns-disease\" hreflang=\"en\">BioAge CEO has big plans for 'multi-disease impact' of NLRP3 drug across cardio, ocular and CNS</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ceo-bioages-triple-threat-drug-aims-treat-cardiovascular-ocular-and-cns-disease",
+        "summary": "After axing its lead obesity asset last year, BioAge Labs has turned its attention to attacking inflammation in its pursuit of treatments for aging-related illnesses.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 4:58pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Create corrals $122M; Isomorphic's $2B series B</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/create-medicines-fashions-122m-fundraise-vivo-car-t-dreams\" hreflang=\"en\">Create Medicines fashions $122M fundraise for in vivo CAR-T dreams</a>",
+        "url": "https://www.fiercebiotech.com/biotech/create-medicines-fashions-122m-fundraise-vivo-car-t-dreams",
+        "summary": "As the wave of in vivo CAR-T hype crests, Create Medicines is catching the swell with a $122 million series B meant to back its early pipeline of autoimmune and cancer candidates.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 9:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-advances-alzheimers-tau-program-despite-midphase-miss\" hreflang=\"en\">Biogen advances Alzheimer’s tau program despite midphase miss </a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogen-advances-alzheimers-tau-program-despite-midphase-miss",
+        "summary": "A phase 2 trial of Biogen and Ionis Pharmaceuticals’ tau-targeting candidate missed its primary endpoint. But while the Alzheimer’s disease trial failed to yield the hoped-for dose-response data, reductions in tau pathology and cognitive benefits persuaded Biogen to commit to registrational development.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 8:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Takeda takes away 4.5K roles; Valneva reduces workforce</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regenxbio-reaps-pivotal-win-duchenne-muscular-dystrophy-gene-therapy\" hreflang=\"en\">Regenxbio reaps pivotal win for Duchenne muscular dystrophy gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regenxbio-reaps-pivotal-win-duchenne-muscular-dystrophy-gene-therapy",
+        "summary": "Regenxbio’s gene therapy for Duchenne muscular dystrophy has smashed the primary endpoint of its pivotal trial, securing a win for a biotech that has struggled in recent months under the weight of a rejection and clinical hold from the FDA.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 6:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aptose-facing-cash-crunch-exits-blood-cancer-pact-after-hanmi-buyout-blocks-development\" hreflang=\"en\">Aptose, facing cash crunch, exits blood cancer pact after Hanmi buyout blocks development</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aptose-facing-cash-crunch-exits-blood-cancer-pact-after-hanmi-buyout-blocks-development",
+        "summary": "Aptose Biosciences has scrapped a deal for a blood cancer drug candidate as part of its pending takeover by Hanmi Pharmaceutical.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 6:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/icon-opens-early-phase-research-unit-san-antonio-satellite-clinics-grow-trial-capabilities\" hreflang=\"en\">Icon opens early-phase research unit in San Antonio, plus satellite clinics to grow trial capabilities</a>",
+        "url": "https://www.fiercebiotech.com/cro/icon-opens-early-phase-research-unit-san-antonio-satellite-clinics-grow-trial-capabilities",
+        "summary": "Global contract research organization Icon has announced the opening of a new research facility in San Antonio, Texas, along with satellite clinics in Houston and Lawrence, Kansas, to expand its clinical trial capabilities.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 1:18pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy\" hreflang=\"en\">With $1B Novo deal and diabetes ambitions undimmed, Lexicon is in ‘good shape to go crazy’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy",
+        "summary": "Lexicon CEO Michael Exton told Fierce how he set the company's development and financial pathway \"on a very different trajectory.\"",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 9:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "阿里健康做对了一半",
+        "url": "https://www.36kr.com/p/3808768190586371",
+        "summary": "三年等得起吗？",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 14 May 2026 07:52:12 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "6月上海，这场论坛聊透出海真问题",
+        "url": "https://www.36kr.com/p/3807234971131656",
+        "summary": "6月11日上海GGF2026出海论坛，聚焦韧性全球化与AI",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 13 May 2026 05:04:56 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning",
+        "url": "https://huggingface.co/papers/2605.14386",
+        "summary": "We present Darwin Family, a framework for training-free evolutionary merging of large language models via gradient-free weight-space recombination. We ask whether frontier-level reasoning performance can be improved without additional training, by reorganizing latent capabilities already encoded in existing checkpoints. Darwin introduces three key ideas: (i) a 14-dimensional adaptive merge genome enabling fine-grained component- and block-level recombination; (ii) MRI-Trust Fusion, which adaptively balances diagnostic layer-importance signals with evolutionary search through a learnable trust ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+        "url": "https://huggingface.co/papers/2605.13941",
+        "summary": "Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies remain frozen at deployment. We argue that truly adaptive memory requires co-evolution at two levels: the stored knowledge and the retrieval mechanism that queries it. We present EvolveMem, a self-evolving memory architecture that exposes its full retrieval configuration as a structured action space optimized by an LLM-powered diagnosis module. In",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-12T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Self-Distilled Agentic Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2605.15155",
+        "summary": "Reinforcement learning (RL) has emerged as a central paradigm for post-training LLM agents, yet its trajectory-level reward signal provides only coarse supervision for long-horizon interaction. On-Policy Self-Distillation (OPSD) complements RL by introducing dense token-level guidance from a teacher branch augmented with privileged context. However, transferring OPSD to multi-turn agents proves problematic: compounding multi-turn instability destabilizes supervision, while skill-conditioned privileged guidance requires asymmetric treatment for negative teacher rejections may arise from imperfe",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+        "url": "https://huggingface.co/papers/2605.15185",
+        "summary": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video evaluation pipelines rely heavily on human judgment or learned graders, which can be subjective and weakly diagnostic for geometric failures. We introduce PDI-Bench (Perspective Distortion Index), a quantitative framework for auditing geometric coherence in generated videos. Given a generated clip, we obtain object-centric observations via segmentation and point tracking (e.g., SAM 2, MegaSaM, and Co",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+        "url": "https://huggingface.co/papers/2605.14892",
+        "summary": "LLM-based autonomous agents have demonstrated strong capabilities in reasoning, planning, and tool use, yet remain limited when tasks require sustained coordination across roles, tools, and environments. Multi-agent systems address this through structured collaboration among specialized agents, but tighter coordination also amplifies a less explored risk: errors can propagate across agents and interaction rounds, producing failures that are difficult to diagnose and rarely translate into structural self-improvement. Existing surveys cover individual agent capabilities, multi-agent collaboratio",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages",
+        "url": "https://huggingface.co/papers/2605.13292",
+        "summary": "Most existing medical dialogue systems operate in a single-turn question--answering paradigm or rely on template-based datasets, limiting conversational realism and multilingual applicability. We introduce IndicMedDialog, a parallel multi-turn medical dialogue dataset spanning English and nine Indic languages: Assamese, Bengali, Gujarati, Hindi, Marathi, Punjabi, Tamil, Telugu, and Urdu. The dataset extends MDDial with LLM-generated synthetic consultations, translated using TranslateGemma, verified by native speakers, and refined through a script-aware post-processing pipeline to correct phone",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-12T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

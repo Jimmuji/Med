@@ -1,0 +1,374 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T12:25:21.858463+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA drug center head Tracy Beth Høeg leaves as agency faces leadership vacuum",
+        "url": "https://www.statnews.com/2026/05/15/fda-leadership-vacuum-tracy-beth-hoeg-resigns-drug-center-post/",
+        "summary": "The acting director of the FDA’s drug center, Tracy Beth Høeg, is leaving the agency. The news come days after Commissioner Marty Makary handed in his resignation.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 21:15:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Takeda will pay $13.6 million to settle allegations it paid kickbacks to doctors",
+        "url": "https://www.statnews.com/pharmalot/2026/05/15/takeda-settle-allegations-kickbacks-to-doctors/",
+        "summary": "Takeda Pharmaceuticals agreed to pay $13.6 million to settle allegations that it paid kickbacks to doctors to prescribe an antidepressant.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 17:41:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/05/15/up-and-down-the-ladder-the-latest-comings-and-goings-jobs/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 15:40:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: First hantavirus, now Ebola: What two outbreaks reveal about global preparedness",
+        "url": "https://www.statnews.com/2026/05/15/ebola-outbreak-drc-hantavirus-who/",
+        "summary": "“Preparedness is not built during a crisis press conference or after a pathogen has already crossed borders,” writes Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 14:35:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
+        "url": "https://www.statnews.com/2026/05/15/new-ebola-outbreak-congo-ituri-province/",
+        "summary": "A new Ebola outbreak has been confirmed in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 14:16:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A political contest in the U.K. could shake up drug pricing",
+        "url": "https://www.statnews.com/2026/05/15/health-news-uk-political-contest-shaking-up-drug-pricing/",
+        "summary": "Makary and Cassidy's fates, U.S. pressures Germany to pay more for drugs, and other health news",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 13:31:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/15/germany-drug-prices-biotech-clinical-trials-pharmalittle-newsletter/",
+        "summary": "In today's Pharmalittle roundup: U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and much more.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 13:29:23 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place",
+        "url": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/",
+        "summary": "Restricting telehealth prescribing of mifepristone wouldn't spell the end of telehealth medication abortion, writes OB-GYN Christine Henneberg.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 13:24:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Mail-order abortion pills are legal (for now)",
+        "url": "https://www.statnews.com/2026/05/15/health-news-mail-order-abortion-pills-are-legal-for-now/",
+        "summary": "Africa CDC declares Ebola outbreak in DRC, the violent fallout from Trump’s cuts to foreign aid, and more health news",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 13:04:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "DOJ accuses Yale and UCLA medical schools of discriminating against white and Asian applicants",
+        "url": "https://www.statnews.com/2026/05/15/trump-doj-targets-yale-ucla-medical-school-admissions/",
+        "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Top U.S. officials pressured Germany to pay more for prescription drugs",
+        "url": "https://www.statnews.com/2026/05/15/trump-administration-presses-germany-presciption-drug-prices/",
+        "summary": "It's a key piece of Trump's effort to secure lower drug prices for U.S. patients.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Tributes to Craig Venter and the genomics race are missing something important",
+        "url": "https://www.statnews.com/2026/05/15/craig-venter-obituaries-human-genome-coding-race/",
+        "summary": "A race, two rivals, a photo finish? Former National Human Genome Research Institute archivist explains what Craig Venter tributes are missing.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Why isn’t alcohol seen as a public health emergency?",
+        "url": "https://www.statnews.com/2026/05/15/alcohol-as-public-health-emergency-status-report-alex-hogan/",
+        "summary": "Why isn't alcohol seen as a public health emergency? Alex Hogan talks to STAT's Isabella Cueto and Lev Facher about their new series on this week's STATus Report.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m 73. I wish my pills wouldn’t keep changing colors and shapes",
+        "url": "https://www.statnews.com/2026/05/15/pills-changing-colors-shape-generics-confusion/",
+        "summary": "Pharmaceutical companies, generic manufacturers, and pharmacists should be more careful about changing how pills look.",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "PSA screening for prostate cancer reduces disease-specific deaths, new review shows",
+        "url": "https://www.statnews.com/2026/05/14/psa-tests-reduce-risk-prostate-cancer-deaths-new-study-cochrane-review/",
+        "summary": "Prostate-specific antigen (PSA) blood testing likely reduces the risk of death from prostate cancer, found a new review",
+        "source": "STAT News",
+        "published": "Fri, 15 May 2026 00:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/texas-childrens-agrees-launch-nations-first-detransition-clinic-settle-state-doj\" hreflang=\"en\">Texas Children's Hospital agrees to launch nation's first 'detransition clinic' to settle state, DOJ investigation</a>",
+        "url": "https://www.fiercehealthcare.com/providers/texas-childrens-agrees-launch-nations-first-detransition-clinic-settle-state-doj",
+        "summary": "The large pediatric provider had been under investigation by Texas' attorney general for three years over its gender-affirming care services. It said it agreed to the deal \"to protect our resources from endless and costly litigation.\"",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 4:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/home-health-and-hospice-provider-enhabit-go-private-11b-deal\" hreflang=\"en\">Kinderhook finalizes acquisition of home health and hospice provider Enhabit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/home-health-and-hospice-provider-enhabit-go-private-11b-deal",
+        "summary": "Kinderhook Industries finalized its previously announced take-private buyout of Enhabit, a provider of home health and hospice care.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 23, 2026 6:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/docs-remain-skeptical-insurers-pledge-ease-prior-auth-ama-survey\" hreflang=\"en\">Docs remain skeptical of insurers' pledge to ease prior auth: AMA survey</a>",
+        "url": "https://www.fiercehealthcare.com/payers/docs-remain-skeptical-insurers-pledge-ease-prior-auth-ama-survey",
+        "summary": "As payers tout progress made under a pledge to ease burdens around prior authorizations, physicians remain skeptical, a new survey shows.",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 2:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/op-ed-making-america-healthy-again-requires-more-committee\" hreflang=\"en\">Op-ed: Making America healthy again requires more than a committee</a>",
+        "url": "https://www.fiercehealthcare.com/providers/op-ed-making-america-healthy-again-requires-more-committee",
+        "summary": "The question for the administration's soon-to-convene Federal Advisory Committee to improve U.S. healthcare is not whether we know what to do, but whether we are finally willing to do it, write the CEOs of the American Academy of Family Physicians and SCAN Group.",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 12:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems\" hreflang=\"en\">Epic grows EHR footprint among small health systems even as overall market sales decline in 2025</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems",
+        "summary": "The number of hospitals impacted by EHR purchase decisions dropped 40% compared to 2024, KLAS Research reported. Despite the slowdown, Epic's share of the U.S. EHR market continued to inch up, primarily driven by contract decisions at smaller health systems.",
+        "source": "Fierce Healthcare",
+        "published": "May 14, 2026 5:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/scotus-restores-telehealth-access-abortion-pill-mifepristone\" hreflang=\"en\">SCOTUS temporarily restores telehealth access to abortion pill mifepristone</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/scotus-restores-telehealth-access-abortion-pill-mifepristone",
+        "summary": "The U.S. Supreme Court has issued an emergency order, temporarily blocking a federal appeals court ruling in Louisiana which would have prevented the abortion pill mifepristone from being prescribed over the phone and sent through the mail in the United States.",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 10:39am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/washington-ag-alleges-providence-failed-accommodate-pregnant-nursing-employees\" hreflang=\"en\">Washington AG alleges Providence failed to accommodate pregnant, nursing employees</a>",
+        "url": "https://www.fiercehealthcare.com/providers/washington-ag-alleges-providence-failed-accommodate-pregnant-nursing-employees",
+        "summary": "A lawsuit brought this week by the state alleges the nonprofit system \"regularly\" refused, delayed or failed to implement accommodations for pregnant and nursing employees as required by law, and that some of those employees \"experienced retaliation\" following their requests.",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 10:47am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-carrot-adds-menopause-care-ai-native-metabolic-health\" hreflang=\"en\">Health Tech Weekly Rundown: Headspace app launches on Apple Watch; Visby, RAINN partner on safe access program</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-carrot-adds-menopause-care-ai-native-metabolic-health",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "May 14, 2026 2:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Alignment Healthcare shuffles leadership team; Highmark hires former Optum CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cms-health-systems-ehr-vendors-join-payers-pledge-address-prior-authorization\" hreflang=\"en\">Epic, Oracle and Cleveland Clinic among companies to joining CMS prior authorization initiative</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cms-health-systems-ehr-vendors-join-payers-pledge-address-prior-authorization",
+        "summary": "A slew of additional \"early adopters\" from different corners of the industry said they will tackle the workflow, technical and operational barriers that have stymied adoption of electronic prior authorization, CMS said this week.",
+        "source": "Fierce Healthcare",
+        "published": "May 14, 2026 2:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/bipartisan-lawmakers-reintroduce-bill-barring-pbms-owning-pharmacies\" hreflang=\"en\">Bipartisan lawmakers reintroduce bill barring PBMs from owning pharmacies</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/bipartisan-lawmakers-reintroduce-bill-barring-pbms-owning-pharmacies",
+        "summary": "A bipartisan group of lawmakers in both chambers of Congress has reintroduced a bill aimed at barring companies from owning both a pharmacy benefit manager and retail pharmacies.",
+        "source": "Fierce Healthcare",
+        "published": "May 14, 2026 2:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: 9amHealth picks up $26M; Anomaly nabs $17M for payer intelligence platform</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/using-digital-technologies-enhance-patient-experience-and-better-manage-supply\" hreflang=\"en\">Using Digital Technologies to Enhance Patient Experience and Better Manage Supply Chain</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/using-digital-technologies-enhance-patient-experience-and-better-manage-supply",
+        "summary": "Integrating connectivity into drug delivery devices as a way to improve patient engagement and adherence",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 4:16pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/ensuring-sustainability-throughout-drug-and-device-development\" hreflang=\"en\">Ensuring Sustainability Throughout Drug and Device Development</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/ensuring-sustainability-throughout-drug-and-device-development",
+        "summary": "How the biopharma and drug delivery industries actively move to embed sustainability into core principles, products and processes",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 4:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/utilizing-ai-facilitate-combination-product-development\" hreflang=\"en\">Utilizing AI to Facilitate Combination Product Development</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/utilizing-ai-facilitate-combination-product-development",
+        "summary": "Specific examples of AI/ML usage by pharma companies through the combination product development process",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 4:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/achieving-effective-manufacturing-scaleup-clinical-and-commercial-success\" hreflang=\"en\">Achieving Effective Manufacturing Scaleup for Clinical and Commercial Success</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/achieving-effective-manufacturing-scaleup-clinical-and-commercial-success",
+        "summary": "Effective partnering between pharma and manufacturing as well as growing pains and lessons learned in scaling",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 3:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/advances-and-opportunities-dual-chamber-injectables\" hreflang=\"en\">Advances and Opportunities in Dual Chamber Injectables</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/advances-and-opportunities-dual-chamber-injectables",
+        "summary": "In this panel discussion from the 2025 PODD: Partnership Opportunities in Drug Delivery Conference, pharma executives and drug delivery experts discuss progess in the development of liquid/liquid and liquid/lyo dual chamber systems.",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 3:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/what-strategic-partnership-looks-practice-inside-takeda-basil-collaboration\" hreflang=\"en\">What a Strategic Partnership Looks Like in Practice: Inside the Takeda–Basil Collaboration That Delivered Tenfold Enrollment</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/what-strategic-partnership-looks-practice-inside-takeda-basil-collaboration",
+        "summary": "This case study highlights how Basil Clinical Research and Takeda’s first-time partnership became the top global recruiter, exceeding enrollment goals by tenfold through proactive assessments, early collaboration, and inclusive design.",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 3:06pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/eli-lilly-site-enablement-co-designing-solutions-sites\" hreflang=\"en\">Eli Lilly on Site Enablement: Co-Designing Solutions with Sites</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/eli-lilly-site-enablement-co-designing-solutions-sites",
+        "summary": "A case study highlighting how Eli Lilly partnered with clinical sites to co-design practical, site-centric solutions that enhanced trial execution and operational efficiency.",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 2:59pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/building-trust-driven-partnerships-astrazenecas-concierge-approach-accelerating\" hreflang=\"en\">Building Trust-Driven Partnerships: AstraZeneca’s Concierge Approach to Accelerating Site Activation and Enrollment</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/building-trust-driven-partnerships-astrazenecas-concierge-approach-accelerating",
+        "summary": "AstraZeneca’s approach to collaboration has enabled faster site activation, stronger recruitment performance, and improved data delivery.",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 2:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/bridging-access-gaps-sponsor-led-enablement-research-naive-sites-expand-patient\" hreflang=\"en\">Bridging Access Gaps: Sponsor-Led Enablement of Research-Naïve Sites to Expand Patient Reach</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/bridging-access-gaps-sponsor-led-enablement-research-naive-sites-expand-patient",
+        "summary": "This case study shares how Endo enabled a new site through hands-on mentorship, infrastructure support, and trust-building.",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 1:54pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/after-makary-departure-cder-chief-tracy-beth-hoeg-headed-out-door-fda-report\" hreflang=\"en\">UPDATED: After Makary departure, CDER chief Tracy Beth Høeg headed out at FDA</a>",
+        "url": "https://www.fiercebiotech.com/pharma/after-makary-departure-cder-chief-tracy-beth-hoeg-headed-out-door-fda-report",
+        "summary": "With the ink barely dry on outgoing commissioner Marty Makary’s resignation, another top regulator is heading for the exit at the FDA.",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 1:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-cuts-select-number-roles-biomedical-research-arm\" hreflang=\"en\">Novartis, amid reorg, cuts ‘select number’ of biomedical research roles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-cuts-select-number-roles-biomedical-research-arm",
+        "summary": "After a series of staff consolidation moves in recent weeks, Novartis is again trimming its ranks, albeit in what appears to be a more limited move centered on the Swiss drugmaker’s biomedical research arm.",
+        "source": "Fierce Biotech",
+        "published": "May 15, 2026 10:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-model-medicines-creates-creative-models-ai-drug-development\" hreflang=\"en\">Why Model Medicines needs to ‘discover new colors’ in its AI drug discovery quest</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-model-medicines-creates-creative-models-ai-drug-development",
+        "summary": "“Outliers are what you're going for,” Model Medicines CEO Daniel Haders, Ph.D., told Fierce to explain the company's AI-driven drug development strategy.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 11:52pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "阿里健康做对了一半",
+        "url": "https://www.36kr.com/p/3808768190586371",
+        "summary": "三年等得起吗？",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 14 May 2026 07:52:12 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning",
+        "url": "https://huggingface.co/papers/2605.14386",
+        "summary": "We present Darwin Family, a framework for training-free evolutionary merging of large language models via gradient-free weight-space recombination. We ask whether frontier-level reasoning performance can be improved without additional training, by reorganizing latent capabilities already encoded in existing checkpoints. Darwin introduces three key ideas: (i) a 14-dimensional adaptive merge genome enabling fine-grained component- and block-level recombination; (ii) MRI-Trust Fusion, which adaptively balances diagnostic layer-importance signals with evolutionary search through a learnable trust ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+        "url": "https://huggingface.co/papers/2605.13941",
+        "summary": "Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies remain frozen at deployment. We argue that truly adaptive memory requires co-evolution at two levels: the stored knowledge and the retrieval mechanism that queries it. We present EvolveMem, a self-evolving memory architecture that exposes its full retrieval configuration as a structured action space optimized by an LLM-powered diagnosis module. In",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-12T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Self-Distilled Agentic Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2605.15155",
+        "summary": "Reinforcement learning (RL) has emerged as a central paradigm for post-training LLM agents, yet its trajectory-level reward signal provides only coarse supervision for long-horizon interaction. On-Policy Self-Distillation (OPSD) complements RL by introducing dense token-level guidance from a teacher branch augmented with privileged context. However, transferring OPSD to multi-turn agents proves problematic: compounding multi-turn instability destabilizes supervision, while skill-conditioned privileged guidance requires asymmetric treatment for negative teacher rejections may arise from imperfe",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+        "url": "https://huggingface.co/papers/2605.15185",
+        "summary": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video evaluation pipelines rely heavily on human judgment or learned graders, which can be subjective and weakly diagnostic for geometric failures. We introduce PDI-Bench (Perspective Distortion Index), a quantitative framework for auditing geometric coherence in generated videos. Given a generated clip, we obtain object-centric observations via segmentation and point tracking (e.g., SAM 2, MegaSaM, and Co",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems",
+        "url": "https://huggingface.co/papers/2605.14892",
+        "summary": "LLM-based autonomous agents have demonstrated strong capabilities in reasoning, planning, and tool use, yet remain limited when tasks require sustained coordination across roles, tools, and environments. Multi-agent systems address this through structured collaboration among specialized agents, but tighter coordination also amplifies a less explored risk: errors can propagate across agents and interaction rounds, producing failures that are difficult to diagnose and rarely translate into structural self-improvement. Existing surveys cover individual agent capabilities, multi-agent collaboratio",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-13T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T12:54:52.767823+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Maryland state affordability board places a price cap on Ozempic",
+        "url": "https://www.statnews.com/pharmalot/2026/05/18/maryland-state-affordability-board-places-price-cap-on-ozempic/",
+        "summary": "Nine states have been pursuing the idea of prescription drug affordability boards. Maryland's board just set limits on the price of Ozempic.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 22:08:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: White House taps Amazon, GoodRx, and Mark Cuban to bolster TrumpRx",
+        "url": "https://www.statnews.com/2026/05/18/trumprx-adds-generic-drugs-amazon-pharmacy-mark-cuban-goodrx/",
+        "summary": "Trump's drug discount platform adds 600 generic medications via major online pharmacies.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 22:03:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "With no approved vaccine for Ebola outbreak, experts weigh testing a long shot",
+        "url": "https://www.statnews.com/2026/05/18/ebola-outbreak-update-experts-weigh-use-merck-vaccine-ervebo/",
+        "summary": "With no approved vaccine for the fast-growing Ebola outbreak in the DRC, experts weigh testing one with unknown protection.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 20:44:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s CMS to allow skimpier plans on ACA exchanges",
+        "url": "https://www.statnews.com/2026/05/18/trump-aca-insurance-new-cms-rules-expand-catastrophic-coverage/",
+        "summary": "The new plans could leave patients on the hook for more of their health care costs.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 19:45:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why the WakeMed – Atrium Health hospital merger matters",
+        "url": "https://www.statnews.com/2026/05/18/atrium-health-wake-med-merger-gmrs-ipo-health-care-inc/",
+        "summary": "Hospital execs worked in secret on the deal for two years.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 17:39:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AstraZeneca picks up FDA approval for hypertension drug",
+        "url": "https://www.statnews.com/2026/05/18/biotech-news-astrazeneca-picks-up-fda-approval-hypertension-drug/",
+        "summary": "The China question, FDA leadership shakeups, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 17:05:01 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "U.S. bans entry from Ebola-affected countries as American patient is identified",
+        "url": "https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/",
+        "summary": "In response to an Ebola outbreak, the U.S. has banned entry for noncitizens who have been in the Democratic Republic of the Congo, Uganda, or South Sudan recently.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 16:04:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
+        "url": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/",
+        "summary": "The rejection may make the pharma firms remaining lawsuits more difficult.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 14:43:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about U.S. biotech’s China problem, a Regeneron flop, and much more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/18/biotech-has-china-problem-regeneron-melanoma-drug-flops/",
+        "summary": "The question of whether to partner with Chinese firms — or see them as rivals — is tearing biotech apart, pitting peers and partners against one another",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 13:11:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Texas is opening up a detransition clinic",
+        "url": "https://www.statnews.com/2026/05/18/health-news-texas-opens-detransition-clinic/",
+        "summary": "Americans exposed to Ebola outbreak, Bill Cassidy's primary defeat, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 11:43:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How to restore credibility to the CDC’s vaccine advisory committee",
+        "url": "https://www.statnews.com/2026/05/18/acip-charter-vaccine-policy-cdc-political-interference/",
+        "summary": "Jesse Goodman, former director of CBER and former FDA chief scientist, calls for five critical changes to restore trust in the Advisory Committee on Immunization Practices.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The China question is tearing biotech apart",
+        "url": "https://www.statnews.com/2026/05/18/biotech-industry-split-chinese-drugs-opportunity-versus-existential-threat/",
+        "summary": "China's ascent is forcing U.S. biotech companies and investors to pick a side: Is it an ally or an existential threat?",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: ‘Patient autonomy’ has nothing to do with childhood vaccine policies",
+        "url": "https://www.statnews.com/2026/05/18/patient-autonomy-childhood-vaccines-red-herring/",
+        "summary": "Opinion: Vaccine policy it is not a matter of autonomy at all, because infants do not decline vaccination — their parents do.",
+        "source": "STAT News",
+        "published": "Mon, 18 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: U.K. advocacy groups threaten court action over a key provision in the pharma trade deal with the U.S.",
+        "url": "https://www.statnews.com/pharmalot/2026/05/17/uk-advocates-threaten-court-action-over-pharma-trade-deal-with-us/",
+        "summary": "A pair of advocacy groups is threatening legal action unless the U.K. government revokes regulations at the heart of a new pharma trade agreement with the U.S.",
+        "source": "STAT News",
+        "published": "Sun, 17 May 2026 23:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "In Ebola outbreak, a number of Americans in the Congo believed to have had exposure to suspected cases",
+        "url": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/",
+        "summary": "A number of Americans who are in the Congo are believed to have had exposure to suspected cases in the country’s latest Ebola outbreak, sources have told STAT.",
+        "source": "STAT News",
+        "published": "Sun, 17 May 2026 21:45:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ascension-triples-net-income-slims-operating-margin-11-across-9-months\" hreflang=\"en\">Ascension triples net income, slims operating margin to -1.1% across 9 months</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ascension-triples-net-income-slims-operating-margin-11-across-9-months",
+        "summary": "The nonprofit system's leadership described broadly improved performances across the health system’s acute care facilities and the fruit of a strategic expansion in outpatient access points.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 4:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/us-hospital-shootings-have-become-more-common-over-past-25-years-mayo-clinic-study\" hreflang=\"en\">U.S. hospital shootings have become more common over past 25 years: Mayo Clinic study</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/us-hospital-shootings-have-become-more-common-over-past-25-years-mayo-clinic-study",
+        "summary": "Between 2000 and 2024, hospital-based shootings increased from six to 34 per year—or a 6.4% increase per year. And, from 2012 to 2024, incidents rose 8.4% year-over-year from 14 to 34 shootings.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 1:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Innovaccer lays off 340 employees; Cuts at HCA Healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-help-chair-bill-cassidys-primary-loss-casts-congressional-health-policy\" hreflang=\"en\">Senate HELP Chair Bill Cassidy's primary loss casts congressional health policy, leadership confirmations on new trajectory</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-help-chair-bill-cassidys-primary-loss-casts-congressional-health-policy",
+        "summary": "Louisiana Sen. Bill Cassidy, M.D., will tackle health policy priorities and multiple leadership confirmation processes as a lame duck after drawing the ire of both President Donald Trump and the Make America Healthy Again movement.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 11:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/67-health-leaders-concerned-about-medicare-medicaid-cuts-impact-business-operations-retarus\" hreflang=\"en\">Two-thirds of health leaders concerned about Medicare, Medicaid cuts’ impact on business operations</a>",
+        "url": "https://www.fiercehealthcare.com/finance/67-health-leaders-concerned-about-medicare-medicaid-cuts-impact-business-operations-retarus",
+        "summary": "If potential reimbursement cuts exceed 10%, respondents say it will have negative impacts on staffing decisions and technological investments.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 10:40am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/health-system-revenue-heads-increasingly-turning-their-attention-patients-share-bill\" hreflang=\"en\">Health system revenue heads increasingly turning their attention to patients' share of the bill</a>",
+        "url": "https://www.fiercehealthcare.com/providers/health-system-revenue-heads-increasingly-turning-their-attention-patients-share-bill",
+        "summary": "The portion of survey respondents who named patient balances as their single top priority nearly doubled from 2025 to 2026, reflecting \"a new financial reality\" ushered by greater premiums, high-deductible plans and stricter Medicaid eligibility.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 4:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/psychedelic-therapies-are-almost-here-infrastructure-isnt\" hreflang=\"en\">Psychedelic Therapies Are Almost Here. The Infrastructure Isn't.</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/psychedelic-therapies-are-almost-here-infrastructure-isnt",
+        "summary": "Psychedelic-assisted therapy is closer to approval than most health systems realize. Here is what the operational gap actually looks like",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 1:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/turn-language-access-operational-advantage\" hreflang=\"en\">Turn Language Access into an Operational Advantage</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/turn-language-access-operational-advantage",
+        "summary": "Language access affects more than compliance. It impacts throughput, readmissions, provider efficiency, patient satisfaction, and cost.",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 2:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-pulls-back-limits-non-standard-aca-plans-final-rule\" hreflang=\"en\">CMS pulls back limits on non-standard ACA plans in final rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-pulls-back-limits-non-standard-aca-plans-final-rule",
+        "summary": "The Trump administration has finalized annual regulations governing the Affordable Care Act's exchanges, including a plan that would pull back limits on non-standardized plan options offered by insurers.",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 7:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/commonspirit-shoulders-58-operating-margin-fiscal-q3\" hreflang=\"en\">Supply costs, payer challenges drag CommonSpirit Health to -5.8% operating margin in fiscal Q3</a>",
+        "url": "https://www.fiercehealthcare.com/providers/commonspirit-shoulders-58-operating-margin-fiscal-q3",
+        "summary": "Operating performance at the 137-hospital nonprofit system took a dive even before the recorded impact of a multi-billion-dollar decoupling from Tenet's revenue cycle business.",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 4:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/texas-childrens-agrees-launch-nations-first-detransition-clinic-settle-state-doj\" hreflang=\"en\">Texas Children's Hospital agrees to launch nation's first 'detransition clinic' to settle state, DOJ investigation</a>",
+        "url": "https://www.fiercehealthcare.com/providers/texas-childrens-agrees-launch-nations-first-detransition-clinic-settle-state-doj",
+        "summary": "The large pediatric provider had been under investigation by Texas' attorney general for three years over its gender-affirming care services. It said it agreed to the deal \"to protect our resources from endless and costly litigation.\"",
+        "source": "Fierce Healthcare",
+        "published": "May 15, 2026 4:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/home-health-and-hospice-provider-enhabit-go-private-11b-deal\" hreflang=\"en\">Kinderhook finalizes acquisition of home health and hospice provider Enhabit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/home-health-and-hospice-provider-enhabit-go-private-11b-deal",
+        "summary": "Kinderhook Industries finalized its previously announced take-private buyout of Enhabit, a provider of home health and hospice care.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 23, 2026 6:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-and-wave-post-genetic-disease-updates-race-end-fields-40-year-drought\" hreflang=\"en\">Sanofi and Wave post AATD updates in race to end genetic disease’s 40-year new treatment drought</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-and-wave-post-genetic-disease-updates-race-end-fields-40-year-drought",
+        "summary": "Sanofi and Wave Life Sciences are using their time at the annual meeting of the American Thoracic Society in Orlando to share updated data for their next-gen attempts to treat a protein deficiency disorder that hasn’t seen significant innovation in about four decades.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 1:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomarins-270m-inozyme-bet-looks-trouble-after-rare-disease-drug-misses-key-ph-3-goal\" hreflang=\"en\">BioMarin’s $270M Inozyme bet looks in trouble after rare disease drug misses key ph. 3 goal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biomarins-270m-inozyme-bet-looks-trouble-after-rare-disease-drug-misses-key-ph-3-goal",
+        "summary": "BioMarin’s $270 million bet on Inozyme’s enzyme replacement therapy looks in trouble after the candidate only managed to hit one of the dual primary endpoints of a phase 3 study in children with a rare genetic disorder.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 10:49am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-rare-disease-flop-cash-strapped-quince-finds-salvation-reverse-merger\" hreflang=\"en\">After rare disease flop, cash-strapped Quince finds salvation in reverse merger </a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-rare-disease-flop-cash-strapped-quince-finds-salvation-reverse-merger",
+        "summary": "After launching a hunt for strategic alternatives in January following a phase 3 rare disease flop, Quince Therapeutics has landed on an exit strategy. The Bay Area biotech has announced a merger with a private pulmonary startup called Orphai Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 10:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nominations-now-open-fierce-biotechs-2026-fierce-15\" hreflang=\"en\">Nominations now open for Fierce Biotech's 2026 Fierce 15</a>",
+        "url": "https://www.fiercebiotech.com/biotech/nominations-now-open-fierce-biotechs-2026-fierce-15",
+        "summary": "It's time to kick off our annual hunt for the latest crop of trailblazing biotechs that we sense are going to shape the industry of the future.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 5:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vincentage-sees-124-weight-loss-oral-glp-1-will-chase-lilly-chinese-regulators\" hreflang=\"en\">Vincentage sees 12.4% weight loss for oral GLP-1, will chase Lilly to Chinese regulators</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vincentage-sees-124-weight-loss-oral-glp-1-will-chase-lilly-chinese-regulators",
+        "summary": "Vincentage Pharma’s oral GLP-1 agonist has been tied to a mean weight loss of 12.4% over a year, setting up the biotech to pursue Eli Lilly’s orforglipron to Chinese regulators.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 7:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-pens-23b-pact-parabilis-develop-new-type-adc-therapy\" hreflang=\"en\">Regeneron pens $2.3B pact with Parabilis to develop new type of ADC-like therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-pens-23b-pact-parabilis-develop-new-type-adc-therapy",
+        "summary": "Regeneron has ponied up $125 million in cash and an equity investment in Parabilis Medicines to join forces on a new type of antibody-drug conjugate that could have better luck binding to tricky target sites.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 8:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-funnels-15b-mirus-pens-option-buy-its-tavr-system\" hreflang=\"en\">Boston Scientific funnels $1.5B into MiRus, with option to buy TAVR system </a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-funnels-15b-mirus-pens-option-buy-its-tavr-system",
+        "summary": "Acquisitive Boston Scientific is making deals again, with a major investment play into a private medtech with an option to snap up exclusive rights to its Transcatheter Aortic Valve Replacement system.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 7:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/transforming-neurodegenerative-disease-treatment\" hreflang=\"en\">Transforming neurodegenerative disease treatment</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/transforming-neurodegenerative-disease-treatment",
+        "summary": "Discover how Cognition Therapeutics is redefining hope for Alzheimer’s and Dementia with Lewy bodies with innovative, accessible therapies.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 3:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/rethinking-path-ind-how-integrated-global-approach-can-accelerate-biologics-development\" hreflang=\"en\">Rethinking the path to IND: How an integrated, global approach can accelerate biologics development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/rethinking-path-ind-how-integrated-global-approach-can-accelerate-biologics-development",
+        "summary": "Thermo Fisher’s future US-based option for biologic and sterile fill-finish manufacturing will help to alleviate capacity bottlenecks globally.",
+        "source": "Fierce Biotech",
+        "published": "May 11, 2026 5:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/executing-biomarker-driven-oncology-trials\" hreflang=\"en\">Executing biomarker-driven oncology trials</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/executing-biomarker-driven-oncology-trials",
+        "summary": "Why biomarker-driven oncology trials require new thinking across patient recruitment, assay development and regulatory strategy.",
+        "source": "Fierce Biotech",
+        "published": "May 13, 2026 11:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/where-promise-nams-meets-practice\" hreflang=\"en\">Where the Promise of NAMs Meets Practice</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/where-promise-nams-meets-practice",
+        "summary": "NAMs have momentum, but adoption still lags. Learn what’s holding them back and what it will take to move forward.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 1:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/ohio-discovery-corridor-attracting-worlds-best-pediatric-research-heres-why-0\" hreflang=\"en\">Ohio Discovery Corridor is Attracting the World’s Best in Pediatric Research. Here’s Why</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/ohio-discovery-corridor-attracting-worlds-best-pediatric-research-heres-why-0",
+        "summary": "There are critical reasons why the industry’s brightest minds are picking Ohio to innovate, collaborate, and make the biggest impact with their work.",
+        "source": "Fierce Biotech",
+        "published": "May 14, 2026 4:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "2026医疗大模型场景落地研究报告：应用落地、实现商业闭环成为行业发展主旋律",
+        "url": "https://www.36kr.com/p/3815459102433026",
+        "summary": "医疗大模型落展现状剖析与未来发展趋势总结",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 19 May 2026 02:43:34 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "能融到资的早期医疗AI项目，已经快要绝迹了",
+        "url": "https://www.36kr.com/p/3811211952102920",
+        "summary": "医疗AI早期遇冷，破局需合规释放数据价值",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 18 May 2026 11:55:36 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "url": "https://www.36kr.com/p/3814408307711492",
+        "summary": "第四届中国AIGC产业峰会5月20日北京举办，干货满满开放报名。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 18 May 2026 07:03:20 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
+        "url": "https://huggingface.co/papers/2605.12882",
+        "summary": "Multimodal Large Language Models (MLLMs) have significantly advanced document understanding, yet current Doc-VQA evaluations score only the final answer and leave the supporting evidence unchecked. This answer-only approach masks a critical failure mode: a model can land on the correct answer while grounding it in the wrong passage -- a critical risk in high-stakes domains like law, finance, and medicine, where every conclusion must be traceable to a specific source region. To address this, we introduce CiteVQA, a benchmark that requires models to return element-level bounding-box citations al",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-12T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

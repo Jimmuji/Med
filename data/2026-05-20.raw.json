@@ -1,0 +1,390 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T12:59:07.475499+08:00",
+  "counts": {
+    "news": 44,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: 23andMe offers to connect users’ DNA data with medical records",
+        "url": "https://www.statnews.com/2026/05/19/23andme-healthex-to-connect-dna-data-with-health-records/",
+        "summary": "23andMe is partnering with HealthEx to allow users to import their medical records, the company said Tuesday at STAT Breakthrough Summit West.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 01:35:55 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Marc Tessier-Lavigne addresses new book’s allegations about his conduct in Stanford misconduct case",
+        "url": "https://www.statnews.com/2026/05/19/former-stanford-president-marc-tessier-lavigne-responds-allegations-new-book/",
+        "summary": "Former Stanford President Marc Tessier-Lavigne responded publicly for the first time, at a STAT event Tuesday, to allegations in a new book about why he was forced to resign.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 23:49:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump’s cuts to foreign aid are undermining the Ebola response, insiders say",
+        "url": "https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/",
+        "summary": "President Trump's cuts to foreign aid probably hampered the detection of the Ebola outbreak and the response to it.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 22:39:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Virginia governor vetoes legislation to create an advisory panel to lower the cost of prescription drugs",
+        "url": "https://www.statnews.com/pharmalot/2026/05/19/virginia-governor-vetoes-bill-to-create-panel-to-lower-drug-costs/",
+        "summary": "Virginia's governor vetoed a closely watched effort to create an advisory panel to lower prescription drug costs.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 20:55:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: This spine surgery usually costs $1,400. Under No Surprises Act arbitration? $34,000",
+        "url": "https://www.statnews.com/2026/05/19/no-surprises-act-dispute-resolution-fuels-extraordinary-payouts/",
+        "summary": "A new analysis shows how some clinicians are cashing in on a new process designed to protect patients from surprise bills.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 20:53:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How AI helped treat a newborn’s ultra rare disease. ‘It was almost like a light switch.’",
+        "url": "https://www.statnews.com/2026/05/19/ai-helped-find-treatment-newborn-ultra-rare-disease/",
+        "summary": "The parents of Jorie Kraus told the audience at STAT's Breakthrough Summit West about how AI helped their daughter who was born with a rare disease.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 20:52:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Canadian medical societies lack sufficient conflict-of-interest policies, study finds",
+        "url": "https://www.statnews.com/pharmalot/2026/05/19/canadian-medical-societies-lack-sufficient-conflict-of-interest-policies/",
+        "summary": "Most Canadian medical societies lack comprehensive policies governing conflicts of interest, and many policies are generally fragmented and narrow in scope, according to a new analysis.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 17:45:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At a time of tumult at FDA, a former commissioner is hopeful it’s on a better path",
+        "url": "https://www.statnews.com/2026/05/19/fda-can-thrive-despite-talent-loss-says-david-kessler-former-commissioner/",
+        "summary": "With the FDA facing upheaval and personnel exits, former commissioner David Kessler sees an opportunity whereby the agency can make a turn for the better.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 17:08:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: TrumpRx adds generic drugs",
+        "url": "https://www.statnews.com/2026/05/19/trumprx-generic-drugs-cassidy-loses-fda-turmoil-dc-diagnosis/",
+        "summary": "A deal with Mark Cuban, Amazon Pharmacy, and GoodRx is boosting TrumpRx's offerings.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 16:24:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Dexcom CEO hints at future uses for CGM",
+        "url": "https://www.statnews.com/2026/05/19/dexcom-cgm-sensors-new-uses-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Takeaways from a conversation with Dexcom CEO, and updates on WiSeR, and Epic's market share.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 14:10:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A new ranking of pharma companies by R&D performance",
+        "url": "https://www.statnews.com/2026/05/19/biotech-news-new-ranking-of-pharma-companies-by-rd-performance/",
+        "summary": "Maryland drug board to cap price of Ozempic, TrumpRx partners with Cuban, GoodRx, and more biotech news",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 13:55:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Supreme Court setback for pharma, TrumpRx expands and much more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/19/supreme-court-setback-for-pharma-trumprx-expands/",
+        "summary": "The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 13:23:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly tops prominent rankings on pharma R&D performance",
+        "url": "https://www.statnews.com/2026/05/19/pharma-rankings-innovation-invention/",
+        "summary": "A new set of lists ranks drug company laboratories on two criteria: innovation and invention.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The latest on Ebola: A travel ban and an old vaccine",
+        "url": "https://www.statnews.com/2026/05/19/health-news-ebola-travel-ban-and-old-vaccine/",
+        "summary": "Affordable Care Act changes, drinking while pregnant, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 11:39:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m a heart transplant recipient. I’m haunted by ‘ghost approval’ for medication I need to survive",
+        "url": "https://www.statnews.com/2026/05/19/insurance-approval-denial-cost-access-transplant-medication/",
+        "summary": "“On paper, I have insurance coverage. In real life, I don’t have access. That’s what I call ‘ghost approval,’” writes patient advocate Payton Herres.",
+        "source": "STAT News",
+        "published": "Tue, 19 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps\" hreflang=\"en\">Coalition of attorneys general sue to block federal student loan caps</a>",
+        "url": "https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps",
+        "summary": "Twenty-six attorneys general filed a lawsuit Tuesday against the Department of Education over a recently finalized restrictions on federal student loans the litigators, as well as health industry groups, say will hamper the clinical workforce pipeline.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 4:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-company-commure-banks-70m-funding-round-hits-7b-valuation\" hreflang=\"en\">AI company Commure banks $70M funding round, hits $7B valuation</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-company-commure-banks-70m-funding-round-hits-7b-valuation",
+        "summary": "Healthcare AI company Commure has banked $70 million in fresh funding, reaching a $7 billion valuation.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 4:32pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/reduced-average-length-stay-salvaged-hospitals-operating-margins-march-report\" hreflang=\"en\">Reduced average length of stay salvaged hospitals' operating margins in March: report</a>",
+        "url": "https://www.fiercehealthcare.com/providers/reduced-average-length-stay-salvaged-hospitals-operating-margins-march-report",
+        "summary": "Hospitals' average length of stay declined 2% from February to March, fueling a 4% month-to-month decline in total daily calendar expense that outpaced a 1% dip in total daily revenue, according to healthcare advisory services firm Kaufman Hall.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 1:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/uva-health-launches-demand-virtual-primary-care-service-new-existing-patients\" hreflang=\"en\">UVA Health launches ‘on-demand’ virtual primary care service to address physician shortage</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/uva-health-launches-demand-virtual-primary-care-service-new-existing-patients",
+        "summary": "New and existing patients can use the service to schedule appointments for common conditions, preventive care and disease management.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 1:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/oig-jury-still-out-impacts-vertical-consolidation-part-d\" hreflang=\"en\">OIG: Jury still out on impacts of vertical consolidation in Part D</a>",
+        "url": "https://www.fiercehealthcare.com/payers/oig-jury-still-out-impacts-vertical-consolidation-part-d",
+        "summary": "A new analysis from the Office of Inspector General found a similar net cost for drugs through vertically-integrated Part D plans compared to other plans.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 2:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/white-house-adds-600-generic-meds-trumprx-purchasing-portal\" hreflang=\"en\">White House adds 600 generic meds to TrumpRx purchasing portal</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/white-house-adds-600-generic-meds-trumprx-purchasing-portal",
+        "summary": "With questions already swirling about the actual affordability impact of the government’s drug purchasing portal TrumpRx, the White House is updating the platform to address a key gap in the medicines it lists, albeit with a number of caveats remaining.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 10:28am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/71-us-adults-use-health-related-apps-report\" hreflang=\"en\">71% of US adults use health-related apps, 64% devices: report</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/71-us-adults-use-health-related-apps-report",
+        "summary": "A combined 88% of respondents want either more or the same amount of technology for health and wellness management over the next five to 10 years.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 10:40am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/nourish-raises-100m-plans-expand-care-model-physicians\" hreflang=\"en\">Nourish raises $100M, plans to expand care model with physicians</a>",
+        "url": "https://www.fiercehealthcare.com/finance/nourish-raises-100m-plans-expand-care-model-physicians",
+        "summary": "The company is pivoting from being a dietitian-only nutrition platform to a more comprehensive metabolic health clinic. Nourish is in the early stages of bringing on physicians, who are available to see patients in a few select regions to start.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 8:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aca-exchange-enrollment-likely-decline-least-17-year-kff\" hreflang=\"en\">ACA exchange enrollment likely to decline by at least 17% this year: KFF</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aca-exchange-enrollment-likely-decline-least-17-year-kff",
+        "summary": "Enrollment in Affordable Care Act marketplace plans could decline to 17.5 million people this year, according to a new KFF analysis.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ascension-triples-net-income-slims-operating-margin-11-across-9-months\" hreflang=\"en\">Ascension triples net income, slims operating margin to -1.1% across 9 months</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ascension-triples-net-income-slims-operating-margin-11-across-9-months",
+        "summary": "The nonprofit system's leadership described broadly improved performances across the health system’s acute care facilities and the fruit of a strategic expansion in outpatient access points.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 4:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/us-hospital-shootings-have-become-more-common-over-past-25-years-mayo-clinic-study\" hreflang=\"en\">U.S. hospital shootings have become more common over past 25 years: Mayo Clinic study</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/us-hospital-shootings-have-become-more-common-over-past-25-years-mayo-clinic-study",
+        "summary": "Between 2000 and 2024, hospital-based shootings increased from six to 34 per year—or a 6.4% increase per year. And, from 2012 to 2024, incidents rose 8.4% year-over-year from 14 to 34 shootings.",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 1:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Innovaccer lays off 340 employees; Cuts at HCA Healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/flaws-are-being-scaled-not-solved-ai-clinical-trials-report\" hreflang=\"en\">Clinical trial flaws ‘being scaled, not solved’ by AI: report</a>",
+        "url": "https://www.fiercebiotech.com/cro/flaws-are-being-scaled-not-solved-ai-clinical-trials-report",
+        "summary": "Clinical trial data company Phesi’s new analysis found that fewer than one in three trial protocols are connected to documented patient data and outcomes, highlighting the risk that flawed decision-making may be repeated in clinical development.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 10:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incyte-inks-deal-edison-scientific-train-ai-through-drug-discovery\" hreflang=\"en\">Incyte inks deal with Edison Scientific to train AI through drug discovery</a>",
+        "url": "https://www.fiercebiotech.com/biotech/incyte-inks-deal-edison-scientific-train-ai-through-drug-discovery",
+        "summary": "Incyte and Edison Scientific have signed a collaboration to employ Edison’s AI scientist, Kosmos, in Incyte’s drug discovery and development work.",
+        "source": "Fierce Biotech",
+        "published": "May 19, 2026 9:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Accro accrues $50M series C; Create corrals $122M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-inks-keytruda-supply-pact-support-exelixis-colorectal-cancer-trial\" hreflang=\"en\">Merck inks Keytruda supply pact to support Exelixis’ colorectal cancer trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-inks-keytruda-supply-pact-support-exelixis-colorectal-cancer-trial",
+        "summary": "Exelixis has secured supplies of subcutaneous Keytruda from Merck &amp; Co. for a planned phase 3 study, completing the trio of contributors needed to run the colorectal cancer trial.",
+        "source": "Fierce Biotech",
+        "published": "May 19, 2026 9:39am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chinese-biotechs-raise-costs-buyers-turn-ai-local-know-how-keep\" hreflang=\"en\">Facing mounting China licensing costs, biopharma buyers turn to AI and local know-how to keep up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chinese-biotechs-raise-costs-buyers-turn-ai-local-know-how-keep",
+        "summary": "Chinese companies now represent 50% of global out-licensing deals, with&nbsp;U.S. companies dropping to about 28%, according to SynBioBeta data.",
+        "source": "Fierce Biotech",
+        "published": "Apr 16, 2026 9:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/lauxera-capital-partners-raises-hefty-eu520m-health-medtech-companies\" hreflang=\"en\">Lauxera Capital Partners raises a hefty €520M for health, medtech companies </a>",
+        "url": "https://www.fiercebiotech.com/medtech/lauxera-capital-partners-raises-hefty-eu520m-health-medtech-companies",
+        "summary": "Lauxera Capital Partners has nearly doubled the size of its first funding drive with a €520 million ($605 million) raise for health and medical technology companies.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 6:53am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/herantis-taps-indivi-digital-biomarker-tech-parkinsons-disease-trial\" hreflang=\"en\">Herantis taps Indivi for digital biomarker tech in Parkinson’s disease trial</a>",
+        "url": "https://www.fiercebiotech.com/medtech/herantis-taps-indivi-digital-biomarker-tech-parkinsons-disease-trial",
+        "summary": "Finnish biotech Herantis Pharma is teaming up with Swiss medtech Indivi to help seek early detection of Parkinson’s disease in a new proof-of-concept clinical trial.",
+        "source": "Fierce Biotech",
+        "published": "May 19, 2026 4:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/relay-full-steam-ahead-pi3k-inhibitor-fueled-first-data-blood-vessel-disorders\" hreflang=\"en\">Relay ‘full steam ahead’ on PI3K inhibitor fueled by first phase 2 data in blood vessel disorder</a>",
+        "url": "https://www.fiercebiotech.com/biotech/relay-full-steam-ahead-pi3k-inhibitor-fueled-first-data-blood-vessel-disorders",
+        "summary": "Relay Therapeutics’ R&amp;D chief remains convinced the biotech’s PI3Kα inhibitor will carve out its own niche after reporting a slice of phase 2 data in patients with a type of blood vessel disorder.",
+        "source": "Fierce Biotech",
+        "published": "May 19, 2026 5:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-and-wave-post-genetic-disease-updates-race-end-fields-40-year-drought\" hreflang=\"en\">Sanofi and Wave post AATD updates in race to end genetic disease’s 40-year new treatment drought</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-and-wave-post-genetic-disease-updates-race-end-fields-40-year-drought",
+        "summary": "Sanofi and Wave Life Sciences are using their time at the annual meeting of the American Thoracic Society in Orlando to share updated data for their next-gen attempts to treat a protein deficiency disorder that hasn’t seen significant innovation in about four decades.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 1:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomarins-270m-inozyme-bet-looks-trouble-after-rare-disease-drug-misses-key-ph-3-goal\" hreflang=\"en\">BioMarin’s $270M Inozyme bet looks in trouble after rare disease drug misses key ph. 3 goal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biomarins-270m-inozyme-bet-looks-trouble-after-rare-disease-drug-misses-key-ph-3-goal",
+        "summary": "BioMarin’s $270 million bet on Inozyme’s enzyme replacement therapy looks in trouble after the candidate only managed to hit one of the dual primary endpoints of a phase 3 study in children with a rare genetic disorder.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 10:49am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-rare-disease-flop-cash-strapped-quince-finds-salvation-reverse-merger\" hreflang=\"en\">After rare disease flop, cash-strapped Quince finds salvation in reverse merger </a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-rare-disease-flop-cash-strapped-quince-finds-salvation-reverse-merger",
+        "summary": "After launching a hunt for strategic alternatives in January following a phase 3 rare disease flop, Quince Therapeutics has landed on an exit strategy. The Bay Area biotech has announced a merger with a private pulmonary startup called Orphai Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 10:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nominations-now-open-fierce-biotechs-2026-fierce-15\" hreflang=\"en\">Nominations now open for Fierce Biotech's 2026 Fierce 15</a>",
+        "url": "https://www.fiercebiotech.com/biotech/nominations-now-open-fierce-biotechs-2026-fierce-15",
+        "summary": "It's time to kick off our annual hunt for the latest crop of trailblazing biotechs that we sense are going to shape the industry of the future.",
+        "source": "Fierce Biotech",
+        "published": "May 18, 2026 5:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "2026CT行研报告：超高端CT引领、国产球管加速崛起",
+        "url": "https://www.36kr.com/p/3816873985541001",
+        "summary": "2025年CT行业量稳价升，国产替代加速，球管成投资热点",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 20 May 2026 01:06:01 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI 看我上厕所，还要听我打呼噜",
+        "url": "https://www.36kr.com/p/3815823627050499",
+        "summary": "智能马桶、智能床，家居能靠AI翻红吗？",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 19 May 2026 09:06:29 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "2026医疗大模型场景落地研究报告：应用落地、实现商业闭环成为行业发展主旋律",
+        "url": "https://www.36kr.com/p/3815459102433026",
+        "summary": "医疗大模型落展现状剖析与未来发展趋势总结",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 19 May 2026 02:43:34 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "能融到资的早期医疗AI项目，已经快要绝迹了",
+        "url": "https://www.36kr.com/p/3811211952102920",
+        "summary": "医疗AI早期遇冷，破局需合规释放数据价值",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 18 May 2026 11:55:36 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "url": "https://www.36kr.com/p/3814408307711492",
+        "summary": "第四届中国AIGC产业峰会5月20日北京举办，干货满满开放报名。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 18 May 2026 07:03:20 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos",
+        "url": "https://huggingface.co/papers/2605.18984",
+        "summary": "Recent video generative models have greatly improved the realism of AI-generated videos, yet their outputs still exhibit artifacts such as temporal inconsistencies, structural distortions, and semantic incoherence. While Multimodal Large Language Models (MLLMs) show strong visual understanding capabilities, their ability to perceive and reason about such artifacts remains unclear. Existing benchmarks often lack systematic evaluation of artifact-aware perception and fine-grained diagnostic reasoning, especially across diverse AI-generated video domains beyond photorealistic content. To address ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-17T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Auditing Multimodal LLM Raters: Central Tendency Bias in Clinical Ordinal Scoring",
+        "url": "https://huggingface.co/papers/2605.16386",
+        "summary": "Multimodal large language models (LLMs) are increasingly explored as automated evaluators in clinical settings, yet their scoring behavior on ordinal clinical scales remains poorly understood. We benchmark three frontier LLM families against supervised deep learning models for scoring Clock Drawing Test (CDT) images on two public datasets using the Shulman rubric. While fully fine-tuned Vision Transformers achieve the best calibration (MAE 0.52, within-1 accuracy 91%), zero-shot LLMs remain competitive on tolerance-based agreement (GPT-5 MAE 0.67, within-1 accuracy 92%) despite higher absolute",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-10T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?",
+        "url": "https://huggingface.co/papers/2605.16679",
+        "summary": "End-to-end automation of realistic healthcare operations stresses three capabilities underrepresented in current benchmarks: policy density, decisions must be grounded in a large library of medical, insurance, and operational rules; Multi-role composition: a single task requires the agent to play multiple roles with handoffs; and multilateral interaction: intermediate workflow steps are multi-turn dialogs, such as peer-to-peer review and patient outreach. We introduce χ-Bench, a benchmark of long-horizon healthcare workflows across three domains: provider prior authorization, payer utilization",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-14T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

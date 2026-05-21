@@ -1,0 +1,382 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T13:04:41.688827+08:00",
+  "counts": {
+    "news": 43,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Congressional Democrats try to force a vote to end Medicare AI prior authorization pilot",
+        "url": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/",
+        "summary": "Congressional Democrats are mounting a fresh effort to end a Medicare experiment to use AI to approve or deny care.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 19:28:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pioneering trial for treating genetic disease before birth nears reality",
+        "url": "https://www.statnews.com/2026/05/20/tippi-mackenzie-in-utero-gene-therapy-nears-first-fda-trial/",
+        "summary": "A UCSF team has submitted an application to the FDA seeking approval for a small trial of in utero gene therapy for a rare lysosomal storage disorder.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 18:48:30 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Surgeon general’s office issues warning on screen time for children",
+        "url": "https://www.statnews.com/2026/05/20/surgeon-general-public-health-warning-screen-time-children/",
+        "summary": "A public health advisory calls on parents, schools, and government to limit children's use of screens, saying some patterns of use “can pose real harm to children.”",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 18:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Florida hospitals win $8 billion in extra Medicaid funds",
+        "url": "https://www.statnews.com/2026/05/20/florida-hospitals-get-8-billion-extra-medicaid-funds-before-trump-limits/",
+        "summary": "Stricter limits on extra Medicaid funds are coming, stemming from President Trump's tax cut bill.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 18:03:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Scientists track cellular disruptions that lead to type 1 diabetes",
+        "url": "https://www.statnews.com/2026/05/20/type-1-diabetes-early-molecular-clues-science-translational-medicine/",
+        "summary": "Growing evidence suggests it takes a sustained viral infection in the right genetic environment to lead to type 1 diabetes.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 18:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I saw Ebola as both doctor and patient. I wish people cared more about the Africans I worked alongside",
+        "url": "https://www.statnews.com/2026/05/20/ebola-patients-suffering-health-care-workers/",
+        "summary": "“As another Ebola outbreak unfolds, we cannot repeat the mistakes of the past,” writes Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 17:02:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech execs, academic expert lament impact of FDA turnover on rare disease drug development",
+        "url": "https://www.statnews.com/2026/05/20/rare-disease-biotech-ceos-discuss-fda-uncertainty-stat-summit/",
+        "summary": "How the ouster of key officials at the FDA has created anxiety and uncertainty for the developers of rare disease drugs.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 17:00:07 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Kennedy fires two leaders on preventive services task force",
+        "url": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/",
+        "summary": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 16:44:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Drugmakers guard IP more tightly amid China competition",
+        "url": "https://www.statnews.com/2026/05/20/biotech-news-drugmakers-guard-ip-more-tightly-amid-china-competiti/",
+        "summary": "The FDA's new path, the status of animal testing, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 15:03:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kennedy names interim surgeon general amid vacancies atop health department",
+        "url": "https://www.statnews.com/2026/05/20/kennedy-names-stephanie-haridopolos-interim-surgeon-general/",
+        "summary": "Stephanie Haridopolos, a family medicine physician and senior HHS adviser, will take on the surgeon general's duties on an interim basis.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 14:44:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about biotech investors’ mood, a former FDA head’s confidence, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/20/biotech-investors-mood-former-fda-commissioner-kessler-confidence/",
+        "summary": "For Wall Street, the political risk of investing in drug companies has been demoted in comparison to other concerns",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 13:55:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "There’s a leadership vacuum at NIH, too",
+        "url": "https://www.statnews.com/2026/05/20/health-news-leadership-vacuum-at-nih-and-broader-hhs/",
+        "summary": "USAID cuts have painful outcomes for the Ebola outbreak, states sue over a new professional ed loan rule, and other health news",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 11:54:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "After a critique from Rubio, WHO defends work on Ebola response",
+        "url": "https://www.statnews.com/2026/05/20/who-ebola-response-outbreak-investigation-drc-marco-rubio/",
+        "summary": "The WHO defended its Ebola response, noting it's national authorities who detect outbreaks. Marco Rubio had said the WHO was \"a little late.\"",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 11:24:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Senate Democrats propose adding long-term care benefit to Medicare",
+        "url": "https://www.statnews.com/2026/05/20/medicare-long-term-care-coverage-new-proposal-senate-democrats/",
+        "summary": "It's part of Democrats' strategy to focus on health care affordability and access in drawing contrasts with Republicans ahead of the midterms.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 08:45:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIH behind in filling top roles, with 15 of 27 institutes led by acting directors",
+        "url": "https://www.statnews.com/2026/05/20/nih-leadership-questions-15-of-27-institutes-acting-directors/",
+        "summary": "An NIH leadership vacuum has persisted for months, with 15 of the 27 institutes being led by acting directors.",
+        "source": "STAT News",
+        "published": "Wed, 20 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/kennedy-dismisses-leaders-us-preventive-services-task-force\" hreflang=\"en\">Kennedy dismisses leaders of US Preventive Services Task Force</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/kennedy-dismisses-leaders-us-preventive-services-task-force",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. removed two key leaders of the U.S. Preventive Services Task Force, a key advisory panel that offers guidance on preventive services, according to media reports.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 8:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-proposes-rule-aimed-limiting-medicaid-state-directed-payments\" hreflang=\"en\">CMS proposes rule aimed at limiting Medicaid state-directed payments</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-rule-aimed-limiting-medicaid-state-directed-payments",
+        "summary": "The Trump administration has proposed a \"sweeping crackdown\" on Medicaid payments that it says have significantly inflated costs in the program.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 5:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/wtw-employers-aiming-bulk-ai-use-health-and-benefits\" hreflang=\"en\">WTW: Employers aiming to bulk up AI use for health and benefits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/wtw-employers-aiming-bulk-ai-use-health-and-benefits",
+        "summary": "Employers are set to significantly increase their use of AI in health benefits, a new survey shows, even as they continue to face barriers to rolling out the tech.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 4:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/missed-risk-womens-heart-health-summit-explores-gaps-research-treatment\" hreflang=\"en\">'Missed risk': Women's Heart Health Summit explores gaps in research, treatment</a>",
+        "url": "https://www.fiercehealthcare.com/providers/missed-risk-womens-heart-health-summit-explores-gaps-research-treatment",
+        "summary": "The event, in its third year, brings together stakeholders across healthcare, including clinicians, researchers, employers, advocates and more, to share learnings and facilitate partnerships to advance women’s health.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 4:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/legislators-introduce-resolution-seek-congressional-disapproval-cms-wiser-ai-prior-auth\" hreflang=\"en\">House and Senate Democrats move to overturn CMS’ WISeR AI prior auth pilot</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/legislators-introduce-resolution-seek-congressional-disapproval-cms-wiser-ai-prior-auth",
+        "summary": "The resolution comes after the GAO ruled the model is subject to a vote under the Congressional Review Act.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 3:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/democratic-senators-share-plans-medicare-home-care-benefit-long-term-care-reform\" hreflang=\"en\">Democratic senators share plans for Medicare home care benefit, long-term care reform</a>",
+        "url": "https://www.fiercehealthcare.com/payers/democratic-senators-share-plans-medicare-home-care-benefit-long-term-care-reform",
+        "summary": "Access to affordable long-term care, including home care, is the next healthcare pitch from minority party lawmakers ahead of midterms.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 12:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/gho-capital-cbc-group-plan-merge-forming-21b-healthcare-investment-firm\" hreflang=\"en\">GHO Capital, CBC Group plan to merge, forming $21B healthcare investment firm</a>",
+        "url": "https://www.fiercehealthcare.com/finance/gho-capital-cbc-group-plan-merge-forming-21b-healthcare-investment-firm",
+        "summary": "London-based Global Healthcare Opportunities and Singapore-based CBC Group announced plans to merge, creating what they called the largest healthcare-focused investment manager, with over $21 billion in assets.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 12:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/maven-clinic-launches-dtc-vertical-focused-glp-1s-hormone-care\" hreflang=\"en\">Maven Clinic officially launches DTC platform for GLP-1s, hormone care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/maven-clinic-launches-dtc-vertical-focused-glp-1s-hormone-care",
+        "summary": "Maven’s consumer platform now comprises three core offerings: virtual specialty care, GLP-1 care and hormone care.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 11, 2026 10:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/broken-pipeline-mental-healthcare-lgbtq-teenagers-0\" hreflang=\"en\">The broken pipeline of mental healthcare for LGBTQ teenagers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/broken-pipeline-mental-healthcare-lgbtq-teenagers-0",
+        "summary": "As access to affirming mental healthcare for LGBTQ youth shrinks, more teens are running into barriers to getting care. In this week’s episode of “Podnosis,” reporters from Fierce Healthcare and Uncloseted Media discuss the reporting behind their recent collaboration and the stories they heard from trans teens, their families and experts navigating a strained mental healthcare system.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 3:42pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/medtech/labcorp-joins-lab-results-personalisation-push-mylabcorp-ai-app\" hreflang=\"en\">Labcorp joins lab results personalization push with ‘MyLabcorp’ AI app</a>",
+        "url": "https://www.fiercehealthcare.com/medtech/labcorp-joins-lab-results-personalisation-push-mylabcorp-ai-app",
+        "summary": "The big new thing in medtech for 2026 is AI-powered apps and chatbots designed to help patients navigate their laboratory test results. Now, testing giant Labcorp is getting in on the act.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 8:18am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/doximity-ceo-calls-2026-ai-investment-year-race-get-ai-front-doctors\" hreflang=\"en\">Doximity inks partnerships with Aledade, Photon as it ramps up AI spending in 2026</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/doximity-ceo-calls-2026-ai-investment-year-race-get-ai-front-doctors",
+        "summary": "The company plans to scale its clinical AI suite, including its ambient notetaking tool Scribe and clinical AI assistant and medical search engine Ask (formerly DoxGPT).",
+        "source": "Fierce Healthcare",
+        "published": "May 18, 2026 3:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps\" hreflang=\"en\">Coalition of attorneys general sue to block federal student loan caps</a>",
+        "url": "https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps",
+        "summary": "Twenty-six attorneys general filed a lawsuit Tuesday against the Department of Education over a recently finalized restrictions on federal student loans the litigators, as well as health industry groups, say will hamper the clinical workforce pipeline.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 4:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/us-taps-small-san-diego-biotech-experimental-ebola-treatment-epidemic-worsens\" hreflang=\"en\">US taps small San Diego biotech for experimental Ebola treatment as epidemic worsens</a>",
+        "url": "https://www.fiercebiotech.com/biotech/us-taps-small-san-diego-biotech-experimental-ebola-treatment-epidemic-worsens",
+        "summary": "As an outbreak of Ebola in central Africa continues to worsen, the federal government has tapped a little-known biotech in San Diego to provide doses of an experimental antibody that may be used to treat the deadly virus.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 5:29pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/finance/gho-capital-cbc-group-plan-merge-forming-21b-healthcare-investment-firm\" hreflang=\"en\">GHO Capital, CBC Group plan to merge, forming $21B healthcare investment firm</a>",
+        "url": "https://www.fiercebiotech.com/finance/gho-capital-cbc-group-plan-merge-forming-21b-healthcare-investment-firm",
+        "summary": "London-based Global Healthcare Opportunities and Singapore-based CBC Group announced plans to merge, creating what they called the largest healthcare-focused investment manager, with over $21 billion in assets.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 12:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/qiagen-links-chip-giant-nvidia-propel-ai-use-drug-discovery\" hreflang=\"en\">Qiagen links with chip giant Nvidia to propel AI use in drug discovery</a>",
+        "url": "https://www.fiercebiotech.com/medtech/qiagen-links-chip-giant-nvidia-propel-ai-use-drug-discovery",
+        "summary": "Qiagen, a Netherlands-based diagnostics maker, is linking with tech giant Nvidia in a collaboration aimed at boosting the ability of researchers to leverage AI in the drug discovery process.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 10:55am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/busy-lilly-closes-202m-deal-preclinical-dna-delivery-biotech-engage\" hreflang=\"en\">Lilly pens $202M deal for preclinical DNA delivery biotech Engage as M&amp;A streak continues</a>",
+        "url": "https://www.fiercebiotech.com/biotech/busy-lilly-closes-202m-deal-preclinical-dna-delivery-biotech-engage",
+        "summary": "San Carlos-based Engage is developing non-viral DNA delivery systems that aim to overcome traditional limitations associated with the modality.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 10:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/30m-launch-oorja-bio-breathes-new-life-south-korean-fibrosis-candidate\" hreflang=\"en\">With $30M launch, Oorja Bio breathes new life into South Korean fibrosis candidate</a>",
+        "url": "https://www.fiercebiotech.com/biotech/30m-launch-oorja-bio-breathes-new-life-south-korean-fibrosis-candidate",
+        "summary": "In the sprawling metropolis of Houston, a new biotech has emerged to tackle the biology underlying a lung disease that has no clear cause. Oorja Bio launched yesterday afternoon with $30 million and an in-licensed, novel approach to treat idiopathic pulmonary fibrosis.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 10:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incyte-pays-genesis-80m-expand-ai-fueled-drug-discovery-pact\" hreflang=\"en\">Incyte pays Genesis $80M to expand AI-fueled drug discovery pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/incyte-pays-genesis-80m-expand-ai-fueled-drug-discovery-pact",
+        "summary": "Incyte is paying Genesis $80 million upfront to expand use of its partner’s AI platform across a broader range of targets, continuing the biotech’s rapid embrace of AI in drug discovery and development.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 9:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/bristol-myers-taps-anthropic-claude-enterprise-wide-ai-adoption-speed-drug-rd-global\" hreflang=\"en\">BMS taps Anthropic’s Claude for enterprise-wide AI adoption to speed R&amp;D, global workflows</a>",
+        "url": "https://www.fiercebiotech.com/pharma/bristol-myers-taps-anthropic-claude-enterprise-wide-ai-adoption-speed-drug-rd-global",
+        "summary": "BMS is the latest large pharma company to make a major bet on AI, announcing a sweeping agreement with Anthropic to deploy its AI tool Claude as the “shared intelligence platform” across the drugmaker’s global operations.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 9:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-joins-lab-results-personalisation-push-mylabcorp-ai-app\" hreflang=\"en\">Labcorp joins lab results personalization push with ‘MyLabcorp’ AI app</a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-joins-lab-results-personalisation-push-mylabcorp-ai-app",
+        "summary": "The big new thing in medtech for 2026 is AI-powered apps and chatbots designed to help patients navigate their laboratory test results. Now, testing giant Labcorp is getting in on the act.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 8:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/immunovant-pays-out-39m-call-time-fcrn-inhibitor-after-eye-disease-fails\" hreflang=\"en\">Immunovant pays out $39M to call time on FcRn inhibitor after eye disease phase 3 fails</a>",
+        "url": "https://www.fiercebiotech.com/biotech/immunovant-pays-out-39m-call-time-fcrn-inhibitor-after-eye-disease-fails",
+        "summary": "Immunovant has confirmed that its first-generation FcRn inhibitor has been scrapped, a month after the asset flunked a pair of phase 3 eye disease trials.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 7:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/endologix-acquires-thrombectomy-system-surmodics-expand-offerings\" hreflang=\"en\">Endologix acquires thrombectomy system from Surmodics </a>",
+        "url": "https://www.fiercebiotech.com/medtech/endologix-acquires-thrombectomy-system-surmodics-expand-offerings",
+        "summary": "Endologix, a medtech that focuses on treatments for vascular diseases, expanded its offerings with the purchase of a mechanical thrombectomy system from Surmodics.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 8:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/parabilis-fresh-inking-regeneron-pact-plans-ipo-fund-tumor-drugs-phase-3-push\" hreflang=\"en\">Parabilis, fresh from inking Regeneron pact, plans IPO to fund tumor drug’s phase 3 push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/parabilis-fresh-inking-regeneron-pact-plans-ipo-fund-tumor-drugs-phase-3-push",
+        "summary": "With the ink barely dry on an antibody-drug conjugate-style deal with Regeneron, Parabilis Medicines has now turned its attention to the public markets.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 5:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-vaccine-chief-aims-victory-over-bacteria-while-comfortable-step-fights-hantavirus\" hreflang=\"en\">Pfizer furthers pneumococcal efforts, remains ‘comfortable’ taking on emerging threats: vaccine chief</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-vaccine-chief-aims-victory-over-bacteria-while-comfortable-step-fights-hantavirus",
+        "summary": "After decades of developing vaccines to shield babies and adults from Streptococcus pneumonia infections, Pfizer is now taking another leap forward in its efforts to protect against one of the bacteria’s most dangerous strains—all while keeping an eye on the world’s several emerging global health threats.",
+        "source": "Fierce Biotech",
+        "published": "May 19, 2026 12:47pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "段永平重估英伟达",
+        "url": "https://www.36kr.com/p/3817262959559814",
+        "summary": "段永平两个季度23倍加仓英伟达，他看到了什么?",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 20 May 2026 07:59:18 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "2026CT行研报告：超高端CT引领、国产球管加速崛起",
+        "url": "https://www.36kr.com/p/3816873985541001",
+        "summary": "2025年CT行业量稳价升，国产替代加速，球管成投资热点",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 20 May 2026 01:06:01 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI 看我上厕所，还要听我打呼噜",
+        "url": "https://www.36kr.com/p/3815823627050499",
+        "summary": "智能马桶、智能床，家居能靠AI翻红吗？",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 19 May 2026 09:06:29 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "36氪出海·活动｜“北京-卡塔尔”投资合作高峰洽谈会开启中",
+        "url": "https://www.36kr.com/p/3818361411388290",
+        "summary": "本次洽谈会由卡塔尔投资促进局（Invest Qatar）联合卡塔尔国民银行主办、北京市贸促会支持、36氪出海承办，欢迎报名。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 21 May 2026 01:33:40 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+        "url": "https://huggingface.co/papers/2605.20834",
+        "summary": "Direct Preference Optimization (DPO) has emerged as a popular alternative to Reinforcement Learning from Human Feedback (RLHF), offering theoretical equivalence with simpler implementation. We prove this equivalence is conditional rather than universal, depending on an implicit assumption frequently violated in practice: the RLHF-optimal policy must prefer human-preferred responses. When this assumption fails, DPO optimizes relative advantage over the reference policy rather than absolute alignment with human preferences, leading to pathological convergence where policies decrease DPO loss whi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-19T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models",
+        "url": "https://huggingface.co/papers/2605.20158",
+        "summary": "Large Vision Language Models (LVLMs) show promise in medical applications, but their inability to faithfully ground responses in visual evidence raises serious concerns about clinical trustworthiness. While visual attribution methods are widely used to explain LVLM predictions, whether these explanations actually reflect the visual evidence underlying the model's decision is largely unverified, since ground-truth annotations for internal model reasoning are typically unavailable. We address this question for chest X-ray (CXR) reasoning by developing a causal evaluation framework that retains o",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-18T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "PixVerve: Advancing Native UHR Image Generation to 100MP with a Large-Scale High-Quality Dataset",
+        "url": "https://huggingface.co/papers/2605.20147",
+        "summary": "Text-to-Image (T2I) models have recently seen notable progress around 1K and 2K resolution. With the extreme desire for better visual experience and the rapid development of imaging technology, the demand for Ultra-High-Resolution (UHR) image generation has grown significantly. However, UHR image generation poses great challenges due to the scarcity and complexity of high-resolution content. In this paper, we first introduce PixVerve-95K, a high-quality, open-source UHR T2I dataset curated with a carefully designed data pipeline, which contains 95K images across diverse scenarios (each image h",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-18T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

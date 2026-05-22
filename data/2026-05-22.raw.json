@@ -1,0 +1,374 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T12:56:24.504511+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Mass General Brigham says it is saving more lives. Some doctors aren’t so sure.",
+        "url": "https://www.statnews.com/2026/05/21/mass-general-brigham-says-it-is-saving-more-lives-some-doctors-arent-so-sure/",
+        "summary": "The company behind the analytics, Vizient, touts MGH's increasing hospice enrollment to improved mortality performance.",
+        "source": "STAT News",
+        "published": "Fri, 22 May 2026 02:27:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Closely watched experimental Parkinson’s drug fails key clinical trial",
+        "url": "https://www.statnews.com/2026/05/21/parkinsons-disease-biogen-denali-therapy/",
+        "summary": "Biogen and Denali Therapeutics said a closely watched experimental therapy for Parkinson’s disease failed to slow the degenerative brain disorder in a randomized trial.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 23:39:12 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: 3 burning questions senators had for the NIH director",
+        "url": "https://www.statnews.com/2026/05/21/nih-budget-hearing-3-questions-director-jay-bhattacharya/",
+        "summary": "Besides showing skepticism on the budget, senators grilled the NIH director about a leadership vacuum, two viral outbreaks, and the pace of funding.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 21:06:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Merck-Kelun lung cancer drug cut risk of tumor progression by 65%, ASCO abstract shows",
+        "url": "https://www.statnews.com/2026/05/21/merck-kelun-sac-tmt-lung-cancer-drug-trial-results/",
+        "summary": "A type of targeted chemotherapy developed by China-based Kelun-Biotech and licensed to Merck cut the risk of tumor progression by 65% in patients with lung cancer, according to Phase 3&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 21:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Guarding biotech from China and big bets in longevity",
+        "url": "https://www.statnews.com/2026/05/21/guarding-biotech-from-china-and-big-bets-in-longevity/",
+        "summary": "On this week’s episode of “The Readout LOUD,” the hosts discuss STAT's Breakthrough Summit West, where powerful leaders from health care and science rubbed shoulders. They share some of the&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 18:53:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: RFK Jr.’s screen time warning",
+        "url": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/",
+        "summary": "RFK Jr. is urging limits on how much screen time kids get, in a new government advisory.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 16:43:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Immunovant shares surge on arthritis trial data",
+        "url": "https://www.statnews.com/2026/05/21/biotech-news-immunovant-shares-surge-on-arthritis-trial-data/",
+        "summary": "Trial results for Lilly's \"triple-G\" drug, FDA's leadership purge leaves chaos, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 16:27:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Acting head of NIH’s infectious disease institute reported to have stepped down",
+        "url": "https://www.statnews.com/2026/05/21/nih-niaid-jeffrey-taubenberger-exit/",
+        "summary": "Jeffery Taubenberger, the acting head of the NIAID, the NIH’s infectious disease institute, is reported to have stepped down.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 14:48:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Elevance executive ordered to testify in Medicare Advantage fraud case",
+        "url": "https://www.statnews.com/2026/05/21/elevance-medicare-advantage-fraud-case-peter-haytaian-deposition/",
+        "summary": "The DOJ alleges Elevance fraudulently billed the government for inaccurate medical diagnoses.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 14:33:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Senate committee questions NIH director on 2027 budget",
+        "url": "https://www.statnews.com/2026/05/21/live-coverage-nih-director-jay-bhattacharya-senate-testimony/",
+        "summary": "Watch as NIH Director Jay Bhattacharya is questioned by the Senate Appropriations Committee this morning on President Trump’s budget proposal for the 2027 fiscal year.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 14:00:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Lilly obesity drug trial, statistics for an Alzheimer’s drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/21/lilly-obesity-drug-trial-alzheimer-drug-claims-questioned/",
+        "summary": "Eli Lilly reported that in a late-stage trial, its next-generation obesity drug led to weight loss approaching the effectiveness seen with bariatric surgery",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 13:28:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How Florida hospitals won big in Medicaid funds (just in time)",
+        "url": "https://www.statnews.com/2026/05/21/health-news-how-florida-hospitals-won-medicaid-funds/",
+        "summary": "A surgeon general's report on screen time, the health impact of bullet fragments, and more Morning Rounds news",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 12:24:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lilly’s ‘triple-G’ drug leads to bariatric-surgery levels of weight loss in trial",
+        "url": "https://www.statnews.com/2026/05/21/eli-lilly-retatrutide-triple-g-weight-loss-obesity-discontinuations-trial/",
+        "summary": "A next-gen Eli Lilly obesity drug led to bariatric-surgery levels of weight loss in a study, but also saw patients dropping out because of side effects.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 10:45:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: After warning letter, Whoop and FDA in discussions about controversial blood pressure feature",
+        "url": "https://www.statnews.com/2026/05/21/whoop-has-not-resolved-fda-dispute-over-blood-pressure-feature/",
+        "summary": "Whoop is yet to resolve a dispute with the FDA over a blood pressure feature, a top executive said at STAT's Breakthrough Summit.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: STAT+: Dark times ahead at the FDA",
+        "url": "https://www.statnews.com/2026/05/21/fda-makary-hoeg-szarama-leadership-vacuum/",
+        "summary": "It almost feels like the Trump administration is intentionally breaking the FDA, writes Lab Dish columnist Paul Knoepfler.",
+        "source": "STAT News",
+        "published": "Thu, 21 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/hospitals-allege-contracted-cvs-health-subsidiaries-pocketed-their-340b-savings\" hreflang=\"en\">Hospitals allege contracted CVS Health subsidiaries pocketed their 340B savings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/hospitals-allege-contracted-cvs-health-subsidiaries-pocketed-their-340b-savings",
+        "summary": "Lawsuits filed by nonprofit hospitals accuse the company's pharmacy benefit manager, specialty pharmacy and third-party administrator of working together to artificially depress rates for 340B claims and pocket the spread.",
+        "source": "Fierce Healthcare",
+        "published": "May 21, 2026 4:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/freestanding-eds-urgent-care-acquisition-opportunities-abound-hca-healthcare\" hreflang=\"en\">Freestanding EDs, urgent care acquisition opportunities abound for HCA Healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/providers/freestanding-eds-urgent-care-acquisition-opportunities-abound-hca-healthcare",
+        "summary": "The for-profit spent about $260 million on outpatient purchases during this year's first quarter, and expects a favorable acquisition environment for these sites to continue despite potential policy headwinds, leadership said Wednesday.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/study-brokers-increasingly-recommending-ichra-employers\" hreflang=\"en\">Study: Brokers increasingly recommending ICHRA to employers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/study-brokers-increasingly-recommending-ichra-employers",
+        "summary": "ICHRA has been gaining steam, and a new survey suggests that these plans may be hitting the mainstream.",
+        "source": "Fierce Healthcare",
+        "published": "May 21, 2026 2:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/allina-health-join-sutter-health-26b-proposed-merger\" hreflang=\"en\">Allina Health, Sutter Health move closer to $26B combination</a>",
+        "url": "https://www.fiercehealthcare.com/providers/allina-health-join-sutter-health-26b-proposed-merger",
+        "summary": "The cross-regional proposed deal to create a 39-hospital nonprofit system now has a signed definitive agreement in hand. It is expected to close before the end of the year, pending regulatory approvals.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 17, 2026 2:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/providence-mulling-sale-its-health-plan-amid-financial-pressure\" hreflang=\"en\">Providence to shutter most health plan operations next year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/providence-mulling-sale-its-health-plan-amid-financial-pressure",
+        "summary": "After exploring options for the future, including a sale, Providence Health Plan announced this week that it will cease operations for most of its insurance businesses next year.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 19, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-proposes-rule-aimed-limiting-medicaid-state-directed-payments\" hreflang=\"en\">CMS proposes rule aimed at limiting Medicaid state-directed payments</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-rule-aimed-limiting-medicaid-state-directed-payments",
+        "summary": "The Trump administration's proposed caps on supplemental Medicaid payments go beyond the services outlined in last year's sweeping tax bill, drawing pushback and alarm from the hospital industry.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 5:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/canvas-medical-unveils-canvas-studio-customizable-emr-workflow-tool\" hreflang=\"en\">Canvas Medical unveils Canvas Studio, a customizable EMR workflow tool for clinicians</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/canvas-medical-unveils-canvas-studio-customizable-emr-workflow-tool",
+        "summary": "Electronic medical record company Canvas Medical launched Canvas Studio Thursday, a no-code interface that allows clinicians and other healthcare professionals to build custom EMR workflows.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 2:35pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-launches-hands-free-voice-ai-feature-expands-hospital\" hreflang=\"en\">OpenEvidence launches hands-free voice AI feature, expands hospital footprint with Cedars-Sinai tie-up</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-launches-hands-free-voice-ai-feature-expands-hospital",
+        "summary": "OpenEvidence built out a voice AI feature as part of its popular medical search engine that gives physicians a hands-free way to ask questions and get evidence-based answers.",
+        "source": "Fierce Healthcare",
+        "published": "May 21, 2026 7:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/judi-health-taps-clear-its-identity-verification-tech\" hreflang=\"en\">Judi Health taps Clear for its identity verification tech</a>",
+        "url": "https://www.fiercehealthcare.com/payers/judi-health-taps-clear-its-identity-verification-tech",
+        "summary": "Judi Health is teaming up with Clear to embed identity verification tech in its enterprise healthcare platform.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/metrohealth-partners-artisight-smart-hospital-platform-rollout\" hreflang=\"en\">MetroHealth partners with Artisight on smart hospital platform rollout</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/metrohealth-partners-artisight-smart-hospital-platform-rollout",
+        "summary": "Cleveland-based MetroHealth and Artisight partnered to deploy the health tech company's smart hospital platform across multiple facilities within the safety net health system.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 10:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/kennedy-dismisses-leaders-us-preventive-services-task-force\" hreflang=\"en\">Kennedy dismisses leaders of US Preventive Services Task Force</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/kennedy-dismisses-leaders-us-preventive-services-task-force",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. removed two key leaders of the U.S. Preventive Services Task Force, a key advisory panel that offers guidance on preventive services, according to media reports.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 8:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/wtw-employers-aiming-bulk-ai-use-health-and-benefits\" hreflang=\"en\">WTW: Employers aiming to bulk up AI use for health and benefits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/wtw-employers-aiming-bulk-ai-use-health-and-benefits",
+        "summary": "Employers are set to significantly increase their use of AI in health benefits, a new survey shows, even as they continue to face barriers to rolling out the tech.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 4:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-former-fda-leader-takes-new-biotech-turn\" hreflang=\"en\">Chutes &amp; Ladders—Former FDA leader takes new biotech Turn</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-former-fda-leader-takes-new-biotech-turn",
+        "summary": "Stephen Hahn, M.D., who served as the commissioner of the FDA for just over a year during the first Trump administration, is taking his extensive regulatory expertise to Turn Therapeutics. As executive clinical and regulatory lead, Hahn will guide the regulatory strategy for GX-03, Turn’s topical eczema treatment that is currently in a phase 2 study.",
+        "source": "Fierce Biotech",
+        "published": "May 21, 2026 4:56pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/merck-kelun-sac-tmt-adc-combo-beats-keytruda-65-progression-first-line-lung-cancer\" hreflang=\"en\">ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer</a>",
+        "url": "https://www.fiercebiotech.com/pharma/merck-kelun-sac-tmt-adc-combo-beats-keytruda-65-progression-first-line-lung-cancer",
+        "summary": "According to an abstract released ahead of the ASCO 2026 annual meeting, combining the TROP2-directed ADC with Keytruda slashed the risk of disease progression or death by a whopping 65% compared with Keytruda alone in treatment-naïve, PD-L1-positive non-small cell lung cancer.",
+        "source": "Fierce Biotech",
+        "published": "May 21, 2026 1:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/betting-biotech-prediction-markets-set-sights-clinical-trials\" hreflang=\"en\">Betting on biotech: Prediction markets set sights on clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/betting-biotech-prediction-markets-set-sights-clinical-trials",
+        "summary": "Several biotech contracts are rotating through Kalshi and Polymarket, while a prediction market specifically focused on clinical trials has recently launched.",
+        "source": "Fierce Biotech",
+        "published": "May 21, 2026 4:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lillys-triple-g-drug-drives-deep-weight-loss-phase-3-obesity-trial\" hreflang=\"en\">Lilly’s triple-G drug helps patients lose roughly a quarter of weight, showcasing competitive profile</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lillys-triple-g-drug-drives-deep-weight-loss-phase-3-obesity-trial",
+        "summary": "As Eli Lilly looks to hold its lead in the lucrative obesity market, the company’s next-gen prospect, the triple-G drug retatrutide, has met the primary endpoint for weight loss in another pivotal study. Though the results show competitive efficacy and tolerability, they may leave some observers slightly underwhelmed based on high expectations.",
+        "source": "Fierce Biotech",
+        "published": "May 21, 2026 8:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/struggling-liminatus-pays-320m-stock-car-t-biotech-innocs-ai\" hreflang=\"en\">Struggling Liminatus pays $320M in stock for CAR-T biotech InnocsAI</a>",
+        "url": "https://www.fiercebiotech.com/biotech/struggling-liminatus-pays-320m-stock-car-t-biotech-innocs-ai",
+        "summary": "Cancer immunotherapy company Liminatus Pharma has agreed to pay out shares worth $320 million to buy CAR-T biotech InnocsAI.",
+        "source": "Fierce Biotech",
+        "published": "May 21, 2026 5:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/infex-following-insmeds-footsteps-advances-lung-disease-candidate-after-clearing-phase-2a\" hreflang=\"en\">Infex, following in Insmed’s footsteps, advances lung disease candidate after clearing phase 2a</a>",
+        "url": "https://www.fiercebiotech.com/biotech/infex-following-insmeds-footsteps-advances-lung-disease-candidate-after-clearing-phase-2a",
+        "summary": "Infex Therapeutics is pushing ahead with development of a non-cystic fibrosis bronchiectasis drug candidate after posting phase 2a data, advancing efforts to add to the options for treating patients who recently gained access to Insmed’s Brinsupri.",
+        "source": "Fierce Biotech",
+        "published": "May 21, 2026 4:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/us-taps-small-san-diego-biotech-experimental-ebola-treatment-epidemic-worsens\" hreflang=\"en\">US taps small San Diego biotech for experimental Ebola treatment as epidemic worsens</a>",
+        "url": "https://www.fiercebiotech.com/biotech/us-taps-small-san-diego-biotech-experimental-ebola-treatment-epidemic-worsens",
+        "summary": "As an outbreak of Ebola in central Africa continues to worsen, the federal government has tapped a little-known biotech in San Diego to provide doses of an experimental antibody that may be used to treat the deadly virus.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 5:29pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-inks-650m-deal-spr-therapeutics\" hreflang=\"en\">Medtronic inks $650M deal for SPR Therapeutics  </a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-inks-650m-deal-spr-therapeutics",
+        "summary": "Medtronic has entered a deal to acquire SPR Therapeutics, a Cleveland-based company whose flagship product delivers short-term electrical nerve stimulation for chronic pain patients, for approximately $650 million in cash.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 4:55pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/finance/gho-capital-cbc-group-plan-merge-forming-21b-healthcare-investment-firm\" hreflang=\"en\">GHO Capital, CBC Group plan to merge, forming $21B healthcare investment firm</a>",
+        "url": "https://www.fiercebiotech.com/finance/gho-capital-cbc-group-plan-merge-forming-21b-healthcare-investment-firm",
+        "summary": "London-based Global Healthcare Opportunities and Singapore-based CBC Group announced plans to merge, creating what they called the largest healthcare-focused investment manager, with over $21 billion in assets.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 12:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/qiagen-links-chip-giant-nvidia-propel-ai-use-drug-discovery\" hreflang=\"en\">Qiagen links with chip giant Nvidia to propel AI use in drug discovery</a>",
+        "url": "https://www.fiercebiotech.com/medtech/qiagen-links-chip-giant-nvidia-propel-ai-use-drug-discovery",
+        "summary": "Qiagen, a Netherlands-based diagnostics maker, is linking with tech giant Nvidia in a collaboration aimed at boosting the ability of researchers to leverage AI in the drug discovery process.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 10:55am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/busy-lilly-closes-202m-deal-preclinical-dna-delivery-biotech-engage\" hreflang=\"en\">Lilly pens $202M deal for preclinical DNA delivery biotech Engage as M&amp;A streak continues</a>",
+        "url": "https://www.fiercebiotech.com/biotech/busy-lilly-closes-202m-deal-preclinical-dna-delivery-biotech-engage",
+        "summary": "San Carlos-based Engage is developing non-viral DNA delivery systems that aim to overcome traditional limitations associated with the modality.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 10:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/30m-launch-oorja-bio-breathes-new-life-south-korean-fibrosis-candidate\" hreflang=\"en\">With $30M launch, Oorja Bio breathes new life into South Korean fibrosis candidate</a>",
+        "url": "https://www.fiercebiotech.com/biotech/30m-launch-oorja-bio-breathes-new-life-south-korean-fibrosis-candidate",
+        "summary": "In the sprawling metropolis of Houston, a new biotech has emerged to tackle the biology underlying a lung disease that has no clear cause. Oorja Bio launched yesterday afternoon with $30 million and an in-licensed, novel approach to treat idiopathic pulmonary fibrosis.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 10:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "段永平重估英伟达",
+        "url": "https://www.36kr.com/p/3817262959559814",
+        "summary": "段永平两个季度23倍加仓英伟达，他看到了什么?",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 20 May 2026 07:59:18 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "浙江万马二代集体离职，张德生家族已经赚麻了",
+        "url": "https://www.36kr.com/p/3818806586990593",
+        "summary": "游走在危险边缘。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 21 May 2026 11:51:04 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "36氪出海·活动｜“北京-卡塔尔”投资合作高峰洽谈会开启中",
+        "url": "https://www.36kr.com/p/3818361411388290",
+        "summary": "本次洽谈会由卡塔尔投资促进局（Invest Qatar）联合卡塔尔国民银行主办、北京市贸促会支持、36氪出海承办，欢迎报名。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 21 May 2026 01:33:40 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Training Large Language Models to Predict Clinical Events",
+        "url": "https://huggingface.co/papers/2605.12817",
+        "summary": "Longitudinal clinical notes contain rich evidence of how patients evolve over time, but converting this signal into training supervision for clinical prediction remains challenging. We extend Foresight Learning to clinical prediction by converting time-ordered MIMIC-III notes into examples consisting of past patient context, a natural-language question about a possible future event, and a label resolved from later documentation. This process yields 6,900 prediction examples from 702 admissions across medications, procedures, organ support, microbiology, and mortality. A small LoRA adapter trai",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-11T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Lost in the Folds: When Cross-Validation Is Not a Deep Ensemble for Uncertainty Estimation",
+        "url": "https://huggingface.co/papers/2605.18329",
+        "summary": "Ensemble disagreement is widely used as a proxy for epistemic uncertainty in medical image segmentation. In practice, many studies form ensembles via K-fold cross-validation (CV), yet refer to them as ``deep ensembles'' (DE). Because CV members are trained on different data subsets, their disagreement mixes seed-driven variability with data-exposure effects, which can change how uncertainty should be interpreted. We audit recent segmentation uncertainty studies and find that terminology--implementation mismatches are common. We then compare a standard 5-fold CV ensemble to a 5-member DE (fixed",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-17T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+        "url": "https://huggingface.co/papers/2605.20834",
+        "summary": "Direct Preference Optimization (DPO) has emerged as a popular alternative to Reinforcement Learning from Human Feedback (RLHF), offering theoretical equivalence with simpler implementation. We prove this equivalence is conditional rather than universal, depending on an implicit assumption frequently violated in practice: the RLHF-optimal policy must prefer human-preferred responses. When this assumption fails, DPO optimizes relative advantage over the reference policy rather than absolute alignment with human preferences, leading to pathological convergence where policies decrease DPO loss whi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-19T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

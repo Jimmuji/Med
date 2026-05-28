@@ -1,0 +1,366 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T13:05:00.561012+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Heart patch engineered from stem cells revved up weakened hearts",
+        "url": "https://www.statnews.com/2026/05/27/biovat-heart-failure-stem-cell-muscle-patch-nejm-study/",
+        "summary": "A stem cell-based heart patch improved pumping in a small trial for advanced heart failure. \"Very good first step,\" researcher says.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 21:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: MIT president: Why so many optimistic scientists are losing heart",
+        "url": "https://www.statnews.com/2026/05/27/science-funding-derailed-breakthroughs/",
+        "summary": "“This erosion of our strength is a loss for the nation,” writes MIT President Sally Kornbluth.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 14:55:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kailera’s own ‘triple-G’ drug also looks very powerful",
+        "url": "https://www.statnews.com/2026/05/27/biotech-news-kailera-triple-g-drug-looks-very-powerful/",
+        "summary": "The business of living forever, Chan Zuckerberg Biohub's AI protein model, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 14:33:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca breast cancer pill, an ADAP deal in Florida, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/27/astrazeneca-breast-cancer-pill-adap-deal-in-florida/",
+        "summary": "The FDA extended the decision deadline for an experimental breast cancer pill from AstraZeneca after an advisory panel voted against the drug",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 13:33:27 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Where patients and hospitals disagree about AI",
+        "url": "https://www.statnews.com/2026/05/27/health-ai-where-patients-hospitals-disagree-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis, Brittany Trang takes a look at patients' role in how Stanford Health Care adopts AI tools, and more health AI news.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 13:09:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump says latest medical exam went ‘PERFECTLY’",
+        "url": "https://www.statnews.com/2026/05/27/health-news-trump-says-latest-medical-exam-went-perfectly/",
+        "summary": "The conference where death is (theoretically) optional, new trends among undocumented patients, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 11:52:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
+        "url": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/",
+        "summary": "“Trump has willingly exposed an entire generation of children to Big Tobacco’s nicotine addiction,” writes Sen. Dick Durbin.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The patients demanding unvaccinated blood transfusions",
+        "url": "https://www.statnews.com/2026/05/27/unvaccinated-blood-transfusions-directed-donation-interview/",
+        "summary": "If you've been vaccinated against Covid-19, some patients might not want your donated blood.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How Stanford patients help expose ‘fault lines’ in health AI adoption",
+        "url": "https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/",
+        "summary": "Stanford Health Care started asking patients about new AI tools before they are implemented. Here's what patients are telling them.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ‘Are we just going to give up and die like every other generation?’",
+        "url": "https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/",
+        "summary": "Inside the longevity conference that brings together founders, investors, biohackers, and the generally death-averse to discuss how to forestall — or even beat — our demise.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: It’s the end of science as we know it, and I feel fine",
+        "url": "https://www.statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/",
+        "summary": "“Science itself is inherently resilient — that is, after all, why it’s science,” writes Jonathan Jackson.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Praise for FDA’s acting commissioner",
+        "url": "https://www.statnews.com/2026/05/26/kyle-diamantas-fda-draws-praise-nih-leadership-vacuum-dc-diagnosis/",
+        "summary": "Kyle Diamantas doesn't have the typical CV for an FDA commissioner, but he's earning early praise.",
+        "source": "STAT News",
+        "published": "Tue, 26 May 2026 16:21:12 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: $775 billion, $1.2 billion, and $38k",
+        "url": "https://www.statnews.com/2026/05/26/medicaid-cuts-loom-health-insurance-cost-climbs-no-surprises-act/",
+        "summary": "Medicaid cuts stemming from Republicans' 2025 tax law are expected to be even bigger than forecast.",
+        "source": "STAT News",
+        "published": "Tue, 26 May 2026 16:11:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump wraps up three-hour medical visit to Walter Reed and declares ‘Everything checked out PERFECTLY’",
+        "url": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/",
+        "summary": "President Trump had another medical exam on Tuesday, putting his health under renewed public scrutiny after he has worked to dismiss concerns over his age and stamina.",
+        "source": "STAT News",
+        "published": "Tue, 26 May 2026 14:32:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What do early data from Utah’s Doctronic AI pilot show?",
+        "url": "https://www.statnews.com/2026/05/26/utah-doctronic-ai-experiment-early-data-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Early data from a Utah pilot using AI to renew prescriptions, Oura files to go public, and more.",
+        "source": "STAT News",
+        "published": "Tue, 26 May 2026 13:58:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/amazon-taps-roy-schoenberg-lead-healthcare-business-neil-lindsay-steps-down\" hreflang=\"en\">Amazon taps Roy Schoenberg to lead healthcare business as Neil Lindsay plans to step down</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/amazon-taps-roy-schoenberg-lead-healthcare-business-neil-lindsay-steps-down",
+        "summary": "Amazon tapped digital health executive Roy Schoenberg, M.D., to lead its healthcare business as Neil Lindsay plans to step away from Amazon after 15 years.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 3:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—KFF Founding President, CEO to retire; Visory Health promotes growth, tech execs</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Care New England restructure hits 30+ jobs; Intermountain cuts 93 clinic staff</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/goodrx-launches-subscription-program-lower-common-healthcare-costs\" hreflang=\"en\">GoodRx launches subscription program for low-cost generic medications, telehealth services</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/goodrx-launches-subscription-program-lower-common-healthcare-costs",
+        "summary": "Users can access discounted medications, telehealth care and other savings through the $14.99 per-month subscription service.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 11:38am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/george-washington-university-locks-deal-hand-debt-ridden-physician-practice-uhs\" hreflang=\"en\">George Washington University locks deal to hand off debt-ridden physician practice to UHS</a>",
+        "url": "https://www.fiercehealthcare.com/providers/george-washington-university-locks-deal-hand-debt-ridden-physician-practice-uhs",
+        "summary": "The university will offload the financial responsibility of its medical group, which has lost over $450 million since 2022, to the for-profit system that already owns its affiliated hospitals. The five-year agreement commits the institution to hundreds of millions in additional investment and absorbed loans, but preserves care as well as the academic, training and research arrangements between clinicians and its medical school.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 11:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-invests-83m-new-florida-pharmacy-distribution-center\" hreflang=\"en\">Humana invests $83M in new Florida pharmacy distribution center</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-invests-83m-new-florida-pharmacy-distribution-center",
+        "summary": "The company announced Wednesday that the new facility will build out the company's prescription delivery infrastructure in the state, offering an easier and more coordinated experience for members and CenterWell patients.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 11:16am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/insiders-look-lillydirect\" hreflang=\"en\">An insider’s look at LillyDirect</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/insiders-look-lillydirect",
+        "summary": "Senior Writer Anastassia Gliadkovskaya sat down with LillyDirect executive Jen Mazur to discuss the platform’s growth, consumer response and where Lilly’s direct-to-patient strategy is headed next.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 10:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/amid-policy-and-pricing-headwinds-us-healthcare-and-life-sci-faces-vast-field-opportunity\" hreflang=\"en\">Amid policy and pricing headwinds, US healthcare and life sci faces 'vast field of opportunity': survey</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/amid-policy-and-pricing-headwinds-us-healthcare-and-life-sci-faces-vast-field-opportunity",
+        "summary": "As regulatory, pricing and policy dynamics whipsaw in the United States, healthcare and life sciences firms are facing enormous pressures to keep profits rising, with those challenges now “becoming more acute by the quarter,” according to an inaugural industry distress survey from consulting firm AlixPartners.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 8:03am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/jd-power-cost-pressures-worsen-member-experience-commercial-plans\" hreflang=\"en\">JD Power: Cost pressures worsen member experience with commercial plans</a>",
+        "url": "https://www.fiercehealthcare.com/payers/jd-power-cost-pressures-worsen-member-experience-commercial-plans",
+        "summary": "Fewer than a third of people with commercial coverage say that their plans represent a \"trusted partner\" in their health, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 4:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oura-smart-ring-maker-files-confidentially-ipo-consumer-demand-propels-revenue-growth\" hreflang=\"en\">Smart ring maker Oura files confidentially for IPO as consumer demand propels revenue growth</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oura-smart-ring-maker-files-confidentially-ipo-consumer-demand-propels-revenue-growth",
+        "summary": "Oura, the smart ring maker, filed confidentially for an initial public offering after it reached an $11 billion valuation last year.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 6:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trinity-health-credits-pay-rates-cost-management-its-steady-1-operating-margin\" hreflang=\"en\">Trinity Health credits pay rates, cost management for its steady 1% operating margin</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trinity-health-credits-pay-rates-cost-management-its-steady-1-operating-margin",
+        "summary": "Across nine months of its current fiscal year, the nonprofit's $200 million operating income is a step ahead of its larger Catholic peers.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 3:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law\" hreflang=\"en\">CVS sues to challenge Tennessee's new PBM law</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law",
+        "summary": "CVS has filed suit to challenge a Tennessee law that would bar pharmacy benefit managers from owning pharmacies in the state.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 1:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/kordata-dynamics-launches-neural-focused-ai-clinical-trial-model\" hreflang=\"en\">Kordata Dynamics launches with neural-focused AI clinical trial model</a>",
+        "url": "https://www.fiercebiotech.com/cro/kordata-dynamics-launches-neural-focused-ai-clinical-trial-model",
+        "summary": "Kordata Dynamics is emerging from stealth with the aim to redefine clinical trial execution by processing neural data while taking advantage of the FDA’s recent push for real-time clinical trials.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 11:19am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug\" hreflang=\"en\">D&amp;D sees fibrosis improvements, MASH resolution after rolling dice on GLP-1 drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug",
+        "summary": "D&amp;D Pharmatech has linked its GLP-1/glucagon receptor agonist to improvements in liver health, keeping the Korean biotech in the hunt for a market already served by Novo Nordisk’s Wegovy.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 10:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault\" hreflang=\"en\">Insulet issues voluntary correction for Omnipod devices in leaky insulin fault</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault",
+        "summary": "Insulet has sent out a voluntary medical device correction notice for a series of its Omnipod devices amid a manufacturing fault that could lead to insulin leaking and not being fully delivered.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 5:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3\" hreflang=\"en\">Apogee bags $1.3B Blackstone royalty funding deal to push eczema challenger into phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3",
+        "summary": "Apogee Therapeutics has secured a promise of up to $1.3 billion in financing from Blackstone Life Sciences as the biotech gears up to take its anti-IL-13 antibody into phase 3.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 8:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers\" hreflang=\"en\">Dexcom warns of stolen glucose monitors being sold by unauthorized dealers</a>",
+        "url": "https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers",
+        "summary": "Dexcom warned that some lots of its G7 wearable glucose monitors were stolen on their way to the scrapyard and were sold by a third-party vendor.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 7:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kardigan-itching-ipo-fund-late-stage-cardiovascular-pipeline\" hreflang=\"en\">Kardigan itching for IPO to fund late-stage cardiovascular pipeline </a>",
+        "url": "https://www.fiercebiotech.com/biotech/kardigan-itching-ipo-fund-late-stage-cardiovascular-pipeline",
+        "summary": "Kardigan may have only launched last year, but it seems the cardiovascular-focused biotech is already eyeing the public markets.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 4:59am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote\" hreflang=\"en\">FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-delays-ruling-astrazenecas-breast-cancer-drug-after-negative-adcomm-vote",
+        "summary": "The FDA has delayed a decision on the approval of AstraZeneca’s camizestrant, deferring its ruling to review analyses filed after an advisory committee voted against the breast cancer prospect.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 4:43am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/devices/olympus-pushes-deeper-oncology-270m-bioprotect-deal\" hreflang=\"en\">Olympus pushes deeper into oncology with $270M BioProtect deal</a>",
+        "url": "https://www.fiercebiotech.com/devices/olympus-pushes-deeper-oncology-270m-bioprotect-deal",
+        "summary": "Olympus is pushing deeper into prostate cancer care with the acquisition of BioProtect, an Israeli company whose biodegradable balloon spacer has been used in more than 11,000 procedures worldwide.",
+        "source": "Fierce Biotech",
+        "published": "May 26, 2026 3:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/calls-coins-act-expansion-grow-new-rules-sweep-china-biotech-licensing\" hreflang=\"en\">As calls for COINS Act expansion grow, will new rules sweep up China biotech licensing?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/calls-coins-act-expansion-grow-new-rules-sweep-china-biotech-licensing",
+        "summary": "Amid an intensifying debate over how Washington should counter China’s rapid ascent in the biotech sector, a growing chorus of policymakers and biotech insiders is urging the Treasury Department to expand the newly codified COINS Act to include biotechnology—a move that would extend outbound investment curbs to cross-border drug dealmaking.",
+        "source": "Fierce Biotech",
+        "published": "May 26, 2026 1:04pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/makarys-fda-reforms-continue-move-forward-agency-adjusts-leadership-turnover\" hreflang=\"en\">Makary’s FDA reforms ‘continue to move forward’ despite leadership turmoil</a>",
+        "url": "https://www.fiercebiotech.com/biotech/makarys-fda-reforms-continue-move-forward-agency-adjusts-leadership-turnover",
+        "summary": "As the FDA adjusts to life without Marty Makary, M.D., who resigned as commissioner two weeks ago, the numerous policy reforms he put in motion remain intact, including the controversial Commissioner’s National Priority Voucher (CNPV) program.",
+        "source": "Fierce Biotech",
+        "published": "May 26, 2026 10:30am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kura-posts-krazati-combo-data-drug-designed-unleash-kras-inhibitors-potential\" hreflang=\"en\">Kura posts Krazati combo data on drug designed to unleash KRAS inhibitors’ potential</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kura-posts-krazati-combo-data-drug-designed-unleash-kras-inhibitors-potential",
+        "summary": "Kura Oncology has published early data on darlifarnib in combination with Bristol Myers Squibb’s Krazati, linking the drug candidate to response rates of up to 69% when given with the KRAS inhibitor.",
+        "source": "Fierce Biotech",
+        "published": "May 26, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-inks-deals-buy-3-vaccine-developers-38b\" hreflang=\"en\">Lilly inks deals to buy 3 vaccine developers for up to $3.8B as M&amp;A spree continues</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-deals-buy-3-vaccine-developers-38b",
+        "summary": "Eli Lilly has splashed up to $3.8 billion on an infectious disease pipeline, acquiring Curevo, LimmaTech Biologics and Vaccine Company to extend its shopping spree into viral and bacterial pathogen R&amp;D.",
+        "source": "Fierce Biotech",
+        "published": "May 26, 2026 7:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "教皇发布首份AI通谕：4万字10个观点，AI焦虑被说透了",
+        "url": "https://www.36kr.com/p/3827500620652800",
+        "summary": "句句提 AI，字字在说人。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 28 May 2026 00:08:55 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "这家AI独角兽，凭什么敢让美国医院利润翻10倍？",
+        "url": "https://www.36kr.com/p/3826069179273861",
+        "summary": "一家AI独角兽盯上了万亿医疗成本",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 26 May 2026 12:48:55 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "字节小荷再发力，我对AI医疗的几点思考",
+        "url": "https://www.36kr.com/p/3825663816897155",
+        "summary": "重新理解AI医疗的本质。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 26 May 2026 08:31:09 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?",
+        "url": "https://huggingface.co/papers/2605.28721",
+        "summary": "Are LLM-based search agents genuinely searching, or using the web to verify what they already know? We study this question on BrowseComp with three diagnostics. Our analysis reveals Intrinsic Knowledge Dependence (IKD): even with tool access, agents often rely on intrinsic knowledge -- information encoded in the model before retrieval -- rather than on external evidence. Agents answer up to 44.5% of BrowseComp questions without tools, generate more than half of their search queries from internally produced hypotheses rather than retrieved leads, and perform worse than closed-book baselines whe",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
+        "url": "https://huggingface.co/papers/2605.28774",
+        "summary": "Vision-language models with extended reasoning succeed on complex problems, but many real-world problems require external tools that internal reasoning alone often cannot resolve. Agentic reasoning therefore interleaves two behaviors with a structural asymmetry: thinking (the self-contained default) and tool use (a high-variance auxiliary acting). We refer to this asymmetry as the Thinking-Acting Gap. Under standard RL recipes like GRPO, the gap manifests as two diagnostic symptoms during training: tool use is attempted on only ~30% of rollouts, and when attempted, the tool-using rollouts with",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-26T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

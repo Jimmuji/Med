@@ -1,0 +1,342 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T13:09:02.714864+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: As Ebola outbreak in Central Africa grows, the U.S. turns itself into a fortress",
+        "url": "https://www.statnews.com/2026/05/28/trump-ebola-travel-restrictions-discourages-medical-volunteers/",
+        "summary": "The U.S. is taking extraordinary steps to keep Ebola out. But its policies may create risks for Americans infected overseas and discourage volunteers from responding to the outbreak.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 19:50:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech veteran Jeremy Levin on why the industry’s future is secure, but American leadership is at risk",
+        "url": "https://www.statnews.com/2026/05/28/biotech-veteran-jeremy-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/",
+        "summary": "Biotech is producing scientific breakthroughs that once seemed impossible. But according to longtime industry executive Jeremy Levin, the institutions that support these advances, from regulators, to investors, and even public&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 18:48:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Biotech exec Jeremy Levin on the industry’s strategic turning point",
+        "url": "https://www.statnews.com/2026/05/28/jeremy-levin-biotech-asco-preview-readout-loud-podcast/",
+        "summary": "This week on \"The Readout LOUD,\" longtime biotech exec Jeremy Levin talks about his new book and the industry's strategic turning point. Listen now.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 18:20:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s pharma deals get tested",
+        "url": "https://www.statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/",
+        "summary": "We still have a lot of questions about Trump's MFN deals with pharma companies.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 16:07:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Ebola at the World Cup? Here’s what we should actually worry about",
+        "url": "https://www.statnews.com/2026/05/28/ebola-world-cup-travel-public-health-measles/",
+        "summary": "“Infectious disease threats during the World Cup will almost certainly look much more familiar than frightening headlines suggest,” writes Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 14:24:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Oura brings rings to the cuffless blood pressure party",
+        "url": "https://www.statnews.com/2026/05/28/oura-arrives-blood-pressure-party-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A new wave of blood pressure monitoring wearables, Stanford asking patients about AI, and more.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 14:01:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a hepatitis B drug, CVS returns Lilly obesity drug to formularies, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/28/hepatitis-drug-cvs-returns-lilly-obesity-drug-to-formularies/",
+        "summary": "In this morning's Pharmalittle roundup, we're reading about a hepatitis B drug, CVS returns Lilly obesity drug to formularies, and more.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 13:26:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Ahead of ASCO, all eyes on pancreatic cancer",
+        "url": "https://www.statnews.com/2026/05/28/biotech-news-asco-preview-2026-all-eyes-on-pancreatic-cancer/",
+        "summary": "Strong results from GSK's hepatitis B drug, engineered heart patches, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 13:21:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The latest developments on Ebola, hepatitis B, long Covid",
+        "url": "https://www.statnews.com/2026/05/28/health-news-latest-news-on-ebola-hepatitis-b-long-covid/",
+        "summary": "Uganda closes its border, a Christian substitute for insurance, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 13:10:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Blood pressure tech floods the market after FDA relaxes wearables oversight",
+        "url": "https://www.statnews.com/2026/05/28/fda-wellness-guidance-unvetted-blood-pressure-tech-floods-market/",
+        "summary": "Wearables with unvalidated blood pressure measuring tech are flooding the market after the FDA relaxed oversight of wellness devices.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: An ASCO preview: What to watch for at cancer research’s big meeting",
+        "url": "https://www.statnews.com/2026/05/28/asco-preview-cancer-meeting/",
+        "summary": "Here's what to watch for at ASCO, cancer research's big meeting, in Chicago.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s drug-pricing deals set to be tested by new product launches",
+        "url": "https://www.statnews.com/2026/05/28/trump-most-favored-nation-drug-pricing-secrets-revealed-soon/",
+        "summary": "The public is about to get its first look at the prices of drugs launched since President Trump struck his most-favored-nation deals with 17 drugmakers.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Experimental hepatitis B treatment was a ‘functional cure’ for nearly 1 in 5, new data show",
+        "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/",
+        "summary": "An experimental GSK drug helped 1 in 5 patients with chronic hepatitis B achieve what's known as a functional cure, vastly outpacing current treatments.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Heart patch engineered from stem cells revved up weakened hearts",
+        "url": "https://www.statnews.com/2026/05/27/biovat-heart-failure-stem-cell-muscle-patch-nejm-study/",
+        "summary": "A stem cell-based heart patch improved pumping in a small trial for advanced heart failure. \"Very good first step,\" researcher says.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 21:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: MIT president: Why so many optimistic scientists are losing heart",
+        "url": "https://www.statnews.com/2026/05/27/science-funding-derailed-breakthroughs/",
+        "summary": "“This erosion of our strength is a loss for the nation,” writes MIT President Sally Kornbluth.",
+        "source": "STAT News",
+        "published": "Wed, 27 May 2026 14:55:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Washington Regional's strategic consolidation cuts 86 employees; Care New England restructure hits 30+ jobs</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation\" hreflang=\"en\">Care navigation startup Garner Health banks $100M series E at $2.74B valuation</a>",
+        "url": "https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation",
+        "summary": "The startup plans to use the capital to expand its provider quality platform, scale AI-powered product innovation and expand access.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 2:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hca-bolsters-workforce-pipeline-healthcare-professional-college-acquisition\" hreflang=\"en\">HCA bolsters workforce pipeline with healthcare professional college acquisition</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hca-bolsters-workforce-pipeline-healthcare-professional-college-acquisition",
+        "summary": "Under the country's largest hospital chain, The College of Health Care Professions will be able to expand its offering of accredited programs and place its students in new clinical and externship positions across HCA.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 1:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems\" hreflang=\"en\">Coalition for Health AI unveils governance playbooks for responsible AI adoption</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems",
+        "summary": "Each playbook includes suggested implementation guidance, tools, resources and examples for healthcare organizations to integrate into existing processes.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 4:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/penn-medicine-k-health-partner-deploy-clinical-ai-clinical-agents\" hreflang=\"en\">Penn Medicine, K Health partner to deploy AI clinical agents</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/penn-medicine-k-health-partner-deploy-clinical-ai-clinical-agents",
+        "summary": "The agents will first be deployed across the system’s virtual urgent care program, with plans to expand to in-person primary care and certain specialties.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 10:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/cvs-restores-coverage-eli-lilly-obesity-drugs-zepbound-foundayo\" hreflang=\"en\">CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/cvs-restores-coverage-eli-lilly-obesity-drugs-zepbound-foundayo",
+        "summary": "The top pharmacy benefit manager in the U.S., CVS Caremark, will restore coverage to obesity products from Eli Lilly, allowing a significant number of patients to gain access to the drugs through their existing insurance.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 10:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-finalizes-changes-no-surprises-act-dispute-resolution-process\" hreflang=\"en\">CMS finalizes changes to No Surprises Act dispute resolution process</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-changes-no-surprises-act-dispute-resolution-process",
+        "summary": "A new federal rule aims to overhaul the No Surprises Act protocols, particularly as large volumes of disputes are pushed to arbitration.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 10:31am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-expands-partnership-salesforce-greater-call-center-personalization\" hreflang=\"en\">CVS expands partnership with Salesforce for greater call center personalization</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-expands-partnership-salesforce-greater-call-center-personalization",
+        "summary": "CVS Health is growing its partnership with Salesforce, leveraging its agentic AI-driven Agentforce Health to boost personalization in its call centers.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 9:48am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/teladoc-health-inks-partnership-walmart-expand-virtual-care-access\" hreflang=\"en\">Teladoc Health inks partnership with Walmart to expand virtual care services</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-inks-partnership-walmart-expand-virtual-care-access",
+        "summary": "Teladoc Health is expanding its retail partnerships with a new tie-up with Walmart to offer its virtual care services through the company's Better Care Services platform.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 7:47am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hospital-again-ask-ftc-doj-exemption-expanded-premerger-notification-filings\" hreflang=\"en\">Hospitals again ask FTC, DOJ for exemption from expanded premerger notification filings</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hospital-again-ask-ftc-doj-exemption-expanded-premerger-notification-filings",
+        "summary": "As regulators explore an update to the Hart-Scott-Rodino form that would survive court scrutiny, the American Hospital Association argues that the existing process is doing the job.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 4:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/amazon-taps-roy-schoenberg-lead-healthcare-business-neil-lindsay-steps-down\" hreflang=\"en\">Amazon taps Roy Schoenberg to lead healthcare business as Neil Lindsay plans to step down</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/amazon-taps-roy-schoenberg-lead-healthcare-business-neil-lindsay-steps-down",
+        "summary": "Amazon tapped digital health executive Roy Schoenberg, M.D., to lead its healthcare business as Neil Lindsay plans to step away from Amazon after 15 years.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 3:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—KFF Founding President, CEO to retire; Visory Health promotes growth, tech execs</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-extends-berens-rare-disease-review-after-info-request-further-stretching-saga\" hreflang=\"en\">FDA extends Beren’s rare disease review after info request, further stretching saga </a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-extends-berens-rare-disease-review-after-info-request-further-stretching-saga",
+        "summary": "The FDA has delayed its approval decision on Beren Therapeutics’ rare disease drug candidate, extending the asset’s long path toward the U.S. market.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 10:45am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/icon-ends-internal-accounting-investigation-finds-overstated-revenue\" hreflang=\"en\">Icon ends internal accounting investigation, finds it overstated revenue in prior years</a>",
+        "url": "https://www.fiercebiotech.com/cro/icon-ends-internal-accounting-investigation-finds-overstated-revenue",
+        "summary": "Irish CRO Icon has concluded its investigation into its accounting practices and restated its consolidated financials for 2023 and 2024.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 10:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/hoth-therapeutics-pivot-ai-space-sees-stock-price-rocket-after-rebrand\" hreflang=\"en\">Hoth Therapeutics’ pivot to AI in space sees stock rocket after rebrand</a>",
+        "url": "https://www.fiercebiotech.com/biotech/hoth-therapeutics-pivot-ai-space-sees-stock-price-rocket-after-rebrand",
+        "summary": "Hoth Therapeutics’ search for salvation in the stars appears to have been rewarded by investors, as the company’s stock doubled after a pivot to powering AI in space.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 9:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/human-longevity-launches-newco-teams-insilico-ai-powered-longevity-research\" hreflang=\"en\">Human Longevity launches newco, teams with Insilico for AI-powered longevity research </a>",
+        "url": "https://www.fiercebiotech.com/medtech/human-longevity-launches-newco-teams-insilico-ai-powered-longevity-research",
+        "summary": "Human Longevity, which is seeking to use biology and genomics to boost the human lifespan, has launched a new company called Human Life Foundation Models (HLFM) to help with its goal.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 2:13am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-always-looking-further-ways-shuttle-drugs-brain-despite-run-deals\" hreflang=\"en\">Novartis ‘always looking’ for further ways to shuttle drugs to brain despite run of recent deals</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-always-looking-further-ways-shuttle-drugs-brain-despite-run-deals",
+        "summary": "Novartis may be launching an array of vehicles to shuttle drugs across the blood-brain barrier, but executives told Fierce the Swiss pharma is “always looking” for new ways to traverse this final frontier of neuroscience.",
+        "source": "Fierce Biotech",
+        "published": "May 26, 2026 9:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsks-hepatitis-b-drug-cures-one-fifth-patients-major-step-pervasive-disease\" hreflang=\"en\">GSK’s hepatitis B drug cures one-fifth of patients in ‘major step’ for pervasive disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsks-hepatitis-b-drug-cures-one-fifth-patients-major-step-pervasive-disease",
+        "summary": "GSK is pulling back the curtain on the phase 3 success of its chronic hepatitis B drug bepirovirsen, revealing that nearly one-fifth of all treated patients across two trials were functionally cured of the virus.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 12:18pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/kordata-dynamics-launches-neural-focused-ai-clinical-trial-model\" hreflang=\"en\">Kordata Dynamics launches with neural-focused AI clinical trial model</a>",
+        "url": "https://www.fiercebiotech.com/cro/kordata-dynamics-launches-neural-focused-ai-clinical-trial-model",
+        "summary": "Kordata Dynamics is emerging from stealth with the aim to redefine clinical trial execution by processing neural data while taking advantage of the FDA’s recent push for real-time clinical trials.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 11:19am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug\" hreflang=\"en\">D&amp;D sees fibrosis improvements, MASH resolution after rolling dice on GLP-1 drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/dd-sees-fibrosis-improvements-mash-resolution-after-rolling-dice-glp-1-drug",
+        "summary": "D&amp;D Pharmatech has linked its GLP-1/glucagon receptor agonist to improvements in liver health, keeping the Korean biotech in the hunt for a market already served by Novo Nordisk’s Wegovy.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 10:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault\" hreflang=\"en\">Insulet issues voluntary correction for Omnipod devices in leaky insulin fault</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulet-issues-voluntary-correction-omnipod-devices-leaky-insulin-fault",
+        "summary": "Insulet has sent out a voluntary medical device correction notice for a series of its Omnipod devices amid a manufacturing fault that could lead to insulin leaking and not being fully delivered.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 5:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3\" hreflang=\"en\">Apogee bags $1.3B Blackstone royalty funding deal to push eczema challenger into phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/apogee-bags-13b-royalty-funding-deal-push-eczema-challenger-phase-3",
+        "summary": "Apogee Therapeutics has secured a promise of up to $1.3 billion in financing from Blackstone Life Sciences as the biotech gears up to take its anti-IL-13 antibody into phase 3.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 8:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers\" hreflang=\"en\">Dexcom warns of stolen glucose monitors being sold by unauthorized dealers</a>",
+        "url": "https://www.fiercebiotech.com/medtech/dexcom-warns-stolen-glucose-monitors-being-sold-unauthorized-dealers",
+        "summary": "Dexcom warned that some lots of its G7 wearable glucose monitors were stolen on their way to the scrapyard and were sold by a third-party vendor.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 7:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kardigan-itching-ipo-fund-late-stage-cardiovascular-pipeline\" hreflang=\"en\">Kardigan itching for IPO to fund late-stage cardiovascular pipeline </a>",
+        "url": "https://www.fiercebiotech.com/biotech/kardigan-itching-ipo-fund-late-stage-cardiovascular-pipeline",
+        "summary": "Kardigan may have only launched last year, but it seems the cardiovascular-focused biotech is already eyeing the public markets.",
+        "source": "Fierce Biotech",
+        "published": "May 27, 2026 4:59am",
+        "importance_hint": 5
+      },
+      {
+        "title": "教皇发布首份AI通谕：4万字10个观点，AI焦虑被说透了",
+        "url": "https://www.36kr.com/p/3827500620652800",
+        "summary": "句句提 AI，字字在说人。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 28 May 2026 00:08:55 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models",
+        "url": "https://huggingface.co/papers/2605.30219",
+        "summary": "Long-horizon interactions require language models to manage accumulating information: when to update their state, when to preserve their state, and what to ignore. We study this challenge as Contextual Belief Management (CBM): maintaining a predicted belief state aligned with formal evidence while isolating task-irrelevant noise. To make CBM measurable, we introduce BeliefTrack, a closed-world benchmark spanning Rule Discovery and Circuit Diagnosis, where a finite belief space and symbolic verifiers enable exact turn-level evaluation. BeliefTrack diagnoses three failures: Failed Stay, Failed U",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-27T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

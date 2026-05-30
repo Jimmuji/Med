@@ -1,0 +1,341 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T12:45:33.939490+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 0
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: At ASCO, positive data for Bristol in multiple myeloma and Pfizer in lung cancer",
+        "url": "https://www.statnews.com/2026/05/29/asco-news-day-1-multiple-myeloma-bristol-lung-cancer-pfizer/",
+        "summary": "You’re reading the web edition of ASCO in 30 Seconds, STAT’s guide to the American Society of Clinical Oncology annual meeting. Sign up for email editions here. We’re ASCOmaxxing. Rest&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 21:32:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump administration seeks to overhaul federal grantmaking process, alarming researchers",
+        "url": "https://www.statnews.com/2026/05/29/nih-grants-uniform-guidance-proposal-political-control/",
+        "summary": "The Trump administration has released a sweeping proposal to overhaul the bedrock regulation for all federal grants.",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 18:50:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Kenya court suspends U.S. plan for Ebola quarantine facility for Americans",
+        "url": "https://www.statnews.com/2026/05/29/kenya-court-suspends-plan-ebola-quarantine-facility-americans/",
+        "summary": "A court in Kenya on Friday suspended a U.S. plan to establish a quarantine facility for Americans exposed to a rare type of Ebola virus spreading in northeastern Congo.",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 14:59:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Replimune drug getting third try at FDA approval, a Pfizer deal in China, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/05/29/pharmalittle-were-reading-about-replimune-drug-getting-third-try-at-fda-approval-a-pfizer-deal-in-china-and-more/",
+        "summary": "Pharma updates from the Pharmalot campus via the Pharmalittle newsletter",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 13:34:37 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Allogene CEO David Chang stepping down",
+        "url": "https://www.statnews.com/2026/05/29/biotech-news-allogene-ceo-david-chang-steps-down/",
+        "summary": "Pfizer invests billions to buy Chinese drugs, WHO maps experimental response to Ebola outbreak, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 13:14:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Massachusetts sues UnitedHealth, alleging fraud in state’s Medicaid plans for seniors",
+        "url": "https://www.statnews.com/2026/05/29/united-healthcare-sued-massachusetts-ag-alleges-100-million-upcode-fraud-medicaid/",
+        "summary": "State AG alleges UnitedHealthcare claimed some members were sicker to boost its profits.",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Which vaccines will curb the Ebola outbreak? WHO debates",
+        "url": "https://www.statnews.com/2026/05/29/health-news-which-vaccines-will-curb-ebola-outbreak/",
+        "summary": "The growing Ebola outbreak, the unknowns of microdosing GLP-1s, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 12:47:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/05/29/up-and-down-the-ladder-comings-and-goings-merck-pfizer-amgen/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 12:33:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m a weight-loss doctor. Here’s why I worry about GLP-1 ‘microdoses’",
+        "url": "https://www.statnews.com/2026/05/29/glp-1-microdose-popular-but-unsupported-by-evidence/",
+        "summary": "Long term, we don’t know what tiny doses of GLP-1s for cosmetic weight loss can do, writes a weight-loss doctor.",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The woman behind the world’s biggest longevity competition",
+        "url": "https://www.statnews.com/2026/05/29/xprize-healthspan-longevity-science-jamie-justice-q-and-a/",
+        "summary": "Jamie Justice of XPRIZE Healthspan on the most promising research and \"purely scammy\" treatments in the world of longevity.",
+        "source": "STAT News",
+        "published": "Fri, 29 May 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: As Ebola outbreak in Central Africa grows, the U.S. turns itself into a fortress",
+        "url": "https://www.statnews.com/2026/05/28/trump-ebola-travel-restrictions-discourages-medical-volunteers/",
+        "summary": "The U.S. is taking extraordinary steps to keep Ebola out. But its policies may create risks for Americans infected overseas and discourage volunteers from responding to the outbreak.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 19:50:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech veteran Jeremy Levin on why the industry’s future is secure, but American leadership is at risk",
+        "url": "https://www.statnews.com/2026/05/28/biotech-veteran-jeremy-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/",
+        "summary": "Biotech is producing scientific breakthroughs that once seemed impossible. But according to longtime industry executive Jeremy Levin, the institutions that support these advances, from regulators, to investors, and even public&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 18:48:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Biotech exec Jeremy Levin on the industry’s strategic turning point",
+        "url": "https://www.statnews.com/2026/05/28/jeremy-levin-biotech-asco-preview-readout-loud-podcast/",
+        "summary": "This week on \"The Readout LOUD,\" longtime biotech exec Jeremy Levin talks about his new book and the industry's strategic turning point. Listen now.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 18:20:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s pharma deals get tested",
+        "url": "https://www.statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/",
+        "summary": "We still have a lot of questions about Trump's MFN deals with pharma companies.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 16:07:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Ebola at the World Cup? Here’s what we should actually worry about",
+        "url": "https://www.statnews.com/2026/05/28/ebola-world-cup-travel-public-health-measles/",
+        "summary": "“Infectious disease threats during the World Cup will almost certainly look much more familiar than frightening headlines suggest,” writes Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Thu, 28 May 2026 14:24:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-set-suspend-enrollment-elevance-healths-medicare-advantage-plans\" hreflang=\"en\">CMS grants Elevance Health a reprieve from Medicare Advantage sanctions</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-set-suspend-enrollment-elevance-healths-medicare-advantage-plans",
+        "summary": "Elevance Health has earned a reprieve from potential federal sanctions on its Medicare Advantage plans.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 2, 2026 1:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-reimagine-care-moffitt-cancer-center-expand-ai-powered\" hreflang=\"en\">Weekly Rundown—Moffitt Cancer Center expands Reimagine Care's virtual oncology model; Tanner Health deploys AI workforce solution</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-reimagine-care-moffitt-cancer-center-expand-ai-powered",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/massachusetts-ag-sues-unitedhealthcare-over-alleged-medicaid-fraud\" hreflang=\"en\">Massachusetts AG sues UnitedHealthcare over alleged Medicaid fraud</a>",
+        "url": "https://www.fiercehealthcare.com/payers/massachusetts-ag-sues-unitedhealthcare-over-alleged-medicaid-fraud",
+        "summary": "Massachusetts Attorney General Andrea Joy Campbell is suing UnitedHealthcare, alleging that the insurance giant \"manipulated the health status\" of Medicaid members to secure higher payments.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 12:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-nearly-two-thirds-pediatric-prior-auths\" hreflang=\"en\">UnitedHealthcare to nix nearly two thirds of pediatric prior auths</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-nearly-two-thirds-pediatric-prior-auths",
+        "summary": "UnitedHealthcare is set to eliminate close to two-thirds of pediatric prior authorization requirements by the end of the year.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 11:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/industry-voices-patients-are-building-new-healthcare-system-industry-finally\" hreflang=\"en\">Industry Voices—Patients are building a new healthcare system. The industry is finally catching up</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/industry-voices-patients-are-building-new-healthcare-system-industry-finally",
+        "summary": "Patients have helped create a \"shadow healthcare system\" of digital platforms, virtual clinics, diagnostic tools and consumer health services that exist alongside traditional healthcare infrastructure, writes Muse Capital Founding Partner Rachel Springate.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 10:52am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/advocate-health-grows-q1-revenue-108-higher-volumes-greater-efficiency\" hreflang=\"en\">Advocate Health grows Q1 revenue by 10.8% amid higher volumes, greater efficiency</a>",
+        "url": "https://www.fiercehealthcare.com/providers/advocate-health-grows-q1-revenue-108-higher-volumes-greater-efficiency",
+        "summary": "The nation's third-largest nonprofit recorded a 3.7% operating margin for 2026's opening quarter and improved its bottom line to $640.9 million.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 3:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Washington Regional's strategic consolidation cuts 86 employees; Care New England restructure hits 30+ jobs</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation\" hreflang=\"en\">Care navigation startup Garner Health banks $100M series E at $2.74B valuation</a>",
+        "url": "https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation",
+        "summary": "The startup plans to use the capital to expand its provider quality platform, scale AI-powered product innovation and expand access.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 2:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hca-bolsters-workforce-pipeline-healthcare-professional-college-acquisition\" hreflang=\"en\">HCA bolsters workforce pipeline with healthcare professional college acquisition</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hca-bolsters-workforce-pipeline-healthcare-professional-college-acquisition",
+        "summary": "Under the country's largest hospital chain, The College of Health Care Professions will be able to expand its offering of accredited programs and place its students in new clinical and externship positions across HCA.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 1:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems\" hreflang=\"en\">Coalition for Health AI unveils governance playbooks for responsible AI adoption</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems",
+        "summary": "Each playbook includes suggested implementation guidance, tools, resources and examples for healthcare organizations to integrate into existing processes.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 4:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/penn-medicine-k-health-partner-deploy-clinical-ai-clinical-agents\" hreflang=\"en\">Penn Medicine, K Health partner to deploy AI clinical agents</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/penn-medicine-k-health-partner-deploy-clinical-ai-clinical-agents",
+        "summary": "The agents will first be deployed across the system’s virtual urgent care program, with plans to expand to in-person primary care and certain specialties.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 10:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/cvs-restores-coverage-eli-lilly-obesity-drugs-zepbound-foundayo\" hreflang=\"en\">CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/cvs-restores-coverage-eli-lilly-obesity-drugs-zepbound-foundayo",
+        "summary": "The top pharmacy benefit manager in the U.S., CVS Caremark, will restore coverage to obesity products from Eli Lilly, allowing a significant number of patients to gain access to the drugs through their existing insurance.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 10:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/legend-scientific-founder-returns-asco-new-ambition-high-yield-non-gene-edited-car-t\" hreflang=\"en\">Legend scientific founder returns to ASCO with new ambition for high-yield, non-gene-editing CAR-T platform</a>",
+        "url": "https://www.fiercebiotech.com/biotech/legend-scientific-founder-returns-asco-new-ambition-high-yield-non-gene-edited-car-t",
+        "summary": "Nine years after wowing the audience at the American Society of Clinical Oncology annual meeting with a CAR-T candidate that would become Carvykti—now the world’s most successful cell therapy—Legend Biotech’s scientific founder Frank Fan, M.D., Ph.D., is returning to the spotlight with an entirely new playbook.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 1:07pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-after-phase-3-miss-posts-subgroup-data-behind-pitch-rare-disease-approval\" hreflang=\"en\">AstraZeneca, after phase 3 miss, posts subgroup data behind pitch for rare disease approval</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-after-phase-3-miss-posts-subgroup-data-behind-pitch-rare-disease-approval",
+        "summary": "AstraZeneca has shared data it believes can rescue anselamimab from a phase 3 failure, linking the rare disease drug candidate to a 62% improvement in survival in a prespecified subgroup.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 9:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/agios-next-gen-pk-drug-fails-blood-cancer-study-scd-ambitions-undimmed\" hreflang=\"en\">Agios’ next-gen PK drug fails blood cancer study but sickle cell disease ambitions remain undimmed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/agios-next-gen-pk-drug-fails-blood-cancer-study-scd-ambitions-undimmed",
+        "summary": "Agios Pharmaceuticals’ next-gen pyruvate kinase (PK) activator has failed a phase 2 study in a group of rare blood cancers, although the biopharma is still holding out hope in sickle cell disease (SCD).",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 8:54am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boston-china-and-future-biotech\" hreflang=\"en\">Boston, China and the future of biotech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boston-china-and-future-biotech",
+        "summary": "Senior Writer Darren Incorvaia talks with industry leaders and experts from Flagship Pioneering, MassBio and PassKey about funding pressures, AI, China's biotech ecosystem and what's next for drug development.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 8:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-allogene-swaps-cmo-new-chief-exec\" hreflang=\"en\">Chutes &amp; Ladders—Allogene swaps in CMO as new chief exec</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-allogene-swaps-cmo-new-chief-exec",
+        "summary": "After more than eight years at the helm of off-the-shelf CAR-T company Allogene Therapeutics, co-founder David Chang, M.D., Ph.D., is stepping down so that Zachary Roberts, M.D., Ph.D., the biotech’s chief medical officer and head of R&amp;D, can take his place starting June 30.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 11:54pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-lilly-debuts-bladder-cancer-data-potential-padcev-challenger\" hreflang=\"en\">ASCO: Lilly debuts ‘strong’ bladder cancer data for potential Padcev challenger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-lilly-debuts-bladder-cancer-data-potential-padcev-challenger",
+        "summary": "Eli Lilly took to the stage at the American Society of Clinical Oncology meeting in Chicago to share early data for a new drug candidate that could, if all goes right, challenge the dominance of Pfizer and Astellas Pharma’s Padcev in bladder cancer.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 11:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-bms-celmod-drug-stands-out-doubling-pfs-ph-3-myeloma-study\" hreflang=\"en\">ASCO: BMS’ CELMoD drug doubles PFS in ‘incredibly exciting’ ph. 3 myeloma study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-bms-celmod-drug-stands-out-doubling-pfs-ph-3-myeloma-study",
+        "summary": "Bristol Myers Squibb may have gone big in its pursuit of cereblon E3 ligase modulator (CELMoD) drugs, but today the pharma is standing tall.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 10:40pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-scraps-lead-arthritis-drug-405m-mirobio-buyout-latest-blow-btla-field\" hreflang=\"en\">Gilead scraps lead arthritis drug from $405M MiroBio buyout in latest blow to BTLA agonist field</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gilead-scraps-lead-arthritis-drug-405m-mirobio-buyout-latest-blow-btla-field",
+        "summary": "Gilead has abandoned work on the lead rheumatoid arthritis drug from its $405 million buyout of MiroBio in the latest blow to the BTLA agonist field.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 3:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-pays-innovent-650m-broad-bet-chinese-innovation-early-development-speed\" hreflang=\"en\">Pfizer pens $10B, 12-drug deal with Innovent in broad bet on Chinese cancer med innovation</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-pays-innovent-650m-broad-bet-chinese-innovation-early-development-speed",
+        "summary": "Pfizer is paying Innovent $650 million upfront to partner on cancer drug development, following Bristol Myers Squibb by striking a broad pact that positions it to leverage China’s fast early development system.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 4:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-extends-berens-rare-disease-review-after-info-request-further-stretching-saga\" hreflang=\"en\">FDA extends Beren’s rare disease review after info request, further stretching saga </a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-extends-berens-rare-disease-review-after-info-request-further-stretching-saga",
+        "summary": "The FDA has delayed its approval decision on Beren Therapeutics’ rare disease drug candidate, extending the asset’s long path toward the U.S. market.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 10:45am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/icon-ends-internal-accounting-investigation-finds-overstated-revenue\" hreflang=\"en\">Icon ends internal accounting investigation, finds it overstated revenue in prior years</a>",
+        "url": "https://www.fiercebiotech.com/cro/icon-ends-internal-accounting-investigation-finds-overstated-revenue",
+        "summary": "Irish CRO Icon has concluded its investigation into its accounting practices and restated its consolidated financials for 2023 and 2024.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 10:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/hoth-therapeutics-pivot-ai-space-sees-stock-price-rocket-after-rebrand\" hreflang=\"en\">Hoth Therapeutics’ pivot to AI in space sees stock rocket after rebrand</a>",
+        "url": "https://www.fiercebiotech.com/biotech/hoth-therapeutics-pivot-ai-space-sees-stock-price-rocket-after-rebrand",
+        "summary": "Hoth Therapeutics’ search for salvation in the stars appears to have been rewarded by investors, as the company’s stock doubled after a pivot to powering AI in space.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 9:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "00后退学干保险，2年估值176亿",
+        "url": "https://www.36kr.com/p/3830314181896064",
+        "summary": "短短三周，估值翻倍。",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 29 May 2026 13:17:23 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "医疗 AI 进入“操作系统”阶段 谁来承接基础设施角色？",
+        "url": "https://www.36kr.com/p/3830039188170375",
+        "summary": "中国医疗AI循证AgentOS轻松健康证元芳发布，走差异化路线",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 29 May 2026 07:44:07 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": []
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:55:08.402303+08:00",
+  "counts": {
+    "news": 34,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: A standing ovation for RevMed, and caution for Akeso",
+        "url": "https://www.statnews.com/2026/05/31/asco-news-day-3-revmed-akeso-summit-lilly-kelonia/",
+        "summary": "ASCO Day 3: A huge advance for pancreatic cancer, a let down for Akeso and Summit, and a new approach to immunotherapy.",
+        "source": "STAT News",
+        "published": "Sun, 31 May 2026 23:03:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Ultra-low doses could bring costly cancer treatments to more patients in poorer countries",
+        "url": "https://www.statnews.com/2026/05/31/low-dose-nivolumab-extends-survival-trial-head-neck-squamous-cell-carcinoma-asco-2026/",
+        "summary": "Low-dose, low-cost immunotherapies may help patients in poorer countries access high-tech cancer treatments.",
+        "source": "STAT News",
+        "published": "Sun, 31 May 2026 17:11:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds",
+        "url": "https://www.statnews.com/2026/05/31/prostate-cancer-hormone-therapy-cut-relapse-asco-2026/",
+        "summary": "By doing hormone therapy up front in prostate cancer cases, the hope was to shrink the relapse rate after surgery. Results were encouraging.",
+        "source": "STAT News",
+        "published": "Sun, 31 May 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Akeso and Summit’s ivonescimab extends survival in squamous cell lung cancer",
+        "url": "https://www.statnews.com/2026/05/31/squamous-cell-lung-cancer-akeso-summit-harmoni-asco-2026/",
+        "summary": "A lung cancer drug developed in China was a highlight of ASCO but doctors want to see follow-up in a more diverse population.",
+        "source": "STAT News",
+        "published": "Sun, 31 May 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Practice-changing results reported for Revolution Medicines pancreatic cancer drug",
+        "url": "https://www.statnews.com/2026/05/31/pancreatic-cancer-daraxonrasib-revolution-medicines-results-asco-2026/",
+        "summary": "Much-awaited results at ASCO show that scientists have indeed found a way to drug a \"greasy ball\" involved in pancreatic cancer.",
+        "source": "STAT News",
+        "published": "Sun, 31 May 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA",
+        "url": "https://www.statnews.com/2026/05/30/asco-news-day-2-biontech-pfizer-kelun-merck-pazdur/",
+        "summary": "ASCO, Day 2: promising news around lung cancer, new immunotherapies, and bold words from Rick Pazdur.",
+        "source": "STAT News",
+        "published": "Sat, 30 May 2026 21:28:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: China competition, ‘destruction’ at FDA give agency chance to restructure, Rick Pazdur says",
+        "url": "https://www.statnews.com/2026/05/30/rick-pazdur-fda-destruction-rebuilding-asco-2026/",
+        "summary": "Rick Pazdur on the FDA: “We've had a lot of destruction here, and it doesn't mean that we have to just go back and say, well, let's rebuild it as&#8230;",
+        "source": "STAT News",
+        "published": "Sat, 30 May 2026 15:48:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Revolution Medicines starts shipping experimental pancreatic cancer drug",
+        "url": "https://www.statnews.com/2026/05/30/pancreatic-cancer-daraxonrasib-revolution-medicines-early-access-asco-2026/",
+        "summary": "CEO Mark Goldsmith says Revolution Medicines will submit pancreatic cancer drug daraxonrasib for FDA approval soon.",
+        "source": "STAT News",
+        "published": "Sat, 30 May 2026 13:25:26 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: As Ebola outbreak grows, Trump administration veers from previous government playbook",
+        "url": "https://www.statnews.com/2026/05/30/trump-ebola-response-biden-pandemic-preparations-thrown-away/",
+        "summary": "Trump officials are disregarding the Biden administration's detailed pandemic plans in favor of their own strategy.",
+        "source": "STAT News",
+        "published": "Sat, 30 May 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/amidst-vaccine-confusion-we-must-follow-evidence-protect-against-meningococcal-disease\" hreflang=\"en\">Amidst vaccine confusion, we must follow the evidence to protect against meningococcal disease</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/amidst-vaccine-confusion-we-must-follow-evidence-protect-against-meningococcal-disease",
+        "summary": "Routine vaccination against IMD is essential to sustaining immunity during the years when young people are at greatest risk.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 3:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-set-suspend-enrollment-elevance-healths-medicare-advantage-plans\" hreflang=\"en\">CMS grants Elevance Health a reprieve from Medicare Advantage sanctions</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-set-suspend-enrollment-elevance-healths-medicare-advantage-plans",
+        "summary": "Elevance Health has earned a reprieve from potential federal sanctions on its Medicare Advantage plans.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 2, 2026 1:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-reimagine-care-moffitt-cancer-center-expand-ai-powered\" hreflang=\"en\">Weekly Rundown—Moffitt Cancer Center expands Reimagine Care's virtual oncology model; Tanner Health deploys AI workforce solution</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-reimagine-care-moffitt-cancer-center-expand-ai-powered",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/massachusetts-ag-sues-unitedhealthcare-over-alleged-medicaid-fraud\" hreflang=\"en\">Massachusetts AG sues UnitedHealthcare over alleged Medicaid fraud</a>",
+        "url": "https://www.fiercehealthcare.com/payers/massachusetts-ag-sues-unitedhealthcare-over-alleged-medicaid-fraud",
+        "summary": "Massachusetts Attorney General Andrea Joy Campbell is suing UnitedHealthcare, alleging that the insurance giant \"manipulated the health status\" of Medicaid members to secure higher payments.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 12:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-nearly-two-thirds-pediatric-prior-auths\" hreflang=\"en\">UnitedHealthcare to nix nearly two thirds of pediatric prior auths</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-nearly-two-thirds-pediatric-prior-auths",
+        "summary": "UnitedHealthcare is set to eliminate close to two-thirds of pediatric prior authorization requirements by the end of the year.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 11:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/retail/cvs-walgreens-and-walmart-defeat-opioid-lawsuit-brought-florida-hospitals\" hreflang=\"en\">CVS, Walgreens and Walmart defeat opioid lawsuit brought by Florida hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/retail/cvs-walgreens-and-walmart-defeat-opioid-lawsuit-brought-florida-hospitals",
+        "summary": "A Florida judge ruled in favor of CVS, Walgreens and Walmart in a lawsuit brought by 16 hospitals accusing the pharmacy retailers of flooding the state with opioids.",
+        "source": "Fierce Healthcare",
+        "published": "May 31, 2026 6:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/industry-voices-patients-are-building-new-healthcare-system-industry-finally\" hreflang=\"en\">Industry Voices—Patients are building a new healthcare system. The industry is finally catching up</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/industry-voices-patients-are-building-new-healthcare-system-industry-finally",
+        "summary": "Patients have helped create a \"shadow healthcare system\" of digital platforms, virtual clinics, diagnostic tools and consumer health services that exist alongside traditional healthcare infrastructure, writes Muse Capital Founding Partner Rachel Springate.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 10:52am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/advocate-health-grows-q1-revenue-108-higher-volumes-greater-efficiency\" hreflang=\"en\">Advocate Health grows Q1 revenue by 10.8% amid higher volumes, greater efficiency</a>",
+        "url": "https://www.fiercehealthcare.com/providers/advocate-health-grows-q1-revenue-108-higher-volumes-greater-efficiency",
+        "summary": "The nation's third-largest nonprofit recorded a 3.7% operating margin for 2026's opening quarter and improved its bottom line to $640.9 million.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 3:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Washington Regional's strategic consolidation cuts 86 employees; Care New England restructure hits 30+ jobs</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation\" hreflang=\"en\">Care navigation startup Garner Health banks $100M series E at $2.74B valuation</a>",
+        "url": "https://www.fiercehealthcare.com/finance/care-navigation-startup-garner-health-banks-100m-series-e-274b-valuation",
+        "summary": "The startup plans to use the capital to expand its provider quality platform, scale AI-powered product innovation and expand access.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 2:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hca-bolsters-workforce-pipeline-healthcare-professional-college-acquisition\" hreflang=\"en\">HCA bolsters workforce pipeline with healthcare professional college acquisition</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hca-bolsters-workforce-pipeline-healthcare-professional-college-acquisition",
+        "summary": "Under the country's largest hospital chain, The College of Health Care Professions will be able to expand its offering of accredited programs and place its students in new clinical and externship positions across HCA.",
+        "source": "Fierce Healthcare",
+        "published": "May 28, 2026 1:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems\" hreflang=\"en\">Coalition for Health AI unveils governance playbooks for responsible AI adoption</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems",
+        "summary": "Each playbook includes suggested implementation guidance, tools, resources and examples for healthcare organizations to integrate into existing processes.",
+        "source": "Fierce Healthcare",
+        "published": "May 27, 2026 4:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/asco-akeso-ivonescimab-bests-pd-1-inhibitor-squamous-nsclc-overall-survival\" hreflang=\"en\">ASCO: Akeso’s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos, slashing death risk by 34%</a>",
+        "url": "https://www.fiercebiotech.com/pharma/asco-akeso-ivonescimab-bests-pd-1-inhibitor-squamous-nsclc-overall-survival",
+        "summary": "Although the first-in-class PD-1xVEGF bispecific didn’t disappoint on its overall survival headline message, detailed results from ivonescimab’s chemo-combo readout in first-line lung cancer are being picked apart by a critical pair of eyes.",
+        "source": "Fierce Biotech",
+        "published": "May 31, 2026 12:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-revolution-medicines-confident-ras-leadership-rivals-square\" hreflang=\"en\">ASCO: Revolution Medicines confident in RAS leadership as rivals square up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-revolution-medicines-confident-ras-leadership-rivals-square",
+        "summary": "This year’s meeting of the American Society of Clinical Oncology is abuzz with talk of RAS inhibitors, largely driven by Revolution Medicines’ barnburner pancreatic cancer data drop earlier this year. But even as competitors swirl, RevMed is confident that it can maintain the leadership position it has worked so hard to obtain.",
+        "source": "Fierce Biotech",
+        "published": "May 30, 2026 1:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-kelonia-keeps-vivo-car-t-momentum-rolling-nutty-100-response-rate\" hreflang=\"en\">ASCO: Lilly exec points to ‘nutty’ 100% response rate for in vivo CAR-T as justifying Kelonia buyout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-kelonia-keeps-vivo-car-t-momentum-rolling-nutty-100-response-rate",
+        "summary": "Kelonia Therapeutics has shared the largest slice of data yet for an in vivo CAR-T, helping to justify the $3.2 billion price tag that Eli Lilly recently paid to buy the Boston biotech.",
+        "source": "Fierce Biotech",
+        "published": "May 30, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/next-gen-io-race-nsclc-biontechbms-and-pfizer-split-overall-survival-scheme\" hreflang=\"en\">ASCO: In next-gen IO race, BioNTech/BMS and Pfizer are divided on overall survival approach</a>",
+        "url": "https://www.fiercebiotech.com/biotech/next-gen-io-race-nsclc-biontechbms-and-pfizer-split-overall-survival-scheme",
+        "summary": "In the race to forge the next Keytruda from PD-(L)1xVEGF bispecific antibodies, Pfizer and the BioNTech-Bristol Myers Squibb alliance are split on how to position overall survival—the gold-standard oncology endpoint—in their first-line non-small cell lung cancer clinical trials.",
+        "source": "Fierce Biotech",
+        "published": "May 30, 2026 3:09pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-tubulis-touts-ovarian-cancer-data-attracted-gilead-buyout-deal-closes\" hreflang=\"en\">ASCO: Gilead touts ADC ovarian cancer data as proof Tubulis buyout was ‘a good deal’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-tubulis-touts-ovarian-cancer-data-attracted-gilead-buyout-deal-closes",
+        "summary": "The German biotech shared updated data from a phase 1 study of the antibody-drug conjugate TUB-040, the star behind Gilead’s decision to buy the company for $3.15 billion upfront earlier this year.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 6:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/legend-scientific-founder-returns-asco-new-ambition-high-yield-non-gene-edited-car-t\" hreflang=\"en\">Legend scientific founder returns to ASCO with new ambition for high-yield, non-gene-editing CAR-T platform</a>",
+        "url": "https://www.fiercebiotech.com/biotech/legend-scientific-founder-returns-asco-new-ambition-high-yield-non-gene-edited-car-t",
+        "summary": "Nine years after wowing the audience at the American Society of Clinical Oncology annual meeting with a CAR-T candidate that would become Carvykti—now the world’s most successful cell therapy—Legend Biotech’s scientific founder Frank Fan, M.D., Ph.D., is returning to the spotlight with an entirely new playbook.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 1:07pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-after-phase-3-miss-posts-subgroup-data-behind-pitch-rare-disease-approval\" hreflang=\"en\">AstraZeneca, after phase 3 miss, posts subgroup data behind pitch for rare disease approval</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-after-phase-3-miss-posts-subgroup-data-behind-pitch-rare-disease-approval",
+        "summary": "AstraZeneca has shared data it believes can rescue anselamimab from a phase 3 failure, linking the rare disease drug candidate to a 62% improvement in survival in a prespecified subgroup.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 9:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/agios-next-gen-pk-drug-fails-blood-cancer-study-scd-ambitions-undimmed\" hreflang=\"en\">Agios’ next-gen PK drug fails blood cancer study but sickle cell disease ambitions remain undimmed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/agios-next-gen-pk-drug-fails-blood-cancer-study-scd-ambitions-undimmed",
+        "summary": "Agios Pharmaceuticals’ next-gen pyruvate kinase (PK) activator has failed a phase 2 study in a group of rare blood cancers, although the biopharma is still holding out hope in sickle cell disease (SCD).",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 8:54am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boston-china-and-future-biotech\" hreflang=\"en\">Boston, China and the future of biotech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boston-china-and-future-biotech",
+        "summary": "Senior Writer Darren Incorvaia talks with industry leaders and experts from Flagship Pioneering, MassBio and PassKey about funding pressures, AI, China's biotech ecosystem and what's next for drug development.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 8:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-allogene-swaps-cmo-new-chief-exec\" hreflang=\"en\">Chutes &amp; Ladders—Allogene swaps in CMO as new chief exec</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-allogene-swaps-cmo-new-chief-exec",
+        "summary": "After more than eight years at the helm of off-the-shelf CAR-T company Allogene Therapeutics, co-founder David Chang, M.D., Ph.D., is stepping down so that Zachary Roberts, M.D., Ph.D., the biotech’s chief medical officer and head of R&amp;D, can take his place starting June 30.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 11:54pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-bms-celmod-drug-stands-out-doubling-pfs-ph-3-myeloma-study\" hreflang=\"en\">ASCO: BMS’ CELMoD drug doubles PFS in ‘incredibly exciting’ ph. 3 myeloma study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-bms-celmod-drug-stands-out-doubling-pfs-ph-3-myeloma-study",
+        "summary": "Bristol Myers Squibb may have gone big in its pursuit of cereblon E3 ligase modulator (CELMoD) drugs, but today the pharma is standing tall.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 10:40pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-lilly-debuts-bladder-cancer-data-potential-padcev-challenger\" hreflang=\"en\">ASCO: Lilly debuts ‘strong’ bladder cancer data for potential Padcev challenger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-lilly-debuts-bladder-cancer-data-potential-padcev-challenger",
+        "summary": "Eli Lilly took to the stage at the American Society of Clinical Oncology meeting in Chicago to share early data for a new drug candidate that could, if all goes right, challenge the dominance of Pfizer and Astellas Pharma’s Padcev in bladder cancer.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 11:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "36氪首发｜女性健康科技企业「亿杉医疗」完成A轮及A1轮融资，并构建全球首个AI早产/分娩预测平台",
+        "url": "https://www.36kr.com/p/3833376320415362",
+        "summary": "公司正式启动B轮融资，持续推进欧洲与北美地区的产业布局与深度发展。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 01 Jun 2026 01:00:00 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal",
+        "url": "https://huggingface.co/papers/2605.27919",
+        "summary": "Learning visuomotor policies via behavior cloning typically involves mimicking expert demonstrations collected by human operators. However, natural human demonstrations inherently contain high-frequency noise, such as intermittent jerks, pauses, and action jitter. Training policies to directly imitate these raw trajectories inevitably causes the model to inherit these suboptimal behaviors. This pathology is particularly pronounced in diffusion-based policies, where iterative denoising steps can inadvertently amplify high-frequency artifacts at the expense of meaningful fine-grained details. To",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "FRAPPE: Full Input, Residual Output Autoencoding with Projection Pursuit Encoder",
+        "url": "https://huggingface.co/papers/2605.28992",
+        "summary": "Media compression standards have reached a plateau in terms of the rate-distortion-complexity trade-off, limiting the ability to offload expensive AI perception to the cloud in applications like robotics, wearables, and remote sensing. DNN-based codecs improve compression efficiency, but at a cost: they cannot easily adapt to large changes in available bitrate, and real-time encoding requires expensive, power-hungry GPUs that prohibit use on low-cost or resource-constrained platforms. To address these limitations, we propose a novel autoencoding framework (FRAPPE) that uses the Full input to p",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2605.26844",
+        "summary": "On-policy distillation (OPD) trains a student on its own rollouts with token-level teacher supervision. Recent selective OPD methods exploit the non-uniformity of OPD signals by prioritizing high-entropy or high-disagreement tokens. We revisit this principle and ask: which token-level teacher signals are actually learnable? Using a fixed-context diagnostic that measures same-context teacher-student KL reduction, we show that raw KL disagreement is a coarse proxy for learning value. It conflates learnable disagreement, where the teacher assigns corrective mass to the student's top-K candidates,",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-25T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

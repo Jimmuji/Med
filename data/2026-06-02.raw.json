@@ -1,0 +1,350 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T13:25:52.501407+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
+        "url": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/",
+        "summary": "States are racing to implement the new requirements by the start of next year.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 22:24:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly warns hospitals to submit claims data in the next five days or lose their 340B drug discounts",
+        "url": "https://www.statnews.com/pharmalot/2026/06/01/lilly-warns-hospitals-submit-claims-data-or-lose-340b-drug-discounts/",
+        "summary": "Eli Lilly has told more than 1,000 hospitals participating in the 340B drug discount program to submit claims data over the next five days — or lose price breaks.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 22:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Global coalition to fast-track three vaccines targeting Ebola outbreak with $62 million in funding",
+        "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/",
+        "summary": "With no licensed vaccines available to protect against the Ebola virus currently spreading in the Congo, efforts are underway to fast-track development of at least three vaccines.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 21:35:53 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Abivax ulcerative colitis drug shows strong efficacy, but cases of cancer raise concerns",
+        "url": "https://www.statnews.com/2026/06/01/abivax-ulcerative-colitis-obefazimod/",
+        "summary": "Abivax said its experimental treatment for ulcerative colitis showed significant efficacy in a closely watched trial, but shares of the company tanked on safety concerns.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 21:31:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At ASCO, talk of barriers to cancer care, new treatments, and other big takeaways",
+        "url": "https://www.statnews.com/2026/06/01/asco-news-day-4-merkel-cell-carcinoma-glp1s-grail/",
+        "summary": "Here is some of what you may have missed from the world's largest cancer research meeting.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 20:56:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At the world’s largest cancer research meeting, data briefly took a backseat to grief",
+        "url": "https://www.statnews.com/2026/06/01/cancer-oncologists-grief-asco-2026/",
+        "summary": "At the world's largest cancer research meeting, new data were plentiful. But this year, there was also a focus on grief.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 20:25:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "As FDA misses deadline on electric shock ban, disability advocates speak out",
+        "url": "https://www.statnews.com/2026/06/01/fda-misses-deadline-electric-shock-ban-disability-advocates-speak-out/",
+        "summary": "The FDA has missed a self-imposed deadline to ban the use of electrical shock devices in people with intellectual disabilities.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 15:30:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare’s mum on GLP-1s, and Massachusetts sues United",
+        "url": "https://www.statnews.com/2026/06/01/medicare-bridge-obesity-drug-coverage-no-surprises-act-idr-rules-health-care-inc/",
+        "summary": "We've been asking Medicare for weeks about the cost of giving seniors $50 obesity drugs.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 15:14:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about pancreatic and lung cancer drugs, China biotech growth, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/01/asco-pancreatic-lung-cancer-drugs-china-growth-as-drug-developer/",
+        "summary": "Detailed study data for a pancreatic cancer treatment from Revolution Medicines confirmed it increased overall survival, from 13.2 months to 6.7 months",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 13:30:37 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: What should hospitals do when patients demand unvaccinated donor blood?",
+        "url": "https://www.statnews.com/2026/06/01/unvaccinated-blood-donor-directed-donation-transcript/",
+        "summary": "“You have to understand a person's belief if you want to address it,” Deva Sharma says on the “First Opinion Podcast” about requests for unvaccinated donor blood.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 13:25:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A turning point for pancreatic cancer patients",
+        "url": "https://www.statnews.com/2026/06/01/biotech-news-turning-point-for-pancreatic-cancer-revmed/",
+        "summary": "Eli Lilly announces two China deals, Akeso's lung cancer bispecific payoff, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 13:12:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "CDC says containing the spread of Ebola is top priority",
+        "url": "https://www.statnews.com/2026/06/01/health-news-cdc-says-containing-ebola-spread-is-top-priority/",
+        "summary": "The Trump administration disregards infectious disease playbook, CEPI offers vaccine funding, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 12:57:15 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Servier to buy Edgewise Therapeutics’ muscular dystrophy drug",
+        "url": "https://www.statnews.com/2026/06/01/servier-edgewise-therapeutics-muscular-dystrophy-drug-sevasemten/",
+        "summary": "The French pharma firm Servier is buying an experimental muscular dystrophy drug from Edgewise Therapeutics for $1.55 billion upfront.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 12:31:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: No Surprises Act arbitration rule could worsen flood of provider disputes",
+        "url": "https://www.statnews.com/2026/06/01/no-surprises-act-new-arbitration-rules-providers-gaming-system/",
+        "summary": "The arbitration process has protected patients but generated financial windfalls for some clinicians.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The hidden history of BPC-157, a favorite MAHA peptide",
+        "url": "https://www.statnews.com/2026/06/01/bpc-157-researcher-predrag-sikiric-addesses-skeptics-questions/",
+        "summary": "A compound named “substance God help me” by its longtime champion could benefit from RFK Jr.'s favorable views on using peptides.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-outlines-national-framework-support-rollout-medicaid-work-requirements\" hreflang=\"en\">CMS outlines national framework to support rollout of Medicaid work requirements</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-outlines-national-framework-support-rollout-medicaid-work-requirements",
+        "summary": "The Trump administration has finalized a rule that delineates key details for states in the nationwide rollout of work requirements in Medicaid.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 5:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cdc-uninsured-rate-stayed-flat-2025-83\" hreflang=\"en\">CDC: 2025's uninsured rate stayed flat at 8.3%</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cdc-uninsured-rate-stayed-flat-2025-83",
+        "summary": "An annual federal survey found about 28 million uninsured individuals in 2025, up from 27.2 million in the previous year.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 2:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/patients-treatment-resistant-depression-cost-medicare-more-those-managed-symptoms\" hreflang=\"en\">Patients with treatment-resistant depression are costing Medicare big</a>",
+        "url": "https://www.fiercehealthcare.com/finance/patients-treatment-resistant-depression-cost-medicare-more-those-managed-symptoms",
+        "summary": "The report found that treatment-resistant depression patients cost Medicare about $46,000 annually, with the majority of costs attributed to hospitalizations and prescription costs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 11:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/new-connecticut-private-equity-law-bans-hospital-sale-leasebacks\" hreflang=\"en\">New Connecticut private equity law bans hospital sale-leasebacks</a>",
+        "url": "https://www.fiercehealthcare.com/providers/new-connecticut-private-equity-law-bans-hospital-sale-leasebacks",
+        "summary": "The state law, replete with restrictions on private equity investors' role in hospital ownership and influence, is the nation's first with an explicit ban on a wealth extraction tactic associated with recent high-profile health system bankruptcies.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 4:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-signs-hhs-overhaul-childhood-vaccine-schedule-new-executive-order\" hreflang=\"en\">Trump signs off on HHS overhaul of childhood vaccine schedule with new executive order</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-signs-hhs-overhaul-childhood-vaccine-schedule-new-executive-order",
+        "summary": "President Donald Trump has endorsed a decision by the Department of Health and Human Services to cut down the number of required vaccinations for children, directing federal agencies to align their policies with HHS' assessment.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 1:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps\" hreflang=\"en\">Nursing associations sue to block stiffened federal student loan caps</a>",
+        "url": "https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps",
+        "summary": "Ten national nursing associations have now joined 26 attorneys general in opposing the Department of Education's recently finalized restrictions on federal student loans they say will hamper the clinical workforce pipeline.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 4:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/community-health-system-selling-4-arkansas-hospitals-freeman-health-system-112m\" hreflang=\"en\">Community Health System sells 4 Arkansas hospitals to Freeman Health System for $110M</a>",
+        "url": "https://www.fiercehealthcare.com/providers/community-health-system-selling-4-arkansas-hospitals-freeman-health-system-112m",
+        "summary": "Another CHS divestiture doubles the hospital count of Freeman Health System, a Missouri-based nonprofit.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 6, 2026 1:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/noom-launches-home-biomarker-test-kit-metabolic-health-monitoring\" hreflang=\"en\">Noom launches at-home biomarker test kit for metabolic health monitoring</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/noom-launches-home-biomarker-test-kit-metabolic-health-monitoring",
+        "summary": "Weight loss company Noom is offering an at-home biomarker testing kit for its U.S. members, expanding its platform into diagnostics and metabolic health monitoring.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 7:40am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/amidst-vaccine-confusion-we-must-follow-evidence-protect-against-meningococcal-disease\" hreflang=\"en\">Amidst vaccine confusion, we must follow the evidence to protect against meningococcal disease</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/amidst-vaccine-confusion-we-must-follow-evidence-protect-against-meningococcal-disease",
+        "summary": "Routine vaccination against IMD is essential to sustaining immunity during the years when young people are at greatest risk.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 29, 2026 3:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/enzo-health-launches-ai-driven-enzo-ehr-first-agentic-system-home-health\" hreflang=\"en\">Enzo Health launches agentic EHR for home health agencies</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/enzo-health-launches-ai-driven-enzo-ehr-first-agentic-system-home-health",
+        "summary": "With the platform, organizations can seamlessly run all operations, including intake, scheduling, visits, quality compliance, billing and visibility for patients, the company said.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 12:05pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-set-suspend-enrollment-elevance-healths-medicare-advantage-plans\" hreflang=\"en\">CMS grants Elevance Health a reprieve from Medicare Advantage sanctions</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-set-suspend-enrollment-elevance-healths-medicare-advantage-plans",
+        "summary": "Elevance Health has earned a reprieve from potential federal sanctions on its Medicare Advantage plans.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 2, 2026 1:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-reimagine-care-moffitt-cancer-center-expand-ai-powered\" hreflang=\"en\">Weekly Rundown—Moffitt Cancer Center expands Reimagine Care's virtual oncology model; Tanner Health deploys AI workforce solution</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-reimagine-care-moffitt-cancer-center-expand-ai-powered",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-telix-tees-pivotal-test-pluvicto-challenger-while-eyeing-white-space-radio-therapy\" hreflang=\"en\">ASCO: Telix tees up pivotal test for Pluvicto challenger while eyeing ‘white space’ on radiopharma canvas</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-telix-tees-pivotal-test-pluvicto-challenger-while-eyeing-white-space-radio-therapy",
+        "summary": "David Cade, the chief medical officer of Melbourne-based Telix Pharmaceuticals, traveled a long way to the American Society of Clinical Oncology meeting in Chicago with a singular goal in mind: spread the word about Telix’s pivotal trial for a potential challenger to Novartis’ Pluvicto.",
+        "source": "Fierce Biotech",
+        "published": "May 31, 2026 3:07pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-2026-paradigm-shift-rare-gut-cancer-looms\" hreflang=\"en\">At ASCO 2026, a ‘paradigm shift’ for a rare gut cancer looms</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-2026-paradigm-shift-rare-gut-cancer-looms",
+        "summary": "For patients with a rare cancer that arises in the gut wall, standard treatment hasn’t changed in the last 20 years. At the American Society of Clinical Oncology meeting in Chicago, GSK shared a first look at its attempt to change that.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 3:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/asco-ryght-ai-team-breast-cancer-trial-site-selection\" hreflang=\"en\">ASCO, Ryght AI team up for breast cancer trial site selection</a>",
+        "url": "https://www.fiercebiotech.com/cro/asco-ryght-ai-team-breast-cancer-trial-site-selection",
+        "summary": "The American Society of Clinical Oncology (ASCO) and Ryght AI are teaming up to identify research sites for an ASCO clinical trial evaluating starting doses of CDK4/6 inhibitors in patients with metastatic breast cancer.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 12:42pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/agios-agrees-165m-blood-disorder-drug-koreas-oscotec-flunked-phase-2-study\" hreflang=\"en\">Agios signs $165M deal for blood disorder drug from Korea’s Oscotec that flunked phase 2 study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/agios-agrees-165m-blood-disorder-drug-koreas-oscotec-flunked-phase-2-study",
+        "summary": "Days after its lead clinical-stage asset suffered a setback, Agios Pharmaceuticals has rebounded by buying a blood disorder drug that flunked a phase 2 study.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 9:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rallybio-swerves-past-candid-pothole-land-deal-cancer-drug-developer-avenzo\" hreflang=\"en\">Rallybio swerves past Candid pothole to land deal with cancer drug developer Avenzo</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rallybio-swerves-past-candid-pothole-land-deal-cancer-drug-developer-avenzo",
+        "summary": "Rallybio has steered its way to a new reverse merger, inking a deal with Avenzo Therapeutics weeks after a UCB buyout took its former partner off the market.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 9:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/servier-inks-265b-buyout-edgewises-muscular-dystrophy-unit-beef-neurology-pipeline\" hreflang=\"en\">Servier inks $2.6B buyout of Edgewise’s muscular dystrophy unit to beef up neurology pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/servier-inks-265b-buyout-edgewises-muscular-dystrophy-unit-beef-neurology-pipeline",
+        "summary": "Servier has struck a deal to buy Edgewise Therapeutics’ muscular dystrophy business for $1.55 billion upfront, gaining control of a program that is on course to deliver pivotal data this year.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 4:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/entry-japan-clarity-execute-confidence\" hreflang=\"en\">Entry Japan with Clarity, Execute with Confidence</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/entry-japan-clarity-execute-confidence",
+        "summary": "For biopharmaceutical companies, Japan is one of the world’s most important markets, but also among the most operationally complex. Many therapies with strong global clinical validation still face significant barriers to successful market entry, not due to scientific limitations, but because regulatory strategy, operational readiness, supply planning, and commercialization are not aligned early in the process. Although regulatory planning, business operations preparation, and supply planning are closely interconnected, they are often managed separately. This fragmented approach increases execu",
+        "source": "Fierce Biotech",
+        "published": "May 22, 2026 10:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-locks-vague-5-program-rd-pact-chinas-haisco-worth-3b\" hreflang=\"en\">Lilly locks in 5-program R&amp;D pact with China’s Haisco worth up to $3B, but targets unclear</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-locks-vague-5-program-rd-pact-chinas-haisco-worth-3b",
+        "summary": "Within hours of securing a gastrointestinal drug from Korea’s Hanmi Pharma, Eli Lilly has ramped up the biobucks for a wider-ranging pact with China’s Haisco Pharmaceutical.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 6:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-pens-12b-deal-hanmis-glp-2-drug-being-aimed-short-bowel-syndrome\" hreflang=\"en\">Lilly pens $1.2B deal for Hanmi’s GLP-2 drug being aimed at short bowel syndrome</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-pens-12b-deal-hanmis-glp-2-drug-being-aimed-short-bowel-syndrome",
+        "summary": "Eli Lilly has expanded its glucagon-like peptide portfolio in an intriguing direction by licensing a phase 2-stage GLP-2 agonist from Hanmi Pharm.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 3:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/asco-akeso-ivonescimab-bests-pd-1-inhibitor-squamous-nsclc-overall-survival\" hreflang=\"en\">ASCO: Akeso’s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos, slashing death risk by 34%</a>",
+        "url": "https://www.fiercebiotech.com/pharma/asco-akeso-ivonescimab-bests-pd-1-inhibitor-squamous-nsclc-overall-survival",
+        "summary": "Although the first-in-class PD-1xVEGF bispecific didn’t disappoint on its overall survival headline message, detailed results from ivonescimab’s chemo-combo readout in first-line lung cancer are being picked apart.",
+        "source": "Fierce Biotech",
+        "published": "May 31, 2026 12:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-revolution-medicines-confident-ras-leadership-rivals-square\" hreflang=\"en\">ASCO: Revolution Medicines confident in RAS leadership as rivals square up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-revolution-medicines-confident-ras-leadership-rivals-square",
+        "summary": "This year’s meeting of the American Society of Clinical Oncology is abuzz with talk of RAS inhibitors, largely driven by Revolution Medicines’ barnburner pancreatic cancer data drop earlier this year. But even as competitors swirl, RevMed is confident that it can maintain the leadership position it has worked so hard to obtain.",
+        "source": "Fierce Biotech",
+        "published": "May 30, 2026 1:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-kelonia-keeps-vivo-car-t-momentum-rolling-nutty-100-response-rate\" hreflang=\"en\">ASCO: Lilly exec points to ‘nutty’ 100% response rate for in vivo CAR-T as justifying Kelonia buyout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-kelonia-keeps-vivo-car-t-momentum-rolling-nutty-100-response-rate",
+        "summary": "Kelonia Therapeutics has shared the largest slice of data yet for an in vivo CAR-T, helping to justify the $3.2 billion price tag that Eli Lilly recently paid to buy the Boston biotech.",
+        "source": "Fierce Biotech",
+        "published": "May 30, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "36氪首发｜女性健康科技企业「亿杉医疗」完成A轮及A1轮融资，并构建全球首个AI早产/分娩预测平台",
+        "url": "https://www.36kr.com/p/3833376320415362",
+        "summary": "公司正式启动B轮融资，持续推进欧洲与北美地区的产业布局与深度发展。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 01 Jun 2026 01:00:00 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "RoboSemanticBench: Diagnosing Semantic Grounding in Action Prediction for VLA Models",
+        "url": "https://huggingface.co/papers/2606.02277",
+        "summary": "Vision-language-action (VLA) models are built on the premise that semantic understanding from pretrained language or vision-language backbones should guide robot action prediction. Yet robot fine-tuning is optimized as imitation over task-specific action distributions, and many evaluations can be solved through visual or instruction-action shortcuts. We introduce RoboSemanticBench (RSB), an embodied benchmark for diagnosing semantic grounding in action prediction: whether post-trained VLA models can use complex instruction semantics to select and manipulate the correct physical target. In each",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-31T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "One Click per Cell Type Suffices: Training-free Group Interaction for Cell Instance Segmentation",
+        "url": "https://huggingface.co/papers/2605.29429",
+        "summary": "Cell instance segmentation models trained on cell-specific datasets suffer severe performance drops on out-of-distribution cell types, while interactive foundation models overcome this through per-instance prompting at a cost that is prohibitively expensive for histopathology images containing hundreds to thousands of densely packed instances. We introduce Group Prompting, a new paradigm that shifts interactive segmentation from per-instance O(N) to per-type O(T), where a single click per cell type suffices to segment all instances of that type. Our key observation is that the frozen image enc",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-27T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

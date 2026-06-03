@@ -1,0 +1,422 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T13:57:59.951677+08:00",
+  "counts": {
+    "news": 46,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Senior NIH scientist, research fellow charged with bringing deactivated mpox virus into U.S.",
+        "url": "https://www.statnews.com/2026/06/02/nih-scientist-federal-charges-mpox/",
+        "summary": "A senior NIH scientist and his research fellow were charged with smuggling vials of deactivated mpox virus into the country from Africa and lying about it.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 00:41:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial",
+        "url": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/",
+        "summary": "Longevity startup NewLimit plans to launch its first clinical trial of a liver medicine after raising a staggering $435 million in new funding.",
+        "source": "STAT News",
+        "published": "Tue, 02 Jun 2026 17:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Radiopharmaceutical shows promise in post-Pluvicto setting",
+        "url": "https://www.statnews.com/2026/06/02/biotech-news-radiopharmaceutical-shows-promise-in-post-pluvicto/",
+        "summary": "Abivax's ulcerative colitis data, Fulcrum's scrapped sickle cell drug, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 02 Jun 2026 15:04:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Lilly threat to 340B hospitals, Ebola vaccine funding, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/02/lilly-threat-to-340b-hospitals-ebola-vaccine-funding/",
+        "summary": "Lilly gave hospitals participating in a federal drug discount program five days to submit claims data or it will stop the price breaks",
+        "source": "STAT News",
+        "published": "Tue, 02 Jun 2026 13:25:26 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "How one state’s medical meal program lowered health care costs",
+        "url": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/",
+        "summary": "Medicaid work requirements, fast-tracked funding for experimental Ebola vaccines, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 02 Jun 2026 12:19:11 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Online care is caught in the crossfire as states crack down on corporate medicine",
+        "url": "https://www.statnews.com/2026/06/02/telehealth-virtual-rx-boom-corporate-practice-of-medicine-laws/",
+        "summary": "Growing legislative scrutiny across multiple states targets the corporate structure underlying most direct-to-consumer telehealth businesses.",
+        "source": "STAT News",
+        "published": "Tue, 02 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The virtual end of the doctor’s office waiting room",
+        "url": "https://www.statnews.com/2026/06/02/doctors-office-waiting-room-telehealth-virtual-care/",
+        "summary": "It’s time to rethink and redesign how patients enter the health care system altogether, writes emergency physician Iyesatta Massaquoi Emeli.",
+        "source": "STAT News",
+        "published": "Tue, 02 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
+        "url": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/",
+        "summary": "States are racing to implement the new requirements by the start of next year.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 22:24:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly warns hospitals to submit claims data in the next five days or lose their 340B drug discounts",
+        "url": "https://www.statnews.com/pharmalot/2026/06/01/lilly-warns-hospitals-submit-claims-data-or-lose-340b-drug-discounts/",
+        "summary": "Eli Lilly has told more than 1,000 hospitals participating in the 340B drug discount program to submit claims data over the next five days — or lose price breaks.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 22:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Global coalition to fast-track three vaccines targeting Ebola outbreak with $62 million in funding",
+        "url": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/",
+        "summary": "With no licensed vaccines available to protect against the Ebola virus currently spreading in the Congo, efforts are underway to fast-track development of at least three vaccines.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 21:35:53 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Abivax ulcerative colitis drug shows strong efficacy, but cases of cancer raise concerns",
+        "url": "https://www.statnews.com/2026/06/01/abivax-ulcerative-colitis-obefazimod/",
+        "summary": "Abivax said its experimental treatment for ulcerative colitis showed significant efficacy in a closely watched trial, but shares of the company tanked on safety concerns.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 21:31:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At ASCO, talk of barriers to cancer care, new treatments, and other big takeaways",
+        "url": "https://www.statnews.com/2026/06/01/asco-news-day-4-merkel-cell-carcinoma-glp1s-grail/",
+        "summary": "Here is some of what you may have missed from the world's largest cancer research meeting.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 20:56:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At the world’s largest cancer research meeting, data briefly took a backseat to grief",
+        "url": "https://www.statnews.com/2026/06/01/cancer-oncologists-grief-asco-2026/",
+        "summary": "At the world's largest cancer research meeting, new data were plentiful. But this year, there was also a focus on grief.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 20:25:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "As FDA misses deadline on electric shock ban, disability advocates speak out",
+        "url": "https://www.statnews.com/2026/06/01/fda-misses-deadline-electric-shock-ban-disability-advocates-speak-out/",
+        "summary": "The FDA has missed a self-imposed deadline to ban the use of electrical shock devices in people with intellectual disabilities.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 15:30:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare’s mum on GLP-1s, and Massachusetts sues United",
+        "url": "https://www.statnews.com/2026/06/01/medicare-bridge-obesity-drug-coverage-no-surprises-act-idr-rules-health-care-inc/",
+        "summary": "We've been asking Medicare for weeks about the cost of giving seniors $50 obesity drugs.",
+        "source": "STAT News",
+        "published": "Mon, 01 Jun 2026 15:14:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-mayo-clinic-plan-build-frontier-ai-model-healthcare\" hreflang=\"en\">Microsoft, Mayo Clinic plan to build frontier AI model for healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-mayo-clinic-plan-build-frontier-ai-model-healthcare",
+        "summary": "Mayo Clinic plans to develop and deploy a frontier AI model specifically designed for healthcare in collaboration with Microsoft.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 6:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/industry-groups-say-final-medicaid-work-requirements-rule-imposes-onerous-documentation\" hreflang=\"en\">Industry groups say final Medicaid work requirements rule imposes onerous documentation burden</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/industry-groups-say-final-medicaid-work-requirements-rule-imposes-onerous-documentation",
+        "summary": "On Monday, the Trump administration finalized a key rule that establishes national guidelines for the rollout of work requirements in Medicaid. Industry groups warn that the regulation could prove burdensome to enrollees and state programs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 2:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/oig-feds-may-have-overpaid-ma-plans-millions-due-unsupported-stroke-diagnoses\" hreflang=\"en\">OIG: Feds may have overpaid MA plans by millions due to unsupported stroke diagnoses</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/oig-feds-may-have-overpaid-ma-plans-millions-due-unsupported-stroke-diagnoses",
+        "summary": "A new federal report suggests that Medicare Advantage plans may have earned millions in overpayments tied to unsupported stroke diagnoses.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 4:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures\" hreflang=\"en\">FTC clears Ascension's $3.9B AmSurg purchase, but requires some ASC divestitures</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures",
+        "summary": "The federal regulator said it will permit a deal to create the country's third-largest ASC platform to go forward, so long as seven specific ASCs in threatened markets are divested.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 1:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-wearable-ownership-33-past-decade-rock-health-survey\" hreflang=\"en\">Wearable adoption climbs 33% in past decade but users still tend to be younger, healthier: Rock Health</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-wearable-ownership-33-past-decade-rock-health-survey",
+        "summary": "Forty-six percent of respondents in the 2025 Consumer Adoption of Digital Health Survey reported owning a wearable specifically, and 57% of respondents reported owning at least one wearable or other connected device.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 12:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/joint-commission-launches-voluntary-ai-certification-program-healthcare\" hreflang=\"en\">Joint Commission launches voluntary AI certification program for healthcare organizations</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/joint-commission-launches-voluntary-ai-certification-program-healthcare",
+        "summary": "Any healthcare organization may apply for the certification, and interested organizations do not have to be accredited by the Joint Commission.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 10:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/eli-lillys-ultimatum-hospitals-send-340b-claims-data-june-1-or-lose-discounts\" hreflang=\"en\">Eli Lilly's ultimatum to hospitals: Send 340B claims data by June 8 or lose discounts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/eli-lillys-ultimatum-hospitals-send-340b-claims-data-june-1-or-lose-discounts",
+        "summary": "The drugmaker has issued a June 8 ultimatum to an unspecified number of hospitals that have resisted a data submission policy it implemented in February. Furious hospital industry groups are pushing back, calling the decision unlawful and urging the administration to intervene.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 11:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/wolts-kluwer-health-survey-examines-ai-use-concerns-among-clinicians\" hreflang=\"en\">Wolters Kluwer Health survey examines AI use and concerns among clinicians, patients in 2026</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/wolts-kluwer-health-survey-examines-ai-use-concerns-among-clinicians",
+        "summary": "For physicians, repeated daily AI use tripled between 2025 and 2026 while use among nurses doubled during the same period.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 11:29am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/northwells-firearm-injury-risk-screener-now-widely-available-within-epic\" hreflang=\"en\">Northwell's firearm injury risk screener now widely available within Epic</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/northwells-firearm-injury-risk-screener-now-widely-available-within-epic",
+        "summary": "The screening tool, now in the electronic health record, combines assessment of firearm access and community violence risk.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 7:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ai-powered-medical-imaging-startup-subtle-medical-picks-33m-and-taps-new-ceo\" hreflang=\"en\">AI-powered medical imaging startup Subtle Medical picks up $33M and taps new CEO</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ai-powered-medical-imaging-startup-subtle-medical-picks-33m-and-taps-new-ceo",
+        "summary": "Subtle Medical's AI software improves image quality and accelerates scans on existing imaging systems, helping providers increase throughput without purchasing new hardware.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 5:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-outlines-national-framework-support-rollout-medicaid-work-requirements\" hreflang=\"en\">CMS outlines national framework to support rollout of Medicaid work requirements</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-outlines-national-framework-support-rollout-medicaid-work-requirements",
+        "summary": "The Trump administration has finalized a rule that delineates key details for states in the nationwide rollout of work requirements in Medicaid.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 5:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cdc-uninsured-rate-stayed-flat-2025-83\" hreflang=\"en\">CDC: 2025's uninsured rate stayed flat at 8.3%</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cdc-uninsured-rate-stayed-flat-2025-83",
+        "summary": "An annual federal survey found about 28 million uninsured individuals in 2025, up from 27.2 million in the previous year.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 2:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells\" hreflang=\"en\">New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells</a>",
+        "url": "https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells",
+        "summary": "Anti-aging startup NewLimit is back with a fresh fundraise of $435 million after landing on its first clinic-ready candidate years earlier than expected.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 8:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-details-oral-serd-giredestrant-first-line-flop-breast-cancer-head-held-high\" hreflang=\"en\">ASCO: Roche, head held high, details oral SERD's first-line flop in breast cancer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-details-oral-serd-giredestrant-first-line-flop-breast-cancer-head-held-high",
+        "summary": "To Roche, a phase 3 flop in first-line breast cancer does not erase the megablockbuster potential of its oral SERD drug giredestrant. Instead, the Swiss pharma has been inspired to open a new phase 3 study in the adjuvant setting.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 4:03pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/foundation-medicine-tallies-fda-nod-pair-its-blood-test-pfizers-prostrate-cancer-combo\" hreflang=\"en\">Foundation Medicine tallies FDA nod to pair its blood test with Pfizer’s prostate cancer combo</a>",
+        "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-tallies-fda-nod-pair-its-blood-test-pfizers-prostrate-cancer-combo",
+        "summary": "Foundation Medicine tallied another nod from the FDA for one of its genomic profiling tests that searches for specific biomarkers in tumor tissue samples.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 7:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/travere-bolsters-rare-kidney-disease-platform-103b-biobucks-deal-everest-btk-inhibitor\" hreflang=\"en\">Travere scales Everest with $1.1B deal for BTK inhibitor aimed at rare kidney diseases</a>",
+        "url": "https://www.fiercebiotech.com/biotech/travere-bolsters-rare-kidney-disease-platform-103b-biobucks-deal-everest-btk-inhibitor",
+        "summary": "Travere Therapeutics has set its sights on Everest Medicines' therapy for rare kidney diseases, handing over $112.5 million upfront for a drug that has already begun the trek into the clinic.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 9:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-cardiff-posts-updated-colorectal-cancer-data-ahead-pivotal-push\" hreflang=\"en\">ASCO: Cardiff posts updated colorectal cancer data ahead of pivotal push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-cardiff-posts-updated-colorectal-cancer-data-ahead-pivotal-push",
+        "summary": "Cardiff Oncology has shared updated results from its phase 2 colorectal cancer trial, revealing that the study drug has yet to reach the median progression-free survival as the biotech prepares to enter pivotal development.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 3:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fulcrum-scraps-scd-program-considers-options-after-fda-takes-hard-line-safety-risks\" hreflang=\"en\">Fulcrum scraps SCD program, considers options after FDA takes hard line on safety risks</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fulcrum-scraps-scd-program-considers-options-after-fda-takes-hard-line-safety-risks",
+        "summary": "Fulcrum Therapeutics has scrapped its sole clinical-stage program after the FDA took a hard line on the modality following the recent withdrawal of Ipsen’s Tazverik from the U.S. market.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 8:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/mindmaze-therapeutics-culls-program-ends-legacy-ops-relief-merger-cut-costs\" hreflang=\"en\">MindMaze Therapeutics culls program, ends legacy ops from Relief merger to cut costs </a>",
+        "url": "https://www.fiercebiotech.com/medtech/mindmaze-therapeutics-culls-program-ends-legacy-ops-relief-merger-cut-costs",
+        "summary": "Digital therapeutics specialist MindMaze Therapeutics is selling off a pipeline program while also removing all non-neurology legacy operations from its recent merger with Relief Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 2:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-10-billion-ambitions-celcuity-details-breast-cancer-win-over-piqray\" hreflang=\"en\">ASCO: Celcuity dares to dream of becoming $10B company after breast cancer win over Piqray</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-10-billion-ambitions-celcuity-details-breast-cancer-win-over-piqray",
+        "summary": "While Revolution Medicines dominated this year’s American Society of Clinical Oncology annual meeting by conquering the “undruggable” RAS pathway, another up-and-coming biotech hopes to do the same with a different vexing target that drives a plethora of cancers.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 9:59pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bristol-myers-800m-bispecific-adc-aces-breast-cancer-study-putting-trop2-drugs-notice\" hreflang=\"en\">ASCO: Bristol Myers’ $800M bispecific ADC aces China breast cancer study, putting TROP2 drugs on notice</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bristol-myers-800m-bispecific-adc-aces-breast-cancer-study-putting-trop2-drugs-notice",
+        "summary": "The first-in-class EGFRxHER3 bispecific ADC that BMS paid $800 million for has shown strong phase 3 results from China that suggest it could put up a fight against blockbuster TROP2 agents in triple-negative breast cancer.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 1:52pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abivax-stock-crashes-cancer-cases-overshadow-stellar-efficacy-ulcerative-colitis-phase-3\" hreflang=\"en\">Abivax stock suffers as cancer cases overshadow stellar efficacy in ulcerative colitis phase 3 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abivax-stock-crashes-cancer-cases-overshadow-stellar-efficacy-ulcerative-colitis-phase-3",
+        "summary": "Abivax has raised the efficacy bar in ulcerative colitis, linking obefazimod to a 40%, placebo-adjusted jump in clinical remission rates in a phase 3 trial. But the share price of the biotech, a reported takeover target for several Big Pharmas, collapsed after several patients on the high dose developed cancers.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 4:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/praxis-pauses-one-its-seizure-programs-after-phase-2-fail\" hreflang=\"en\">Praxis pauses one of its seizure programs after phase 2 fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/praxis-pauses-one-its-seizure-programs-after-phase-2-fail",
+        "summary": "Praxis Precision Medicines’ epilepsy pipeline has suffered a setback after a next-gen NaV blocker failed to sufficiently reduce seizures in a phase 2/3 study.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 5:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-long-term-early-data-backs-tremendous-potential-takedas-innovent-oncology-collab\" hreflang=\"en\">ASCO: Takeda touts ‘tremendous potential’ of Innovent’s PD-1/IL-2 bispecific after seeing survival data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-long-term-early-data-backs-tremendous-potential-takedas-innovent-oncology-collab",
+        "summary": "Takeda and Innovent's long-term follow-up data from an early study of their collaborative PD-1/IL-2 bispecific colors the \"tremendous potential\" of the asset, Takeda's P.K. Morrow said in an interview.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 10:17pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "AI 教父下场创业：硅谷开始押注“下一代 AI 范式”",
+        "url": "https://www.36kr.com/p/3836074669061512",
+        "summary": "LeCun创AMI，另辟蹊径研发世界模型探索AGI",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 03 Jun 2026 02:36:45 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI体检：有人赚得盆满钵满，有人只剩营销噱头",
+        "url": "https://www.36kr.com/p/3835893251766920",
+        "summary": "体量庞大且保持增长的体检市场，正迎来AI技术的全面渗透。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 13:08:14 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "集体爆发，4年来首次",
+        "url": "https://www.36kr.com/p/3835865790166149",
+        "summary": "资金加速回流",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 11:09:08 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "大厂开医院哪家强？",
+        "url": "https://www.36kr.com/p/3835855751115904",
+        "summary": "刘强东比张一鸣快一步。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 10:54:50 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "Coding拷问一切，独立大模型赛道的两年生死（上篇）",
+        "url": "https://www.36kr.com/p/3834812340117763",
+        "summary": "中国独立大模型从AI六小龙到四家Coding争位市值分化",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 07:21:27 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "瑞士医疗科技企业PeriVision研发AI视功能检查算法及检测仪，提升青光眼检测速度 | 瑞士创新100强",
+        "url": "https://www.36kr.com/p/3836916772748168",
+        "summary": "比传统SITA标准程序快70%。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 03 Jun 2026 04:47:48 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "连续三年市占率第一，国产手术机器人冲刺IPO",
+        "url": "https://www.36kr.com/p/3835320012988675",
+        "summary": "真健康凭先发技术卡位，赴港IPO待商业化验证",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 02 Jun 2026 07:12:24 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models",
+        "url": "https://huggingface.co/papers/2606.01961",
+        "summary": "Autonomous agents are increasingly expected to support end-to-end medical-AI research workflows, moving beyond isolated prediction tasks or short-form clinical question answering. However, existing medical agent benchmarks primarily evaluate final outputs, providing limited visibility into agent behavior within the research process. To address this gap, we present AutoMedBench, a workflow-aware benchmark for autonomous medical-AI research across diverse medical imaging and multimodal inference tasks, organizing agent execution into a unified five-stage workflow (S1-S5): Plan, Setup, Validate, ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-31T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces",
+        "url": "https://huggingface.co/papers/2605.29288",
+        "summary": "Long chain-of-thought (CoT) traces are widely used as supervision for reasoning-oriented LLM SFT, yet answer-correct traces can still lead to markedly different fine-tuning outcomes. We study post-conclusion continuation in answer-correct long-CoT data: a continuation where the answer appears sufficiently supported, but the trace continues with additional reasoning that remains in the supervised target. To test its training effect, we use a delete-only editor to construct answer-preserving suffix removal and compare CoT-based SFT on the original and processed traces. We observe improved SFT ou",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-27T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations",
+        "url": "https://huggingface.co/papers/2605.27958",
+        "summary": "Linear probes trained on LLM activations are increasingly proposed as deception-detection metrics, yet report AUROC exceeding 0.96 on clean benchmarks while collapsing under distributional shift. This paper systematically pressure-tests probe-based metrics across the Gemma 3 model family (1B-27B parameters), diagnosing why they fail rather than merely documenting that they fail. We test four hypotheses about deception encoding: (1) single linear direction, (2) multi-dimensional subspace, (3) convex conic hull, (4) entropy proxy. Our design includes cross-domain transfer matrices, multi-dimensi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-27T00:51:55.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Benchmarking Visual State Tracking in Multimodal Video Understanding",
+        "url": "https://huggingface.co/papers/2606.03920",
+        "summary": "Understanding a video requires more than recognizing isolated moments, as humans continuously track entities, states, and events over time. This capacity for visual state tracking is fundamental to video understanding, yet remains underexplored in current evaluations of Multimodal Large Language Models (MLLMs). We introduce Visual STAte Tracking benchmark (VSTAT), a video-based benchmark designed to diagnose visual state tracking in MLLMs. VSTAT consists of 834 clips drawn from both synthetic and real-world videos, paired with 1,500 questions that cannot be answered from any single frame or sh",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG",
+        "url": "https://huggingface.co/papers/2605.29084",
+        "summary": "A retrieval-augmented generation (RAG) system deployed over a multi-author institutional corpus can give a different answer to the same question depending on which source it retrieves -- a failure mode the dominant single-gold-answer paradigm cannot diagnose. We argue that source-dependence is a missing axis of NLP evaluation, and that auditing it means shifting the unit of evaluation from answer correctness to the inter-source relationship. We make this concrete in transplant patient education, where institutional sources demonstrably disagree, releasing three artefacts: TransplantQA, a bench",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-26T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T13:51:53.818069+08:00",
+  "counts": {
+    "news": 47,
+    "papers": 0
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Trump administration to strip job protections of top NIH officials, grants staff",
+        "url": "https://www.statnews.com/2026/06/03/trump-administration-to-strip-job-protections-of-top-nih-officials-grants-research/",
+        "summary": "Among the affected positions, which the White House estimates to be 8,000, are high-level officials who oversee research grants from the NIH.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 03:14:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Alnylam to partner with Inceptive Nucleics for AI foundation models for RNAi therapeutics",
+        "url": "https://www.statnews.com/2026/06/03/alnylam-partner-with-inceptive-nucleics-ai-foundation-models/",
+        "summary": "Alnylam announced a three-year deal with Inceptive, worth up to $2 billion, with $30 million up front in cash and equity in the startup.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 20:45:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: HaloMD faces lawsuit alleging No Surprises Act middleman used ‘sham letter,’ misleading data",
+        "url": "https://www.statnews.com/2026/06/03/highmark-health-sues-halomd-no-surprises-act-arbitration-disputes/",
+        "summary": "Highmark Health is the fourth insurer to sue HaloMD, seeking to overturn arbitration wins.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 20:45:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What the pope’s encyclical on AI means for Catholic hospitals, and all of health care",
+        "url": "https://www.statnews.com/2026/06/03/pope-encyclical-catholic-health-system-implications-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis: Brittany Trang analyzes the pope's encyclical on artificial intelligence for takeaways relevant for health care.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 14:00:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Legend Biotech emerged as a rare market winner",
+        "url": "https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/",
+        "summary": "New guidance for gene therapy developers, Lilly's deal for kidney drugs, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 13:36:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about GLP-1 drugs and knees, FDA cell and gene therapy guidance, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/03/weight-loss-drugs-knee-replacements-fda-cell-gene-therapy/",
+        "summary": "Taking weight loss drugs for at least three years could prevent thousands of knee replacements a year, a new study found",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 13:17:47 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Is the military fueling eating disorders?",
+        "url": "https://www.statnews.com/2026/06/03/health-news-is-the-military-fueling-eating-disorders/",
+        "summary": "A brief hantavirus update, some good news about death, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 11:58:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’",
+        "url": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/",
+        "summary": "A survey finds that ultra-processed foods are a cross-partisan concern. And yet policy has been slow to follow.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 09:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s Medicaid work requirements have an unwelcome surprise for some states and patients",
+        "url": "https://www.statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/",
+        "summary": "Advocates were already dreading Medicaid's work requirements. New rules are worse than they feared.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIH cuts weakened network primed to respond to outbreaks like Ebola",
+        "url": "https://www.statnews.com/2026/06/03/nih-cuts-infectious-disease-research-funding-hampers-ebola-preparedness/",
+        "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: How the military may be fueling eating disorders in men",
+        "url": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/",
+        "summary": "“Much of the rhetoric, imagery, and policy messaging from the Trump administration centers on extreme masculine ideals,” First Opinion author writes.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The Amish way of health care",
+        "url": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/",
+        "summary": "“Public health is going to have to talk about the Amish more and more”: Listen to STAT’s \"First Opinion Podcast\" on the Amish and health care.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The medical-billing AI arms race between providers and insurance",
+        "url": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/",
+        "summary": "“The financial side effects of care have become clinical ones,” writes Darshak Sanghavi.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Senior NIH scientist, research fellow charged with bringing deactivated mpox virus into U.S.",
+        "url": "https://www.statnews.com/2026/06/02/nih-scientist-federal-charges-mpox/",
+        "summary": "A senior NIH scientist and his research fellow were charged with smuggling vials of deactivated mpox virus into the country from Africa and lying about it.",
+        "source": "STAT News",
+        "published": "Wed, 03 Jun 2026 00:41:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial",
+        "url": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/",
+        "summary": "Longevity startup NewLimit plans to launch its first clinical trial of a liver medicine after raising a staggering $435 million in new funding.",
+        "source": "STAT News",
+        "published": "Tue, 02 Jun 2026 17:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/commonwealth-fund-21-adults-experienced-coverage-denial-past-year\" hreflang=\"en\">Commonwealth Fund: 21% of adults experienced a coverage denial in the past year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/commonwealth-fund-21-adults-experienced-coverage-denial-past-year",
+        "summary": "One in five adults with private insurance coverage said that they or a family member had a medical service denied in the past year, even though it was recommended by their physician.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 4:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Centra restructure hits 90 workers; Optum cuts 58 jobs in New Jersey</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Novellia picks up $18M; Lassie nabs $35M to build AI agents for practices </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/presbyterian-healthcare-services-discontinue-ma-plans-2027\" hreflang=\"en\">Presbyterian Healthcare Services to discontinue MA plans in 2027, cut 150 jobs</a>",
+        "url": "https://www.fiercehealthcare.com/payers/presbyterian-healthcare-services-discontinue-ma-plans-2027",
+        "summary": "New Mexico-based health system Presbyterian Healthcare Services will discontinue most of its Medicare Advantage plans, a spokesperson confirmed to Fierce Healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 2:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/department-labors-proposed-foreign-worker-wage-increases-are-more-tough-news-healthcare\" hreflang=\"en\">Department of Labor's proposed foreign worker wage increases are more tough news for healthcare staffing</a>",
+        "url": "https://www.fiercehealthcare.com/providers/department-labors-proposed-foreign-worker-wage-increases-are-more-tough-news-healthcare",
+        "summary": "A plan to raise the floor for foreign workers' wages, intended to bolster hiring of American workers, threatens to raise costs and reduce labor supply for healthcare employers, particularly in rural and underserved areas, industry sources say.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 4:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/aha-lays-out-blueprint-improve-affordability-care-access-and-quality\" hreflang=\"en\">AHA lays out blueprint to improve affordability, care access and quality</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/aha-lays-out-blueprint-improve-affordability-care-access-and-quality",
+        "summary": "The report is focused on five key areas, including improving individual and community health, reducing administrative waste and transforming care delivery.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 11:21am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026\" hreflang=\"en\">WVU Health System, Independence Health System target late 2026 for merger</a>",
+        "url": "https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026",
+        "summary": "The five-hospital nonprofit will receive an $800 million investment from the academic health system under the terms of their deal, which now has a definitive agreement in hand.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2025 2:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/watchdog-overseeing-integrity-hhs-programs\" hreflang=\"en\">The watchdog overseeing the integrity of HHS programs  </a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/watchdog-overseeing-integrity-hhs-programs",
+        "summary": "HHS’ Office of Inspector General has a broad mandate to root out fraud, waste and abuse. Senior Writer Anastassia Gliadkovskaya talks with Assistant Regional Inspector General Scott Perry about the agency’s work, recent audit findings and what providers should know about compliance.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 9:51am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-rolls-out-over-80-new-expanded-ai-rcm-features-roadmap\" hreflang=\"en\">Athenahealth rolls out over 80 new, expanded AI RCM features in ‘roadmap’ on athenaOne platform</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-rolls-out-over-80-new-expanded-ai-rcm-features-roadmap",
+        "summary": "New and expanded AI-native capabilities include automated insurance selection, AI copay, voice AI, express coding and more.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 1, 2026 3:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Ardent Health appoints new CEO; KFF Founding President, CEO to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-mayo-clinic-plan-build-frontier-ai-model-healthcare\" hreflang=\"en\">Microsoft, Mayo Clinic plan to build frontier AI model for healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-mayo-clinic-plan-build-frontier-ai-model-healthcare",
+        "summary": "Mayo Clinic plans to develop and deploy a frontier AI model specifically designed for healthcare in collaboration with Microsoft.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 6:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/industry-groups-say-final-medicaid-work-requirements-rule-imposes-onerous-documentation\" hreflang=\"en\">Industry groups say final Medicaid work requirements rule imposes onerous documentation burden</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/industry-groups-say-final-medicaid-work-requirements-rule-imposes-onerous-documentation",
+        "summary": "On Monday, the Trump administration finalized a key rule that establishes national guidelines for the rollout of work requirements in Medicaid. Industry groups warn that the regulation could prove burdensome to enrollees and state programs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 2:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report\" hreflang=\"en\">Lilly, Boehringer to slash at least $1B each from planned investments in Germany</a>",
+        "url": "https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report",
+        "summary": "In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer Ingelheim have slashed their planned investments in the country, each by at least $1 billion.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 2:41pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/unlocking-unstructured-data-ai-optimized-protocol-development\" hreflang=\"en\">Unlocking Unstructured Data with AI for Optimized Protocol Development</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/unlocking-unstructured-data-ai-optimized-protocol-development",
+        "summary": "In this podcast, Mike Eckrote, SVP, Strategic Solutions at Advarra, talks about how artificial intelligence is being used to pull insights out of structured and unstructured data sources to help sponsors avoid protocol amendments and delays.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 10:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact\" hreflang=\"en\">Regeneron pays $37M, adds $2B in biobucks to expand CytomX pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact",
+        "summary": "Regeneron has expanded its research alliance with CytomX Therapeutics, paying $37 million to work on conditionally active bispecifics against two targets and secure options on more programs. The expansion swells the potential value of the deal to about $4 billion.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 9:32am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/akeso-takes-center-stage-asco-china-biotech-industry-cements-its-coming-age\" hreflang=\"en\">As Akeso takes center stage at ASCO, China biotech industry cements its coming of age</a>",
+        "url": "https://www.fiercebiotech.com/pharma/akeso-takes-center-stage-asco-china-biotech-industry-cements-its-coming-age",
+        "summary": "In 2017, a little-known company called Nanjing Legend Biotech walked into the ASCO annual meeting at the 11th hour, dropped a 100% objective response rate for a cell therapy that would become Carvykti, and single-handedly put Chinese biotech on the global map. Nearly a decade later, taking the center stage at ASCO 2026, Akeso’s ivonescimab made history by offering the first-ever Chinese data set to command a coveted spot on the plenary session.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 10:54pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system\" hreflang=\"en\">IMU Biosciences nabs $53M funding round to ‘decode’ the immune system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system",
+        "summary": "British medtech startup IMU Biosciences has landed a £40 million ($53 million) series A as it looks to move immune system analysis from analog to “high definition.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 2:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ascidian-lilly-lock-19b-renal-disease-research-collaboration\" hreflang=\"en\">Ascidian, Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney diseases</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ascidian-lilly-lock-19b-renal-disease-research-collaboration",
+        "summary": "Ascidian Therapeutics and Eli Lilly have signed a research collaboration potentially worth up to $1.9 billion, giving the Big Pharma company the chance to discover and develop RNA exon editing therapeutics for genetic kidney diseases.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 2:50pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells\" hreflang=\"en\">New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells</a>",
+        "url": "https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells",
+        "summary": "Anti-aging startup NewLimit is back with a fresh fundraise of $435 million after landing on its first clinic-ready candidate years earlier than expected.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 8:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-details-oral-serd-giredestrant-first-line-flop-breast-cancer-head-held-high\" hreflang=\"en\">ASCO: Roche, head held high, details oral SERD's first-line flop in breast cancer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-details-oral-serd-giredestrant-first-line-flop-breast-cancer-head-held-high",
+        "summary": "To Roche, a phase 3 flop in first-line breast cancer does not erase the megablockbuster potential of its oral SERD drug giredestrant. Instead, the Swiss pharma has been inspired to open a new phase 3 study in the adjuvant setting.",
+        "source": "Fierce Biotech",
+        "published": "May 20, 2026 4:03pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/foundation-medicine-tallies-fda-nod-pair-its-blood-test-pfizers-prostrate-cancer-combo\" hreflang=\"en\">Foundation Medicine tallies FDA nod to pair its blood test with Pfizer’s prostate cancer combo</a>",
+        "url": "https://www.fiercebiotech.com/medtech/foundation-medicine-tallies-fda-nod-pair-its-blood-test-pfizers-prostrate-cancer-combo",
+        "summary": "Foundation Medicine tallied another nod from the FDA for one of its genomic profiling tests that searches for specific biomarkers in tumor tissue samples.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 7:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/travere-bolsters-rare-kidney-disease-platform-103b-biobucks-deal-everest-btk-inhibitor\" hreflang=\"en\">Travere scales Everest with $1.1B deal for BTK inhibitor aimed at rare kidney diseases</a>",
+        "url": "https://www.fiercebiotech.com/biotech/travere-bolsters-rare-kidney-disease-platform-103b-biobucks-deal-everest-btk-inhibitor",
+        "summary": "Travere Therapeutics has set its sights on Everest Medicines' therapy for rare kidney diseases, handing over $112.5 million upfront for a drug that has already begun the trek into the clinic.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 9:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: NewLimit nabs $435M; Accro accrues $50M series C</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/asco-cardiff-posts-updated-colorectal-cancer-data-ahead-pivotal-push\" hreflang=\"en\">ASCO: Cardiff posts updated colorectal cancer data ahead of pivotal push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/asco-cardiff-posts-updated-colorectal-cancer-data-ahead-pivotal-push",
+        "summary": "Cardiff Oncology has shared updated results from its phase 2 colorectal cancer trial, revealing that the study drug has yet to reach the median progression-free survival as the biotech prepares to enter pivotal development.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 3:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "AI 教父下场创业：硅谷开始押注“下一代 AI 范式”",
+        "url": "https://www.36kr.com/p/3836074669061512",
+        "summary": "LeCun创AMI，另辟蹊径研发世界模型探索AGI",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 03 Jun 2026 02:36:45 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI体检：有人赚得盆满钵满，有人只剩营销噱头",
+        "url": "https://www.36kr.com/p/3835893251766920",
+        "summary": "体量庞大且保持增长的体检市场，正迎来AI技术的全面渗透。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 13:08:14 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "集体爆发，4年来首次",
+        "url": "https://www.36kr.com/p/3835865790166149",
+        "summary": "资金加速回流",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 11:09:08 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "大厂开医院哪家强？",
+        "url": "https://www.36kr.com/p/3835855751115904",
+        "summary": "刘强东比张一鸣快一步。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 10:54:50 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "Coding拷问一切，独立大模型赛道的两年生死（上篇）",
+        "url": "https://www.36kr.com/p/3834812340117763",
+        "summary": "中国独立大模型从AI六小龙到四家Coding争位市值分化",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 02 Jun 2026 07:21:27 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "产品已上市，收入却多年为0，两家国产手术机器人急需赴港融资",
+        "url": "https://www.36kr.com/p/3838181655775749",
+        "summary": "下一个“达芬奇”有可能出现吗？",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 04 Jun 2026 04:44:55 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "瑞士医疗科技企业PeriVision研发AI视功能检查算法及检测仪，提升青光眼检测速度 | 瑞士创新100强",
+        "url": "https://www.36kr.com/p/3836916772748168",
+        "summary": "比传统SITA标准程序快70%。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 03 Jun 2026 04:47:48 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "连续三年市占率第一，国产手术机器人冲刺IPO",
+        "url": "https://www.36kr.com/p/3835320012988675",
+        "summary": "真健康凭先发技术卡位，赴港IPO待商业化验证",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 02 Jun 2026 07:12:24 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": []
+  }
+}

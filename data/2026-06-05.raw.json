@@ -1,0 +1,349 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T13:11:12.716299+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 0
+  },
+  "items": {
+    "news": [
+      {
+        "title": "HHS confirms Americans with high-risk Ebola exposures will have access to experimental therapy",
+        "url": "https://www.statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/",
+        "summary": "Americans who have high-risk exposures to Ebola in the current outbreak in Central Africa will have access to an experimental antibody treatment.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 23:40:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program",
+        "url": "https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/",
+        "summary": "The White House has used the program to reward companies that help its political goals.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 20:53:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What RevMed’s pancreatic cancer drug meant for one patient",
+        "url": "https://www.statnews.com/2026/06/04/readout-loud-podcast-revolution-medicines-pancreatic-cancer-patient-asco/",
+        "summary": "Why did a presentation on Revolution Medicines' pancreatic cancer drug get a standing ovation? Why did biotech stocks perform so badly this week? Find out on \"The Readout LOUD.\"",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 20:18:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Otsuka kidney drug slowed loss of function, but less than expected, in late-stage trial",
+        "url": "https://www.statnews.com/2026/06/04/otsuka-kidney-drug-voyxact-study-results/",
+        "summary": "Otsuka’s Voyxact slowed the loss of kidney function after one year in patients with a chronic autoimmune kidney disease, but the benefit was less than expected.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 19:59:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Supreme Court backs generic drugmaker in ‘skinny labeling’ case",
+        "url": "https://www.statnews.com/pharmalot/2026/06/04/hikma-amarin-generics-skinny-labeling-supreme-court/",
+        "summary": "The Supreme Court unanimously ruled that Hikma Pharmaceutical did not infringe patents held by Amarin in a decision with implications for lawsuits over so-called skinny labels.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 18:04:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: For pancreatic cancer patients, an exciting drug can feel out of reach",
+        "url": "https://www.statnews.com/pharmalot/2026/06/04/revolution-medicines-pancreatic-cancer-drug-daraxonrasib-heavy-demand/",
+        "summary": "For pancreatic cancer patients, the surge in interest for an exciting new drug is leaving them fearful about when they might get the treatment or if there will be enough&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 17:15:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: RFK Jr.’s second year: Vacancies, not vaccines",
+        "url": "https://www.statnews.com/2026/06/04/kennedy-hhs-challenges-wins-politics-nih-schedule-f-dc-diagnosis/",
+        "summary": "Assessing the health secretary's biggest challenges, and a look at new rules that inject politics into the NIH.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 15:42:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AI titans push Congress for DNA safeguards",
+        "url": "https://www.statnews.com/2026/06/04/biotech-news-ai-titans-push-congress-to-dna-safeguards/",
+        "summary": "Inceptive Nucleics and Alnylam's partnership, why Grail's \"failed\" trial still matters, and other biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 13:37:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Utah Medical Board scolded for going rogue with AI criticism",
+        "url": "https://www.statnews.com/2026/06/04/doctronic-utah-pilot-medical-board-scolded-health-tech/",
+        "summary": "In this edition of STAT Health Tech: An update on the Utah pilot that uses a chatbot to renew drug prescriptions, AI scribes for patients, and more.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 13:33:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about fewer pharma investments in Germany, growing U.S. layoffs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/04/fewer-pharma-investments-in-germany-growing-layoffs-in-us/",
+        "summary": "Eli Lilly is halving its originally planned investment in the production of weight loss syringes in Germany in response to a cost-cutting law",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 13:17:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Scientists uncover a new hiding spot for HIV",
+        "url": "https://www.statnews.com/2026/06/04/health-news-scientists-uncover-new-hiding-spot-for-hiv/",
+        "summary": "An Ebola update, Trump to strip job protections of NIH officials, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 12:32:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Does Revolution Medicines’ pancreatic cancer drug have even greater potential?",
+        "url": "https://www.statnews.com/2026/06/04/revolution-medicines-daraxonrasib-pancreatic-cancer/",
+        "summary": "Revolution Medicines' pancreatic cancer drug has not yet been approved — and already talk has shifted to how (and when) its use might be expanded.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: After hospitals, patients get a turn to bring AI into the doctor’s office",
+        "url": "https://www.statnews.com/2026/06/04/after-doctors-patient-ai-scribes-track-visits/",
+        "summary": "Ambient scribes were the first large-scale application of AI in health care. Now developers are pitching them as diligent note-takers for patients.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Lawmakers promised cancer patients would be protected from Medicaid cuts. Now CMS says otherwise",
+        "url": "https://www.statnews.com/2026/06/04/medicaid-work-requirements-final-rule-cancer-patients/",
+        "summary": "“One of the cancer community’s worst fears is coming to pass,” writes Gwen Nichols of Blood Cancer United.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story",
+        "url": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/",
+        "summary": "An oncologist shares three lessons from the world’s first randomized trial on a multi-cancer early detection.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/small-businesses-feel-squeeze-healthcare-costs-rise-morgan-health\" hreflang=\"en\">Small businesses feel the squeeze as healthcare costs rise: Morgan Health</a>",
+        "url": "https://www.fiercehealthcare.com/payers/small-businesses-feel-squeeze-healthcare-costs-rise-morgan-health",
+        "summary": "As healthcare costs continue to rise, smaller businesses are particularly vulnerable to the pressure, according to a new Morgan Health report.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures\" hreflang=\"en\">Ascension closes its $3.9B AmSurg purchase following FTC's all-clear</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures",
+        "summary": "The nonprofit health system is now the country's third-largest ambulatory surgery center (ASC) platform, with more than 300 such locations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 1:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/scionhealth-sends-8-community-hospitals-lifepoint-health\" hreflang=\"en\">ScionHealth sends 8 community hospitals to Lifepoint Health</a>",
+        "url": "https://www.fiercehealthcare.com/providers/scionhealth-sends-8-community-hospitals-lifepoint-health",
+        "summary": "The deal between the nationwide sister systems grows Lifepoint Health to a network of 68 community hospital campuses, and allows ScionHealth to increase focus on its core business of specialty hospital services.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 11:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/georgetown-study-2m-children-have-dropped-out-medicaid-chip-january-2025\" hreflang=\"en\">Georgetown study: 2M children have dropped out of Medicaid, CHIP since January 2025</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/georgetown-study-2m-children-have-dropped-out-medicaid-chip-january-2025",
+        "summary": "There are 2 million fewer children enrolled in either Medicaid or the Children's Health Insurance Program compared to January 2025, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 12:25pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/thyme-care-expands-cancer-survivorship-program-provide-longitudinal-support\" hreflang=\"en\">Thyme Care expands cancer survivorship program to provide longitudinal support</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/thyme-care-expands-cancer-survivorship-program-provide-longitudinal-support",
+        "summary": "Thyme Care has expanded its cancer survivorship program, called Next Chapter Care, to provide a personalized, longitudinal approach to survivorship support.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 8:51am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/anomaly-insights-launches-ai-solution-managed-care-executives\" hreflang=\"en\">Anomaly Insights launches AI solution for managed care executives </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/anomaly-insights-launches-ai-solution-managed-care-executives",
+        "summary": "The Manage platform examines all claims across every payer in a health system’s contract, identifying behavior patterns and synthesizing complex data.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 3:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/commonwealth-fund-21-adults-experienced-coverage-denial-past-year\" hreflang=\"en\">Commonwealth Fund: 21% of adults experienced a coverage denial in the past year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/commonwealth-fund-21-adults-experienced-coverage-denial-past-year",
+        "summary": "One in five adults with private insurance coverage said that they or a family member had a medical service denied in the past year, even though it was recommended by their physician.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 4:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Centra restructure hits 90 workers; Optum cuts 58 jobs in New Jersey</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Novellia picks up $18M; Lassie nabs $35M to build AI agents for practices </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/presbyterian-healthcare-services-discontinue-ma-plans-2027\" hreflang=\"en\">Presbyterian Healthcare Services to discontinue MA plans in 2027, cut 150 jobs</a>",
+        "url": "https://www.fiercehealthcare.com/payers/presbyterian-healthcare-services-discontinue-ma-plans-2027",
+        "summary": "New Mexico-based health system Presbyterian Healthcare Services will discontinue most of its Medicare Advantage plans, a spokesperson confirmed to Fierce Healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 2:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/department-labors-proposed-foreign-worker-wage-increases-are-more-tough-news-healthcare\" hreflang=\"en\">Department of Labor's proposed foreign worker wage increases are more tough news for healthcare staffing</a>",
+        "url": "https://www.fiercehealthcare.com/providers/department-labors-proposed-foreign-worker-wage-increases-are-more-tough-news-healthcare",
+        "summary": "A plan to raise the floor for foreign workers' wages, intended to bolster hiring of American workers, threatens to raise costs and reduce labor supply for healthcare employers, particularly in rural and underserved areas, industry sources say.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 4:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/aha-lays-out-blueprint-improve-affordability-care-access-and-quality\" hreflang=\"en\">AHA lays out blueprint to improve affordability, care access and quality</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/aha-lays-out-blueprint-improve-affordability-care-access-and-quality",
+        "summary": "The report is focused on five key areas, including improving individual and community health, reducing administrative waste and transforming care delivery.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 11:21am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/autobahn-races-toward-pivotal-trial-after-thyroid-hormone-mimic-eases-bipolar-depression-ph\" hreflang=\"en\">Autobahn races toward pivotal trial after thyroid hormone mimic eases bipolar depression in ph. 2</a>",
+        "url": "https://www.fiercebiotech.com/biotech/autobahn-races-toward-pivotal-trial-after-thyroid-hormone-mimic-eases-bipolar-depression-ph",
+        "summary": "A stimulator of thyroid hormone receptors in the brain has successfully reduced depression severity in patients with bipolar disorder, positioning its maker Autobahn Therapeutics to speed ahead to late-stage testing.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 10:44am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/divisive-bill-seeks-add-biotech-industry-law-limiting-investment-chinese-industry\" hreflang=\"en\">As China biotech crackdown calls reverberate in Washington, the pushback gets louder, too</a>",
+        "url": "https://www.fiercebiotech.com/biotech/divisive-bill-seeks-add-biotech-industry-law-limiting-investment-chinese-industry",
+        "summary": "Two federal lawmakers have introduced a bill seeking to apply the review requirements of the Comprehensive Outbound Investment National Security (COINS) Act to investments in Chinese biotechnology.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3\" hreflang=\"en\">Parabilis preps $413M IPO to fuel desmoid tumor drug into phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3",
+        "summary": "Parabilis Medicines is gearing up for an IPO that could eventually bring in as much as $476 million to fund the phase 3 development of its desmoid tumor prospect.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 9:47am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies\" hreflang=\"en\">From business strategy to CAR-T responses, for Cabaletta it’s all about ‘durability’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies",
+        "summary": "Fierce sat down with Cabaletta's executives at EULAR to discuss their approval timeline and which areas of development they feel like they have a head start.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 5:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc\" hreflang=\"en\">Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc",
+        "summary": "Innovent Biologics has reported a phase 3 victory for IBI343, boosting the prospects of an antibody-drug conjugate (ADC) that Takeda bet big on last year.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 7:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems\" hreflang=\"en\">Medline earns FDA warning letter ire for repeated toxic bacteria problems</a>",
+        "url": "https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems",
+        "summary": "Medical device distribution giant Medline has been slammed for a second time since April by an FDA warning letter that has chided the company for repeated problems centered on the presence of toxic bacteria in finished products.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 7:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/alnylam-pays-inceptive-30m-transform-sirna-design-ai-pioneer\" hreflang=\"en\">Alnylam pens $2B deal with Inceptive to transform siRNA design with AI pioneer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/alnylam-pays-inceptive-30m-transform-sirna-design-ai-pioneer",
+        "summary": "Alnylam has partnered with the person who helped put the “T” in ChatGPT, paying $30 million to work with Jakob Uszkoreit’s Inceptive Nucleics on artificial intelligence-enabled drug design.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 4:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report\" hreflang=\"en\">Lilly, Boehringer to slash at least $1B each from planned investments in Germany</a>",
+        "url": "https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report",
+        "summary": "In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer Ingelheim have slashed their planned investments in the country, each by at least $1 billion.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 2:41pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/unlocking-unstructured-data-ai-optimized-protocol-development\" hreflang=\"en\">Unlocking Unstructured Data with AI for Optimized Protocol Development</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/unlocking-unstructured-data-ai-optimized-protocol-development",
+        "summary": "In this podcast, Mike Eckrote, SVP, Strategic Solutions at Advarra, talks about how artificial intelligence is being used to pull insights out of structured and unstructured data sources to help sponsors avoid protocol amendments and delays.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 10:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact\" hreflang=\"en\">Regeneron pays $37M, adds $2B in biobucks to expand CytomX pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-pays-37m-adds-2b-biobucks-expand-cytomx-pact",
+        "summary": "Regeneron has expanded its research alliance with CytomX Therapeutics, paying $37 million to work on conditionally active bispecifics against two targets and secure options on more programs. The expansion swells the potential value of the deal to about $4 billion.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 9:32am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/akeso-takes-center-stage-asco-china-biotech-industry-cements-its-coming-age\" hreflang=\"en\">As Akeso takes center stage at ASCO, China biotech industry cements its coming of age</a>",
+        "url": "https://www.fiercebiotech.com/pharma/akeso-takes-center-stage-asco-china-biotech-industry-cements-its-coming-age",
+        "summary": "In 2017, a little-known company called Nanjing Legend Biotech walked into the ASCO annual meeting at the 11th hour, dropped a 100% objective response rate for a cell therapy that would become Carvykti, and single-handedly put Chinese biotech on the global map. Nearly a decade later, taking the center stage at ASCO 2026, Akeso’s ivonescimab made history by offering the first-ever Chinese data set to command a coveted spot on the plenary session.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 10:54pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system\" hreflang=\"en\">IMU Biosciences nabs $53M funding round to ‘decode’ the immune system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system",
+        "summary": "British medtech startup IMU Biosciences has landed a £40 million ($53 million) series A as it looks to move immune system analysis from analog to “high definition.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 2:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "突发！Anthropic呼吁全员停止AI研究",
+        "url": "https://www.36kr.com/p/3839532802132489",
+        "summary": "AI自进化，开始了",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 05 Jun 2026 00:17:06 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "中东豪门，开了上海办公室",
+        "url": "https://www.36kr.com/p/3838523225475587",
+        "summary": "钱的流向。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 04 Jun 2026 09:09:22 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "产品已上市，收入却多年为0，两家国产手术机器人急需赴港融资",
+        "url": "https://www.36kr.com/p/3838181655775749",
+        "summary": "下一个“达芬奇”有可能出现吗？",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 04 Jun 2026 04:44:55 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": []
+  }
+}

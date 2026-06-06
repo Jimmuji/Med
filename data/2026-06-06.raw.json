@@ -1,0 +1,366 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T12:49:51.568237+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "CDC: Ebola outbreak in Central Africa could reach 20,000 cases without strong countermeasures",
+        "url": "https://www.statnews.com/2026/06/05/cdc-ebola-modeling-study/",
+        "summary": "The Ebola outbreak in Central Africa could grow to 20,000 cases or more, depending on how quickly infected people are isolated to slow the spread, according to a new U.S. analysis.",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 22:24:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Newer GLP-1s, pushback on research cuts, and a protest",
+        "url": "https://www.statnews.com/2026/06/05/newer-glp-1s-pushback-on-research-cuts-and-a-protest-ada-in-30/",
+        "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans.",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 21:22:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What stripping civil service protections for thousands of federal workers will mean for HHS",
+        "url": "https://www.statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/",
+        "summary": "Thousands of HHS staff who shape policy have had their employment status changed to a designation that makes it easier for them to be fired.",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 19:58:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Senior NIH official pushes MAHA strategy to skeptical ADA audience",
+        "url": "https://www.statnews.com/2026/06/05/ada-conference-new-orleans-richard-woychik-synergy-nih-maha/",
+        "summary": "An NIH advisor told researchers gathered at the American Diabetes Association conference that MAHA goals match the agency's priorities.",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 19:53:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: If Americans risk their lives fighting Ebola overseas, they deserve the right to come home",
+        "url": "https://www.statnews.com/2026/06/05/americans-ebola-kenya-protests/",
+        "summary": "Outbreak response is difficult enough without asking responders to wonder whether they will have access to the best available care if they become ill.",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 15:13:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Will Makary’s FDA voucher program survive?",
+        "url": "https://www.statnews.com/2026/06/05/biotech-news-will-makarys-fda-voucher-program-survive/",
+        "summary": "RevMed's cancer drug feels out of reach for some, SCOTUS preserves key generic drug pathway, and more biotech news",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 13:45:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/06/05/jobs-up-and-down-the-ladder-latest-comings-and-goings/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 13:36:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Texas AG investigating energy drinks",
+        "url": "https://www.statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/",
+        "summary": "The limitations of private health insurance, the quiet collapse of America's research ethics watchdog and other Morning Rounds news",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 13:17:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Roche accusing U.S. of ‘blackmail,’ a ruling on skinny labels, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/05/roche-calls-trump-policy-blackmail-supreme-court-rules-on-skinny-labels/",
+        "summary": "Drugmakers and patient groups asked the FDA to pause former commissioner Marty Markary's National Priority Voucher drug review program",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 13:17:01 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Tiny HHS office tasked with protecting research participants’ safety is running on fumes",
+        "url": "https://www.statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/",
+        "summary": "OHRP has experienced an unprecedented exodus of ethics expertise, raising concerns about its ability to effectively protect volunteers.",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: How living and practicing medicine abroad complicated my beliefs about universal health care systems",
+        "url": "https://www.statnews.com/2026/06/05/universal-health-care-system-tradeoffs-accountability/",
+        "summary": "“I believe deeply in universal health care. But universal care must also mean universal safety and accountability, not merely universal access.”",
+        "source": "STAT News",
+        "published": "Fri, 05 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "HHS confirms Americans with high-risk Ebola exposures will have access to experimental therapy",
+        "url": "https://www.statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/",
+        "summary": "Americans who have high-risk exposures to Ebola in the current outbreak in Central Africa will have access to an experimental antibody treatment.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 23:40:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program",
+        "url": "https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/",
+        "summary": "The White House has used the program to reward companies that help its political goals.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 20:53:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What RevMed’s pancreatic cancer drug meant for one patient",
+        "url": "https://www.statnews.com/2026/06/04/readout-loud-podcast-revolution-medicines-pancreatic-cancer-patient-asco/",
+        "summary": "Why did a presentation on Revolution Medicines' pancreatic cancer drug get a standing ovation? Why did biotech stocks perform so badly this week? Find out on \"The Readout LOUD.\"",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 20:18:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Otsuka kidney drug slowed loss of function, but less than expected, in late-stage trial",
+        "url": "https://www.statnews.com/2026/06/04/otsuka-kidney-drug-voyxact-study-results/",
+        "summary": "Otsuka’s Voyxact slowed the loss of kidney function after one year in patients with a chronic autoimmune kidney disease, but the benefit was less than expected.",
+        "source": "STAT News",
+        "published": "Thu, 04 Jun 2026 19:59:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-healthcare-experience-seamless-it-soulful\" hreflang=\"en\">Industry Voices—A healthcare experience that is as seamless as it is soulful</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-healthcare-experience-seamless-it-soulful",
+        "summary": "Patients and their loved ones are too often navigating a fragmented system while carrying the emotional weight that comes with a diagnosis or uncertainty, writes Ascension SVP and Chief Experience Officer Carol Campbell.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 10:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj\" hreflang=\"en\">As pro-life pressure ramps up on Trump, FDA is investigating safety of abortion pill: WSJ</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj",
+        "summary": "The FDA is going forward with an&nbsp;investigation into the safety of the abortion pill mifepristone, an initiative that could allow the Trump administration to impose restrictions on its use, The Wall Street Journal reports.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 10:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-health-debuts-healthline-ai-companion-users-find-verified-health\" hreflang=\"en\">Fullspan Health debuts Healthline AI companion to connect consumers to medical content and providers</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-health-debuts-healthline-ai-companion-users-find-verified-health",
+        "summary": "The conversational AI agent pulls information from Fullspan’s medically reviewed properties, including Healthline and Psych Central.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 10:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-vida-health-instacart-partner-healthy-food-access-study-finds-patients\" hreflang=\"en\">Weekly Rundown: Trump signs AI executive order; Health Catalyst to sell Vitalware for $147M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-vida-health-instacart-partner-healthy-food-access-study-finds-patients",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 3:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/wellspan-health-strikes-strategic-partnership-philips-deploy-co-develop-new-healthcare\" hreflang=\"en\">WellSpan Health strikes strategic partnership with Philips to deploy, co-develop new healthcare tech</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/wellspan-health-strikes-strategic-partnership-philips-deploy-co-develop-new-healthcare",
+        "summary": "WellSpan Health inked a seven-year strategic alliance with Philips to drive advanced imaging technology across its network and co-develop new healthcare technology.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 7:09am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ixlayer-rolls-out-digital-acute-pain-management-platform-collaboration-vertex\" hreflang=\"en\">Ixlayer rolls out digital acute pain management platform in collaboration with Vertex Pharmaceuticals </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ixlayer-rolls-out-digital-acute-pain-management-platform-collaboration-vertex",
+        "summary": "The platform—dubbed Informed Pain Care—allows patients to connect with licensed clinicians virtually, providing symptom-based intake and eligibility screenings and treatment options.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 12:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/small-businesses-feel-squeeze-healthcare-costs-rise-morgan-health\" hreflang=\"en\">Small businesses feel the squeeze as healthcare costs rise: Morgan Health</a>",
+        "url": "https://www.fiercehealthcare.com/payers/small-businesses-feel-squeeze-healthcare-costs-rise-morgan-health",
+        "summary": "As healthcare costs continue to rise, smaller businesses are particularly vulnerable to the pressure, according to a new Morgan Health report.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures\" hreflang=\"en\">Ascension closes its $3.9B AmSurg purchase following FTC's all-clear</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures",
+        "summary": "The nonprofit health system is now the country's third-largest ambulatory surgery center (ASC) platform, with more than 300 such locations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 1:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/scionhealth-sends-8-community-hospitals-lifepoint-health\" hreflang=\"en\">ScionHealth sends 8 community hospitals to Lifepoint Health</a>",
+        "url": "https://www.fiercehealthcare.com/providers/scionhealth-sends-8-community-hospitals-lifepoint-health",
+        "summary": "The deal between the nationwide sister systems grows Lifepoint Health to a network of 68 community hospital campuses, and allows ScionHealth to increase focus on its core business of specialty hospital services.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 11:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/georgetown-study-2m-children-have-dropped-out-medicaid-chip-january-2025\" hreflang=\"en\">Georgetown study: 2M children have dropped out of Medicaid, CHIP since January 2025</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/georgetown-study-2m-children-have-dropped-out-medicaid-chip-january-2025",
+        "summary": "There are 2 million fewer children enrolled in either Medicaid or the Children's Health Insurance Program compared to January 2025, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 12:25pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/thyme-care-expands-cancer-survivorship-program-provide-longitudinal-support\" hreflang=\"en\">Thyme Care expands cancer survivorship program to provide longitudinal support</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/thyme-care-expands-cancer-survivorship-program-provide-longitudinal-support",
+        "summary": "Thyme Care has expanded its cancer survivorship program, called Next Chapter Care, to provide a personalized, longitudinal approach to survivorship support.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 8:51am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/anomaly-insights-launches-ai-solution-managed-care-executives\" hreflang=\"en\">Anomaly Insights launches AI solution for managed care executives </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/anomaly-insights-launches-ai-solution-managed-care-executives",
+        "summary": "The Manage platform examines all claims across every payer in a health system’s contract, identifying behavior patterns and synthesizing complex data.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 3:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/affibody-gets-izokibep-back-track-while-seeking-new-home-after-acelyrin-rejection\" hreflang=\"en\">Affibody gets izokibep ‘back on track’ while seeking  ‘new home’ after drug’s Acelyrin rejection</a>",
+        "url": "https://www.fiercebiotech.com/biotech/affibody-gets-izokibep-back-track-while-seeking-new-home-after-acelyrin-rejection",
+        "summary": "Affibody may not have expected to be working on izokibep again, but the Swedish biotech hasn’t wasted an opportunity to showcase the inflammation drug’s potential to prospective partners.",
+        "source": "Fierce Biotech",
+        "published": "Jun 5, 2026 4:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Fulcrum cuts 85% of staff; Novartis trims research team</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-astrazeneca-adds-fda-cell-and-gene-veteran\" hreflang=\"en\">Chutes &amp; Ladders—AstraZeneca adds FDA cell and gene veteran</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astrazeneca-adds-fda-cell-and-gene-veteran",
+        "summary": "Longtime FDA leader Lola Fashoyin-Aje, M.D., is adapting to a new role at AstraZeneca as vice president and head of cell therapy regulatory science and strategy. Fashoyin-Aje is well-positioned to help the British pharma giant in this field, given she spent nearly 12 years at the FDA, with her tenure culminating in directing the clinical evaluation of cell and gene therapies.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 5:50pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-ra-capital-offering-its-biotechs-chinese-clinical-expertise-box\" hreflang=\"en\">How RA Capital is offering its biotechs ‘Chinese clinical expertise in a box’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-ra-capital-offering-its-biotechs-chinese-clinical-expertise-box",
+        "summary": "Rather than leave the work of developing relationships in China to individual companies, the firm launched an initiative called RA Capital Swiftbridge in mid-2025.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 9:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulet-debuts-latest-enhancement-its-popular-omnipod-insulin-delivery-system\" hreflang=\"en\">Insulet debuts latest enhancements to popular Omnipod insulin delivery system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulet-debuts-latest-enhancement-its-popular-omnipod-insulin-delivery-system",
+        "summary": "Insulet, the diabetes device maker, debuted upgrades to its popular Omnipod 5 tubeless automated insulin delivery system.",
+        "source": "Fierce Biotech",
+        "published": "Jun 5, 2026 7:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts\" hreflang=\"en\">At first public hearing for FDA’s CNPV program, industry support meets ‘deep concern’ from experts</a>",
+        "url": "https://www.fiercebiotech.com/biotech/first-public-cnpv-hearing-support-industry-and-deep-concern-experts",
+        "summary": "On Thursday, the public had the first chance to air their grievances about the FDA’s controversial Commissioner’s National Priority Voucher (CNPV) pilot program, the flagship initiative of recently departed agency leader Marty Makary, M.D.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 5:28pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/autobahn-races-toward-pivotal-trial-after-thyroid-hormone-mimic-eases-bipolar-depression-ph\" hreflang=\"en\">Autobahn races toward pivotal trial after thyroid hormone mimic eases bipolar depression in ph. 2</a>",
+        "url": "https://www.fiercebiotech.com/biotech/autobahn-races-toward-pivotal-trial-after-thyroid-hormone-mimic-eases-bipolar-depression-ph",
+        "summary": "A stimulator of thyroid hormone receptors in the brain has successfully reduced depression severity in patients with bipolar disorder, positioning its maker Autobahn Therapeutics to speed ahead to late-stage testing.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 10:44am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/divisive-bill-seeks-add-biotech-industry-law-limiting-investment-chinese-industry\" hreflang=\"en\">As China biotech crackdown calls reverberate in Washington, the pushback gets louder, too</a>",
+        "url": "https://www.fiercebiotech.com/biotech/divisive-bill-seeks-add-biotech-industry-law-limiting-investment-chinese-industry",
+        "summary": "Two federal lawmakers have introduced a bill seeking to apply the review requirements of the Comprehensive Outbound Investment National Security (COINS) Act to investments in Chinese biotechnology.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3\" hreflang=\"en\">Parabilis preps $413M IPO to fuel desmoid tumor drug into phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/parabilis-preps-413m-ipo-fuel-desmoid-tumor-drug-phase-3",
+        "summary": "Parabilis Medicines is gearing up for an IPO that could eventually bring in as much as $476 million to fund the phase 3 development of its desmoid tumor prospect.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 9:47am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies\" hreflang=\"en\">From business strategy to CAR-T responses, for Cabaletta it’s all about ‘durability’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-autoimmune-car-t-player-cabaletta-looking-have-durability-its-business-and-therapies",
+        "summary": "Fierce sat down with Cabaletta's executives at EULAR to discuss their approval timeline and which areas of development they feel like they have a head start.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 5:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc\" hreflang=\"en\">Innovent, fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/innovent-fresh-12b-deal-posts-phase-3-win-cldn182-adc",
+        "summary": "Innovent Biologics has reported a phase 3 victory for IBI343, boosting the prospects of an antibody-drug conjugate (ADC) that Takeda bet big on last year.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 7:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems\" hreflang=\"en\">Medline earns FDA warning letter ire for repeated toxic bacteria problems</a>",
+        "url": "https://www.fiercebiotech.com/manufacturing/medline-earns-fda-warning-letter-ire-repeated-toxic-bacteria-problems",
+        "summary": "Medical device distribution giant Medline has been slammed for a second time since April by an FDA warning letter that has chided the company for repeated problems centered on the presence of toxic bacteria in finished products.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 7:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "36氪出海·AI | 迪拜宣布智能体AI倡议，中国AI企业迎来出海新风口",
+        "url": "https://www.36kr.com/p/3841141250492677",
+        "summary": "迪拜商会主席兼首席执行官穆罕默德·阿里·拉希德·卢塔阁下撰文表示，迪拜近期宣布了一项智能体 AI（Agentic AI ）倡议，体现了其将未来技术转化为商业影响力的务实路径，也为中国企业开展创新合作开辟了全新契机。",
+        "source": "36Kr 医疗科技",
+        "published": "Sat, 06 Jun 2026 03:33:37 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "突发！Anthropic呼吁全员停止AI研究",
+        "url": "https://www.36kr.com/p/3839532802132489",
+        "summary": "AI自进化，开始了",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 05 Jun 2026 00:17:06 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "中东豪门，开了上海办公室",
+        "url": "https://www.36kr.com/p/3838523225475587",
+        "summary": "钱的流向。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 04 Jun 2026 09:09:22 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
+        "url": "https://huggingface.co/papers/2606.02956",
+        "summary": "Existing autonomous driving datasets have enabled major progress, but fall short in sensor fidelity, map completeness, or geographic diversity. We present KITScenes Multimodal, a European dataset built around high-fidelity sensors and maps. Our fully synchronized sensor suite combines high-resolution global-shutter cameras, long-range lidar beyond 400m, 4D imaging radar, and redundant GNSS/INS localization. Our HD maps are, to our knowledge, the most complete of any sensor dataset, validated through autonomous driving trials on open-source software. For the first time in a public dataset, all ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-31T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Quality-Guided Semi-Supervised Learning for Medical Image Segmentation",
+        "url": "https://huggingface.co/papers/2606.01753",
+        "summary": "Training accurate medical image segmentation models requires large amounts of densely annotated data, which is costly and time-consuming to obtain. Semi-supervised learning (SSL) alleviates this by learning from both abundant unlabeled data and limited labeled data. However, most modern SSL methods rely on pseudolabels for unlabeled data, and typically assess their reliability through model confidence or uncertainty, measures that are self-referential and lack explicit grounding in segmentation quality. Instead, we propose a quality-guided SSL framework that trains a dedicated network to estim",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-31T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

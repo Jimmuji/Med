@@ -1,0 +1,278 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T13:25:09.046322+08:00",
+  "counts": {
+    "news": 31,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Competition for obesity drugs, clinical blind spots, and more news from ADA",
+        "url": "https://www.statnews.com/2026/06/07/competition-obesity-drugs-clinical-blind-spots-and-more-ada/",
+        "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference.",
+        "source": "STAT News",
+        "published": "Sun, 07 Jun 2026 20:59:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New data may cast doubt on competitiveness of Boehringer’s obesity drug",
+        "url": "https://www.statnews.com/2026/06/07/boehringer-ingelheim-obesity-drug-survodutide-phase-3-data/",
+        "summary": "Boehringer Ingelheim’s obesity drug showed promise in cutting liver fat, but it was less impressive at overall weight loss, new data shows.",
+        "source": "STAT News",
+        "published": "Sun, 07 Jun 2026 18:30:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Triple hormone receptors, a monthly obesity drug, and a bittersweet ending",
+        "url": "https://www.statnews.com/2026/06/06/triple-g-safety-data-monthly-obesity-drug-ada-in-30/",
+        "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference in New Orleans.",
+        "source": "STAT News",
+        "published": "Sat, 06 Jun 2026 20:54:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lilly shares safety, tolerability data on its next-gen obesity drug",
+        "url": "https://www.statnews.com/2026/06/06/illy-retatrutide-triple-g-weight-loss-obesity-safety-data-ada/",
+        "summary": "Eli Lilly presented new safety and tolerability data on retatrutide at the annual meeting of the American Diabetes Association on Saturday.",
+        "source": "STAT News",
+        "published": "Sat, 06 Jun 2026 18:32:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Detailed data show Pfizer’s monthly obesity drug continues to show potential",
+        "url": "https://www.statnews.com/2026/06/06/pfizer-obesity-drug-berobenatide-metsera-results/",
+        "summary": "Detailed data from a midstage study offered further evidence that the obesity drug Pfizer acquired from the biotech Metsera could be dosed monthly.",
+        "source": "STAT News",
+        "published": "Sat, 06 Jun 2026 13:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: I led the U.S. CDC response to the 2014 Ebola epidemic. The new outbreak needs massive, immediate, meticulous action",
+        "url": "https://www.statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/",
+        "summary": "“Ebola is an unforgiving enemy,” writes Tom Frieden, who led the U.S. CDC response to the 2014-2016 Ebola outbreak.",
+        "source": "STAT News",
+        "published": "Sat, 06 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How the Amish think about vaccines, health care costs, and much more",
+        "url": "https://www.statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/",
+        "summary": "There may be nearly 2 million Amish Americans by 2075. That has large public health implications.",
+        "source": "STAT News",
+        "published": "Sat, 06 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-vida-health-instacart-partner-healthy-food-access-study-finds-patients\" hreflang=\"en\">Weekly Rundown: Trump signs AI executive order; Health Catalyst to sell Vitalware for $147M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-vida-health-instacart-partner-healthy-food-access-study-finds-patients",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 3:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/healthcare-dealmakers-wakemed-join-atrium-health-qualtrics-closes-68b-press-ganey-deal\" hreflang=\"en\">Healthcare Dealmakers—WakeMed to join Atrium Health, Qualtrics closes $6.8B Press Ganey deal and more</a>",
+        "url": "https://www.fiercehealthcare.com/providers/healthcare-dealmakers-wakemed-join-atrium-health-qualtrics-closes-68b-press-ganey-deal",
+        "summary": "Sanford Health moves to add North Memorial Health, Sutter Health and Allina Health sign a definitive agreement and more merger and acquisition news from May.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 4:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-healthcare-experience-seamless-it-soulful\" hreflang=\"en\">Industry Voices—A healthcare experience that is as seamless as it is soulful</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-healthcare-experience-seamless-it-soulful",
+        "summary": "Patients and their loved ones are too often navigating a fragmented system while carrying the emotional weight that comes with a diagnosis or uncertainty, writes Ascension SVP and Chief Experience Officer Carol Campbell.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 10:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj\" hreflang=\"en\">As pro-life pressure ramps up on Trump, FDA is investigating safety of abortion pill: WSJ</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/pro-life-pressure-ramps-trump-fda-investigating-safety-abortion-pill-wsj",
+        "summary": "The FDA is going forward with an&nbsp;investigation into the safety of the abortion pill mifepristone, an initiative that could allow the Trump administration to impose restrictions on its use, The Wall Street Journal reports.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 10:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-health-debuts-healthline-ai-companion-users-find-verified-health\" hreflang=\"en\">Fullspan Health debuts Healthline AI companion to connect consumers to medical content and providers</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-health-debuts-healthline-ai-companion-users-find-verified-health",
+        "summary": "The conversational AI agent pulls information from Fullspan’s medically reviewed properties, including Healthline and Psych Central.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 10:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/wellspan-health-strikes-strategic-partnership-philips-deploy-co-develop-new-healthcare\" hreflang=\"en\">WellSpan Health strikes strategic partnership with Philips to deploy, co-develop new healthcare tech</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/wellspan-health-strikes-strategic-partnership-philips-deploy-co-develop-new-healthcare",
+        "summary": "WellSpan Health inked a seven-year strategic alliance with Philips to drive advanced imaging technology across its network and co-develop new healthcare technology.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 7:09am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ixlayer-rolls-out-digital-acute-pain-management-platform-collaboration-vertex\" hreflang=\"en\">Ixlayer rolls out digital acute pain management platform in collaboration with Vertex Pharmaceuticals </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ixlayer-rolls-out-digital-acute-pain-management-platform-collaboration-vertex",
+        "summary": "The platform—dubbed Informed Pain Care—allows patients to connect with licensed clinicians virtually, providing symptom-based intake and eligibility screenings and treatment options.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 12:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/small-businesses-feel-squeeze-healthcare-costs-rise-morgan-health\" hreflang=\"en\">Small businesses feel the squeeze as healthcare costs rise: Morgan Health</a>",
+        "url": "https://www.fiercehealthcare.com/payers/small-businesses-feel-squeeze-healthcare-costs-rise-morgan-health",
+        "summary": "As healthcare costs continue to rise, smaller businesses are particularly vulnerable to the pressure, according to a new Morgan Health report.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures\" hreflang=\"en\">Ascension closes its $3.9B AmSurg purchase following FTC's all-clear</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ftc-clears-ascensions-39b-amsurg-purchase-requires-some-asc-divestitures",
+        "summary": "The nonprofit health system is now the country's third-largest ambulatory surgery center (ASC) platform, with more than 300 such locations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 1:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/scionhealth-sends-8-community-hospitals-lifepoint-health\" hreflang=\"en\">ScionHealth sends 8 community hospitals to Lifepoint Health</a>",
+        "url": "https://www.fiercehealthcare.com/providers/scionhealth-sends-8-community-hospitals-lifepoint-health",
+        "summary": "The deal between the nationwide sister systems grows Lifepoint Health to a network of 68 community hospital campuses, and allows ScionHealth to increase focus on its core business of specialty hospital services.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 11:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/georgetown-study-2m-children-have-dropped-out-medicaid-chip-january-2025\" hreflang=\"en\">Georgetown study: 2M children have dropped out of Medicaid, CHIP since January 2025</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/georgetown-study-2m-children-have-dropped-out-medicaid-chip-january-2025",
+        "summary": "There are 2 million fewer children enrolled in either Medicaid or the Children's Health Insurance Program compared to January 2025, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 12:25pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/thyme-care-expands-cancer-survivorship-program-provide-longitudinal-support\" hreflang=\"en\">Thyme Care expands cancer survivorship program to provide longitudinal support</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/thyme-care-expands-cancer-survivorship-program-provide-longitudinal-support",
+        "summary": "Thyme Care has expanded its cancer survivorship program, called Next Chapter Care, to provide a personalized, longitudinal approach to survivorship support.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 4, 2026 8:51am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/managing-complexity-across-biopharma-modalities\" hreflang=\"en\">Managing complexity across biopharma modalities</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/managing-complexity-across-biopharma-modalities",
+        "summary": "SK pharmteco CEO Joerg Ahlgrimm discusses complexity, global pressure and drug development speed.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 12:18pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/why-ai-changing-clinical-development\" hreflang=\"en\">Why AI is changing clinical development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/why-ai-changing-clinical-development",
+        "summary": "PhaseV CEO Raviv Pryluk explains how AI is reshaping trial design and execution.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 4:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/could-engaging-immune-system-be-key-unlocking-durable-responses-aml\" hreflang=\"en\">Could engaging the immune system improve AML outcomes? </a>",
+        "url": "https://www.fiercebiotech.com/sponsored/could-engaging-immune-system-be-key-unlocking-durable-responses-aml",
+        "summary": "With unmet need still high in AML, new approaches are exploring whether engaging immune responses could help improve long-term disease control.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 1:19pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ada-tolerability-not-be-underappreciated-roche-zealands-amylin-obesity-prospect\" hreflang=\"en\">ADA: Tolerability ‘not to be underappreciated’ in Roche, Zealand’s amylin obesity prospect</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ada-tolerability-not-be-underappreciated-roche-zealands-amylin-obesity-prospect",
+        "summary": "As the American Diabetes Association 2026 Scientific Sessions kicked off in New Orleans over the weekend, Zealand Pharma and its recent commercial and development partner Roche helped get the show rolling with a deep dive into their amylin analog petrelintide.",
+        "source": "Fierce Biotech",
+        "published": "Jun 5, 2026 7:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ada-lilly-pulls-back-curtain-impressive-triple-g-efficacy-obesity-and-diabetes-execs-arent\" hreflang=\"en\">ADA: Lilly pulls back curtain on impressive triple-G efficacy in patients with obesity, diabetes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ada-lilly-pulls-back-curtain-impressive-triple-g-efficacy-obesity-and-diabetes-execs-arent",
+        "summary": "Even as Zepbound fires on all cylinders and Foundayo gets off to the races in the oral market, Eli Lilly is keenly aware that the one-size-fits-all approach to obesity and diabetes treatment pioneered by early GLP-1s will soon be obsolete.",
+        "source": "Fierce Biotech",
+        "published": "Jun 6, 2026 2:52pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy\" hreflang=\"en\">ADA: Pfizer pads case for berobenatide in obesity, adding validation to Metsera buy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ada-pfizer-pads-case-berobenatide-obesity-adding-validation-metsera-buy",
+        "summary": "On the heels of a strong showing for the drug earlier this year, Pfizer is padding the case for the GLP-1 receptor agonist it picked up in its $10 billion purchase of obesity biotech Metsera.",
+        "source": "Fierce Biotech",
+        "published": "Jun 6, 2026 7:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/it-looks-hypothesis-will-pan-out-cullinan-builds-case-autoimmune-tces\" hreflang=\"en\">‘It looks like this hypothesis will pan out’: Cullinan unveils data building case for autoimmune TCEs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/it-looks-hypothesis-will-pan-out-cullinan-builds-case-autoimmune-tces",
+        "summary": "When it comes to turning T-cell therapies toward autoimmune diseases, CAR-Ts have been leading the way. But another red-hot modality is also beginning to show potential in the clinic.",
+        "source": "Fierce Biotech",
+        "published": "Jun 5, 2026 9:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/affibody-gets-izokibep-back-track-while-seeking-new-home-after-acelyrin-rejection\" hreflang=\"en\">Affibody gets izokibep ‘back on track’ while seeking  ‘new home’ after drug’s Acelyrin rejection</a>",
+        "url": "https://www.fiercebiotech.com/biotech/affibody-gets-izokibep-back-track-while-seeking-new-home-after-acelyrin-rejection",
+        "summary": "Affibody may not have expected to be working on izokibep again, but the Swedish biotech hasn’t wasted an opportunity to showcase the inflammation drug’s potential to prospective partners.",
+        "source": "Fierce Biotech",
+        "published": "Jun 5, 2026 4:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Fulcrum cuts 85% of staff; Novartis trims research team</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-astrazeneca-adds-fda-cell-and-gene-veteran\" hreflang=\"en\">Chutes &amp; Ladders—AstraZeneca adds FDA cell and gene veteran</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-astrazeneca-adds-fda-cell-and-gene-veteran",
+        "summary": "Longtime FDA leader Lola Fashoyin-Aje, M.D., is adapting to a new role at AstraZeneca as vice president and head of cell therapy regulatory science and strategy. Fashoyin-Aje is well-positioned to help the British pharma giant in this field, given she spent nearly 12 years at the FDA, with her tenure culminating in directing the clinical evaluation of cell and gene therapies.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 5:50pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-ra-capital-offering-its-biotechs-chinese-clinical-expertise-box\" hreflang=\"en\">How RA Capital is offering its biotechs ‘Chinese clinical expertise in a box’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-ra-capital-offering-its-biotechs-chinese-clinical-expertise-box",
+        "summary": "Rather than leave the work of developing relationships in China to individual companies, the firm launched an initiative called RA Capital Swiftbridge in mid-2025.",
+        "source": "Fierce Biotech",
+        "published": "Jun 4, 2026 9:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulet-debuts-latest-enhancement-its-popular-omnipod-insulin-delivery-system\" hreflang=\"en\">Insulet debuts latest enhancements to popular Omnipod insulin delivery system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulet-debuts-latest-enhancement-its-popular-omnipod-insulin-delivery-system",
+        "summary": "Insulet, the diabetes device maker, debuted upgrades to its popular Omnipod 5 tubeless automated insulin delivery system.",
+        "source": "Fierce Biotech",
+        "published": "Jun 5, 2026 7:10am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
+        "url": "https://huggingface.co/papers/2606.02956",
+        "summary": "Existing autonomous driving datasets have enabled major progress, but fall short in sensor fidelity, map completeness, or geographic diversity. We present KITScenes Multimodal, a European dataset built around high-fidelity sensors and maps. Our fully synchronized sensor suite combines high-resolution global-shutter cameras, long-range lidar beyond 400m, 4D imaging radar, and redundant GNSS/INS localization. Our HD maps are, to our knowledge, the most complete of any sensor dataset, validated through autonomous driving trials on open-source software. For the first time in a public dataset, all ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-31T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Quality-Guided Semi-Supervised Learning for Medical Image Segmentation",
+        "url": "https://huggingface.co/papers/2606.01753",
+        "summary": "Training accurate medical image segmentation models requires large amounts of densely annotated data, which is costly and time-consuming to obtain. Semi-supervised learning (SSL) alleviates this by learning from both abundant unlabeled data and limited labeled data. However, most modern SSL methods rely on pseudolabels for unlabeled data, and typically assess their reliability through model confidence or uncertainty, measures that are self-referential and lack explicit grounding in segmentation quality. Instead, we propose a quality-guided SSL framework that trains a dedicated network to estim",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-31T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

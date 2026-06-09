@@ -1,0 +1,374 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T12:59:16.491353+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 6
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest",
+        "url": "https://www.statnews.com/2026/06/08/ebola-outbreak-congo-health-workers-little-pay-rest/",
+        "summary": "Health workers at the epicenter of Congo's Ebola outbreak are laboring with little pay or rest.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 20:17:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AstraZeneca’s GLP-1 pill shows promise in obesity, diabetes trials",
+        "url": "https://www.statnews.com/2026/06/08/astrazeneca-obesity-diabetes-treatment-studies/",
+        "summary": "AstraZeneca’s GLP-1 pill showed promise in mid-stage obesity and diabetes studies, but it may still be too early to determine how it stacks up against other oral treatments.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 20:15:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
+        "url": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/",
+        "summary": "The biggest U.S. health insurer is changing how it pays for lactation counseling, and it could cut payment for many providers.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 14:53:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novo underwhelmed by drug it once fought Pfizer for",
+        "url": "https://www.statnews.com/2026/06/08/biotech-news-novo-underwhelmed-by-drug-it-once-fought-pfizer-for/",
+        "summary": "Revolution and Tango yield promising cancer results, Incyte buys bleeding disorder drug, and more biotech news",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 14:05:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Lilly and Pfizer obesity drug data, Roche and J&J deals, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/",
+        "summary": "Lilly disclosed new data that provide more details on the safety and tolerability of its next-generation obesity drug retatrutide",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 13:28:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: J&J spends $1 billion to enter KRAS race for cancer treatments",
+        "url": "https://www.statnews.com/2026/06/08/johnson-and-johnson-firefly-cancer-kras-treatment/",
+        "summary": "Johnson &#038; Johnson said it will purchase the startup Firefly Bio for $1 billion in an effort to expand its work in the suddenly buzzy field of KRAS inhibitors.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 13:17:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Major readouts from the annual diabetes conference",
+        "url": "https://www.statnews.com/2026/06/08/health-news-readouts-from-annual-diabetes-conference/",
+        "summary": "Why \"Schedule F\" matters, the Ebola outbreak response, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 12:22:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Combination of pancreatic cancer drugs from Tango, Revolution leads to high response rate",
+        "url": "https://www.statnews.com/2026/06/08/pancreatic-cancer-combination-tango-therapeutics-revolution-medicines-vopimetostat-daraxonrasib/",
+        "summary": "A combination of pancreatic cancer drugs from Tango Therapeutics and Revolution Medicines led to a strong response rate in an early-stage trial.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 11:55:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: $2 million gene therapy cures require a financing model",
+        "url": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/",
+        "summary": "“We do not lack cures. We lack the infrastructure to pay for and deliver them,” writes William Padula.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: American horses are obese, too",
+        "url": "https://www.statnews.com/2026/06/08/obese-horses-humans-metabolic-syndrome-food-system/",
+        "summary": "“American horses are getting sick in ways that look remarkably familiar,” writes Joshua Moen.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
+        "url": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/",
+        "summary": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are.",
+        "source": "STAT News",
+        "published": "Mon, 08 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Competition for obesity drugs, clinical blind spots, and more news from ADA",
+        "url": "https://www.statnews.com/2026/06/07/competition-obesity-drugs-clinical-blind-spots-and-more-ada/",
+        "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference.",
+        "source": "STAT News",
+        "published": "Sun, 07 Jun 2026 20:59:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New data may cast doubt on competitiveness of Boehringer’s obesity drug",
+        "url": "https://www.statnews.com/2026/06/07/boehringer-ingelheim-obesity-drug-survodutide-phase-3-data/",
+        "summary": "Boehringer Ingelheim’s obesity drug showed promise in cutting liver fat, but it was less impressive at overall weight loss, new data shows.",
+        "source": "STAT News",
+        "published": "Sun, 07 Jun 2026 18:30:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/affordability-engagement-these-are-topics-watch-ahip-2026\" hreflang=\"en\">From affordability to engagement, these are the topics to watch at AHIP 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/affordability-engagement-these-are-topics-watch-ahip-2026",
+        "summary": "Health insurance executives convene this week in Las Vegas at a time when the industry is facing significant pressure around cost, access and policy change.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 5:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/cvs-launched-ai-learning-academy-its-workforce-heres-why\" hreflang=\"en\">CVS launched an AI Learning Academy for its workforce. Here's why</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/cvs-launched-ai-learning-academy-its-workforce-heres-why",
+        "summary": "Embracing AI requires a workforce that's ready for the revolution, and it's with that backdrop that CVS has rolled out its internal AI Learning Academy",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 1:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/accrediting-bodies-more-medical-schools-commit-rfk-jrs-nutrition-education-pledge\" hreflang=\"en\">Accrediting bodies, more medical schools commit to RFK Jr.'s nutrition education pledge</a>",
+        "url": "https://www.fiercehealthcare.com/providers/accrediting-bodies-more-medical-schools-commit-rfk-jrs-nutrition-education-pledge",
+        "summary": "Trump administration heads highlighted Monday additional voluntary commitments that will increase medical students' exposure to nutrition education. Seventy-three medical schools to date said they will have at least 40 hours of such material or a competency equivalent starting this fall.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 4:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-help-committee-seeks-info-nyc-health-hospitals-cybersecurity-breach\" hreflang=\"en\">Senate HELP committee chairman seeks info on NYC Health + Hospital data breach </a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-help-committee-seeks-info-nyc-health-hospitals-cybersecurity-breach",
+        "summary": "An unauthorized user accessed certain systems between late November and mid-February, the health system said in a March 24 notice.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 3:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-admins-100000-h-1b-visa-fee-policy-challenged-20-attorneys-general\" hreflang=\"en\">Trump admin's $100K H-1B visa fee policy tossed by federal judge</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-admins-100000-h-1b-visa-fee-policy-challenged-20-attorneys-general",
+        "summary": "Several blue states successfully persuaded a federal judge to vacate and declare unlawful the policy put in place last September. Healthcare groups had widely denounced the heightened fee, which they said would threaten care delivery in rural and underserved areas.",
+        "source": "Fierce Healthcare",
+        "published": "Dec 15, 2025 12:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/sophia-genetics-memorial-sloan-kettering-sign-strategic-collab-ai-powered\" hreflang=\"en\">Sophia Genetics, Memorial Sloan Kettering sign strategic collab for AI-powered precision oncology hub</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sophia-genetics-memorial-sloan-kettering-sign-strategic-collab-ai-powered",
+        "summary": "The goal of the partnership is to build a precision medicine hub for cancer patients around the globe using MSK’s clinical data and Sophia Genetics’ AI platform.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 12:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cities-sue-trump-administration-block-final-aca-rule\" hreflang=\"en\">Cities sue Trump administration to block final ACA rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cities-sue-trump-administration-block-final-aca-rule",
+        "summary": "A group of cities is suing the feds to challenge recently finalized changes to the Affordable Care Act's marketplaces, which they say could lead 3 million people to lose coverage.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 10:49am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/elation-health-acquires-aster-it-ramps-agentic-ai-primary-care\" hreflang=\"en\">Elation Health acquires Aster as it ramps up agentic AI for primary care</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/elation-health-acquires-aster-it-ramps-agentic-ai-primary-care",
+        "summary": "Health tech company Elation Health acquired startup Aster to propel the company's development of an agentic AI operating system for primary care.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 5, 2026 6:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/8-requirements-ai-medical-interpreting-2026-survey-results\" hreflang=\"en\">8 Requirements for AI Medical Interpreting: 2026 Survey Results</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/8-requirements-ai-medical-interpreting-2026-survey-results",
+        "summary": "AI medical interpreting is quickly entering healthcare. Here are 8 requirements leaders should use to pilot it safely and responsibly.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 3, 2026 5:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/ai-health-care-hype-enterprise-value\" hreflang=\"en\">AI in health care: From hype to enterprise value</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/ai-health-care-hype-enterprise-value",
+        "summary": "Where AI is delivering ROI today — and what health care leaders must do to scale it.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 2:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/stepful-banks-55m-scale-ai-powered-infrastructure-tackles-healthcare-staffing-shortage\" hreflang=\"en\">Stepful banks $55M to scale AI-powered medical training to boost the workforce pipeline</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/stepful-banks-55m-scale-ai-powered-infrastructure-tackles-healthcare-staffing-shortage",
+        "summary": "The company currently works with more than 35 major healthcare systems and has graduated over 32,000 practice-ready healthcare workers since its founding.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 7:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/why-self-directed-care-becoming-central-long-term-care\" hreflang=\"en\">Why self-directed care is becoming central to long-term care</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/why-self-directed-care-becoming-central-long-term-care",
+        "summary": "PPL COO Jennifer Truscott explains how self-directed care expands the workforce, improves outcomes and scales with accountability.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 3:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/city-lay-foundation-rnai-renaissance-nearly-100m-series-b\" hreflang=\"en\">City aims to lay foundation for RNAi renaissance with nearly $100M series B</a>",
+        "url": "https://www.fiercebiotech.com/biotech/city-lay-foundation-rnai-renaissance-nearly-100m-series-b",
+        "summary": "Looking to spark an antibody-like revolution for RNA interference medicines, City Therapeutics has landed a nearly $100 million series B to fund a clinical push and power further development of its foundational platform.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 3:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/ada-dexcom-cgm-shows-benefit-non-insulin-diabetes-patients\" hreflang=\"en\">ADA: Dexcom CGM shows benefit in non-insulin diabetes patients</a>",
+        "url": "https://www.fiercebiotech.com/medtech/ada-dexcom-cgm-shows-benefit-non-insulin-diabetes-patients",
+        "summary": "A Dexcom continuous glucose monitor helped adults with type 2 diabetes not using insulin improve blood sugar control in a randomized trial, adding new fuel to the industry’s push to bring CGMs into broader primary care use.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 10:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/resmed-snaps-noctrix-health-340m-sleep-tech-deal\" hreflang=\"en\">ResMed snaps up Noctrix Health in $340M sleep tech deal</a>",
+        "url": "https://www.fiercebiotech.com/medtech/resmed-snaps-noctrix-health-340m-sleep-tech-deal",
+        "summary": "ResMed has closed its $340 million acquisition of Noctrix Health, picking up a wearable neuromodulation device that pushes the sleep tech giant beyond its core sleep apnea and respiratory care businesses.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 10:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/secretive-cancer-biotech-treeline-steps-out-shadows-reverse-merger\" hreflang=\"en\">Clinical-stage cancer biotech Treeline sees path to public markets via reverse merger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/secretive-cancer-biotech-treeline-steps-out-shadows-reverse-merger",
+        "summary": "Treeline Biosciences, an under-the-radar cancer company that has raised more than $1 billion since its 2021 founding, is looking to step into the spotlight of the public market. Treeline has announced plans to merge with omics outfit Standard BioTools and secure a listing on the Nasdaq.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 10:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-makes-1b-upfront-bet-emerging-dac-space-netting-firefly-bio\" hreflang=\"en\">J&amp;J makes $1B upfront bet on emerging DAC space by netting Firefly Bio</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jj-makes-1b-upfront-bet-emerging-dac-space-netting-firefly-bio",
+        "summary": "Johnson &amp; Johnson has paid $1 billion upfront to buy itself a degrader antibody conjugate platform via the acquisition of Firefly Bio.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 9:36am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incyte-inks-2b-deal-add-star-unit-late-phase-constellation-and-challenge-takeda\" hreflang=\"en\">Incyte inks $2B deal to add Star unit to late-phase constellation and challenge Takeda</a>",
+        "url": "https://www.fiercebiotech.com/biotech/incyte-inks-2b-deal-add-star-unit-late-phase-constellation-and-challenge-takeda",
+        "summary": "Incyte has struck a deal to buy a Star Therapeutics subsidiary for $1.25 billion upfront. The takeover, the biggest bet of Bill Meury’s time as CEO, covers a late-phase bleeding disorder drug candidate that could support Incyte’s ambition to grow through the loss of patent protection for Jakafi in 2028.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 8:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-pledges-ps445m-near-term-uk-biotech-tackle-liver-fibrosis-regression\" hreflang=\"en\">GSK pledges £44.5M in near term for UK biotech to explore cause of liver fibrosis regression</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-pledges-ps445m-near-term-uk-biotech-tackle-liver-fibrosis-regression",
+        "summary": "GSK’s latest hepatology partnership is posing a less-asked question—how do you encourage the regression of patients’ liver fibrosis?",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 8:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-integrated-strategy-reshaping-biopharma-growth\" hreflang=\"en\">How integrated strategy is reshaping biopharma growth</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-integrated-strategy-reshaping-biopharma-growth",
+        "summary": "RevHealth CEO Ben Beckley shares how integrated teams are helping biopharma organizations align strategy, break down silos and drive stronger commercial impact.",
+        "source": "Fierce Biotech",
+        "published": "Jun 1, 2026 2:05pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/managing-complexity-across-biopharma-modalities\" hreflang=\"en\">Managing complexity across biopharma modalities</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/managing-complexity-across-biopharma-modalities",
+        "summary": "SK pharmteco CEO Joerg Ahlgrimm discusses complexity, global pressure and drug development speed.",
+        "source": "Fierce Biotech",
+        "published": "May 29, 2026 12:18pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-ai-reshaping-biopharma-decision-making\" hreflang=\"en\">How AI is reshaping biopharma decision-making</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-ai-reshaping-biopharma-decision-making",
+        "summary": "AI is accelerating discovery, but only when paired with expert insight and trusted data. Hear how leaders are rethinking decision-making in biopharma.",
+        "source": "Fierce Biotech",
+        "published": "Jun 3, 2026 4:04pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/could-engaging-immune-system-be-key-unlocking-durable-responses-aml\" hreflang=\"en\">Could engaging the immune system improve AML outcomes? </a>",
+        "url": "https://www.fiercebiotech.com/sponsored/could-engaging-immune-system-be-key-unlocking-durable-responses-aml",
+        "summary": "With unmet need still high in AML, new approaches are exploring whether engaging immune responses could help improve long-term disease control.",
+        "source": "Fierce Biotech",
+        "published": "May 28, 2026 1:19pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-unlearn-building-scientific-intelligence-layer-clinical-development-0\" hreflang=\"en\">How Unlearn is building a scientific intelligence layer for clinical development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-unlearn-building-scientific-intelligence-layer-clinical-development-0",
+        "summary": "Unlearn founder and head of AI, Aaron Smith, on how digital twins are moving from trial simulation into the full chain of decisions sponsors make — and what regulators need to see along the way.",
+        "source": "Fierce Biotech",
+        "published": "Jun 2, 2026 3:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+        "url": "https://www.36kr.com/p/3841459663030532",
+        "summary": "人类能否在不打开颅骨的前提下，无创而精准地修复和增强大脑？",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 08 Jun 2026 00:30:00 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机\"发箍\"｜早期项目",
+        "url": "https://www.36kr.com/p/3843971153267208",
+        "summary": "产品预计于今年8月正式上市。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 09 Jun 2026 01:00:00 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "On the Geometry of On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2606.07082",
+        "summary": "On-policy distillation (OPD) is increasingly used to improve large language model reasoning, but its training dynamics remain poorly understood. We characterize the trajectory of OPD updates in parameter space and compare it with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR). A suite of parameter-space diagnostics consistently places OPD in a relaxed off-principal regime: compared with SFT, its updates affect fewer weights and avoid principal directions more strongly, while compared with RLVR, they remain less tightly constrained. Beyond this static loc",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-04T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Set-Based Transformer for Atmospheric Compensation in Standoff LWIR Hyperspectral Imaging",
+        "url": "https://huggingface.co/papers/2606.08324",
+        "summary": "Passive long-wave infrared (LWIR) hyperspectral imaging under a standoff geometry depends on atmospheric absorption and emission, as well as reflected radiance, thus making atmospheric compensation essential to get knowledge of a target of interest. Despite its importance, this compensation has been largely overlooked due to its practical and modeling difficulty. In this paper, we present a lightweight set-based deep learning framework that takes multiple radiance measurements, collected at different standoff ranges, as input and jointly estimates transmittance, atmospheric path radiance, and ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-05T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "CoVEBench: Can Video Editing Models Handle Complex Instructions?",
+        "url": "https://huggingface.co/papers/2606.08415",
+        "summary": "While recent text-guided video editing models excel at elementary tasks (e.g., style transfer, object insertion), real-world user requests are highly compositional. A single prompt often demands multiple coupled edits, such as modifying subjects, actions, and camera views, while strictly preserving unrelated spatiotemporal content. Existing benchmarks, heavily constrained by isolated edits and coarse global metrics, fail to diagnose how models handle such complex workflows. To address this gap, we introduce CoVEBench, a compositional video editing benchmark comprising 416 curated source videos",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
+        "url": "https://huggingface.co/papers/2606.07297",
+        "summary": "Repository-level coding benchmarks such as SWE-bench have driven a rapid surge in the capabilities of coding agents. Yet they usually treat coding tasks as a holistic, binary prediction problem (e.g., resolved or unresolved), neglecting fine-grained agent capabilities such as repository understanding, context retrieval, code localization, and bug diagnosis. In this paper, we introduce SWE-Explore, a benchmark that isolates the evaluation of repository exploration, a critical capability of coding agents. Given a repository and an issue, SWE-Explore asks an explorer to return a ranked list of re",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-04T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models",
+        "url": "https://huggingface.co/papers/2606.05531",
+        "summary": "Despite the rapid progress of Vision-Language Models (VLMs), the field lacks benchmarks that rigorously diagnose their true reasoning abilities and chart meaningful progress toward human-like multimodal intelligence. Most existing evaluations focus on piecemeal or disconnected tasks, obscuring critical cognitive weaknesses and providing little insight for targeted improvement. To address this gap, we introduce BloomBench, part of the Almieyar benchmarking series, the first cognitively human-grounded, bilingual (English-Arabic) multimodal benchmark for VLMs. Grounded in Bloom's Taxonomy, BloomB",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-03T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "GENEB: Why Genomic Models Are Hard to Compare",
+        "url": "https://huggingface.co/papers/2606.04525",
+        "summary": "Progress in genomic foundation models is difficult to assess due to fragmented benchmarks, incompatible evaluation protocols, and task-specific reporting. As a result, claims of superiority or generality across models are often not directly comparable. We introduce GENEB, a large-scale diagnostic benchmark that evaluates frozen representations from 40 genomic foundation models across 100 tasks spanning 13 functional categories under a unified probing-based protocol, including few-shot regimes. GENEB enables controlled comparison across model scale, architecture, tokenization, and pretraining d",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-02T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

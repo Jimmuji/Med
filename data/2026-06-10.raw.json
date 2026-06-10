@@ -1,0 +1,390 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T13:11:17.642001+08:00",
+  "counts": {
+    "news": 44,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/",
+        "summary": "The number of prescription drug shortages in the U.S. fell by 23% last year, but a new analysis found other troubling signs about medicines in short supply.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 20:46:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s health care affordability czar takes aim at hospitals",
+        "url": "https://www.statnews.com/2026/06/09/trumps-affordability-czar-backs-medicaid-cuts-alcohol-study-published-dc-diagnosis/",
+        "summary": "Plus a buried alcohol study gets published, and a Biosecure update.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 19:56:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Diabetes Association in uproar after members expelled from annual meeting over protest of NIH cuts",
+        "url": "https://www.statnews.com/2026/06/09/american-diabetes-association-uproar-over-expulsion-of-members/",
+        "summary": "The condemnations keep coming after five diabetes experts were escorted out of an ADA meeting for handing out copies of an editorial criticizing federal research cuts.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 19:12:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FDA OKs first new sunscreen ingredient in more than 25 years",
+        "url": "https://www.statnews.com/2026/06/09/new-sunscreen-ingredient-bemotrizinol-fda/",
+        "summary": "Federal health regulators on Tuesday signed off on the first new sunscreen ingredient for the U.S. market in more than 25 years.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 18:43:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration warns more than 500 hospitals to provide more price information or face fines",
+        "url": "https://www.statnews.com/2026/06/09/trump-administration-warns-hospitals-price-information-fines/",
+        "summary": "The Trump administration has warned more than 500 hospitals that they are failing to provide the public with basic pricing information.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 15:35:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Gilead and Merck’s latest trial success and flop",
+        "url": "https://www.statnews.com/2026/06/09/biotech-news-gilead-and-merck-latest-trial-success-and-flop/",
+        "summary": "AstraZeneca's GLP-1 pill, GSK's $10.6B cancer startup acquisition, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 15:11:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIAID appoints new acting director after weekslong questions over leadership",
+        "url": "https://www.statnews.com/2026/06/09/niaid-acting-director-john-powers-replaces-taubenberger/",
+        "summary": "The NIH has appointed researcher John Powers III to lead its infectious disease institute on an acting basis, after weeks of being in leadership limbo.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 14:50:45 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a $10.6 billion GSK deal, an AstraZeneca obesity pill, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/09/gsk-buying-nuvalent-cancer-drug-astrazeneca-obesity-pill-data/",
+        "summary": "GSK agreed to buy Nuvalent, a cancer drug developer, in a deal worth $10.6 billion, as the company continues its expansion in oncology",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 13:39:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Dexcom RCT suggests CGM benefits for broad diabetes population",
+        "url": "https://www.statnews.com/2026/06/09/dexcom-cgm-trial-wearables-clinic-apple-updates-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Dexcom's CGM trial, udpates from Apple's annual developers' conference, and wearables.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 13:34:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIH staffers published a letter of dissent a year ago. They feel it’s been ignored",
+        "url": "https://www.statnews.com/2026/06/09/nih-bethesda-declaration-1-year-later-dissenters-say-problems-persist/",
+        "summary": "In a report published on the first anniversary of the Bethesda Declaration, 71 staffers write that they feel NIH leadership “largely ignored\" their concerns.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What’s changed since the last major Ebola outbreak",
+        "url": "https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/",
+        "summary": "A suppressed federal alcohol report, an \"inevitable development\" for wearables data, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 12:23:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A leader of the 2014 U.S. Ebola response compares then to now",
+        "url": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/",
+        "summary": "As the world deals with an outbreak of Ebola that has no known cure, Susan Reichle, who last year co-founded Aid Transition Alliance to support former USAID professionals, discusses the&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s health care affordability czar touts Medicaid cuts to hospital leaders",
+        "url": "https://www.statnews.com/2026/06/09/affordability-czar-casey-mulligan-hfma-speech-medicaid-cuts/",
+        "summary": "Hospital execs say they're working to mitigate the impacts of the looming cuts.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Why STAT is sticking with ‘health care’ as two words",
+        "url": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/",
+        "summary": "Is it “health care” or “healthcare”? STAT readers had strong feelings.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Wearables, and the flood of data they generate, inch closer to entering the clinic",
+        "url": "https://www.statnews.com/2026/06/09/wearables-data-oura-whoop-clinical-integration/",
+        "summary": "Wearables generate a lot of health data, but it exists outside the clinic for the most part. New moves from Oura and Whoop may change that.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/house-appropriations-committee-takes-aim-cms-wiser-pilot\" hreflang=\"en\">House Appropriations Committee takes aim at CMS' WISeR pilot</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/house-appropriations-committee-takes-aim-cms-wiser-pilot",
+        "summary": "A key legislative panel voted Tuesday to bar the Centers for Medicare &amp; Medicaid Services from spending funds on a controversial prior authorization pilot.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 5:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/pcma-unveils-new-policy-platform-aimed-drug-affordability\" hreflang=\"en\">PCMA unveils new policy platform aimed at drug affordability</a>",
+        "url": "https://www.fiercehealthcare.com/payers/pcma-unveils-new-policy-platform-aimed-drug-affordability",
+        "summary": "The Pharmaceutical Care Management Association released a new policy platform, which includes six ways it says that federal policymakers can support lower drug costs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/caloptima-health-approves-430m-rate-increase-keep-safety-net-providers-afloat\" hreflang=\"en\">CalOptima Health approves $430M rate increase to keep safety-net providers afloat</a>",
+        "url": "https://www.fiercehealthcare.com/payers/caloptima-health-approves-430m-rate-increase-keep-safety-net-providers-afloat",
+        "summary": "The Orange County Medi-Cal plan said it would tap its reserves to support hospitals and specialists whose financial stability is threatened by Medicaid funding and eligibility changes from the One Big Beautiful Bill Act.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 4:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hundreds-hospitals-warned-over-price-transparency-failings-ap-reports\" hreflang=\"en\">Hundreds of hospitals warned over price transparency failings, AP reports</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hundreds-hospitals-warned-over-price-transparency-failings-ap-reports",
+        "summary": "At least 519 hospitals nationwide have received a warning notice or Corrective Action Plan request due to price transparency deficiencies since April, according to a \"senior administration official\" cited by the AP.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 2:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/71-clinicians-report-improved-workflow-efficiency-ai-tools-philips-survey-0\" hreflang=\"en\">Clinicians report AI use expands patient capacity, boosts efficiency: Philips survey</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/71-clinicians-report-improved-workflow-efficiency-ai-tools-philips-survey-0",
+        "summary": "The Future Health Index 2026 drew insights from more than 2,000 healthcare professionals and more than 20,000 patients across 10 countries.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 10:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cleveland-clinic-agrees-decades-long-halt-gender-affirming-care-minors\" hreflang=\"en\">Cleveland Clinic agrees to 'decades-long' halt on gender-affirming care for minors in DOJ settlement</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cleveland-clinic-agrees-decades-long-halt-gender-affirming-care-minors",
+        "summary": "A deal with the DOJ and the Ohio Attorney General's Office settles improper billing allegations and includes a $2 million commitment to pay for detransitioning services.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 11:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—AMA elects its next president; Ardent Health appoints new CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/affordability-engagement-these-are-topics-watch-ahip-2026\" hreflang=\"en\">From affordability to engagement, these are the topics to watch at AHIP 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/affordability-engagement-these-are-topics-watch-ahip-2026",
+        "summary": "Health insurance executives convene this week in Las Vegas at a time when the industry is facing significant pressure around cost, access and policy change.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 5:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/cvs-launched-ai-learning-academy-its-workforce-heres-why\" hreflang=\"en\">CVS launched an AI Learning Academy for its workforce. Here's why</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/cvs-launched-ai-learning-academy-its-workforce-heres-why",
+        "summary": "Embracing AI requires a workforce that's ready for the revolution, and it's with that backdrop that CVS has rolled out its internal AI Learning Academy",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 1:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/accrediting-bodies-more-medical-schools-commit-rfk-jrs-nutrition-education-pledge\" hreflang=\"en\">Accrediting bodies, more medical schools commit to RFK Jr.'s nutrition education pledge</a>",
+        "url": "https://www.fiercehealthcare.com/providers/accrediting-bodies-more-medical-schools-commit-rfk-jrs-nutrition-education-pledge",
+        "summary": "Trump administration heads highlighted Monday additional voluntary commitments that will increase medical students' exposure to nutrition education. Seventy-three medical schools to date said they will have at least 40 hours of such material or a competency equivalent starting this fall.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 4:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-help-committee-seeks-info-nyc-health-hospitals-cybersecurity-breach\" hreflang=\"en\">Senate HELP committee chairman seeks info on NYC Health + Hospital data breach </a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-help-committee-seeks-info-nyc-health-hospitals-cybersecurity-breach",
+        "summary": "An unauthorized user accessed certain systems between late November and mid-February, the health system said in a March 24 notice.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 8, 2026 3:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-admins-100000-h-1b-visa-fee-policy-challenged-20-attorneys-general\" hreflang=\"en\">Trump admin's $100K H-1B visa fee policy tossed by federal judge</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-admins-100000-h-1b-visa-fee-policy-challenged-20-attorneys-general",
+        "summary": "Several blue states successfully persuaded a federal judge to vacate and declare unlawful the policy put in place last September. Healthcare groups had widely denounced the heightened fee, which they said would threaten care delivery in rural and underserved areas.",
+        "source": "Fierce Healthcare",
+        "published": "Dec 15, 2025 12:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fueled-ma-and-partnerships-biotech-poised-continued-growth-ey\" hreflang=\"en\">Fueled by M&amp;A and partnerships, biotech is poised for continued growth: EY</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fueled-ma-and-partnerships-biotech-poised-continued-growth-ey",
+        "summary": "Biotech’s effervescent activity has allowed it to overcome headwinds and sustain momentum into 2026, as the volume and value of licensing and M&amp;A deals continues to increase. New IPOs and the recovery of venture capital funding are helping, as well.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 7:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cancer-biotech-parabilis-ups-ipo-plans-potentially-record-setting-637m\" hreflang=\"en\">Cancer biotech Parabilis ups IPO plans to potentially record-setting $637M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cancer-biotech-parabilis-ups-ipo-plans-potentially-record-setting-637m",
+        "summary": "Mere months after obesity biotech Kailera Therapeutics netted the biggest initial public offering the sector has ever seen, with a whopping $625 million, Parabilis Medicines has upsized its own IPO plans with the potential to eclipse that record.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 10:12am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-alzecure-alzheimers-asset-1b-biobucks\" hreflang=\"en\">Lilly moves deeper into Alzheimer’s research with AlzeCure licensing deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-alzecure-alzheimers-asset-1b-biobucks",
+        "summary": "Eli Lilly has signed a heavily backloaded agreement to license a gamma-secretase modulator treatment for Alzheimer's disease from AlzeCure Pharma for up to $1 billion biobucks.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 9:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ada-astrazenecas-oral-glp-1-shows-competitive-efficacy-standard-tolerability-phase-2\" hreflang=\"en\">ADA: AZ’s oral GLP-1 shows ‘competitive efficacy’ in phase 2, setting stage for pivotal program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ada-astrazenecas-oral-glp-1-shows-competitive-efficacy-standard-tolerability-phase-2",
+        "summary": "With a pair of phase 2 readouts, AstraZeneca is positioning itself to potentially capture a portion of the oral GLP-1 market. Up next, its elecoglipron is heading into pivotal studies.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 8:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/cequr-nabs-100m-series-e-boost-commercial-operations-its-insulin-delivery-patch\" hreflang=\"en\">CeQur nabs $100M series E to fuel insulin patch commercialization</a>",
+        "url": "https://www.fiercebiotech.com/medtech/cequr-nabs-100m-series-e-boost-commercial-operations-its-insulin-delivery-patch",
+        "summary": "Swiss medtech CeQur has raised $100 million in a series E funding round for what it called its “most ambitious phase of commercial growth.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 6:38am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/galmed-acquires-colospan-45m-deal-it-eyes-6b-gi-dx-market\" hreflang=\"en\">Galmed acquires Colospan in $4.5M deal as it eyes $6B GI dx market</a>",
+        "url": "https://www.fiercebiotech.com/medtech/galmed-acquires-colospan-45m-deal-it-eyes-6b-gi-dx-market",
+        "summary": "Galmed Pharmaceuticals acquired Colospan in a $4.5 million million deal as the Israel-based biotech looks to create a gastrointestinal platform targeting a dx sector valued at $6 billion.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 8:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-will-continue-eu600m-diagnostics-investment-germany-warns-future-risk\" hreflang=\"en\">Roche sticks with €600M diagnostics investment in Germany but warns of future risk</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-will-continue-eu600m-diagnostics-investment-germany-warns-future-risk",
+        "summary": "As news hit last week that Eli Lilly and Boehringer Ingelheim are cutting investments in Germany, Roche said it will not be following suit—for now.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 8:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/new-standard-trusted-ai-biopharma\" hreflang=\"en\">The new standard for trusted AI in biopharma</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/new-standard-trusted-ai-biopharma",
+        "summary": "As costs climb, capital tightens and AI enthusiasm accelerates, biopharma leaders are rethinking how better decisions get made.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 1:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bial-bails-after-parkinsons-fail-axing-asset-over-phase-2-miss\" hreflang=\"en\">Bial bails after Parkinson’s fail, axing asset over phase 2 miss</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bial-bails-after-parkinsons-fail-axing-asset-over-phase-2-miss",
+        "summary": "Bial has stopped development in a subpopulation of Parkinson’s disease patients after its phase 2b trial missed its primary and key secondary efficacy endpoints.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 5:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-inks-106b-nuvalent-buyout-challenge-roche-and-pfizer-lung-cancer\" hreflang=\"en\">GSK inks $10.6B Nuvalent buyout to challenge Roche and Pfizer in lung cancer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-inks-106b-nuvalent-buyout-challenge-roche-and-pfizer-lung-cancer",
+        "summary": "GSK has struck a deal to buy Nuvalent for $10.6 billion, securing two near-approval cancer therapies that could challenge products from Roche, Pfizer and other drugmakers.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 4:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: City secures nearly $100M; Ona lands $86.6M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/city-lay-foundation-rnai-renaissance-nearly-100m-series-b\" hreflang=\"en\">City aims to lay foundation for RNAi renaissance with nearly $100M series B</a>",
+        "url": "https://www.fiercebiotech.com/biotech/city-lay-foundation-rnai-renaissance-nearly-100m-series-b",
+        "summary": "Looking to spark an antibody-like revolution for RNA interference medicines, City Therapeutics has landed a nearly $100 million series B to fund a clinical push and power further development of its foundational platform.",
+        "source": "Fierce Biotech",
+        "published": "Jun 8, 2026 3:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "哈萨比斯最新震撼预言：留给旧世界的时间，不到2000天",
+        "url": "https://www.36kr.com/p/3846000916122114",
+        "summary": "留给人类的时间，可能不多了。",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 10 Jun 2026 01:42:54 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "从理想走向商业化：OpenAI加速布局超级应用与安全体系",
+        "url": "https://www.36kr.com/p/3845798901745926",
+        "summary": "对于整个 AI 行业而言，前沿技术想要长久发展，既不能脱离普惠大众的初心，也无法回避商业化的现实。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 09 Jun 2026 12:53:30 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "各地冒出的「睡眠体验馆」，如何接住5亿失眠星人",
+        "url": "https://www.36kr.com/p/3846588688910596",
+        "summary": "睡眠赛道抢跑季。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 10 Jun 2026 01:29:14 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+        "url": "https://www.36kr.com/p/3845899768760580",
+        "summary": "香港金管局总裁余伟文：跨境理财通3.0暂无落地时间表，额度、产品等多维度拓展空间可期",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 09 Jun 2026 12:48:30 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机\"发箍\"｜早期项目",
+        "url": "https://www.36kr.com/p/3843971153267208",
+        "summary": "产品预计于今年8月正式上市。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 09 Jun 2026 01:00:00 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
+        "url": "https://huggingface.co/papers/2606.11129",
+        "summary": "We introduce WorldOlympiad, a benchmark for diagnosing video-based world models across physical faithfulness, geometric consistency, and interaction fidelity. While existing benchmarks often focus on visual quality, semantic alignment, or short-term temporal coherence, they provide limited insight into whether generated videos obey physical rules, preserve coherent 3D structure, and sustain controllable interactions over long horizons. To address this gap, WorldOlympiad decomposes world-model evaluation into three complementary dimensions. The physical track uses object segmentation and MLLM-a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-08T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models",
+        "url": "https://huggingface.co/papers/2606.10740",
+        "summary": "Failures in multi-turn reasoning models are largely invisible to terminal-score evaluation. A model can lock onto an unsafe stance early in a long dialogue, yet its final-turn refusal rate may appear indistinguishable from a robustly aligned baseline. To expose these hidden temporal dynamics, we propose a trace-level diagnostic - the CoT-Output 2x2 safety matrix. This framework labels every turn along two independent axes (internal reasoning and visible output), yielding four operationally defined failure cells: robust alignment, alignment faking, overt jailbreak, and a distinct failure mode w",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-09T07:50:28.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "SDR: Set-Distance Rewards for Radiology Report Generation",
+        "url": "https://huggingface.co/papers/2606.00440",
+        "summary": "Reinforcement learning with verifiable rewards has rapidly advanced reasoning in vision--language models. However, for chest X-ray report generation, the standard rewards (i.e. exact-match accuracy and step-level processes) are incompatible because the reports consist of unordered and orthogonal findings, rather than a causal reasoning chain. We address this gap with a set-based view: each report is split into sentences and embedded by a frozen sentence transformer, yielding unordered embedding sets. We propose the use of set-to-set distances between generated and reference embeddings as conti",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-05-29T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

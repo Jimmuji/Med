@@ -1,0 +1,406 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T13:24:09.842229+08:00",
+  "counts": {
+    "news": 43,
+    "papers": 6
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Private Medicare plans erect barriers to rehab care in pursuit of profit, federal investigators find",
+        "url": "https://www.statnews.com/2026/06/11/medicare-advantage-oig-report-rehab-care-deny-appeal-reverse/",
+        "summary": "Federal investigation finds Medicare Advantage insurers block rehab care for older adults, only to reverse denials on appeal.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 04:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Diabetes association leader apologizes for expulsion of members, pledges to rebuild trust",
+        "url": "https://www.statnews.com/2026/06/10/ada-annual-convention-ceo-apology-protester-removal/",
+        "summary": "The American Diabetes Association CEO apologizes to five members kicked out of annual convention for distributing protest literature, launches review of what went awry.",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 19:42:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Your sepsis algorithm shouldn’t require a time machine",
+        "url": "https://www.statnews.com/2026/06/10/sepsis-algorithm-shouldnt-require-time-machine-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis: Quirky medical data tripping up sepsis algorithms, AI scribes for patients, and some AI biotech news.",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 16:19:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "OB-GYN association, deviating from CDC guidance, issues its own vaccine recommendations",
+        "url": "https://www.statnews.com/2026/06/10/acog-obgyn-vaccine-recommendations-pregnancy/",
+        "summary": "The American College of Obstetricians and Gynecologists has released a recommended vaccine schedule during pregnancy, one that diverges from CDC guidance.",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 14:44:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hope for Kendall Square’s lab market",
+        "url": "https://www.statnews.com/2026/06/10/biotech-news-hope-for-kendall-squares-lab-market/",
+        "summary": "Drug pricing in Europe, AI deals for VC firms, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 14:31:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about U.S. pressure on European drug prices, longer shortages, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/10/american-pressure-on-european-drug-prices-longer-shortages/",
+        "summary": "A new analysis found the average drug shortage in 2025 had lasted 5.3 years, exceeding the 4.3 years seen in 2024",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 13:20:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "DOJ reaches second settlement on youth gender care",
+        "url": "https://www.statnews.com/2026/06/10/health-news-doj-reaches-second-settlement-on-youth-gender-care/",
+        "summary": "A new era of American sunscreen, NIAID taps new acting director, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 11:55:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72",
+        "url": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/",
+        "summary": "“I know what I’m getting into”: Dawn Zuidgeest-Craft on starting medical residency at almost 73.",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Even in abortion-protecting states, teens face unnecessary barriers to care",
+        "url": "https://www.statnews.com/2026/06/10/parental-notification-laws-abortion-blue-states/",
+        "summary": "“Legal protection for abortion does not mean equitable access for minors,” a pediatrics resident writes.",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: As the U.S. looks on, European countries feel growing pressure on drug prices",
+        "url": "https://www.statnews.com/2026/06/10/european-drug-pricing-most-favored-nation-impact/",
+        "summary": "In Europe, two divergent paths are emerging as countries grapple with what to do about drug prices, affecting both pharma and patients — and testing the influence of the U.S.",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Are Republicans turning against medications for treating opioid addiction?",
+        "url": "https://www.statnews.com/2026/06/10/medications-opioid-use-disorder-trump-moud-policy-change/",
+        "summary": "Federal actions and proposals have reignited debate over methadone and buprenorphine, worrying addiction experts and patient groups.",
+        "source": "STAT News",
+        "published": "Wed, 10 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/",
+        "summary": "The number of prescription drug shortages in the U.S. fell by 23% last year, but a new analysis found other troubling signs about medicines in short supply.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 20:46:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s health care affordability czar takes aim at hospitals",
+        "url": "https://www.statnews.com/2026/06/09/trumps-affordability-czar-backs-medicaid-cuts-alcohol-study-published-dc-diagnosis/",
+        "summary": "Plus a buried alcohol study gets published, and a Biosecure update.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 19:56:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Diabetes Association in uproar after members expelled from annual meeting over protest of NIH cuts",
+        "url": "https://www.statnews.com/2026/06/09/american-diabetes-association-uproar-over-expulsion-of-members/",
+        "summary": "The condemnations keep coming after five diabetes experts were escorted out of an ADA meeting for handing out copies of an editorial criticizing federal research cuts.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 19:12:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FDA OKs first new sunscreen ingredient in more than 25 years",
+        "url": "https://www.statnews.com/2026/06/09/new-sunscreen-ingredient-bemotrizinol-fda/",
+        "summary": "Federal health regulators on Tuesday signed off on the first new sunscreen ingredient for the U.S. market in more than 25 years.",
+        "source": "STAT News",
+        "published": "Tue, 09 Jun 2026 18:43:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/ahip-2026-why-ascendiun-ceo-paul-markovich-bullish-building-out-digital-health-record\" hreflang=\"en\">AHIP 2026: Why Ascendiun CEO Paul Markovich is bullish on building out a digital health record for patients</a>",
+        "url": "https://www.fiercehealthcare.com/payers/ahip-2026-why-ascendiun-ceo-paul-markovich-bullish-building-out-digital-health-record",
+        "summary": "LAS VEGAS — If Ascendiun CEO Paul Markovich could eliminate one buzzword from the healthcare dictionary, it would be \"interoperability.\"",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 9:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ardent-healths-surprise-ceo-change-reflects-need-margin-focus-amid-headwinds-cfo-says\" hreflang=\"en\">Ardent Health's surprise CEO change reflected need for margin focus amid headwinds, CFO says </a>",
+        "url": "https://www.fiercehealthcare.com/providers/ardent-healths-surprise-ceo-change-reflects-need-margin-focus-amid-headwinds-cfo-says",
+        "summary": "CFO Alfred Lumsdaine described the board's decision to immediately promote COO Dave Caspers as \"proactive, not reactive\" as inflationary and policy pressures mount. He also suggested that the softened patient volumes its seen during Q2 likely extend beyond Ardent's markets.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 2:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trustees-expect-medicare-trust-funds-reserves-run-out-2033\" hreflang=\"en\">Trustees expect Medicare Trust Fund's reserves to run out in 2033</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trustees-expect-medicare-trust-funds-reserves-run-out-2033",
+        "summary": "A new report suggests that the Medicare Trust Fund's reserves will run dry in 2033, leaving the program unable to pay for all scheduled benefits.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 12:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ama-issues-policy-urging-exemptions-upcoming-medicaid-work-requirements\" hreflang=\"en\">AMA issues policy urging exemptions in upcoming Medicaid work requirements</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ama-issues-policy-urging-exemptions-upcoming-medicaid-work-requirements",
+        "summary": "The organization says policymakers need to ensure upcoming requirements protect patients with serious medical conditions while minimizing potential administrative burden.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 11:06am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/vega-health-licenses-ai-models-pcci-predict-patient-risks\" hreflang=\"en\">Vega Health licenses AI models from Parkland Center for Clinical Innovation to predict patient risks</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/vega-health-licenses-ai-models-pcci-predict-patient-risks",
+        "summary": "Vega helps customers with testing, fine-tuning and deployment of AI. Since 2019, PCCI's models have identified nearly 3 million at-risk individuals.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 12:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—UPMC lays off 200; UVM cuts 142 roles</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-exec-talks-ai-affordability-and-member-engagement\" hreflang=\"en\">UnitedHealthcare exec talks AI, affordability and member engagement</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-exec-talks-ai-affordability-and-member-engagement",
+        "summary": "Dan Kueter, CEO of UnitedHealthcare Employer &amp; Individual, joins the podcast to talk about what employers are asking for in today’s commercial insurance market and how UnitedHealthcare is using digital tools, AI and more personalized benefit design to support member engagement.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 9:28am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/psg-report-examines-payers-employers-attitudes-towards-glp-1-coverage-unbundling-pbm-models\" hreflang=\"en\">PSG report examines payers and employers’ attitudes towards GLP-1 coverage, unbundling’ PBM models</a>",
+        "url": "https://www.fiercehealthcare.com/payers/psg-report-examines-payers-employers-attitudes-towards-glp-1-coverage-unbundling-pbm-models",
+        "summary": "The annual drug benefit design report drew insights from 237 benefits leaders across employers, health plans and unions.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 4:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-health-ceo-very-confident-q2-guidance-insurer-eyes-market-expansion\" hreflang=\"en\">Alignment Health CEO 'very confident' in Q2 guidance as insurer eyes market expansion</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-health-ceo-very-confident-q2-guidance-insurer-eyes-market-expansion",
+        "summary": "Alignment Health CEO John Kao reiterated Tuesday that the company's strong revenue and membership growth in the first quarter would continue in Q2 despite the Medicare Advantage headwinds confronting many other insurers.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 3:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ahip-2026-caqh-rebrands-dataspring-it-charts-course-future\" hreflang=\"en\">AHIP 2026: CAQH rebrands as DataSpring as it charts course for the future</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ahip-2026-caqh-rebrands-dataspring-it-charts-course-future",
+        "summary": "LAS VEGAS—CAQH has rebranded as DataSpring, a name leaders say reflects the organization's push toward a more modern and innovative future.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 12:39am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/house-appropriations-committee-takes-aim-cms-wiser-pilot\" hreflang=\"en\">House Appropriations Committee takes aim at CMS' WISeR pilot</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/house-appropriations-committee-takes-aim-cms-wiser-pilot",
+        "summary": "A key legislative panel voted Tuesday to bar the Centers for Medicare &amp; Medicaid Services from spending funds on a controversial prior authorization pilot.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 5:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/pcma-unveils-new-policy-platform-aimed-drug-affordability\" hreflang=\"en\">PCMA unveils new policy platform aimed at drug affordability</a>",
+        "url": "https://www.fiercehealthcare.com/payers/pcma-unveils-new-policy-platform-aimed-drug-affordability",
+        "summary": "The Pharmaceutical Care Management Association released a new policy platform, which includes six ways it says that federal policymakers can support lower drug costs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 9, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/executive-assistant-chief-executive-charles-river-ceo-birgit-girshick-next-big-transition-cro\" hreflang=\"en\">From executive assistant to chief executive: Charles River CEO Birgit Girshick on ‘the next big transition’ in the CRO industry</a>",
+        "url": "https://www.fiercebiotech.com/cro/executive-assistant-chief-executive-charles-river-ceo-birgit-girshick-next-big-transition-cro",
+        "summary": "When Charles River Laboratories CEO Birgit Girshick started her career as an executive assistant with the company in Germany in 1989, she didn’t know what was possible for her career in the world of biotech. She did know she wanted to make a difference.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 3:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ada-more-cagrisema-weight-loss-data-coming-jury-still-out-amid-tough-retatrutide\" hreflang=\"en\">ADA: Novo’s Lange says ‘jury still out’ on CagriSema amid tough retatrutide comparisons</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ada-more-cagrisema-weight-loss-data-coming-jury-still-out-amid-tough-retatrutide",
+        "summary": "Even as industry watchers pit the two assets against one another, it’s too early to say whose next-generation incretin stands supreme between Novo Nordisk’s CagriSema and Eli Lilly’s retatrutide, Novo’s chief scientific officer suggested to Fierce at the ADA 2026 Scientific Sessions in New Orleans this past Sunday.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 11:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/glp-1s-may-combat-depression-multiplying-mood-boosting-gut-microbe\" hreflang=\"en\">GLP-1s may combat depression by multiplying a mood-boosting gut microbe</a>",
+        "url": "https://www.fiercebiotech.com/research/glp-1s-may-combat-depression-multiplying-mood-boosting-gut-microbe",
+        "summary": "Since GLP-1 drugs like Novo Nordisk’s semaglutide and Eli Lilly’s tirzepatide took the world by storm for their potent treatment of diabetes and obesity, they have also been plagued by a clinical conundrum. In some studies, the peptides seem to possess antidepressant effects, while in others they’ve been linked to worse mental health and even increased suicidality.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 2:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/big-pharma-backed-sonothera-sounds-125m-series-b-bubble-based-genetic-delivery\" hreflang=\"en\">Big Pharma-backed SonoThera sounds off with $125M series B for bubble-based genetic delivery</a>",
+        "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-sonothera-sounds-125m-series-b-bubble-based-genetic-delivery",
+        "summary": "Bay Area biotech SonoThera is bubbling to a clinical boil after raising a $125 million series B with the backing of some of the biggest names in pharma.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 10:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ethyreal-bio-manifests-101m-pack-biotechs-gunning-amgens-tepezza\" hreflang=\"en\">Ethyreal Bio manifests with $101M in pack of biotechs gunning for Amgen’s Tepezza</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ethyreal-bio-manifests-101m-pack-biotechs-gunning-amgens-tepezza",
+        "summary": "Ethyreal Bio has exited stealth with $101 million, joining the queue of companies preparing to challenge Amgen’s Tepezza.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Ethyreal emerges with $101M; City secures nearly $100M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-sticks-2nd-deal-molecular-glue-biotech-orionis-worth-14b\" hreflang=\"en\">Novartis sticks 2nd deal with molecular glue biotech Orionis, this one worth up to $1.4B</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-sticks-2nd-deal-molecular-glue-biotech-orionis-worth-14b",
+        "summary": "Novartis has stuck on a second deal with Orionis Biosciences, this time handing $40 million upfront to the molecular glue biotech to work on “challenging therapeutic targets across multiple disease areas.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 8:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cancer-focused-parabilis-upsized-670m-ipo-breaks-new-record-biotechs\" hreflang=\"en\">Cancer-focused Parabilis’ upsized $670M IPO breaks new record for biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cancer-focused-parabilis-upsized-670m-ipo-breaks-new-record-biotechs",
+        "summary": "Parabilis Medicines’ IPO has lived up to the hype—securing $670 million for the largest listing in the biotech sector’s history.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 4:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-halts-phase-3-autoimmune-trial-early-over-lackluster-efficacy\" hreflang=\"en\">Sanofi halts phase 3 autoimmune trial early over insufficient efficacy as pipeline woes continue</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-halts-phase-3-autoimmune-trial-early-over-lackluster-efficacy",
+        "summary": "Sanofi has stopped a phase 3 autoimmune clinical trial early after an interim analysis found the therapy was “unlikely to provide sufficient efficacy.” The setback eliminates one opportunity for a key late-phase program and continues the “bumpy ride” for Sanofi’s pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 4:25am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fueled-ma-and-partnerships-biotech-poised-continued-growth-ey\" hreflang=\"en\">Fueled by M&amp;A and partnerships, biotech is poised for continued growth: EY</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fueled-ma-and-partnerships-biotech-poised-continued-growth-ey",
+        "summary": "Biotech’s effervescent activity has allowed it to overcome headwinds and sustain momentum into 2026, as the volume and value of licensing and M&amp;A deals continues to increase. New IPOs and the recovery of venture capital funding are helping, as well.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 7:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cancer-biotech-parabilis-ups-ipo-plans-potentially-record-setting-637m\" hreflang=\"en\">Cancer biotech Parabilis ups IPO plans to potentially record-setting $637M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cancer-biotech-parabilis-ups-ipo-plans-potentially-record-setting-637m",
+        "summary": "Mere months after obesity biotech Kailera Therapeutics netted the biggest initial public offering the sector has ever seen, with a whopping $625 million, Parabilis Medicines has upsized its own IPO plans with the potential to eclipse that record.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 10:12am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-alzecure-alzheimers-asset-1b-biobucks\" hreflang=\"en\">Lilly moves deeper into Alzheimer’s research with AlzeCure licensing deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-alzecure-alzheimers-asset-1b-biobucks",
+        "summary": "Eli Lilly has signed a heavily backloaded agreement to license a gamma-secretase modulator treatment for Alzheimer's disease from AlzeCure Pharma for up to $1 billion biobucks.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 9:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "哈萨比斯最新震撼预言：留给旧世界的时间，不到2000天",
+        "url": "https://www.36kr.com/p/3846000916122114",
+        "summary": "留给人类的时间，可能不多了。",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 10 Jun 2026 01:42:54 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "从理想走向商业化：OpenAI加速布局超级应用与安全体系",
+        "url": "https://www.36kr.com/p/3845798901745926",
+        "summary": "对于整个 AI 行业而言，前沿技术想要长久发展，既不能脱离普惠大众的初心，也无法回避商业化的现实。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 09 Jun 2026 12:53:30 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "各地冒出的「睡眠体验馆」，如何接住5亿失眠星人",
+        "url": "https://www.36kr.com/p/3846588688910596",
+        "summary": "睡眠赛道抢跑季。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 10 Jun 2026 01:29:14 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+        "url": "https://www.36kr.com/p/3845899768760580",
+        "summary": "香港金管局总裁余伟文：跨境理财通3.0暂无落地时间表，额度、产品等多维度拓展空间可期",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 09 Jun 2026 12:48:30 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization in Olympiad-Level Combinatorics",
+        "url": "https://huggingface.co/papers/2606.10479",
+        "summary": "Combinatorics is central to Olympiad-level mathematical problem solving, requiring deep discrete reasoning, creative constructions, and rigorous structural insight. Recent evidence suggests that even today's strongest frontier models remain uneven on Olympiad combinatorics, revealing a gap in creative mathematical reasoning. We introduce ComBench, an Olympiad-level combinatorics benchmark for evaluating and diagnosing the combinatorial reasoning capabilities of large language models. ComBench contains 100 human-annotated competition-level problems organized around two complementary settings: a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-08T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2606.10968",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) has become standard for improving LLM reasoning. However, existing PPO-style trust-region mechanisms remain position-agnostic by enforcing uniform thresholds across all tokens independently. This pointwise treatment conflicts with autoregressive generation in two critical ways. First, uniform thresholds ignore autoregressive asymmetry. Early-stage deviations produce compounding sequence-level drift, causing static thresholds to under-regulate early divergence and excessively constrain late-stage exploration. Second, evaluating token-level d",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-08T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "In-Context Multiple Instance Learning",
+        "url": "https://huggingface.co/papers/2606.06458",
+        "summary": "Multiple Instance Learning (MIL) addresses problems where supervision is available at the level of bags of instances and has been successfully applied in fields ranging from computational pathology to satellite imagery. Nevertheless, existing algorithms struggle in the low-label regime that characterizes many real-world applications. Flexible models overfit and rigid ones fail to adapt to the task at hand. We show that pretraining an in-context learner with a Perceiver-style architecture on synthetic data yields a model that can solve new tasks from a handful of labeled bags. At inference time",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-04T13:50:32.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling",
+        "url": "https://huggingface.co/papers/2606.09707",
+        "summary": "As deep learning models scale, managing, inspecting, and modifying large checkpoints has become increasingly challenging. Researchers often need to alter model weights for layer restructuring, precision casting, low-rank factorization, and architectural debugging, yet these workflows often rely on fragile ad-hoc Python scripts. Here, we introduce BrainSurgery, a tool for robust and reproducible \"tensor surgery\" on neural network checkpoints, and provide a system demonstration covering four examples and three case studies from model upcycling to LoRA extraction. By abstracting storage formats a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-08T12:26:09.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "U-TTT: Towards Generalizable PET Image Denoising via Test-Time Training",
+        "url": "https://huggingface.co/papers/2606.11032",
+        "summary": "Existing deep learning models for Positron Emission Tomography (PET) image denoising often suffer from severe performance degradation under distribution shifts, fundamentally restricting their robust clinical deployment. This lack of generalization stems from the conventional paradigm of fixed-parameter models that cannot adapt to variations in test data (e.g., dose levels or scanner types) after training. To overcome this limitation and achieve robust generalization, we introduce U-TTT, a novel U-shaped model that integrates Test-Time Training (TTT) layers to dynamically adjust model paramete",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-08T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
+        "url": "https://huggingface.co/papers/2606.11129",
+        "summary": "We introduce WorldOlympiad, a benchmark for diagnosing video-based world models across physical faithfulness, geometric consistency, and interaction fidelity. While existing benchmarks often focus on visual quality, semantic alignment, or short-term temporal coherence, they provide limited insight into whether generated videos obey physical rules, preserve coherent 3D structure, and sustain controllable interactions over long horizons. To address this gap, WorldOlympiad decomposes world-model evaluation into three complementary dimensions. The physical track uses object segmentation and MLLM-a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-08T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T13:27:14.883967+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
+        "url": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/",
+        "summary": "STAT is tracking goals and promises of Robert F. Kennedy Jr. and his Make America Healthy Again movement — successes, incompletes, and fails.",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 00:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "An obesity drug deep-dive, and peptides move mainstream",
+        "url": "https://www.statnews.com/2026/06/11/an-obesity-drug-deep-dive-and-peptides-move-mainstream/",
+        "summary": "Can any of the new obesity medications in development stand out from the pack? Which company just broke records with its IPO? And will the Food and Drug Administration allow&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 20:26:14 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "RFK Jr. claims his calendar is publicly available. We’ve been trying to get it for a year",
+        "url": "https://www.statnews.com/2026/06/11/rfk-jr-cites-publicly-available-calendar-never-released-foia-requests/",
+        "summary": "None of STAT's requests for Kennedy's schedule have been completed, and some haven't even been acknowledged.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 19:53:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Drinking during pregnancy rose after 2020, new CDC data suggest",
+        "url": "https://www.statnews.com/2026/06/11/cdc-report-alcohol-pregnancy-growing-problem/",
+        "summary": "A new CDC report underscores that drinking during pregnancy, while generally thought of as a thing of the past, is still a matter of concern.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 19:38:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AMA and lawmakers push back on AI care denials",
+        "url": "https://www.statnews.com/2026/06/11/ama-lawmakers-push-back-ai-care-denials-health-tech/",
+        "summary": "In this edition of STAT Health Tech: HHS watchdog on denials by health insurers, lawmakers target AI denials, and Talkspace's new chatbot offering.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 19:25:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Nonprofit buys experimental cancer drug to maintain patient access",
+        "url": "https://www.statnews.com/2026/06/11/blood-cancer-united-buys-luvelta-compassionate-use/",
+        "summary": "In a rare move, nonprofit organization Blood Cancer United is buying the remaining supplies of a discontinued investigational cancer drug.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 18:33:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Study highlights influence of socioeconomic status on children’s brain development",
+        "url": "https://www.statnews.com/2026/06/11/socioeconomic-status-impact-brain-development/",
+        "summary": "A new study found that the leading environmental factor influencing brain structure and function is the socioeconomic status of a child's family.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 18:17:01 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Abridge inks deals with Nvidia and Lilly",
+        "url": "https://www.statnews.com/2026/06/11/abridge-inks-deals-with-nvidia-and-lilly/",
+        "summary": "Abridge announced new deals with Eli Lilly and Nvidia as it aims to gain an edge in a competitive market.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 17:06:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
+        "url": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/",
+        "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 14:55:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novartis doubles down on molecular glue strategy",
+        "url": "https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/",
+        "summary": "Seniors' drug costs rise sharply, Enliven's leukemia drugs, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 14:11:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about employer coverage of obesity drugs, another Sanofi setback, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/11/employer-overage-of-obesity-drugs-another-sanofi-setback/",
+        "summary": "More employers are planning to drop coverage of GLP-1 drugs for weight loss next year as increasing numbers of people take the medications",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 13:21:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ‘Synthetic lethality’ could trigger another round of biotech M&A",
+        "url": "https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/",
+        "summary": "Proving out a \"synthetic lethality\" approach can help treat cancer will take a lot more work. It also might trigger some creative deal-making.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 12:05:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Enliven Therapeutics’ leukemia drug shows promise in new study",
+        "url": "https://www.statnews.com/2026/06/11/enliven-therapeutics-leukemia-drug-shows-promise/",
+        "summary": "A targeted drug from Enliven Therapeutics induced molecular responses in nearly half of patients with advanced leukemia, new data show.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 12:05:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "HHS responds coolly to paper on alcohol risk",
+        "url": "https://www.statnews.com/2026/06/11/health-news-hhs-responds-to-paper-on-alcohol-risk/",
+        "summary": "Soda and liver cancer, scientists conflicted on a new NIH proposal, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 11:55:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Scientists see promise in NIH proposal to cap number of grants they receive",
+        "url": "https://www.statnews.com/2026/06/11/nih-grant-cap-proposal-science-policy-experts-react/",
+        "summary": "Without easy access to leaders within a field or top-of-the-line lab equipment, principal investigators outside top universities often struggle to compete for grants from the NIH.",
+        "source": "STAT News",
+        "published": "Thu, 11 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/healthcare-costs-poised-jump-9-2027-health-plans-blame-ai-adoption-drug-prices\" hreflang=\"en\">Healthcare costs poised to jump 9% in 2027 as health plans blame AI adoption, drug prices</a>",
+        "url": "https://www.fiercehealthcare.com/payers/healthcare-costs-poised-jump-9-2027-health-plans-blame-ai-adoption-drug-prices",
+        "summary": "Health plans are projecting the highest medical cost trend in nearly two decades in 2027, with commercial health costs expected to rise 9%, according to a new analysis from PwC.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 4:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/partners-launch-remote-patient-monitoring-solution-support-pharmacies\" hreflang=\"en\">Virtual care tech companies launch 'out-of-the-box' RPM tool for pharmacies</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/partners-launch-remote-patient-monitoring-solution-support-pharmacies",
+        "summary": "The program's goal is to empower pharmacies, particularly independent ones in rural areas, to oversee and support chronic care patients between scheduled office visits.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules\" hreflang=\"en\">Provider groups file lawsuit against HHS over anti-trans Ryan White funding rules</a>",
+        "url": "https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules",
+        "summary": "The new funding requirements mandate recipients of Ryan White funds to not acknowledge the identities of trans patients or use funds for gender-affirming care.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 2:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center\" hreflang=\"en\">AI use is surging across HHS, jumping 148% at the FDA in 2025,  Bipartisan Policy Center data finds</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center",
+        "summary": "There was a big uptick in the use of AI across all HHS agencies in 2025, though analysts note some use cases may “reflect new reporting requirements instead of new deployments.\"",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 1:05pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-sell-minority-stake-end-life-care-provider-gentiva\" hreflang=\"en\">Humana to sell off minority stake in end-of-life care provider Gentiva</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-sell-minority-stake-end-life-care-provider-gentiva",
+        "summary": "Humana announced this week that it intends to divest its minority stake in Gentiva, the largest provider of end-of-life care in the country.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 2:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/oig-look-ma-prior-authorization-denials-long-term-care-hospitals-inpatient-rehab\" hreflang=\"en\">OIG: Frequent MA prior authorization denials for long-term care hospitals, inpatient rehab</a>",
+        "url": "https://www.fiercehealthcare.com/payers/oig-look-ma-prior-authorization-denials-long-term-care-hospitals-inpatient-rehab",
+        "summary": "A new federal watchdog report dings the three largest Medicare Advantage insurers for frequent prior authorization denials for long-term care hospital and inpatient rehabilitation stays. Another found that initial denials among skilled-nursing facilities were near-unanimously overturned.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 12:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/medicaid-work-requirement-exemptions-ai-safeguards-coverage-decisions-look-new-ama\" hreflang=\"en\">From Medicaid work requirement exemptions to AI safeguards in coverage: New AMA policies from annual meeting</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/medicaid-work-requirement-exemptions-ai-safeguards-coverage-decisions-look-new-ama",
+        "summary": "The organization released a series of new policy announcements, alongside a new president-elect, at its Annual Meeting of the House of Delegates.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 11:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/abridge-expands-payment-research-workflows-build-out-full-scale-ai-clinical-assistant\" hreflang=\"en\">Abridge picks up strategic investment from Eli Lilly, expands payer, research workflows</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/abridge-expands-payment-research-workflows-build-out-full-scale-ai-clinical-assistant",
+        "summary": "Abridge secured a strategic investment from Eli Lilly and unveiled a major platform expansion to integrate payer and life sciences workflows. Described as an \"AI-native clinician intelligence platform,\" Abridge says it now connects care delivery, payment and evidence-based treatment.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 4:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-associations-push-cms-higher-2027-pay-bump-softer-ramp-mandatory-model\" hreflang=\"en\">Hospital associations push CMS for higher 2027 pay bump, softer ramp-up for mandatory model</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-associations-push-cms-higher-2027-pay-bump-softer-ramp-mandatory-model",
+        "summary": "Public comments submitted this week rule skewered a proposed 2.4% net rate increase as insufficient in light of substantial financial headwinds. An accompanying mandatory expansion of a tested episode-based payment model, the CJR-X Model, was also flatly opposed.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 11:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders— R1 taps former Humana exec as new CIO; Xealth names new chief revenue officer</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/ahip-2026-why-ascendiun-ceo-paul-markovich-bullish-building-out-digital-health-record\" hreflang=\"en\">AHIP 2026: Why Ascendiun CEO Paul Markovich is bullish on building out a digital health record for patients</a>",
+        "url": "https://www.fiercehealthcare.com/payers/ahip-2026-why-ascendiun-ceo-paul-markovich-bullish-building-out-digital-health-record",
+        "summary": "LAS VEGAS — If Ascendiun CEO Paul Markovich could eliminate one buzzword from the healthcare dictionary, it would be \"interoperability.\"",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 9:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ardent-healths-surprise-ceo-change-reflects-need-margin-focus-amid-headwinds-cfo-says\" hreflang=\"en\">Ardent Health's surprise CEO change reflected need for margin focus amid headwinds, CFO says </a>",
+        "url": "https://www.fiercehealthcare.com/providers/ardent-healths-surprise-ceo-change-reflects-need-margin-focus-amid-headwinds-cfo-says",
+        "summary": "CFO Alfred Lumsdaine described the board's decision to immediately promote COO Dave Caspers as \"proactive, not reactive\" as inflationary and policy pressures mount. He also suggested that the softened patient volumes its seen during Q2 likely extend beyond Ardent's markets.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 2:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/not-simply-saving-cost-inside-astellas-ceo-5-year-strategy-counter-xtandi-patent-cliff\" hreflang=\"en\">‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff</a>",
+        "url": "https://www.fiercebiotech.com/pharma/not-simply-saving-cost-inside-astellas-ceo-5-year-strategy-counter-xtandi-patent-cliff",
+        "summary": "Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 12:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-executes-another-round-layoffs-3-vps-axed\" hreflang=\"en\">Genentech executes another round of layoffs, with 3 VPs axed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-executes-another-round-layoffs-3-vps-axed",
+        "summary": "Genentech vice presidents Vishva Dixit, Man-Wah Tan and Todd McDevitt are among the casualties in another round of layoffs from the South San Francisco subsidiary of Roche. The departures are part of a restructuring of the Genentech Research and Early Development (gRED) group. The company did not reveal how many positions are being affected.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 2:09pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center\" hreflang=\"en\">AI use is surging across HHS, jumping 148% at the FDA in 2025,  Bipartisan Policy Center data finds</a>",
+        "url": "https://www.fiercebiotech.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center",
+        "summary": "There was a big uptick in the use of AI across all HHS agencies in 2025, though analysts note some use cases may “reflect new reporting requirements instead of new deployments.\"",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 1:05pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/novo-reports-cybersecurity-breach-tells-clinical-trial-patients-remain-vigilant\" hreflang=\"en\">Novo reports data breach, tells clinical trial patients to 'remain vigilant'</a>",
+        "url": "https://www.fiercebiotech.com/pharma/novo-reports-cybersecurity-breach-tells-clinical-trial-patients-remain-vigilant",
+        "summary": "As cybersecurity threats have proliferated across industries in recent years, biopharma companies have emerged as prominent targets, with intellectual property, patient data and other sensitive information at stake. Now, Novo Nordisk is the latest drug giant to report a data breach.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 12:45pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-garners-eu-approval-label-expansions-companion-dx-platform\" hreflang=\"en\">Roche nabs EU approval on label expansions for companion dx platform</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-garners-eu-approval-label-expansions-companion-dx-platform",
+        "summary": "Roche received approval through the EU’s In Vitro diagnostic regulation for several label expansions of its companion diagnostic platform that can identify a cancer patient's mismatch repair (MMR) status.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 9:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cardiovascular-focused-kardigan-plans-bring-cozy-320m-haul-upcoming-ipo\" hreflang=\"en\">Cardiovascular-focused Kardigan plans to bring in cozy $320M haul from upcoming IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cardiovascular-focused-kardigan-plans-bring-cozy-320m-haul-upcoming-ipo",
+        "summary": "Kardigan has sewn up its IPO plans, with the cardiovascular biotech expecting to bring in a cozy $320 million from its planned Nasdaq listing.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 7:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/predicta-links-spanish-university-offer-diagnostic-blood-cancers\" hreflang=\"en\">Predicta links with Spanish university to offer diagnostic for blood cancers</a>",
+        "url": "https://www.fiercebiotech.com/medtech/predicta-links-spanish-university-offer-diagnostic-blood-cancers",
+        "summary": "Predicta Biosciences, a precision oncology specialist, is teaming with the Clínica Universidad de Navarra’s CIMA Lab Diagnostics clinic to offer an assay focused on blood cancers.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 8:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/caribou-boosts-case-shelf-car-t-matches-autologous-drugs-ahead-phase-3\" hreflang=\"en\">Caribou boosts case that off-the-shelf CAR-T matches autologous drugs ahead of phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/caribou-boosts-case-shelf-car-t-matches-autologous-drugs-ahead-phase-3",
+        "summary": "Caribou Biosciences has linked its CAR-T cell therapy candidate to 17.1-month median progression-free survival, adding to evidence that the off-the-shelf treatment can match the efficacy of autologous products in lymphoma patients.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 5:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/if-thats-not-acceleration-i-dont-know-what-novo-nordisk-ceo-doustdar-talks-leadership-new\" hreflang=\"en\">‘I’m a lot more optimistic today’: Mike Doustdar tells Fierce about pivotal first year as Novo Nordisk CEO </a>",
+        "url": "https://www.fiercebiotech.com/pharma/if-thats-not-acceleration-i-dont-know-what-novo-nordisk-ceo-doustdar-talks-leadership-new",
+        "summary": "Novo Nordisk CEO Mike Doustdar told Fierce in an interview that he always believed the Big Pharma “did actually need to become more competitive.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 2:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takedas-tyk2-inhibitor-beats-bristol-myers-sotyktu-psoriasis-showdown\" hreflang=\"en\">Takeda’s TYK2 inhibitor beats Bristol Myers’ Sotyktu in phase 3 psoriasis showdown</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takedas-tyk2-inhibitor-beats-bristol-myers-sotyktu-psoriasis-showdown",
+        "summary": "Takeda has won the battle of the TYK2 inhibitors, toppling Bristol Myers Squibb’s Sotyktu to strengthen its hand ahead of an anticipated plaque psoriasis launch next year.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 3:02am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-heading-uk-host-event-amid-london-life-sciences-week\" hreflang=\"en\">Fierce Biotech heading to UK to host event amid London Life Sciences Week</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-heading-uk-host-event-amid-london-life-sciences-week",
+        "summary": "Fierce Biotech is returning to the U.K. in November for a day of curated discussions and networking at The Savoy, London’s iconic hotel.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 4:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/executive-assistant-chief-executive-charles-river-ceo-birgit-girshick-next-big-transition-cro\" hreflang=\"en\">From executive assistant to chief executive: Charles River CEO Birgit Girshick on ‘the next big transition’ in the CRO industry</a>",
+        "url": "https://www.fiercebiotech.com/cro/executive-assistant-chief-executive-charles-river-ceo-birgit-girshick-next-big-transition-cro",
+        "summary": "When Charles River Laboratories CEO Birgit Girshick started her career as an executive assistant with the company in Germany in 1989, she didn’t know what was possible for her career in the world of biotech. She did know she wanted to make a difference.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 3:48pm",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching",
+        "url": "https://huggingface.co/papers/2601.05212",
+        "summary": "Brain Magnetic Resonance Imaging (MRI) plays a central role in studying neurological development, aging, and diseases. One key application is Brain Age Prediction (BAP), which estimates an individual's biological brain age from MRI data. Effective BAP models require large, diverse, and age-balanced datasets, whereas existing 3D MRI datasets are demographically skewed, limiting fairness and generalizability. Acquiring new data is costly and ethically constrained, motivating generative data augmentation. Current generative methods are often based on latent diffusion models, which operate in lear",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-07T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2606.03108",
+        "summary": "Autonomous LLM training is often framed as recipe search, which leaves the training harness largely static. This limitation sharpens in agentic RL, where shifting bottlenecks and scalar rewards mask diverse failure modes. We introduce EvoTrainer, an autonomous training framework that co-evolves LLM policies and training-side harnesses through empirical feedback: it diagnoses rollout-level evidence, revises diagnostics, backtests interventions, and accumulates reusable skills. Evaluated on mathematical reasoning, competitive-programming code generation, and repository-level software engineering",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization in Olympiad-Level Combinatorics",
+        "url": "https://huggingface.co/papers/2606.10479",
+        "summary": "Combinatorics is central to Olympiad-level mathematical problem solving, requiring deep discrete reasoning, creative constructions, and rigorous structural insight. Recent evidence suggests that even today's strongest frontier models remain uneven on Olympiad combinatorics, revealing a gap in creative mathematical reasoning. We introduce ComBench, an Olympiad-level combinatorics benchmark for evaluating and diagnosing the combinatorial reasoning capabilities of large language models. ComBench contains 100 human-annotated competition-level problems organized around two complementary settings: a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-08T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

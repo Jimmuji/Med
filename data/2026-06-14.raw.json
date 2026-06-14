@@ -1,0 +1,334 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T13:26:13.611462+08:00",
+  "counts": {
+    "news": 37,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
+        "url": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/",
+        "summary": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER.",
+        "source": "STAT News",
+        "published": "Sat, 13 Jun 2026 13:22:44 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
+        "url": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/",
+        "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview.",
+        "source": "STAT News",
+        "published": "Sat, 13 Jun 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73",
+        "url": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/",
+        "summary": "\"There are some physicians that work to 100”: Dawn Zuidgeest-Craft on becoming a medical doctor in her 70s.",
+        "source": "STAT News",
+        "published": "Sat, 13 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump administration revisits policy to close Medicare drug price negotiation loophole",
+        "url": "https://www.statnews.com/2026/06/12/medicare-drug-price-negotiation-loophole-proposed-rule/",
+        "summary": "Trump administration revisits policy to plug Medicare drug price negotiation loophole.",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 21:45:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/06/12/up-and-down-the-ladder-job-changes-astrazeneca-bayer/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 15:04:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Prometheus raises $12 billion in capital for artificial engineers",
+        "url": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/",
+        "summary": "Nonprofit Blood Cancer United acquires cancer drug, Lilly and Nvidia invest in Abridge, and more biotech news",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 14:09:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a discontinued cancer drug, a Novo security breach, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/12/nonprofit-buys-discontinued-cancer-drug-novo-security-breach/",
+        "summary": "The nonprofit Blood Cancer United is buying the remaining supplies of a discontinued investigational cancer drug, Luvelta",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 13:22:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Chile offers new data on food warning label efficacy",
+        "url": "https://www.statnews.com/2026/06/12/health-news-chile-offers-new-data-on-food-warning-label-efficacy/",
+        "summary": "Kennedy's \"publicly\" \"available\" \"calendar,\" drinking during pregnancy, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 11:51:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
+        "url": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/",
+        "summary": "Hospital execs agree that affordability is a major issue. What to do about it is less clear.",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Ebola outbreak response requires engaging with religious traditions and leaders",
+        "url": "https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/",
+        "summary": "“Failing to engage religious and traditional leaders in meaningful ways was a grave misstep in previous Ebola outbreaks,” researchers write.",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
+        "url": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/",
+        "summary": "“American science is too valuable to be turned into a political football,” writes David J. Skorton, president of the Association of American Medical Colleges.",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How a diabetes conference sparked a controversy",
+        "url": "https://www.statnews.com/2026/06/12/ada-convention-controversy-explored-status-report-alex-hogan/",
+        "summary": "Many in the diabetes research community expressed shock and disbelief that their colleagues were threatened with arrest for passing out paper copies of an editorial.",
+        "source": "STAT News",
+        "published": "Fri, 12 Jun 2026 08:05:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law\" hreflang=\"en\">Express Scripts files suit to challenge Tennessee PBM law</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law",
+        "summary": "On the heels of a legal challenge from CVS, Express Scripts has also sued to challenge Tennessee's new pharmacy benefit management law.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 1:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-proposes-permanent-framework-medicare-drug-price-negotiations\" hreflang=\"en\">CMS proposes permanent framework for Medicare drug price negotiations</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-permanent-framework-medicare-drug-price-negotiations",
+        "summary": "The Trump administration is floating a proposal to establish a permanent framework for the Medicare drug price negotiations, as enabled by the Inflation Reduction Act (IRA).",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 5:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/optum-rx-ftc-posed-settlement-insulin-pricing-case\" hreflang=\"en\">Optum Rx, FTC posed for settlement in insulin pricing case</a>",
+        "url": "https://www.fiercehealthcare.com/payers/optum-rx-ftc-posed-settlement-insulin-pricing-case",
+        "summary": "The Federal Trade Commission may be winding down its ongoing insulin case against the three largest pharmacy benefit managers, as court docs suggest the agency has reached an agreement with Optum Rx.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 5:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/nvidia-abridge-collaborate-develop-healthcare-specific-ai-model\" hreflang=\"en\">Nvidia, Abridge collaborate to develop healthcare-specific AI model</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nvidia-abridge-collaborate-develop-healthcare-specific-ai-model",
+        "summary": "Chip giant Nvidia is working with startup Abridge to train a healthcare-specific artificial intelligence foundation model tailored to clinical conversations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 11:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/special-reports/healthcare-conferences-put-your-calendar-2024-2025\" hreflang=\"en\">Healthcare conferences to put on your calendar for 2026-2027</a>",
+        "url": "https://www.fiercehealthcare.com/special-reports/healthcare-conferences-put-your-calendar-2024-2025",
+        "summary": "Here's our roundup of some of the top events in healthcare scheduled in 2026 and 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 27, 2024 12:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/mercer-survey-employers-eye-cost-shifting-strategies-health-benefit-spend-rises\" hreflang=\"en\">Mercer survey: Employers eye cost-shifting strategies as health benefit spend rises</a>",
+        "url": "https://www.fiercehealthcare.com/payers/mercer-survey-employers-eye-cost-shifting-strategies-health-benefit-spend-rises",
+        "summary": "As medical costs continue to rise, employers are weighing a return to policies that shift additional expense to workers, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 12:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-karias-health-launches-ai-companion-mount-sinai-wisp-partner-expand-prep\" hreflang=\"en\">Weekly Rundown: Karias Health launches AI companion; Mount Sinai, Wisp partner to expand PrEP access in NY </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-karias-health-launches-ai-companion-mount-sinai-wisp-partner-expand-prep",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 4:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Cuts at two Ardent Healthcare systems; UPMC lays off 200</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-why-health-systems-need-physicians-engaged-it-leadership\" hreflang=\"en\">Industry Voices—Why health systems need physicians engaged in IT leadership</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-why-health-systems-need-physicians-engaged-it-leadership",
+        "summary": "The next decade of healthcare transformation will be defined by health systems that bring together clinicians, CIOs and IT leaders as true partners in shaping technology, writes Phoenix Children's associate CMIO.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 10:58am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/healthcare-costs-poised-jump-9-2027-health-plans-blame-ai-adoption-drug-prices\" hreflang=\"en\">Healthcare costs poised to jump 9% in 2027 as health plans blame AI adoption, drug prices</a>",
+        "url": "https://www.fiercehealthcare.com/payers/healthcare-costs-poised-jump-9-2027-health-plans-blame-ai-adoption-drug-prices",
+        "summary": "Health plans are projecting the highest medical cost trend in nearly two decades in 2027, with commercial health costs expected to rise 9%, according to a new analysis from PwC.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 4:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/partners-launch-remote-patient-monitoring-solution-support-pharmacies\" hreflang=\"en\">Virtual care tech companies launch 'out-of-the-box' RPM tool for pharmacies</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/partners-launch-remote-patient-monitoring-solution-support-pharmacies",
+        "summary": "The program's goal is to empower pharmacies, particularly independent ones in rural areas, to oversee and support chronic care patients between scheduled office visits.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules\" hreflang=\"en\">Provider groups file lawsuit against HHS over anti-trans Ryan White funding rules</a>",
+        "url": "https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules",
+        "summary": "The new funding requirements mandate recipients of Ryan White funds to not acknowledge the identities of trans patients or use funds for gender-affirming care.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 2:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-23b-ajax-deal-first-clinical-data-jak-inhibitor-works-right-out-gate\" hreflang=\"en\">Lilly unveils first clinical data behind $2.3B Ajax deal, showing JAK inhibitor works ‘right out of the gate’ </a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-23b-ajax-deal-first-clinical-data-jak-inhibitor-works-right-out-gate",
+        "summary": "Eli Lilly’s up-to-$2.3 billion acquisition of Ajax Therapeutics is facing its first major public test, and the initial clinical data show why the pharma giant made the bet.",
+        "source": "Fierce Biotech",
+        "published": "Jun 12, 2026 9:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-two-record-setting-biotech-ipos-public-markets-are-back\" hreflang=\"en\">‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-two-record-setting-biotech-ipos-public-markets-are-back",
+        "summary": "Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.",
+        "source": "Fierce Biotech",
+        "published": "Jun 12, 2026 9:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ipsen-rd-chief-pipeline-discipline-partnerships-and-2026-milestones\" hreflang=\"en\">Ipsen R&amp;D chief on pipeline discipline, partnerships and 2026 milestones</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ipsen-rd-chief-pipeline-discipline-partnerships-and-2026-milestones",
+        "summary": "Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&amp;D, sits down with Fierce Healthcare &amp; Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 4:20pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/guardant-health-nabs-fda-test-approval-find-patients-boehringers-new-cancer-drug\" hreflang=\"en\">Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug</a>",
+        "url": "https://www.fiercebiotech.com/medtech/guardant-health-nabs-fda-test-approval-find-patients-boehringers-new-cancer-drug",
+        "summary": "Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.",
+        "source": "Fierce Biotech",
+        "published": "Jun 12, 2026 2:32am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-perrigo-ceo-ousted-over-personal-conduct\" hreflang=\"en\">Chutes &amp; Ladders—Perrigo CEO ousted over ‘personal conduct’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-perrigo-ceo-ousted-over-personal-conduct",
+        "summary": "Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive&nbsp;Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member&nbsp;Albert Manzone&nbsp;is stepping up to replace the CEO in the interim as the board searches for a permanent successor.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 4:07pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-data-tee-regulatory-talks-about-asset-12b-avidity-takeover\" hreflang=\"en\">Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-data-tee-regulatory-talks-about-asset-12b-avidity-takeover",
+        "summary": "Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.",
+        "source": "Fierce Biotech",
+        "published": "Jun 12, 2026 3:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/not-simply-saving-cost-inside-astellas-ceo-5-year-strategy-counter-xtandi-patent-cliff\" hreflang=\"en\">‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff</a>",
+        "url": "https://www.fiercebiotech.com/pharma/not-simply-saving-cost-inside-astellas-ceo-5-year-strategy-counter-xtandi-patent-cliff",
+        "summary": "Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 12:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-executes-another-round-layoffs-3-vps-axed\" hreflang=\"en\">Genentech executes another round of layoffs, with 3 VPs axed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-executes-another-round-layoffs-3-vps-axed",
+        "summary": "Genentech vice presidents Vishva Dixit, Man-Wah Tan and Todd McDevitt are among the casualties in another round of layoffs from the South San Francisco subsidiary of Roche. The departures are part of a restructuring of the Genentech Research and Early Development (gRED) group. The company did not reveal how many positions are being affected.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 2:09pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center\" hreflang=\"en\">AI use is surging across HHS, jumping 148% at the FDA in 2025,  Bipartisan Policy Center data finds</a>",
+        "url": "https://www.fiercebiotech.com/ai-and-machine-learning/all-hhs-agencies-saw-ai-use-case-increases-fy-2025-bipartisan-policy-center",
+        "summary": "There was a big uptick in the use of AI across all HHS agencies in 2025, though analysts note some use cases may “reflect new reporting requirements instead of new deployments.\"",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 1:05pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/novo-reports-cybersecurity-breach-tells-clinical-trial-patients-remain-vigilant\" hreflang=\"en\">Novo reports data breach, tells clinical trial patients to 'remain vigilant'</a>",
+        "url": "https://www.fiercebiotech.com/pharma/novo-reports-cybersecurity-breach-tells-clinical-trial-patients-remain-vigilant",
+        "summary": "As cybersecurity threats have proliferated across industries in recent years, biopharma companies have emerged as prominent targets, with intellectual property, patient data and other sensitive information at stake. Now, Novo Nordisk is the latest drug giant to report a data breach.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 12:45pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Genentech trims R&amp;D; Fulcrum shrinks headcount 85%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-garners-eu-approval-label-expansions-companion-dx-platform\" hreflang=\"en\">Roche nabs EU approval on label expansions for companion dx platform</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-garners-eu-approval-label-expansions-companion-dx-platform",
+        "summary": "Roche received approval through the EU’s In Vitro diagnostic regulation for several label expansions of its companion diagnostic platform that can identify a cancer patient's mismatch repair (MMR) status.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 9:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "未来医疗的世界坐标系：从可计算的生命，到稀缺的转化层",
+        "url": "https://www.36kr.com/p/3850000597210375",
+        "summary": "追问医学范式迁移：当生命科学的上游正变得越来越“可计算”，下游的医疗与健康服务，还能否继续停留在“事后应对疾病”的旧逻辑里。",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 12 Jun 2026 09:48:26 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+        "url": "https://huggingface.co/papers/2606.12451",
+        "summary": "Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture specialized tool semantics, parametric tool retrieval addresses this by encoding each tool as a virtual token appended to the LLM vocabulary, fine-tuned in two stages (memorization then retrieval SFT) to use the LLM as a retriever, achieving strong performance on standard ToolBench retrieval benchmarks. Yet these benchmarks use verbose, fully-specified queries, and their evaluation applies constraine",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-03T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
+        "url": "https://huggingface.co/papers/2606.13572",
+        "summary": "Multimodal Large Language Models (MLLMs) have shown promising reasoning capabilities in general domains, yet their performance remains limited in specialized settings such as healthcare, especially in multilingual and low-resource scenarios. This gap is critical in regions like rural India, where patients often express complex medical queries in native Indic languages and rely on multimodal inputs such as medical images. Existing English-centric MLLMs struggle to support such use cases, limiting equitable access to AI-driven healthcare assistance. To address this challenge, we introduce Arogya",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-10T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback",
+        "url": "https://huggingface.co/papers/2606.06113",
+        "summary": "Despite generating increasingly photorealistic images, text-to-image (T2I) models still exhibit localized, subtle, and structurally complex failures. Diagnosing these failures requires instance-level feedback that answers where a defect occurs, what type it is, why it is defective, and its importance to overall image quality. While recent dense-feedback methods move beyond scalar supervision, their heatmap-centric representations still formulate diagnosis as pixel-field regression, making it difficult to localize variable-cardinality defects and bind semantic reasons to individual failures. To",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-03T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

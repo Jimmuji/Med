@@ -1,0 +1,334 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T14:27:29.668645+08:00",
+  "counts": {
+    "news": 38,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
+        "url": "https://www.statnews.com/pharmalot/2026/06/15/colorado-drug-imports-canada/",
+        "summary": "The FDA said it will allow Colorado to import certain prescription drugs from Canada in an effort to bring prices down for residents.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 18:19:20 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
+        "url": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/",
+        "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 15:25:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A key European clinical trial registry lacks complete and timely results, an analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/06/15/european-clinical-trial-registry-results-analysis/",
+        "summary": "A new analysis found that results for less than half of the clinical studies registered in a key European database were reported within the required time frame.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 15:04:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Covid vaccination cut risk of adverse heart events, large study finds",
+        "url": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/",
+        "summary": "Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 15:01:52 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
+        "url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/",
+        "summary": "A syphilis drug shortage, Sanofi's diabetes drug approval, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 13:36:34 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/",
+        "summary": "Pfizer hasn't complied with a request to donate emergency penicillin to state health agencies as a backstop to prevent congenital syphilis",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 13:22:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Where ‘democracy met science,’ 50 years ago",
+        "url": "https://www.statnews.com/2026/06/15/health-news-cambridge-recombinant-dna-anniversary/",
+        "summary": "State Medicaid crackdowns strain home care, WHO leader on Ebola outbreak, and more health news",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 11:56:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "As states follow Trump’s Medicaid fraud playbook, people with disabilities struggle to find care",
+        "url": "https://www.statnews.com/2026/06/15/medicaid-caregivers-state-pay-people-with-disabilities/",
+        "summary": "Medicaid cuts and fraud crackdown trickle down to states, threatening people with disabilities.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Amid confusion over Pfizer’s emergency penicillin program, newborn is diagnosed with preventable syphilis",
+        "url": "https://www.statnews.com/2026/06/15/pfizer-bicillin-shortage-preventable-congenital-syphilis-surging/",
+        "summary": "Congenital syphilis should be preventable. An Arizona case shows how drug shortages and procedural hurdles are fueling a growing public health crisis.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: One California politician’s unexpected crusade against ultra-processed food",
+        "url": "https://www.statnews.com/2026/06/15/jesse-gabriel-ultra-processed-food-california-laws-national-impact/",
+        "summary": "Jesse Gabriel \"has passed more food policy in three years than most legislators enact in their entire careers,\" says one supporter.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m a pediatrician. I want to prescribe the right AI to my patients",
+        "url": "https://www.statnews.com/2026/06/15/ai-children-screen-time-pediatrician-prescription-guidance/",
+        "summary": "AI for children requires “randomized controlled trials measuring real developmental outcomes, not engagement metrics,” writes Dua Hassan.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: In many South Asian American families, a child’s autism diagnosis is a secret",
+        "url": "https://www.statnews.com/2026/06/15/autism-diagnosis-south-asian-american-families-stigma/",
+        "summary": "“In South Asian households, a child's disability triggers a specific kind of family crisis,” writes child and adolescent psychiatrist Ritu Goel.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-offering-staff-buyouts-navigates-murky-aca-waters\" hreflang=\"en\">Centene offering staff buyouts as it navigates murky ACA waters</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-offering-staff-buyouts-navigates-murky-aca-waters",
+        "summary": "Centene will offer buyouts to employees as it navigates a significant membership decline, a spokesperson confirmed to Fierce Healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/kff-insurer-participation-aca-marketplaces-declined-2025-2026\" hreflang=\"en\">KFF: Insurer participation in the ACA marketplaces declined from 2025 to 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/kff-insurer-participation-aca-marketplaces-declined-2025-2026",
+        "summary": "The number of insurers offering plans on the Affordable Care Act's marketplaces declined between 2025 and 2026, with more payers poised for an exit ahead of the 2027 plan year, according to a new analysis.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule\" hreflang=\"en\">Judge tosses multiple provisions of CMS' 2025 ACA program integrity rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule",
+        "summary": "A federal judge has vacated several key components of a controversial 2025 program integrity rule for the Affordable Care Act's marketplaces.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 2:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/47-us-adults-say-corp-health-insurers-are-primary-drivers-rising-health-costs-coalition\" hreflang=\"en\">47% of US adults say corporate health insurers ‘primary drivers’ of rising health costs</a>",
+        "url": "https://www.fiercehealthcare.com/finance/47-us-adults-say-corp-health-insurers-are-primary-drivers-rising-health-costs-coalition",
+        "summary": "Though 47% of respondents point the finger at corporate health insurers, respondents also selected the federal government (36%) and drug companies (34%) as primary drivers in rising costs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 12:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cms-creates-new-health-tech-office-lead-interoperability-efforts-digital-products\" hreflang=\"en\">CMS creates new health tech office to lead interoperability efforts, digital products</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cms-creates-new-health-tech-office-lead-interoperability-efforts-digital-products",
+        "summary": "The Centers for Medicare and Medicaid Services (CMS) aims to play a bigger role in health tech modernization efforts, including leading interoperability initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 11:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/yale-new-haven-health-system-deploys-rad-ai-solutions-across-its-network-microsoft\" hreflang=\"en\"> Yale New Haven Health System deploys Rad AI solutions across its network as Microsoft sunsets PowerScribe 360 </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/yale-new-haven-health-system-deploys-rad-ai-solutions-across-its-network-microsoft",
+        "summary": "Yale New Haven Health System is deploying Rad AI solutions across its imaging network, spanning more than 16 outpatient imaging centers and five hospital campuses.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 3:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/cedars-voice-ai-agent-has-handled-nearly-400k-patient-calls-april-2025\" hreflang=\"en\">Cedar’s voice AI agent has handled nearly 400K patient calls since April 2025 launch</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/cedars-voice-ai-agent-has-handled-nearly-400k-patient-calls-april-2025",
+        "summary": "At Gastro Health, executives report a 24% reduction in live agent handle time since implementing the solution.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 10:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/how-transparency-redefining-payment-integrity\" hreflang=\"en\">How transparency is redefining payment integrity</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/how-transparency-redefining-payment-integrity",
+        "summary": "What rising expectations from health plans reveal about the next era of payment integrity leadership.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 1:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/instride-health-lands-30m-series-c-expand-pediatric-mental-health-services\" hreflang=\"en\">InStride Health lands $30M series C to expand pediatric mental health services</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/instride-health-lands-30m-series-c-expand-pediatric-mental-health-services",
+        "summary": "InStride Health, a provider of specialty mental healthcare to children, teens and young adults, landed $30 million in series C funding to fuel its growth as it expands to new markets and broadens its network of payer partners.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 14, 2026 8:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/why-one-health-system-invested-its-pbm-glp-1-costs-surged\" hreflang=\"en\">Why one health system invested in its PBM as GLP-1 costs surged</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/why-one-health-system-invested-its-pbm-glp-1-costs-surged",
+        "summary": "How RxSense helped a health system invest in its own PBM and take control of rising GLP-1 costs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 12:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/healthcare-ai-works-better-clear-roles-and-honest-limits\" hreflang=\"en\">Healthcare AI Works Better with Clear Roles and Honest Limits</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/healthcare-ai-works-better-clear-roles-and-honest-limits",
+        "summary": "In healthcare, building trust in AI is successful when roles are clear and limits are honest. Here's what that looks like in medical transportation.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 10, 2026 12:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law\" hreflang=\"en\">Express Scripts files suit to challenge Tennessee PBM law</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law",
+        "summary": "On the heels of a legal challenge from CVS, Express Scripts has also sued to challenge Tennessee's new pharmacy benefit management law.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 1:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spyre-spies-another-edge-ulcerative-colitis-ambitions-phase-2-disease-reduction-win\" hreflang=\"en\">Spyre spies another edge for UC ambitions with midstage win for anti-TL1A antibody</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spyre-spies-another-edge-ulcerative-colitis-ambitions-phase-2-disease-reduction-win",
+        "summary": "The company's SPY002 prompted a 10.7-point reduction from baseline levels in patients’ Robart’s Histopathology Index (RHI) scores by week 12.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 2:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/japan-south-korea-challenge-wests-place-research-rankings-report\" hreflang=\"en\">Japan, South Korea challenge the West’s place in research rankings: report</a>",
+        "url": "https://www.fiercebiotech.com/biotech/japan-south-korea-challenge-wests-place-research-rankings-report",
+        "summary": "Nature Index’s latest research rankings show that China continues to be the clear leader in contributions to scientific journals, with a 22% increase between 2024 and 2025. While China remains well ahead of the rest of the top 10, nearly 10% growth in journal contributions from Japan and South Korea outpaced higher-ranked Western countries such as the U.S., Germany and the U.K.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 2:03pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/amid-us-investment-tour-jj-makes-1b-stop-florida-upgrade-eye-device-plant\" hreflang=\"en\">Amid US investment tour, J&amp;J makes $1B stop in Florida to upgrade contact lens plant</a>",
+        "url": "https://www.fiercebiotech.com/medtech/amid-us-investment-tour-jj-makes-1b-stop-florida-upgrade-eye-device-plant",
+        "summary": "With Johnson &amp; Johnson gradually fleshing out its $55 billion U.S. investment scheme in recent months, the New Jersey-headquartered drug and medical device giant on Monday revealed just how the plan will benefit its medtech operations, specifically in the field of vision care.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 11:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/intellia-shares-paradigm-shifting-ph-3-data-one-time-treatment-hae-patients\" hreflang=\"en\">Intellia touts ‘paradigm-shifting’ phase 3 data for one-time HAE treatment</a>",
+        "url": "https://www.fiercebiotech.com/biotech/intellia-shares-paradigm-shifting-ph-3-data-one-time-treatment-hae-patients",
+        "summary": "Six weeks after Intellia Therapeutics reported that it met its primary endpoint in a phase 3 trial of its in vivo gene-editing therapy lonvoguran ziclumeran (lonvo-z) for patients with hereditary angioedema (HAE), the company released additional positive data showing that the study also met its secondary endpoints with statistical and clinical significance.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 10:01am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-willfully-infringes-harbour-antibody-patent-must-pay-20m-jury\" hreflang=\"en\">Amgen loses in Harbour antibody patent case, ordered to pay $20M+</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-willfully-infringes-harbour-antibody-patent-must-pay-20m-jury",
+        "summary": "A federal jury in Delaware has found that Amgen and its acquired Teneobio willfully infringed on an antibody patent held by Harbour Antibodies, a Dutch subsidiary of China’s Harbour BioMed.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/neumora-lay-35-staff-after-navacaprant-goes-0-3-phase-3-depression-studies\" hreflang=\"en\">Neumora to lay off 35% of staff after navacaprant goes 0 for 3 in late-stage depression studies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/neumora-lay-35-staff-after-navacaprant-goes-0-3-phase-3-depression-studies",
+        "summary": "Neumora's navacaprant has completed a clean sweep of trial misses in major depressive disorder.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 9:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Genentech trims R&amp;D; Neumora cuts 35%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/traws-defers-midphase-flu-study-after-negative-regulatory-review\" hreflang=\"en\">Traws defers midphase flu study after negative regulatory review</a>",
+        "url": "https://www.fiercebiotech.com/biotech/traws-defers-midphase-flu-study-after-negative-regulatory-review",
+        "summary": "U.K. regulators have issued a “negative review” of Traws Pharma’s planned human influenza challenge study, forcing the biotech to defer a phase 2a trial tied to $20 million in funding.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 9:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-necs-ai-and-oral-delivery-system-are-redefining-personalized-cancer-therapy\" hreflang=\"en\">How NEC's AI and oral delivery system are redefining personalized cancer therapy</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-necs-ai-and-oral-delivery-system-are-redefining-personalized-cancer-therapy",
+        "summary": "Neoantigen-based therapies are considered one of the most promising approaches in modern immuno-oncology. One challenge continues to limit the field: accurately identifying which neoantigens will generate meaningful anti-tumor immunity.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 12:35pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/beyond-rigid-platforms-adaptive-adenoviral-platform-de-risks-development-gmp\" hreflang=\"en\">Beyond Rigid Platforms: Adaptive Adenoviral Platform De-Risks Development to GMP</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/beyond-rigid-platforms-adaptive-adenoviral-platform-de-risks-development-gmp",
+        "summary": "Rigid adenoviral platforms can derail GMP progress. Learn how adaptive, adenovirus-specific strategies reduce risk from development to scale.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 11:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/soligenix-axes-lymphoma-program-after-phase-3-setback-mulls-ma-options\" hreflang=\"en\">Soligenix axes lymphoma program after phase 3 setback, mulls M&amp;A options</a>",
+        "url": "https://www.fiercebiotech.com/biotech/soligenix-axes-lymphoma-program-after-phase-3-setback-mulls-ma-options",
+        "summary": "Soligenix has scrapped its cutaneous T-cell lymphoma program in the wake of a phase 3 setback, leaving the biotech focused on another rare disease prospect and considering strategic alternatives.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 7:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-23b-ajax-deal-first-clinical-data-jak-inhibitor-works-right-out-gate\" hreflang=\"en\">Lilly unveils first clinical data behind $2.3B Ajax deal, showing JAK inhibitor works ‘right out of the gate’ </a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-23b-ajax-deal-first-clinical-data-jak-inhibitor-works-right-out-gate",
+        "summary": "Eli Lilly’s up-to-$2.3 billion acquisition of Ajax Therapeutics is facing its first major public test, and the initial clinical data show why the pharma giant made the bet.",
+        "source": "Fierce Biotech",
+        "published": "Jun 12, 2026 9:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "70分钟深度对话黄铁军：AI已有类意识行为，未来人与AI将理性共存",
+        "url": "https://www.36kr.com/p/3852206259934211",
+        "summary": "黄铁军：世界模型不是VLA，穿戴设备和脑机接口将成为数据来源。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 15 Jun 2026 06:27:04 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "脑机接口第一股，花落谁家？",
+        "url": "https://www.36kr.com/p/3853890963772422",
+        "summary": "博睿康闯科创板强脑科技冲港股，脑机接口第一股引关注",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 15 Jun 2026 04:19:37 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "WaveDiT: Distribution-Aware Wavelet Flow Matching for Efficient 3D Brain MRI Synthesis",
+        "url": "https://huggingface.co/papers/2606.08670",
+        "summary": "Large and demographically balanced datasets are essential for reliable neuroimaging biomarkers. Full-resolution 3D brain MRI synthesis can support data augmentation in this setting, but existing approaches either incur prohibitive computational cost at volumetric scale or rely on lossy latent compression that may compromise anatomical detail. As a result, practical 3D generative augmentation often requires specialized compute infrastructure. We propose WaveDiT, a conditional flow matching framework operating in the coefficient space of a 3D Haar Discrete Wavelet Transform. The model combines f",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Measuring Epistemic Resilience of LLMs Under Misleading Medical Context",
+        "url": "https://huggingface.co/papers/2606.12291",
+        "summary": "Large language models (LLMs) now reach expert-level scores on medical licensing exams, encouraging the assumption that high scores imply safe medical judgment while patients increasingly use them for health advice. We show this assumption is fragile: when misleading context is injected into questions that LLMs originally answer correctly, they abandon the correct answer. We call the ability to maintain correct judgment under adversarial context epistemic resilience, and introduce MedMisBench to measure it. MedMisBench contains 10,932 medical question items and 48,889 misleading context-option ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-09T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T14:04:27.587156+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: How a biotech turned a trial failure into an AI model",
+        "url": "https://www.statnews.com/2026/06/16/how-biotech-turned-trial-failure-ai-model-health-tech/",
+        "summary": "In this edition of STAT Health Tech: How a biotech startup turned a failed clinical trial into an AI model, and more.",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 16:45:14 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "The U.S. infant mortality rate fell to an all-time low, though it still trails other similar nations",
+        "url": "https://www.statnews.com/2026/06/16/us-infant-mortality-rate-all-time-low/",
+        "summary": "Infant mortality in the U.S. dropped to a new all-time low in 2025, according to CDC data, though it still trails other similar nations.",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 14:55:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ARCH-launched Neumora stops depression program",
+        "url": "https://www.statnews.com/2026/06/16/biotech-news-arch-launched-neumora-stops-depression-program/",
+        "summary": "A new AI model to improve trial enrollment, importing drugs from Canada, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 13:57:02 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Medicare and obesity drugs, Germany’s pricing plans, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/16/medicare-obesity-drugs-germany-pricing-plans/",
+        "summary": "Weight loss drugs will be available through Medicare starting next month, thanks to a program that is supposed to be temporary but may be difficult to end",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 13:32:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How supplement use changed over decades",
+        "url": "https://www.statnews.com/2026/06/16/health-news-how-supplement-use-changed-over-decades/",
+        "summary": "Medicare-funded weight loss, Utah's lower drunk driving limit, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 12:03:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Verge Labs’ new AI model solves patient stratification problems for neurology clinical trials",
+        "url": "https://www.statnews.com/2026/06/16/verge-labs-ai-model-clinical-trials-data-neurology-diseases/",
+        "summary": "As the saying goes, one man’s trash is another man’s treasure. Or as Verge Labs might put it, one company’s failed clinical trial … is that same company’s new AI&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 12:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Human Cell Atlas leader’s tie to 10x Genomics raises conflict-of-interest questions",
+        "url": "https://www.statnews.com/2026/06/16/human-cell-atlas-consortium-meeting-boston-spatial-biology-next-step/",
+        "summary": "As the Human Cell Atlas project marks its 10th anniversary, a leader's ties to a major single-cell RNA sequencing company raise conflict-of-interest questions.",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act",
+        "url": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/",
+        "summary": "America’s next health emergency won’t wait for Washington, write W. Craig Vanderwagen and Jennifer B. Alton.",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m an Alzheimer’s specialist. I still missed it in my own father",
+        "url": "https://www.statnews.com/2026/06/16/alzheimers-diagnosis-treatment-infrastructure/",
+        "summary": "“Alzheimer’s is not primarily a disease of old age. It is a decades-long biological process,” writes Elizabeth Bevins.",
+        "source": "STAT News",
+        "published": "Tue, 16 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
+        "url": "https://www.statnews.com/pharmalot/2026/06/15/colorado-drug-imports-canada/",
+        "summary": "The FDA said it will allow Colorado to import certain prescription drugs from Canada in an effort to bring prices down for residents.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 18:19:20 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
+        "url": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/",
+        "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 15:25:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A key European clinical trial registry lacks complete and timely results, an analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/06/15/european-clinical-trial-registry-results-analysis/",
+        "summary": "A new analysis found that results for less than half of the clinical studies registered in a key European database were reported within the required time frame.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 15:04:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Covid vaccination cut risk of adverse heart events, large study finds",
+        "url": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/",
+        "summary": "Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers.",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 15:01:52 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
+        "url": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/",
+        "summary": "A syphilis drug shortage, Sanofi's diabetes drug approval, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 13:36:34 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/",
+        "summary": "Pfizer hasn't complied with a request to donate emergency penicillin to state health agencies as a backstop to prevent congenital syphilis",
+        "source": "STAT News",
+        "published": "Mon, 15 Jun 2026 13:22:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medpac-offers-look-enrollment-hiccups-medicare-beneficiaries\" hreflang=\"en\">MedPAC offers a look at enrollment hiccups for Medicare beneficiaries</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medpac-offers-look-enrollment-hiccups-medicare-beneficiaries",
+        "summary": "Beneficiaries face a series of complex decisions in enrolling in Medicare coverage. A key federal panel outlines some of the pain points, alongside other policy recommendations and updates for Congress.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 16, 2026 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-tightens-oversight-accreditation-facilities-limits-fee-based-consulting\" hreflang=\"en\">CMS tightens oversight of accreditation facilities, limits fee-based consulting </a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-tightens-oversight-accreditation-facilities-limits-fee-based-consulting",
+        "summary": "A final rule updates performance reviews, codifies existing requirements and brings new conflict-of-interest protections for the nine organizations that regularly survey and accredit more than 9,000 providers participating in Medicare.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 16, 2026 5:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Strive Health taps new CMO, CFO; Komodo changes leadership structure</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/telehealth-utilization-101-nationally-between-q4-2025-and-q1-2026-fair-health-tracker\" hreflang=\"en\">US telehealth utilization climbs 10.1% in Q1, led by mental health visits: Fair Health</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/telehealth-utilization-101-nationally-between-q4-2025-and-q1-2026-fair-health-tracker",
+        "summary": "The top five diagnostic categories were mental health, acute respiratory diseases and infections, overweight and obesity, endocrine and metabolic disorders and joint and soft tissue diseases.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 16, 2026 12:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law\" hreflang=\"en\">PCMA joins major PBMs in suing over Tennessee's new PBM law</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law",
+        "summary": "The Pharmaceutical Care Management Association has joined some of the nation's largest pharmacy benefit managers in challenging Tennessee's new law governing the industry.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 1:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/uncovr-secures-7m-seed-funding-ai-surgical-documentation-platform\" hreflang=\"en\">Uncovr secures $7M in seed funding for AI surgical documentation platform</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/uncovr-secures-7m-seed-funding-ai-surgical-documentation-platform",
+        "summary": "The company says it is currently working with leading hospitals across the U.S. and Europe, representing more than 400 operating rooms.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 16, 2026 9:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-offering-staff-buyouts-navigates-murky-aca-waters\" hreflang=\"en\">Centene offering staff buyouts as it navigates murky ACA waters</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-offering-staff-buyouts-navigates-murky-aca-waters",
+        "summary": "Centene will offer buyouts to employees as it navigates a significant membership decline, a spokesperson confirmed to Fierce Healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/kff-insurer-participation-aca-marketplaces-declined-2025-2026\" hreflang=\"en\">KFF: Insurer participation in the ACA marketplaces declined from 2025 to 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/kff-insurer-participation-aca-marketplaces-declined-2025-2026",
+        "summary": "The number of insurers offering plans on the Affordable Care Act's marketplaces declined between 2025 and 2026, with more payers poised for an exit ahead of the 2027 plan year, according to a new analysis.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule\" hreflang=\"en\">Judge tosses multiple provisions of CMS' 2025 ACA program integrity rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule",
+        "summary": "A federal judge has vacated several key components of a controversial 2025 program integrity rule for the Affordable Care Act's marketplaces.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 2:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/47-us-adults-say-corp-health-insurers-are-primary-drivers-rising-health-costs-coalition\" hreflang=\"en\">47% of US adults say corporate health insurers ‘primary drivers’ of rising health costs</a>",
+        "url": "https://www.fiercehealthcare.com/finance/47-us-adults-say-corp-health-insurers-are-primary-drivers-rising-health-costs-coalition",
+        "summary": "Though 47% of respondents point the finger at corporate health insurers, respondents also selected the federal government (36%) and drug companies (34%) as primary drivers in rising costs.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 12:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cms-creates-new-health-tech-office-lead-interoperability-efforts-digital-products\" hreflang=\"en\">CMS creates new health tech office to lead interoperability efforts, digital products</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cms-creates-new-health-tech-office-lead-interoperability-efforts-digital-products",
+        "summary": "The Centers for Medicare and Medicaid Services (CMS) aims to play a bigger role in health tech modernization efforts, including leading interoperability initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 11:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/yale-new-haven-health-system-deploys-rad-ai-solutions-across-its-network-microsoft\" hreflang=\"en\"> Yale New Haven Health System deploys Rad AI solutions across its network as Microsoft sunsets PowerScribe 360 </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/yale-new-haven-health-system-deploys-rad-ai-solutions-across-its-network-microsoft",
+        "summary": "Yale New Haven Health System is deploying Rad AI solutions across its imaging network, spanning more than 16 outpatient imaging centers and five hospital campuses.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 12, 2026 3:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amenable-fda-briefing-docs-bode-well-modernas-mrna-flu-shot-ahead-adcomm-grilling\" hreflang=\"en\">Amenable FDA review bodes well for Moderna's mRNA flu shot ahead of adcomm grilling</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amenable-fda-briefing-docs-bode-well-modernas-mrna-flu-shot-ahead-adcomm-grilling",
+        "summary": "With a panel of outside experts set to weigh in Thursday—and with a refusal-to-file fiasco with the FDA just barely in the rearview—Moderna and its contender for the United States’ first mRNA-based influenza vaccine are heading into a critical test this week.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 2:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-ma-spree-continues-acquisition-non-opioid-pain-drugmaker-4e\" hreflang=\"en\">Eli Lilly’s M&amp;A spree continues with acquisition of non-opioid pain drugmaker 4E</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-ma-spree-continues-acquisition-non-opioid-pain-drugmaker-4e",
+        "summary": "Eli Lilly is taking another shot at the pain market, continuing a recent M&amp;A binge that shows no signs of slowing down.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 2:06pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pe-firm-altaris-scoops-ai-drug-development-outfit-simulations-plus-375m\" hreflang=\"en\">PE firm Altaris scoops up AI drug development outfit Simulations Plus for $375M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pe-firm-altaris-scoops-ai-drug-development-outfit-simulations-plus-375m",
+        "summary": "As biopharma companies of all stripes devote more time and attention to&nbsp;AI-based drug discovery and development, healthcare PE firm Altaris is&nbsp;bolstering its&nbsp;presence&nbsp;in the field&nbsp;through M&amp;A.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 12:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/edgewise-data-power-rival-bms-and-cytokinetics-toward-phase-3-despite-investor-doubts\" hreflang=\"en\">Edgewise data power rival to BMS and Cytokinetics toward phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/edgewise-data-power-rival-bms-and-cytokinetics-toward-phase-3-despite-investor-doubts",
+        "summary": "Edgewise Therapeutics has reported phase 2 data on its cardiomyopathy prospect, keeping the biotech on track to start pivotal development of a would-be challenger to Bristol Myers Squibb and Cytokinetics.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 10:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-inks-510m-biobucks-data-generation-partnership-protillion\" hreflang=\"en\">Merck inks $510M biobucks data generation partnership with Protillion</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-inks-510m-biobucks-data-generation-partnership-protillion",
+        "summary": "AI drug design specialist Protillion has inked a $510 million biobucks collaboration and license agreement with Merck &amp; Co. that brings together Protillion’s platform and Merck’s drug discovery expertise.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 9:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: enGene halves workforce; Neumora cuts 35%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/adaptive-plots-splitting-pfizer-partnered-drug-discovery-unit-diagnostics-business\" hreflang=\"en\">Adaptive plots splitting Pfizer-partnered drug discovery unit from diagnostics business</a>",
+        "url": "https://www.fiercebiotech.com/biotech/adaptive-plots-splitting-pfizer-partnered-drug-discovery-unit-diagnostics-business",
+        "summary": "Adaptive Biotechnologies is planning to separate its drug discovery and diagnostics businesses, outlining its intent to evaluate “strategic and structural alternatives” for the medicine wing of the company",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 9:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-biogen-transforming-its-pipeline-vc-mindset-and-entrepreneurial-spirit\" hreflang=\"en\">How Biogen is transforming its pipeline with a VC mindset and an ‘entrepreneurial spirit’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-biogen-transforming-its-pipeline-vc-mindset-and-entrepreneurial-spirit",
+        "summary": "Executives told Fierce how the company is in the middle of a transition to “the new Biogen”—embracing partnerships, investment and entrepreneurship to replenish its pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 11:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-dexcoms-stelo-otc-glucose-monitor-use-children\" hreflang=\"en\">FDA clears Dexcom’s Stelo OTC glucose monitor for use with children</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-dexcoms-stelo-otc-glucose-monitor-use-children",
+        "summary": "The FDA gave the green light to Dexcom’s over-the-counter glucose monitor Stelo for children 2 years or older who don’t use insulin.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 8:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/irhythm-hit-cyberattack-has-found-no-impact-its-business\" hreflang=\"en\">iRhythm hit by cyberattack that compromised patient data, says operations unaffected</a>",
+        "url": "https://www.fiercebiotech.com/medtech/irhythm-hit-cyberattack-has-found-no-impact-its-business",
+        "summary": "Medical device maker iRhythm has been hit by a cyberattack, but the company said the incident has not affected its core products, operations or ability to meet patient needs.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 2:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spyre-spies-another-edge-ulcerative-colitis-ambitions-phase-2-disease-reduction-win\" hreflang=\"en\">Spyre spies another edge for UC ambitions with midstage win for anti-TL1A antibody</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spyre-spies-another-edge-ulcerative-colitis-ambitions-phase-2-disease-reduction-win",
+        "summary": "The company's SPY002 prompted a 10.7-point reduction from baseline levels in patients’ Robart’s Histopathology Index (RHI) scores by week 12.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 2:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/japan-south-korea-challenge-wests-place-research-rankings-report\" hreflang=\"en\">Japan, South Korea challenge the West’s place in research rankings: report</a>",
+        "url": "https://www.fiercebiotech.com/biotech/japan-south-korea-challenge-wests-place-research-rankings-report",
+        "summary": "Nature Index’s latest research rankings show that China continues to be the clear leader in contributions to scientific journals, with a 22% increase between 2024 and 2025. While China remains well ahead of the rest of the top 10, nearly 10% growth in journal contributions from Japan and South Korea outpaced higher-ranked Western countries such as the U.S., Germany and the U.K.",
+        "source": "Fierce Biotech",
+        "published": "Jun 15, 2026 2:03pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "AI催生生物医学科研危机？顶尖科学家差点被AI假文献蒙骗，每经独家对话亲历者、《柳叶刀》文章作者Maxim Topaz",
+        "url": "https://www.36kr.com/p/3856694633206786",
+        "summary": "AI催生生物医学论文虚假引文激增，业界需前置核验引文",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 17 Jun 2026 03:56:50 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "2026 AI 行业叙事：定义未来",
+        "url": "https://www.36kr.com/p/3855458983475842",
+        "summary": "AI 公司最值钱的，是对未来的定义权。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 16 Jun 2026 10:11:48 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "70分钟深度对话黄铁军：AI已有类意识行为，未来人与AI将理性共存",
+        "url": "https://www.36kr.com/p/3852206259934211",
+        "summary": "黄铁军：世界模型不是VLA，穿戴设备和脑机接口将成为数据来源。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 15 Jun 2026 06:27:04 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs",
+        "url": "https://huggingface.co/papers/2606.09030",
+        "summary": "Clinical early warning systems built on electronic health records, in which clinical observations are recorded as irregularly sampled medical time series (ISMTS), must deliver both calibrated risk scores for patient triage and interpretable rationales that clinicians can verify. Large Language Models (LLMs) have been explored for this task, yet they collapse graded clinical risk into overconfident binary predictions. This risk polarization undermines both calibration and cross-patient comparability. To address this, we propose TRIAGE, a framework that trains an LLM to generate dialectical reas",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-07T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

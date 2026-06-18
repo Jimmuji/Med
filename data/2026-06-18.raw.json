@@ -1,0 +1,350 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T13:50:25.870753+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "RFK Jr. presents $700 million in mental health funding, but experts say grants aren’t new",
+        "url": "https://www.statnews.com/2026/06/17/rfk-new-mental-health-funding-or-new-use-existing-grants/",
+        "summary": "RFK Jr. presents funding intended to address mental illness and addiction, particularly among homeless people.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 21:36:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: DOJ’s swift win in OhioHealth case should have hospitals studying their contracts, experts say",
+        "url": "https://www.statnews.com/2026/06/17/ohiohealth-antitrust-settlement-doj-ohio-attorney-general/",
+        "summary": "The speed of DOJ's proposed antitrust settlement with OhioHealth should put other hospitals on notice, experts say.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 20:23:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FTC, four state AGs sue transgender health group over care standards",
+        "url": "https://www.statnews.com/2026/06/17/ftc-gender-affirming-lawsuit-targets-wpath/",
+        "summary": "The FTC and four state attorneys general have sued the main professional organization for gender-affirming care clinicians.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 18:23:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "NIH diversity programs doubled undergraduates’ odds of getting a Ph.D., 20-year study finds",
+        "url": "https://www.statnews.com/2026/06/17/nih-diversity-programs-terminated-despite-success-study-shows/",
+        "summary": "A new study found that two diversity-oriented programs supported by the NIH doubled the odds that an undergraduate would earn a Ph.D.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 18:01:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Luigi Mangione will assert psychiatric defense in murder case in UnitedHealthcare CEO’s killing",
+        "url": "https://www.statnews.com/2026/06/17/luigi-mangione-psychiatric-defense-murder-case-unitedhealthcare-ceo-killing/",
+        "summary": "Luigi Mangione plans to assert a psychiatric defense at his state murder trial, claiming he was suffering from extreme emotional disturbance when he gunned down UnitedHealthcare CEO Brian Thompson.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 17:02:53 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Advocacy groups petition FDA to withdraw approval of ‘unsafe’ use of antibiotics given to livestock",
+        "url": "https://www.statnews.com/pharmalot/2026/06/17/advocates-petition-fda-withdraw-approval-unsafe-use-antibiotics-given-livestock/",
+        "summary": "More than 60 organizations are urging the FDA to withdraw approval for what they called the “unsafe” use of antibiotics for preventing disease in food-producing livestock.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 16:07:12 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA appears open to Moderna’s flu vaccine ahead of adcomm",
+        "url": "https://www.statnews.com/2026/06/17/biotech-news-fda-appears-open-to-moderna-flu-shot/",
+        "summary": "UniQure will submit Huntington's therapy for approval, Eli Lilly buys 4E Therapeutics, and more biotech news",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 13:34:42 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about hackers extorting Novo, an FDA about-face, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/17/hackers-extorting-novo-fda-about-face-on-uniqure-drug/",
+        "summary": "A cyber extortion group claimed ​to have stolen more than a terabyte of data from Novo Nordisk and said it is ‌exploring selling some of the data",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 13:09:46 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Is Abridge’s ‘patient centered’ claim a bridge too far?",
+        "url": "https://www.statnews.com/2026/06/17/is-scribe-developer-abridge-patient-centered-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis, Brittany Trang takes a close look at ambient scribe developer Abridge's claim about being patient-centered.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 12:01:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration will bring special ed to HHS",
+        "url": "https://www.statnews.com/2026/06/17/health-news-trump-administration-brings-special-ed-to-hhs/",
+        "summary": "Infant mortality rate dips, OTC naloxone options rise, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 11:53:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Following dispute with FDA, UniQure is cleared to submit Huntington’s treatment for approval",
+        "url": "https://www.statnews.com/2026/06/17/huntingtons-disease-uniqure-drug-fda-review/",
+        "summary": "The FDA has reversed its opposition to a closely watched experimental treatment for Huntington’s disease, clearing a path for its maker.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 11:43:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: A prominent VC explains why she’s against U.S. restrictions on investment in China’s drug industry",
+        "url": "https://www.statnews.com/2026/06/17/china-biotech-pharma-us-venture-capital/",
+        "summary": "Should the federal government try to slow — or even block — U.S. biotech deals that could benefit China?",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How STAT decided to keep ‘health care’ as two words",
+        "url": "https://www.statnews.com/2026/06/17/health-care-one-word-or-two-stat-style/",
+        "summary": "“‘Health care’ is such a big word for STAT. It’s a cornerstone of our coverage,” says STAT director of editorial operations Sarah Mupo.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The quiet joy of being an oncologist",
+        "url": "https://www.statnews.com/2026/06/17/oncology-joy-doctor-patient-relationship/",
+        "summary": "“The privilege of oncology is not only that you get to cure people,” writes oncologist Khushali Jhaveri. “It is also that you are invited into the most honest rooms in&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: As a physician, I have never been more concerned about rates of congenital syphilis",
+        "url": "https://www.statnews.com/2026/06/17/congenital-syphilis-rates-mothers-babies-policy/",
+        "summary": "“As a physician and former public health official, I have never been more concerned about those rates of congenital syphilis,” writes Jeffrey D. Klausner.",
+        "source": "STAT News",
+        "published": "Wed, 17 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/one-medical-seniors-reports-data-breach-third-party-file-storage-system\" hreflang=\"en\">One Medical Seniors reports data breach of third-party vendor impacting 'limited' number of patients</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/one-medical-seniors-reports-data-breach-third-party-file-storage-system",
+        "summary": "Amazon One Medical reported a security event impacting a \"limited number\" of patients of its senior care clinics business.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 9:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Clair Health picks up $11.6M for women's health monitor; Lassie fetches $35M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ohiohealth-reaches-settlement-doj-antitrust-allegations\" hreflang=\"en\">OhioHealth reaches settlement with DOJ, Ohio AG on antitrust lawsuit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ohiohealth-reaches-settlement-doj-antitrust-allegations",
+        "summary": "OhioHealth reached an agreement with the Department of Justice and the Ohio Attorney General to settle a lawsuit over antitrust allegations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 3:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/oig-report-raises-red-flags-about-maternal-health-ghost-networks-medicaid-managed-care\" hreflang=\"en\">OIG report raises red flags about maternal health 'ghost networks' in Medicaid managed care</a>",
+        "url": "https://www.fiercehealthcare.com/payers/oig-report-raises-red-flags-about-maternal-health-ghost-networks-medicaid-managed-care",
+        "summary": "A pair of new reports from the Office of Inspector General raises concerns about \"ghost networks\" for maternal services in Medicaid.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 1:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/whoop-healthex-partner-connect-members-ehrs-directly-app-personalized-health-insights\" hreflang=\"en\">Whoop, HealthEx partner to connect members’ medical records and biometric data</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/whoop-healthex-partner-connect-members-ehrs-directly-app-personalized-health-insights",
+        "summary": "The companies say the partnership “responds to a growing need” for “more connected health experiences” for users.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 11:03am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/why-one-life-insurer-going-big-health-incentives\" hreflang=\"en\">Why one life insurer is going big on health incentives</a>",
+        "url": "https://www.fiercehealthcare.com/payers/why-one-life-insurer-going-big-health-incentives",
+        "summary": "Life insurance may not be the first thing that comes to mind when thinking about healthcare. But some life insurers are increasingly interested in incentivizing healthy habits.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 9:52am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/health-services-deal-value-remained-resilient-2026-higher-bar-investment-pwc\" hreflang=\"en\">Health services deal value holds steady in 2026 with higher bar for investment: PwC</a>",
+        "url": "https://www.fiercehealthcare.com/finance/health-services-deal-value-remained-resilient-2026-higher-bar-investment-pwc",
+        "summary": "The number of health services deals dipped in the first half of 2026 but deal value \"remained resilient\" as strategic acquirers and dealmakers \"reprice risk,\" according to a midyear outlook report from PwC.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 6:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medpac-offers-look-enrollment-hiccups-medicare-beneficiaries\" hreflang=\"en\">MedPAC offers a look at enrollment hiccups for Medicare beneficiaries</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medpac-offers-look-enrollment-hiccups-medicare-beneficiaries",
+        "summary": "Beneficiaries face a series of complex decisions in enrolling in Medicare coverage. A key federal panel outlines some of the pain points, alongside other policy recommendations and updates for Congress.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 16, 2026 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-tightens-oversight-accreditation-facilities-limits-fee-based-consulting\" hreflang=\"en\">CMS tightens oversight of accreditation facilities, limits fee-based consulting </a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-tightens-oversight-accreditation-facilities-limits-fee-based-consulting",
+        "summary": "A final rule updates performance reviews, codifies existing requirements and brings new conflict-of-interest protections for the nine organizations that regularly survey and accredit more than 9,000 providers participating in Medicare.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 16, 2026 5:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Strive Health taps new CMO, CFO; Komodo changes leadership structure</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/telehealth-utilization-101-nationally-between-q4-2025-and-q1-2026-fair-health-tracker\" hreflang=\"en\">US telehealth utilization climbs 10.1% in Q1, led by mental health visits: Fair Health</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/telehealth-utilization-101-nationally-between-q4-2025-and-q1-2026-fair-health-tracker",
+        "summary": "The top five diagnostic categories were mental health, acute respiratory diseases and infections, overweight and obesity, endocrine and metabolic disorders and joint and soft tissue diseases.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 16, 2026 12:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law\" hreflang=\"en\">PCMA joins major PBMs in suing over Tennessee's new PBM law</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-sues-challenge-tennessees-new-pbm-law",
+        "summary": "The Pharmaceutical Care Management Association has joined some of the nation's largest pharmacy benefit managers in challenging Tennessee's new law governing the industry.",
+        "source": "Fierce Healthcare",
+        "published": "May 26, 2026 1:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/f2g-shionogi-share-ph-3-oral-antifungal-data-set-open-doors\" hreflang=\"en\">F2G, Shionogi prep regulatory push after novel antifungal passes ph. 3 test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/f2g-shionogi-share-ph-3-oral-antifungal-data-set-open-doors",
+        "summary": "F2G and Shionogi have released phase 3 data for the oral antifungal drug olorofim, demonstrating its non-inferiority compared with an existing drug for invasive aspergillosis.",
+        "source": "Fierce Biotech",
+        "published": "Jun 17, 2026 2:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-john-tsai-plans-keep-daiichi-sankyo-ahead-adc-game\" hreflang=\"en\">‘We think about it every day’: How Daiichi Sankyo’s R&amp;D chief plans to stay ahead in the ADC game</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-john-tsai-plans-keep-daiichi-sankyo-ahead-adc-game",
+        "summary": "John Tsai, M.D., is rounding out his global drug development resume. Immediately after landing at Daiichi Sankyo, the pharma veteran finds himself leading the R&amp;D portion of the antibody-drug conjugate specialist’s new five-year plan, which aims to lay the groundwork for Daiichi to become a global top 5 oncology company by 2035.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 10:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vedana-therapeutics-surfaces-46m-develop-next-gen-migraine-therapy\" hreflang=\"en\">Vedana Therapeutics surfaces with $46M to develop next generation of migraine prevention therapies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vedana-therapeutics-surfaces-46m-develop-next-gen-migraine-therapy",
+        "summary": "Vedana Therapeutics has emerged from stealth with $46 million in series A financing aimed at advancing the company’s subcutaneously delivered antibodies for migraine prevention.",
+        "source": "Fierce Biotech",
+        "published": "Jun 17, 2026 8:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Triveni Bio raises $65M; SonoThera scores $125M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/uniqure-stock-surges-after-fda-u-turn-clears-path-gene-therapy-filing\" hreflang=\"en\">UniQure stock surges after FDA U-turn clears path to gene therapy filing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/uniqure-stock-surges-after-fda-u-turn-clears-path-gene-therapy-filing",
+        "summary": "The FDA has pulled a U-turn on uniQure’s Huntington’s disease gene therapy, giving the biotech the OK to file for accelerated approval after previously demanding data from another trial.",
+        "source": "Fierce Biotech",
+        "published": "Jun 17, 2026 9:01am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jazz-gets-pocket-792m-biobucks-drug-deal-abcellera\" hreflang=\"en\">Jazz, AbCellera strike TCE discovery and development deal worth up to $820M per drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jazz-gets-pocket-792m-biobucks-drug-deal-abcellera",
+        "summary": "Jazz Pharmaceuticals is looking to bolster its oncology research bona fides via a partnership with AbCellera to discover and develop T-cell-engaging (TCE) antibodies that could result in up to $820 million in biobucks for each program that Jazz options.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 3:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/ma-volume-and-value-indicate-biopharma-ecosystem-back-full-health-pwc\" hreflang=\"en\">'Biopharma ecosystem is back to full health,' fueled by M&amp;A: PwC</a>",
+        "url": "https://www.fiercebiotech.com/pharma/ma-volume-and-value-indicate-biopharma-ecosystem-back-full-health-pwc",
+        "summary": "With pharma and life sciences deal values surpassing $65 billion in the first quarter, marking the strongest quarter in the industry since 2020, analysts from PwC have declared that the “biopharma ecosystem is back to full health.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 3:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amenable-fda-briefing-docs-bode-well-modernas-mrna-flu-shot-ahead-adcomm-grilling\" hreflang=\"en\">Amenable FDA review bodes well for Moderna's mRNA flu shot ahead of adcomm grilling</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amenable-fda-briefing-docs-bode-well-modernas-mrna-flu-shot-ahead-adcomm-grilling",
+        "summary": "With a panel of outside experts set to weigh in Thursday—and with a refusal-to-file fiasco with the FDA just barely in the rearview—Moderna and its contender for the United States’ first mRNA-based influenza vaccine are heading into a critical test this week.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 2:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-ma-spree-continues-acquisition-non-opioid-pain-drugmaker-4e\" hreflang=\"en\">Eli Lilly’s M&amp;A spree continues with acquisition of non-opioid pain drugmaker 4E</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-ma-spree-continues-acquisition-non-opioid-pain-drugmaker-4e",
+        "summary": "Eli Lilly is taking another shot at the pain market, continuing a recent M&amp;A binge that shows no signs of slowing down.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 2:06pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pe-firm-altaris-scoops-ai-drug-development-outfit-simulations-plus-375m\" hreflang=\"en\">PE firm Altaris scoops up AI drug development outfit Simulations Plus for $375M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pe-firm-altaris-scoops-ai-drug-development-outfit-simulations-plus-375m",
+        "summary": "As biopharma companies of all stripes devote more time and attention to&nbsp;AI-based drug discovery and development, healthcare PE firm Altaris is&nbsp;bolstering its&nbsp;presence&nbsp;in the field&nbsp;through M&amp;A.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 12:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/edgewise-data-power-rival-bms-and-cytokinetics-toward-phase-3-despite-investor-doubts\" hreflang=\"en\">Edgewise data power rival to BMS and Cytokinetics toward phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/edgewise-data-power-rival-bms-and-cytokinetics-toward-phase-3-despite-investor-doubts",
+        "summary": "Edgewise Therapeutics has reported phase 2 data on its cardiomyopathy prospect, keeping the biotech on track to start pivotal development of a would-be challenger to Bristol Myers Squibb and Cytokinetics.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 10:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-inks-510m-biobucks-data-generation-partnership-protillion\" hreflang=\"en\">Merck inks $510M biobucks data generation partnership with Protillion</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-inks-510m-biobucks-data-generation-partnership-protillion",
+        "summary": "AI drug design specialist Protillion has inked a $510 million biobucks collaboration and license agreement with Merck &amp; Co. that brings together Protillion’s platform and Merck’s drug discovery expertise.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 9:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "AI催生生物医学科研危机？顶尖科学家差点被AI假文献蒙骗，每经独家对话亲历者、《柳叶刀》文章作者Maxim Topaz",
+        "url": "https://www.36kr.com/p/3856694633206786",
+        "summary": "AI催生生物医学论文虚假引文激增，业界需前置核验引文",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 17 Jun 2026 03:56:50 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "2026 AI 行业叙事：定义未来",
+        "url": "https://www.36kr.com/p/3855458983475842",
+        "summary": "AI 公司最值钱的，是对未来的定义权。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 16 Jun 2026 10:11:48 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs",
+        "url": "https://huggingface.co/papers/2606.09030",
+        "summary": "Clinical early warning systems built on electronic health records, in which clinical observations are recorded as irregularly sampled medical time series (ISMTS), must deliver both calibrated risk scores for patient triage and interpretable rationales that clinicians can verify. Large Language Models (LLMs) have been explored for this task, yet they collapse graded clinical risk into overconfident binary predictions. This risk polarization undermines both calibration and cross-patient comparability. To address this, we propose TRIAGE, a framework that trains an LLM to generate dialectical reas",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-07T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

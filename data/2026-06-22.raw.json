@@ -1,0 +1,262 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T14:23:32.211704+08:00",
+  "counts": {
+    "news": 27,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Opinion: STAT readers debate blue zones, open-access publishing fees, and more",
+        "url": "https://www.statnews.com/2026/06/20/blue-zones-real-open-access-publishing-fees-letters-to-editor/",
+        "summary": "Keep those letters coming!",
+        "source": "STAT News",
+        "published": "Sat, 20 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Why the space in ‘health care’ matters",
+        "url": "https://www.statnews.com/2026/06/20/healthcare-or-health-care-stat-style-guide-ap/",
+        "summary": "When STAT polled our readers on ‘health care’ vs. ‘healthcare,’ about 60% of our readers voted for one word.",
+        "source": "STAT News",
+        "published": "Sat, 20 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rural-independent-kansas-hospitals-launch-clinically-integrated-network\" hreflang=\"en\">Rural, independent Kansas hospitals launch clinically integrated network</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rural-independent-kansas-hospitals-launch-clinically-integrated-network",
+        "summary": "The Kansas High Value Network's seven members together command $545 million in net revenue, and hope to improve quality and efficiency through shared services and value-based contracting.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 4:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/look-epics-long-term-play-build-tech-operations-starting-scheduling\" hreflang=\"en\">A look at Epic's long-term play to build tech for operations, starting with scheduling</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/look-epics-long-term-play-build-tech-operations-starting-scheduling",
+        "summary": "The company is working to build a natively integrated enterprise resource planning (ERP) suite exclusively for healthcare operations that will collect financial, operational and clinical data in one unified system.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 5:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/congressional-budget-office-calls-more-research-no-surprises-act-impacts\" hreflang=\"en\">Congressional Budget Office calls for more research on No Surprises Act unintended impacts</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/congressional-budget-office-calls-more-research-no-surprises-act-impacts",
+        "summary": "The nonpartisan office is seeking more information on the law’s impact on healthcare prices, network participation, ownership structures and more.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 3:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rfk-jr-publicizes-700-million-mental-health-addiction-funding-announces-new-streets\" hreflang=\"en\">HHS opens applications for $700M in mental health, addiction funding, with $96M for new STREETS program</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rfk-jr-publicizes-700-million-mental-health-addiction-funding-announces-new-streets",
+        "summary": "The HHS secretary announced over $700 million spread across various Substance Abuse and Mental Health Services Administration (SAMHSA) initiatives, including a new effort called the Safety Through Recovery, Engagement, and Evidence-based Treatment and Support (STREETS) Program.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 2:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-states-sue-transgender-health-association-over-misleading-gender-care-guidance\" hreflang=\"en\">FTC, states sue transgender health association over 'misleading' gender care guidance</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-states-sue-transgender-health-association-over-misleading-gender-care-guidance",
+        "summary": "The regulator and four red states allege that the World Professional Association for Transgender Health has mischaracterized the medical evidence behind its recommendations supportive of gender-affirming care in minors, and seek an injunction.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 1:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-implementation-lagging-across-us-healthcare-organizations-arcadia-survey\" hreflang=\"en\">Healthcare organizations still struggle to operationalize AI at scale: Arcadia survey</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-implementation-lagging-across-us-healthcare-organizations-arcadia-survey",
+        "summary": "Arcadia’s survey drew insights from 281 healthcare leaders across provider, payer and service organizations at the March HIMSS26 conference.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 11:00am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/eli-lillys-ultimatum-hospitals-send-340b-claims-data-june-1-or-lose-discounts\" hreflang=\"en\">Eli Lilly cuts 340B discounts for hospitals resisting its claims data submission policy</a>",
+        "url": "https://www.fiercehealthcare.com/providers/eli-lillys-ultimatum-hospitals-send-340b-claims-data-june-1-or-lose-discounts",
+        "summary": "The drugmaker had issued a June 8 ultimatum to an unspecified number of hospitals that weren't following a data submission policy it implemented in February. Furious hospital industry groups describe the decision as unlawful and urge the administration to intervene.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 2, 2026 11:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-lumeris-adds-symptom-checking-tool-ai-platform-whoop-healthex-partner\" hreflang=\"en\">Weekly Rundown: Lumeris adds symptom-checking tool to AI platform; DeepIntent rolls out agentic AI tool for healthcare marketers</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-lumeris-adds-symptom-checking-tool-ai-platform-whoop-healthex-partner",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 9:35am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/lantern-marathon-health-team-launch-integrated-care-management-model\" hreflang=\"en\">Lantern, Marathon Health team up to launch integrated care management model</a>",
+        "url": "https://www.fiercehealthcare.com/providers/lantern-marathon-health-team-launch-integrated-care-management-model",
+        "summary": "Lantern and Marathon Health are joining forces to launch an integrated model that brings together primary and specialty care, a key concern for employers as costs rise.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 1:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/one-medical-seniors-reports-data-breach-third-party-file-storage-system\" hreflang=\"en\">One Medical Seniors reports data breach of third-party vendor impacting 'limited' number of patients</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/one-medical-seniors-reports-data-breach-third-party-file-storage-system",
+        "summary": "Amazon One Medical reported a security event impacting a \"limited number\" of patients of its senior care clinics business.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 9:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Clair Health picks up $11.6M for women's health monitor; Lassie fetches $35M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ohiohealth-reaches-settlement-doj-antitrust-allegations\" hreflang=\"en\">OhioHealth reaches settlement with DOJ, Ohio AG on antitrust lawsuit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ohiohealth-reaches-settlement-doj-antitrust-allegations",
+        "summary": "OhioHealth reached an agreement with the Department of Justice and the Ohio Attorney General to settle a lawsuit over antitrust allegations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 3:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/fda-breakthrough-therapy-and-rmat-strategic-decisions-can-accelerate-oncology-development\" hreflang=\"en\">FDA Breakthrough Therapy and RMAT: Strategic Decisions That Can Accelerate Oncology Development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/fda-breakthrough-therapy-and-rmat-strategic-decisions-can-accelerate-oncology-development",
+        "summary": "Explore how FDA Breakthrough Therapy and RMAT designations can create opportunities for oncology programs when backed by the right development strategy.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 1:33pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/redefining-what-success-looks-psc-evolution-clinical-trial-endpoints\" hreflang=\"en\">Redefining what success looks like in PSC: The evolution of clinical trial endpoints</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/redefining-what-success-looks-psc-evolution-clinical-trial-endpoints",
+        "summary": "As understanding of rare cholestatic liver diseases has evolved, endpoint science and patient engagement may help shape future PSC research.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 3:56pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-lab-data-powers-precision-commercialization-drive-therapy-adoption-0\" hreflang=\"en\">How data-driven diagnostic lab services drive precise clinical trial enrollment</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-lab-data-powers-precision-commercialization-drive-therapy-adoption-0",
+        "summary": "Drug commercialization depends on reaching the right physicians at the right moment.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 12:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/insilico-lands-heavily-backloaded-25b-ai-drug-discovery-deal-sk-biopharm\" hreflang=\"en\">Insilico lands heavily backloaded $2.5B AI drug discovery deal with SK Biopharm </a>",
+        "url": "https://www.fiercebiotech.com/biotech/insilico-lands-heavily-backloaded-25b-ai-drug-discovery-deal-sk-biopharm",
+        "summary": "Insillico Medicine and SK Biopharmaceuticals have teamed up on an AI-enabled search for drug candidates targeting neuroimmune disorders in a deal that could be worth more than $2.5 billion.",
+        "source": "Fierce Biotech",
+        "published": "Jun 21, 2026 9:41pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/5-month-sprint-behind-pfizer-10b-deal-and-innovent-global-pharma-ambition\" hreflang=\"en\">A 5-month sprint: Behind Pfizer’s $10B deal and Innovent’s global pharma ambition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/5-month-sprint-behind-pfizer-10b-deal-and-innovent-global-pharma-ambition",
+        "summary": "Despite its massive $10.5 billion size and 12-drug scope, Pfizer’s oncology deal with Innovent Biologics took less than five months to forge, but not without undergoing some stress tests.",
+        "source": "Fierce Biotech",
+        "published": "Jun 18, 2026 10:47pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-warning-slams-zoll-medical-multiple-quality-control-and-reporting-violations\" hreflang=\"en\">FDA warning slams Zoll Medical with multiple quality control and reporting violations</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-warning-slams-zoll-medical-multiple-quality-control-and-reporting-violations",
+        "summary": "Zoll Medical, the maker of devices and software focused on cardiopulmonary and respiratory conditions, was slammed in an FDA warning letter that outlined numerous quality control and medical device reporting violations.",
+        "source": "Fierce Biotech",
+        "published": "Jun 19, 2026 8:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moderna-mflusiva-advisory-committee-fda\" hreflang=\"en\">Moderna’s flu candidate sails through FDA advisory committee in unanimous votes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/moderna-mflusiva-advisory-committee-fda",
+        "summary": "As Moderna reshapes itself in the wake of the pandemic, the company on Thursday passed a key milestone in its bid to expand the reach of its mRNA platform&nbsp;to the massive influenza vaccination market.",
+        "source": "Fierce Biotech",
+        "published": "Jun 18, 2026 2:37pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/campfield-harvests-180m-series-advance-oral-ibd-drug-licensed-newsoara\" hreflang=\"en\">cAMPfield harvests $180M series A to advance oral IBD drug licensed from Newsoara</a>",
+        "url": "https://www.fiercebiotech.com/biotech/campfield-harvests-180m-series-advance-oral-ibd-drug-licensed-newsoara",
+        "summary": "In another biotech born out of China’s “NewCo” model, cAMPfield Therapeutics has launched with a $180 million series A and a focus on oral medicines for inflammatory diseases.",
+        "source": "Fierce Biotech",
+        "published": "Jun 18, 2026 10:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/novocure-device-fails-help-brain-cancer-patients-survival-phase-3-test\" hreflang=\"en\">Novocure device fails to improve brain cancer patients’ survival in phase 3 test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/novocure-device-fails-help-brain-cancer-patients-survival-phase-3-test",
+        "summary": "Novocure’s tumor-treating electric fields device missed its primary endpoint in a late-stage glioblastoma trial.",
+        "source": "Fierce Biotech",
+        "published": "Jun 18, 2026 7:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nortiva-purrs-action-long-acting-lynx-platform-salvaged-langer-startup\" hreflang=\"en\">Nortiva purrs into action with long-acting Lynx platform salvaged from Langer startup</a>",
+        "url": "https://www.fiercebiotech.com/biotech/nortiva-purrs-action-long-acting-lynx-platform-salvaged-langer-startup",
+        "summary": "Innoviva has revealed the next steps for Langer Lab assets it rescued from Lyndra Therapeutics’ collapse, launching Nortiva Bio to develop long-acting oral medicines and pursue drug development alliances.",
+        "source": "Fierce Biotech",
+        "published": "Jun 17, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kardigan-buttons-400m-upsized-ipo-power-heart-drugs-toward-phase-3\" hreflang=\"en\">UPDATED: Kardigan buttons up $400M upsized IPO to power heart drugs toward phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kardigan-buttons-400m-upsized-ipo-power-heart-drugs-toward-phase-3",
+        "summary": "Kardigan’s IPO haul has come in 14% above expectations, grossing $400 million after the cardiovascular disease biotech upsized the offering and hit the top end of its target range.",
+        "source": "Fierce Biotech",
+        "published": "Jun 18, 2026 7:29am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-inks-1b-raythera-buyout-bag-preclinical-immunology-assets\" hreflang=\"en\">Biogen inks $1B RayThera buyout to bag preclinical immunology assets </a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogen-inks-1b-raythera-buyout-bag-preclinical-immunology-assets",
+        "summary": "Biogen has struck a backloaded, $1 billion deal to buy RayThera, snagging a pipeline of anti-inflammatory drug candidates led by a prospect on the cusp of clinical development.",
+        "source": "Fierce Biotech",
+        "published": "Jun 18, 2026 4:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "AI 仿生智慧体赋能长寿养老，承愿国际寻求种子轮融资",
+        "url": "https://www.36kr.com/p/3794973661289475",
+        "summary": "承愿国际长寿村杭州落地，科技养老项目寻种子轮融资",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 22 Jun 2026 02:23:10 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+        "url": "https://huggingface.co/papers/2606.18829",
+        "summary": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple principals write to a common memory pool and query it under different roles, scopes, and relationships, so memory quality requires governance as well as recall. We introduce GateMem, a benchmark for multi-principal shared-memory agents. GateMem jointly evaluates utility for legitimate long-horizon requests with state updates, access control across contextual authorization boundaries, and agent-facing act",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+        "url": "https://huggingface.co/papers/2606.19651",
+        "summary": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privacy-preserving data sharing. Latent diffusion has been the go-to solution for modeling imaging data, but it places two competing demands on the tokenizer: encoder embeddings must retain the clinical information that downstream tasks act on, and the decoder must reconstruct anatomically faithful volumes. Existing reconstruction-driven tokenizers achieve the second at the expense of the first. To addr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+        "url": "https://huggingface.co/papers/2606.19602",
+        "summary": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We deploy ACIE (Agentic Clinical Information Extraction) at University Medicine Essen: an on-premise agentic RAG pipeline that reasons over complete patient contexts and grounds every answer in source passages for clinician verification. We quantify the m",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines",
+        "url": "https://huggingface.co/papers/2606.19605",
+        "summary": "Multi-step LLM pipelines fail through interactions among retrieval, reasoning, and formatting steps, so prompt-only optimization can miss bottlenecks in the chain. We present FAPO (Fully Autonomous Prompt Optimization), a framework that lets Claude Code optimize an LLM pipeline inside a standardized codebase. FAPO evaluates a pipeline, inspects intermediate steps, diagnoses failures, proposes scoped changes, and validates variants repeatedly to optimize against a score function. It first tries prompt edits and, only when prompt optimization appears insufficient, changes chain structure within ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

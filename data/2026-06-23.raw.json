@@ -1,0 +1,398 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T12:55:06.385675+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 6
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Trump administration targets disability integration mandate in DOJ memo",
+        "url": "https://www.statnews.com/2026/06/22/doj-memo-targets-disability-integration-olmstead-mandate/",
+        "summary": "A new memo from the Department of Justice seeks to upend landmark disability laws and court rulings.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 22:20:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Closely watched Pfizer lung cancer drug falls short in clinical trial",
+        "url": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/",
+        "summary": "Pfizer said an experimental drug it hoped could replace a widely used chemotherapy in one of the most common forms of lung cancer fell short in a clinical trial.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 21:36:11 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA to launch pilot program to speed up early-stage clinical trials",
+        "url": "https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/",
+        "summary": "Federal health officials aim to speed up drug development and better compete with China.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 15:48:44 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
+        "url": "https://www.statnews.com/2026/06/22/ebola-congo-1000-cases-254-deaths-civil-war-impedes-search-patient-zero/",
+        "summary": "Confirmed cases in the Ebola outbreak in eastern Congo have reached 1,003, including 254 deaths, officials said, as tracing those who had been in contact with patients remains a major challenge.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 14:27:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Another big deal, another sign biotech M&A is back",
+        "url": "https://www.statnews.com/2026/06/22/biotech-news-another-big-deal-another-sign-ma-is-back/",
+        "summary": "AbbVie buys Apogee Therapeutics, LSD therapy Phase 3 results, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 13:21:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Despite transplant referrals, most kidney patients don’t make the waitlist",
+        "url": "https://www.statnews.com/2026/06/22/health-news-most-kidney-failure-patients-never-get-transplant/",
+        "summary": "An NIH grant proposal poses new threats, more cases of a livestock disease in Europe, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 13:03:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about another FDA reversal, pharma’s M&A spree and much more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/22/another-fda-reversal-pharma-merger-and-acquisition-spree/",
+        "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter is here",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 12:56:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AbbVie to buy Apogee Therapeutics in nearly $11B deal",
+        "url": "https://www.statnews.com/2026/06/22/abbvie-apogee-acquisition-immunology-zumilokibart/",
+        "summary": "AbbVie is buying Apogee Therapeutics, the developer of an experimental atopic dermatitis drug, for nearly $11B, continuing a run of pharma acquisitions.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 11:45:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Definium LSD therapy helped patients with major depression in late-stage trial",
+        "url": "https://www.statnews.com/2026/06/22/definium-lsd-dt120-major-depression-phase-3-data/",
+        "summary": "Definium Therapeutics said that its LSD therapy helped patients with major depression in its first Phase 3 trial, bringing the psychedelic drug closer to a potential approval.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 11:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA reverses course on Regenxbio’s childhood gene therapy after rejection",
+        "url": "https://www.statnews.com/2026/06/22/fda-reverses-course-regenxbio-gene-therapy-navsunli-hunter-syndrome/",
+        "summary": "The FDA will reconsider approving Regenxbio's experimental gene therapy for a deadly and rare childhood brain disorder it rejected just four months ago.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 10:43:36 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Health equity researchers fear unseen level of scrutiny under White House proposal",
+        "url": "https://www.statnews.com/2026/06/22/health-disparity-research-new-dei-rule-threat-nih-grants/",
+        "summary": "Health disparities researchers say a new White House proposal could disqualify much of their work from federal funding — perhaps the most serious threat yet to the future of their&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharma goes on a spending spree, snapping up biotechs in a hurry",
+        "url": "https://www.statnews.com/2026/06/22/pharma-biotech-ma-boom-2026-deals-total-123-billion/",
+        "summary": "Pharmaceutical companies are hungry to make deals, and they’re making more than they have in years.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I work in a psychiatric ER. I’m watching the system fail people in real time",
+        "url": "https://www.statnews.com/2026/06/22/psychiatric-er-detox-caregivers-autism-emergency/",
+        "summary": "The psychiatric ER is “a detox center for those with no safe place to withdraw and a respite center for caregivers at their breaking point,” writes a psychiatrist.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Enough, already: the problem with clinical trial data collection",
+        "url": "https://www.statnews.com/2026/06/22/clinical-trial-data-how-much-is-too-much/",
+        "summary": "“Nearly 30% of the data collected in clinical trials do not directly inform key decisions, yet patients are still asked to provide it.”",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sanofi names new R&D head as it tries to jump-start pipeline",
+        "url": "https://www.statnews.com/2026/06/22/sanofi-paulo-fontoura-houman-ashrafian-research-and-development/",
+        "summary": "Sanofi said that Paulo Fontoura, the chief medical officer at Xaira, would be taking over as its head of R&#038;D, as the company tries to jumpstart its pipeline.",
+        "source": "STAT News",
+        "published": "Mon, 22 Jun 2026 06:53:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/these-socially-responsible-hospitals-deliver-quality-value-and-equity\" hreflang=\"en\">These 'socially responsible' hospitals deliver on quality, value and equity</a>",
+        "url": "https://www.fiercehealthcare.com/providers/these-socially-responsible-hospitals-deliver-quality-value-and-equity",
+        "summary": "The Lown Institute released its latest ranking of the country's 123 most socially responsible acute care hospitals, with additional shoutouts to top-performing critical access hospitals and health systems.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 4:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/patient-portal-messages-doubled-2020-physicians-try-balance-digital-and-clinical\" hreflang=\"en\">Patient portal messages doubled since 2020, study finds, underscoring challenges to physician workloads</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/patient-portal-messages-doubled-2020-physicians-try-balance-digital-and-clinical",
+        "summary": "Online portal messages sent to providers more than doubled between 2020 and 2025, but there hasn't been a corresponding drop-off in clinic visits as digital medicine is supplementing rather than replacing in-person care, a new study finds.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-margins-inched-higher-april-still-remain-below-2025\" hreflang=\"en\">Hospital margins inched higher in April, but still remain below 2025</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-margins-inched-higher-april-still-remain-below-2025",
+        "summary": "“Mixed performance on key volume indicators, staffing challenges and expense growth” are hammering operations in 2026, and are accompanied by an eroding payer mix, per advisory firm Kaufman Hall.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 12:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ensemble-health-partners-secures-strategic-growth-investment-thoreau\" hreflang=\"en\">Ensemble Health Partners secures strategic growth investment from Thoreau </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ensemble-health-partners-secures-strategic-growth-investment-thoreau",
+        "summary": "Bloomberg reported earlier this month that Thoreau Group was in talks to acquire Ensemble Health Partners in a deal valued at about $12 billion.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 12:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/why-its-time-sunset-ai-point-solutions-and-consolidate-platforms\" hreflang=\"en\">Why It’s Time to Sunset AI Point Solutions and Consolidate Platforms </a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/why-its-time-sunset-ai-point-solutions-and-consolidate-platforms",
+        "summary": "While AI spending in healthcare nearly tripled to $1.4 billion in 2025, a typical health system coordinates dozens of distinct vendors for AI and automation solutions, ranging from ambient AI scribes to AI-driven prior authorization apps.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 1:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/you-build-or-buy-care-navigation-ai-answer\" hreflang=\"en\">Before you build or buy care navigation AI, answer this</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/you-build-or-buy-care-navigation-ai-answer",
+        "summary": "Build vs. buy is the wrong starting point for care navigation AI. Here are the questions that actually matter.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 9:23am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/preparing-lead-why-post-acute-visibility-key-long-term-value-based-success\" hreflang=\"en\">Preparing for LEAD: Why post-acute visibility is the key to long-term value-based success</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/preparing-lead-why-post-acute-visibility-key-long-term-value-based-success",
+        "summary": "For acute care health systems and ACO leaders, LEAD doesn’t just extend the timeline – it fundamentally reshapes how value-based care (VBC) success must be achieved and maintained over time.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 7:36am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/new-frontier-care-management-bridging-empathy-gap-intelligence\" hreflang=\"en\">The New Frontier of Care Management: Bridging the Empathy Gap with Intelligence</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/new-frontier-care-management-bridging-empathy-gap-intelligence",
+        "summary": "Reflecting on the current state of healthcare operations, it is clear that a critical inflection point in care management has been reached. Across the landscape, the challenges are no longer just about clinical protocols; they are about the brutal math of scalability.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 11:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce\" hreflang=\"en\">Prosper AI lands $30M backed by Andreessen Horowitz to build AI workforce for healthcare operations</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce",
+        "summary": "Prosper AI banked $30 million to scale its agentic AI platform to power administrative tasks from patient scheduling to insurance verification and patient billing.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 7:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rural-independent-kansas-hospitals-launch-clinically-integrated-network\" hreflang=\"en\">Rural, independent Kansas hospitals launch clinically integrated network</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rural-independent-kansas-hospitals-launch-clinically-integrated-network",
+        "summary": "The Kansas High Value Network's seven members together command $545 million in net revenue, and hope to improve quality and efficiency through shared services and value-based contracting.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 4:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/look-epics-long-term-play-build-tech-operations-starting-scheduling\" hreflang=\"en\">A look at Epic's long-term play to build tech for operations, starting with scheduling</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/look-epics-long-term-play-build-tech-operations-starting-scheduling",
+        "summary": "The company is working to build a natively integrated enterprise resource planning (ERP) suite exclusively for healthcare operations that will collect financial, operational and clinical data in one unified system.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 5:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/congressional-budget-office-calls-more-research-no-surprises-act-impacts\" hreflang=\"en\">Congressional Budget Office calls for more research on No Surprises Act unintended impacts</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/congressional-budget-office-calls-more-research-no-surprises-act-impacts",
+        "summary": "The nonpartisan office is seeking more information on the law’s impact on healthcare prices, network participation, ownership structures and more.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 18, 2026 3:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/exelixis-cabometyx-successor-fails-primary-endpoint-colorectal-cancer-trial-amid-fda-review\" hreflang=\"en\">Exelixis’ Cabometyx successor fails primary endpoint in colorectal cancer trial amid FDA review</a>",
+        "url": "https://www.fiercebiotech.com/biotech/exelixis-cabometyx-successor-fails-primary-endpoint-colorectal-cancer-trial-amid-fda-review",
+        "summary": "Exelixis’ next franchise drug, zanzalintinib, has hit a clinical setback, although at least two groups of analysts suggested that an FDA approval is still on the table.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 3:20pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/federal-health-agencies-announce-plan-speed-phase-1-clinical-trials-6-12-months\" hreflang=\"en\">Federal health agencies unveil plan to speed up phase 1 clinical trials by 6 to 12 months</a>",
+        "url": "https://www.fiercebiotech.com/biotech/federal-health-agencies-announce-plan-speed-phase-1-clinical-trials-6-12-months",
+        "summary": "As the biotech world flocks to San Diego today for the BIO International Convention, the Department of Health and Human Services has provided plenty of conversation fodder with the announcement of a series of efforts to regain ground on China’s surging early-stage clinical development capabilities.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 11:39am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Memento launches with $93M; Triveni Bio raises $65M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/another-reversal-rare-disease-fda-reconsider-regenxbio-gene-therapy\" hreflang=\"en\">In another reversal for rare disease field, FDA to reconsider Regenxbio gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/another-reversal-rare-disease-fda-reconsider-regenxbio-gene-therapy",
+        "summary": "In another sign that the FDA is easing its stance toward rare disease drug candidates under new leadership, the agency will reconsider Regenxbio’s gene therapy for an ultra-rare childhood disease, a reversal coming just about four months after a rejection.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-prometheus-buyout-passes-ph-3-test-ulcerative-colitis\" hreflang=\"en\">Merck’s anti-TL1A antibody from Prometheus buyout passes ph. 3 test in ulcerative colitis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-prometheus-buyout-passes-ph-3-test-ulcerative-colitis",
+        "summary": "Merck is making advances in the lucrative ulcerative colitis field with the key prize of its $11 billion buyout from several years ago.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 9:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/sanofi-pangaea-ink-partnership-deal-detect-underdiagnosed-genetic-disease\" hreflang=\"en\">Sanofi, Pangaea ink AI partnership deal to detect underdiagnosed genetic disease</a>",
+        "url": "https://www.fiercebiotech.com/medtech/sanofi-pangaea-ink-partnership-deal-detect-underdiagnosed-genetic-disease",
+        "summary": "French biopharma Sanofi inked a partnership deal with Pangaea Data to use its AI platform that helps detect Alpha-1 Antitrypsin Deficiency (AATD) that will be distributed to select healthcare systems and low-income community care clinics.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 8:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible\" hreflang=\"en\">For biopharma manufacturing at speed and scale, the future is flexible</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible",
+        "summary": "Biopharma development has long trended toward specialized and personalized therapies such as cell and gene therapies, antibody-drug conjugates, and monoclonal antibodies (mAbs), among others.",
+        "source": "Fierce Biotech",
+        "published": "Jun 17, 2026 10:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/beyond-rigid-platforms-adaptive-adenoviral-platform-de-risks-development-gmp\" hreflang=\"en\">Beyond Rigid Platforms: Adaptive Adenoviral Platform De-Risks Development to GMP</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/beyond-rigid-platforms-adaptive-adenoviral-platform-de-risks-development-gmp",
+        "summary": "Rigid adenoviral platforms can derail GMP progress. Learn how adaptive, adenovirus-specific strategies reduce risk from development to scale.",
+        "source": "Fierce Biotech",
+        "published": "Jun 11, 2026 11:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/rethinking-controls-rise-vcgs-drug-development\" hreflang=\"en\">Rethinking controls: The rise of VCGs in drug development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/rethinking-controls-rise-vcgs-drug-development",
+        "summary": "Virtual control groups are redefining study design—cutting animal use while advancing rigor and regulatory momentum.",
+        "source": "Fierce Biotech",
+        "published": "Jun 17, 2026 3:31pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/fda-breakthrough-therapy-and-rmat-strategic-decisions-can-accelerate-oncology-development\" hreflang=\"en\">FDA Breakthrough Therapy and RMAT: Strategic Decisions That Can Accelerate Oncology Development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/fda-breakthrough-therapy-and-rmat-strategic-decisions-can-accelerate-oncology-development",
+        "summary": "Explore how FDA Breakthrough Therapy and RMAT designations can create opportunities for oncology programs when backed by the right development strategy.",
+        "source": "Fierce Biotech",
+        "published": "Jun 16, 2026 1:33pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-lab-data-powers-precision-commercialization-drive-therapy-adoption-0\" hreflang=\"en\">How data-driven diagnostic lab services drive precise clinical trial enrollment</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-lab-data-powers-precision-commercialization-drive-therapy-adoption-0",
+        "summary": "Drug commercialization depends on reaching the right physicians at the right moment.",
+        "source": "Fierce Biotech",
+        "published": "Jun 10, 2026 12:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/redefining-what-success-looks-psc-evolution-clinical-trial-endpoints\" hreflang=\"en\">Redefining what success looks like in PSC: The evolution of clinical trial endpoints</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/redefining-what-success-looks-psc-evolution-clinical-trial-endpoints",
+        "summary": "As understanding of rare cholestatic liver diseases has evolved, endpoint science and patient engagement may help shape future PSC research.",
+        "source": "Fierce Biotech",
+        "published": "Jun 9, 2026 3:56pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "AI医疗赛道挤满互联网大厂",
+        "url": "https://www.36kr.com/p/3864254602089474",
+        "summary": "互联网医疗十年没做成的事，AI医疗可以吗",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 22 Jun 2026 13:17:30 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "基于Gemini 1.5长上下文能力，谷歌对话式医疗系统AMIE在100例多次就诊场景中达到全科医师的推理水平",
+        "url": "https://www.36kr.com/p/3864201965671683",
+        "summary": "在虚拟 OSCE 中展现媲美全科医师的临床推理能力",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 22 Jun 2026 10:54:46 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI 仿生智慧体赋能长寿养老，承愿国际寻求种子轮融资",
+        "url": "https://www.36kr.com/p/3794973661289475",
+        "summary": "承愿国际长寿村杭州落地，科技养老项目寻种子轮融资",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 22 Jun 2026 02:23:10 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Learning from Your Own Mistakes: Constructing Learnable Micro-Reflective Trajectories for Self-Distillation",
+        "url": "https://huggingface.co/papers/2606.18844",
+        "summary": "Self-distillation improves reasoning in large language models by using the model's own rollouts as training signal, typically through implicit logit-level alignment that minimizes KL divergence toward a privileged target distribution. However, because this supervision is generated via uncontrolled sampling, it provides no diagnostic insight into the model's specific errors or corrective guidance for its individual failure patterns. Consequently, the model learns to imitate a privileged distribution rather than receiving fine-grained corrections that pinpoint where and why its reasoning fails. ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Exploring the Design Space of Reward Backpropagation for Flow Matching",
+        "url": "https://huggingface.co/papers/2606.11075",
+        "summary": "Aligning text-to-image flow matching models with human preferences via direct reward backpropagation is sample-efficient but hampered by two well-known pathologies: activations cannot be stored across the full sampling trajectory at modern model scale, and chained Jacobian products across steps inflate the reward gradient as it travels back to early indices. Connector-based methods, such as LeapAlign, address these issues by replacing the full backward trajectory with a short pinned path, highlighting a useful decoupling between sampling and optimization. However, the quality of the resulting ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-09T12:36:54.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "When, Where, and How: Adaptive Binning for Tabular Self-Supervised Learning",
+        "url": "https://huggingface.co/papers/2606.19827",
+        "summary": "Medical tabular data are ubiquitous in clinical research, but deep learning for tables remains underexplored because reliable labels often require costly expert adjudication, even though structured clinical variables are routinely available in tabular form. Self-supervised learning can leverage these unlabeled tables, and recent binning-based pretexts offer a promising inductive bias, but existing objectives fix a single global quantile discretization and apply feature-agnostic supervision. We propose Adaptive Binning, a training-adaptive discretization pretext for tabular SSL that couples dis",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-17T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+        "url": "https://huggingface.co/papers/2606.18829",
+        "summary": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple principals write to a common memory pool and query it under different roles, scopes, and relationships, so memory quality requires governance as well as recall. We introduce GateMem, a benchmark for multi-principal shared-memory agents. GateMem jointly evaluates utility for legitimate long-horizon requests with state updates, access control across contextual authorization boundaries, and agent-facing act",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+        "url": "https://huggingface.co/papers/2606.19651",
+        "summary": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privacy-preserving data sharing. Latent diffusion has been the go-to solution for modeling imaging data, but it places two competing demands on the tokenizer: encoder embeddings must retain the clinical information that downstream tasks act on, and the decoder must reconstruct anatomically faithful volumes. Existing reconstruction-driven tokenizers achieve the second at the expense of the first. To addr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+        "url": "https://huggingface.co/papers/2606.19602",
+        "summary": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We deploy ACIE (Agentic Clinical Information Extraction) at University Medicine Essen: an on-premise agentic RAG pipeline that reasons over complete patient contexts and grounds every answer in source passages for clinician verification. We quantify the m",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-16T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

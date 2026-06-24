@@ -1,0 +1,366 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T12:59:03.269747+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA drops enforcement against Whoop after it tweaks blood pressure feature",
+        "url": "https://www.statnews.com/2026/06/23/fda-drops-enforcement-against-wearable-maker-whoop/",
+        "summary": "The FDA told wearable maker Whoop last week that it would not take further enforcement action over the company's blood pressure feature.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 23:36:09 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Want high-quality generic drugs? One expert has ideas on how consumers can trust their supply",
+        "url": "https://www.statnews.com/pharmalot/2026/06/23/high-quality-generic-drugs-lab-testing/",
+        "summary": "Can the quality of generic drugs in the U.S. be made more consistent? One expert has some ideas on how to do it.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 19:53:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Judge rules government can’t stop SNAP dollars from buying candy and sugary drinks",
+        "url": "https://www.statnews.com/2026/06/23/snap-dollars-buying-candy-sugary-drinks-judge-ruling/",
+        "summary": "The federal government can't block benefits from the nation's largest food aid program from being used to buy candy, soda, and other sugary drinks, a judge ruled.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 17:50:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Justice Department announces hundreds of charges in multibillion-dollar health care fraud crackdown",
+        "url": "https://www.statnews.com/2026/06/23/texas-doctor-charged-fraud-case-cms-health-care-crackdown/",
+        "summary": "The Justice Department has charged a Texas doctor in an $89 million health care fraud scheme, accusing him of billing insurers for medically unnecessary cardiovascular screening tests.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 15:28:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Exclusive: Mystery man gets experimental GLP-1",
+        "url": "https://www.statnews.com/2026/06/23/eli-lilly-mystery-patient-congress-chinese-biotech-dc-diagnosis/",
+        "summary": "Giving an individual special access to an experimental obesity drug is highly unusual.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 14:22:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about FDA reforming clinical trials, a Pfizer setback, and much more news",
+        "url": "https://www.statnews.com/pharmalot/2026/06/23/fda-reforming-clinical-trials-pfizer-setback-lilly-trump-obesity/",
+        "summary": "The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 13:20:58 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Lilly’s retatrutide has been offered to a single person via ‘compassionate use’ program",
+        "url": "https://www.statnews.com/2026/06/23/biotech-news-why-did-one-person-get-special-retatrutide-access-eli-lilly/",
+        "summary": "The \"triple-G\" weight loss drug, Pfizer's lung cancer trial results, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 13:06:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: OpenEvidence will add FDA-cleared AI to detect heart disease",
+        "url": "https://www.statnews.com/2026/06/23/openevidence-fda-cleared-heart-disease-ai-health-tech/",
+        "summary": "In this edition of STAT Health Tech: OpenEvidence adds AI to detect heart disease, and Cadence raises $100 million, and more.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 12:54:26 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "HHS has sent drug for Ebola clinical trial",
+        "url": "https://www.statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/",
+        "summary": "FDA's early-stage clinical trial program, a mysterious single patient gets retatrutide access, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 12:45:45 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Cadence raises $100 million to automate chronic disease care with regulated AI",
+        "url": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/",
+        "summary": "Digital health startup Cadence has raised $100 million at a $1.23 billion valuation to expand its chronic disease management program.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Gene-editing startup launches with $230 million and a Chinese licensing deal",
+        "url": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/",
+        "summary": "A new gene-editing startup negotiated contracts with a Chinese company, raised $230 million in funding, and executed a reverse-merger with a preexisting biotech company.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 11:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it?",
+        "url": "https://www.statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/",
+        "summary": "Exclusive: STAT has learned that Eli Lilly and the FDA allowed a 79-year-old to gain extraordinary access to an experimental obesity drug through the agency’s “compassionate use” program.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: A sweeping new AI to detect heart conditions is coming to OpenEvidence",
+        "url": "https://www.statnews.com/2026/06/23/pathway-labs-echonext-ai-tool-heart-disease-detection/",
+        "summary": "EchoNext, a new AI tool cleared by the FDA, will let doctors use an EKG to easily screen patients for structural heart diseases.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Ending birthright citizenship could be a public health disaster",
+        "url": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/",
+        "summary": "If the Supreme Court upholds the executive order ending birthright citizenship, it could “have stark consequences at the intersection of bioethics and public health.”",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The Catch-22 for disabled workers hidden in Medicaid’s new work requirements",
+        "url": "https://www.statnews.com/2026/06/23/medicaid-work-requirements-disability-medically-frail/",
+        "summary": "“There's a particular cruelty buried in the new Medicaid work requirement rules,” write Maria Town and Nicole Jorwic.",
+        "source": "STAT News",
+        "published": "Tue, 23 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/doj-announces-65b-healthcare-fraud-takedown-record-medicaid-enforcement\" hreflang=\"en\">DOJ announces $6.5B healthcare fraud takedown with record Medicaid enforcement</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/doj-announces-65b-healthcare-fraud-takedown-record-medicaid-enforcement",
+        "summary": "Law enforcement unveiled charges against 455 defendants for their alleged participation in healthcare schemes, among which fraudulent amniotic wound allografts and undelivered Medicaid services were spotlighted.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 23, 2026 4:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unpacking-cms-decision-recalculate-2026-ma-star-ratings-after-clover-health-ruling\" hreflang=\"en\">Unpacking CMS' decision to recalculate 2026 MA star ratings after Clover Health ruling</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unpacking-cms-decision-recalculate-2026-ma-star-ratings-after-clover-health-ruling",
+        "summary": "A recent court ruling in favor of Clover Health is leading the feds to recalculate Medicare Advantage's star ratings for 2026, and analysts at Capstone warn that this \"foreshadows [a] volatile direction\" for the program.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 23, 2026 2:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/medicares-ai-push-snarls-patients-and-doctors-errors-and-delays\" hreflang=\"en\">Medicare’s AI push snarls patients and doctors in errors and delays</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/medicares-ai-push-snarls-patients-and-doctors-errors-and-delays",
+        "summary": "One key concern is that it all happened too hastily. WISeR was announced in June 2025 and launched in mid-January.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 23, 2026 12:18pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/michigan-hospitals-denounce-legislation-cap-prices-limit-mergers\" hreflang=\"en\">Michigan hospitals denounce legislation to cap prices, limit mergers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/michigan-hospitals-denounce-legislation-cap-prices-limit-mergers",
+        "summary": "A trio of bills introduced by House Speaker Matt Hall would \"severely harm hospitals, jeopardize their financial viability and threaten access to care throughout Michigan,\" the state's hospital association said Monday.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 23, 2026 1:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/gallup-poll-claims-less-50-american-adults-can-afford-healthcare\" hreflang=\"en\">Half of U.S. adults can't afford healthcare, Gallup poll finds</a>",
+        "url": "https://www.fiercehealthcare.com/payers/gallup-poll-claims-less-50-american-adults-can-afford-healthcare",
+        "summary": "Survey data from the West Health-Gallup Affordability Index classifies 49% of U.S. adults as “Cost Secure,” or “able to access quality, affordable care and have recently been able to pay for both needed care and medicine.” This is down two percentage points from 2024 and down 12 percentage points from 2022.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 1:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/cadence-secures-100m-series-c-advance-chronic-care-ai-agents\" hreflang=\"en\">Cadence secures $100M series C to advance AI-powered care for chronic disease</a>",
+        "url": "https://www.fiercehealthcare.com/finance/cadence-secures-100m-series-c-advance-chronic-care-ai-agents",
+        "summary": "The company plans to use the fresh funding to advance its AI agents, grow in value-based care models and expand across new health systems.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 23, 2026 11:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—MultiCare Health System, Franciscan Alliance, CHOP CEOs to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hallmark-health-care-solutions-launches-ai-solution-tackle-workforce-black-box\" hreflang=\"en\">Hallmark Health Care Solutions launches AI solution to tackle workforce ‘black box’</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hallmark-health-care-solutions-launches-ai-solution-tackle-workforce-black-box",
+        "summary": "Health systems partnering with Hallmark have seen significant measurable results, including reducing contingent labor expenses by 15% to 25% and lowering overtime costs by an average of 25%.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 23, 2026 8:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-elevance-healths-push-streamline-clinical-reviews\" hreflang=\"en\">A look at Elevance Health's push to streamline clinical reviews</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-elevance-healths-push-streamline-clinical-reviews",
+        "summary": "Elevance Health is making strides toward a simpler and more streamlined clinical review process through its Health OS platform.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 4:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/hcsc-unveils-easify-edge-plans-alternative-employer-option\" hreflang=\"en\">HCSC unveils Easify Edge plans as alternative employer option</a>",
+        "url": "https://www.fiercehealthcare.com/payers/hcsc-unveils-easify-edge-plans-alternative-employer-option",
+        "summary": "With employers seeking new solutions to address rising healthcare costs, Health Care Service Corporation is rolling out its Edge health plans, a new alternative option aimed at simplifying the member experience.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 2:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/these-socially-responsible-hospitals-deliver-quality-value-and-equity\" hreflang=\"en\">These 'socially responsible' hospitals deliver on quality, value and equity</a>",
+        "url": "https://www.fiercehealthcare.com/providers/these-socially-responsible-hospitals-deliver-quality-value-and-equity",
+        "summary": "The Lown Institute released its latest ranking of the country's 123 most socially responsible acute care hospitals, with additional shoutouts to top-performing critical access hospitals and health systems.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 4:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/patient-portal-messages-doubled-2020-physicians-try-balance-digital-and-clinical\" hreflang=\"en\">Patient portal messages doubled since 2020, study finds, underscoring challenges to physician workloads</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/patient-portal-messages-doubled-2020-physicians-try-balance-digital-and-clinical",
+        "summary": "Online portal messages sent to providers more than doubled between 2020 and 2025, but there hasn't been a corresponding drop-off in clinic visits as digital medicine is supplementing rather than replacing in-person care, a new study finds.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 22, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/discreet-biotech-osanni-bio-starts-making-noise-190m-series-b-clinical-push\" hreflang=\"en\">Discreet biotech Osanni Bio starts making noise with $190M series B for clinical push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/discreet-biotech-osanni-bio-starts-making-noise-190m-series-b-clinical-push",
+        "summary": "An under-the-radar Bay Area biotech has brought in a $190 million series B with the goal of hatching a clutch of new companies to fly its drug candidates forward.",
+        "source": "Fierce Biotech",
+        "published": "Jun 23, 2026 2:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/serapha-bio-takes-flight-boundless-merger-230m-and-gene-editing-prospect-china\" hreflang=\"en\">Serapha Bio takes flight from Boundless merger with $230M and gene-editing prospect from China</a>",
+        "url": "https://www.fiercebiotech.com/biotech/serapha-bio-takes-flight-boundless-merger-230m-and-gene-editing-prospect-china",
+        "summary": "The focus of the company is SERP-01,&nbsp;an in vivo base editing program&nbsp;targeting AATD developed in China and licensed from YolTech Therapeutics.&nbsp;",
+        "source": "Fierce Biotech",
+        "published": "Jun 23, 2026 12:57pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sangamo-puts-substantially-all-assets-sale-bankruptcy-lines-lilly-and-astellas-buyers\" hreflang=\"en\">Sangamo to put ‘substantially all’ assets for sale in bankruptcy, lines up Lilly and Astellas as buyers</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sangamo-puts-substantially-all-assets-sale-bankruptcy-lines-lilly-and-astellas-buyers",
+        "summary": "Eli Lilly and Astellas have emerged as “stalking horse bidders” for certain assets as part of Sangamo’s bankruptcy process.",
+        "source": "Fierce Biotech",
+        "published": "Jun 23, 2026 10:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-kgaa-pledges-50m-build-new-cardio-biotech-eye-later-acquisition\" hreflang=\"en\">Merck KGaA pledges $50M to build new cardio biotech with eye to later acquisition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-kgaa-pledges-50m-build-new-cardio-biotech-eye-later-acquisition",
+        "summary": "Merck KGaA has committed $50 million to build a new biotech with prolific life science investor Versant Ventures, with the ultimate goal of devouring the NewCo down the line.",
+        "source": "Fierce Biotech",
+        "published": "Jun 23, 2026 10:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Sangamo sheds 40% of staff; enGene halves workforce</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/big-obesity-bets-and-chinas-rise-fuel-potential-2t-2032-drug-sales-evaluate\" hreflang=\"en\">Big obesity bets and China's rise fuel potential $2T in 2032 drug sales: Evaluate</a>",
+        "url": "https://www.fiercebiotech.com/pharma/big-obesity-bets-and-chinas-rise-fuel-potential-2t-2032-drug-sales-evaluate",
+        "summary": "While dealmaking and investment dollars may be flowing across biopharma once again, acute challenges tied to policy, pricing and more continue to dog the industry, even as pipelines bring massive sales opportunities to bear.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 3:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Osanni makes noise with $190M; Serapha sets $230M launch</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-issues-early-alert-jjs-abiomed-catheter-introducer-amid-bleeding-risk\" hreflang=\"en\">FDA issues early alert for J&amp;J’s Abiomed catheter introducer over manufacturing issues, bleeding risk </a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-issues-early-alert-jjs-abiomed-catheter-introducer-amid-bleeding-risk",
+        "summary": "The FDA has sent out an early alert to J&amp;J’s Abiomed unit and its manufacturing partner, Oscor, for their catheter introducer kits that are used with Impella heart pumps amid manufacturing concerns.",
+        "source": "Fierce Biotech",
+        "published": "Jun 23, 2026 4:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/corxel-gears-global-pivotal-push-after-oral-glp-1-posts-competitive-ph-2-results\" hreflang=\"en\">Corxel gears up for global pivotal push after oral GLP-1 posts ‘competitive’ ph. 2 results</a>",
+        "url": "https://www.fiercebiotech.com/biotech/corxel-gears-global-pivotal-push-after-oral-glp-1-posts-competitive-ph-2-results",
+        "summary": "With a balance of competitive efficacy and tolerability, Corxel figures it has a potential winner to take into late-stage development.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 1:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-first-new-adc-seagen-acquisition-fails-phase-3-nsclc-trial\" hreflang=\"en\">Pfizer’s first new ADC from Seagen acquisition fails phase 3 NSCLC trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-first-new-adc-seagen-acquisition-fails-phase-3-nsclc-trial",
+        "summary": "Pfizer announced Monday that sigvotatug vedotin, the first new ADC to read out pivotal data following its $43 billion acquisition of Seagen, has stumbled in a phase 3 study in non-small cell lung cancer.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 5:26pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/exelixis-cabometyx-successor-fails-primary-endpoint-colorectal-cancer-trial-amid-fda-review\" hreflang=\"en\">Exelixis’ Cabometyx successor fails primary endpoint in colorectal cancer trial amid FDA review</a>",
+        "url": "https://www.fiercebiotech.com/biotech/exelixis-cabometyx-successor-fails-primary-endpoint-colorectal-cancer-trial-amid-fda-review",
+        "summary": "Exelixis’ next franchise drug, zanzalintinib, has hit a clinical setback, although at least two groups of analysts suggested that an FDA approval is still on the table.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 3:20pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/federal-health-agencies-announce-plan-speed-phase-1-clinical-trials-6-12-months\" hreflang=\"en\">Federal health agencies unveil plan to speed up phase 1 clinical trials by 6 to 12 months</a>",
+        "url": "https://www.fiercebiotech.com/biotech/federal-health-agencies-announce-plan-speed-phase-1-clinical-trials-6-12-months",
+        "summary": "As the biotech world flocks to San Diego today for the BIO International Convention, the Department of Health and Human Services has provided plenty of conversation fodder with the announcement of a series of efforts to regain ground on China’s surging early-stage clinical development capabilities.",
+        "source": "Fierce Biotech",
+        "published": "Jun 22, 2026 11:39am",
+        "importance_hint": 5
+      },
+      {
+        "title": "AI医疗赛道挤满互联网大厂",
+        "url": "https://www.36kr.com/p/3864254602089474",
+        "summary": "互联网医疗十年没做成的事，AI医疗可以吗",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 22 Jun 2026 13:17:30 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "基于Gemini 1.5长上下文能力，谷歌对话式医疗系统AMIE在100例多次就诊场景中达到全科医师的推理水平",
+        "url": "https://www.36kr.com/p/3864201965671683",
+        "summary": "在虚拟 OSCE 中展现媲美全科医师的临床推理能力",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 22 Jun 2026 10:54:46 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "When Agents Commit Too Soon: Diagnosing Premature Commitment in LLM Agents",
+        "url": "https://huggingface.co/papers/2606.22936",
+        "summary": "Long-horizon LLM agents can fail quietly: they settle on one reading of the evidence early, then spend the rest of the run defending it. We call this premature commitment. Final-answer scoring misses the failure mode because it sees only the answer, not whether the process has already collapsed to a stable path. We define representational commitment as cross-run hidden-state convergence at a fixed reasoning step, and use it as an early diagnostic of trajectory consistency. On Llama-3.1-70B running ReAct on HotpotQA, step-4 hidden-state similarity predicts downstream behavioral consistency (r =",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Libretto: Giving LLM Agents a Sense of Musical Structure",
+        "url": "https://huggingface.co/papers/2606.22708",
+        "summary": "Generative music systems can now produce impressive audio from text prompts, but audio outputs are difficult to inspect, edit, and diagnose as musical structure. We introduce Libretto, an agent-facing framework for symbolic music generation and revision. Libretto uses an LLM-native grammar with explicit onset slots, voices, and bar-level organization, then evaluates each piece in a corpus-calibrated statistical space over rhythm, harmony, melody, texture, form, and variation. The same structural axes support retrieval, diagnosis, copy-risk control, and iterative self-revision. Across gap filli",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language",
+        "url": "https://huggingface.co/papers/2606.22138",
+        "summary": "We present BioMatrix, the first multimodal foundation model that natively integrates sequences, structures, and natural language for both molecules and proteins within a single decoder-only architecture. Existing biological foundation models pursue native multimodality and broad entity coverage separately: those that fuse multiple modalities under a shared objective remain confined to a single entity type, while those spanning multiple entity types either omit explicit structural modeling or rely on adapter-based designs in which the model cannot natively generate the very modalities it can re",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-19T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

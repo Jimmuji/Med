@@ -1,0 +1,374 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T13:04:17.825237+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+        "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/",
+        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 20:15:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At BIO 2026, industry wrestled with Washington politics, and making AI work better",
+        "url": "https://www.statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/",
+        "summary": "Biotech executives reveal concerns over Chinese biotech, the profitability of AI, and the durability of Trump's drug price moves.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 19:19:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The mysterious case of Eli Lilly’s obesity drug",
+        "url": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/",
+        "summary": "Who got exclusive access to Eli Lilly's highly anticipated obesity candidate? And why are drugmakers spending so much on acquisitions? Find out on this week's \"Readout LOUD.\"",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 18:58:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+        "url": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/",
+        "summary": "Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 17:32:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Supreme Court ruling blocks thousands of lawsuits against maker of Roundup weedkiller",
+        "url": "https://www.statnews.com/2026/06/25/supreme-court-blocks-thousands-lawsuits-roundup-weedkiller-cancer/",
+        "summary": "The Supreme Court sided with the maker of Roundup weedkiller in a ruling expected to block thousands of lawsuits alleging it failed to warn people the product could cause cancer.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 17:15:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Proposed CDC science office could tighten political control at agency",
+        "url": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/",
+        "summary": "Under President Trump, political leaders are exerting more control across federal health agencies.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 16:10:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Democrats press White House on who got special access to Eli Lilly’s new obesity drug",
+        "url": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/",
+        "summary": "The unusual access to an experimental drug has captured the attention of the American public as well.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 15:03:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Next-gen CRISPR tools improve editing accuracy in embryos, but also stoke ethical concerns",
+        "url": "https://www.statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/",
+        "summary": "The use of genome editing in early embryos has pulled back the curtain on the role of one of the key genes that orchestrates the first stages of human development,&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The China debate gets louder in Washington",
+        "url": "https://www.statnews.com/2026/06/25/biotech-news-the-china-debate-gets-louder-in-washington/",
+        "summary": "A boom in GLP-1s and health care costs, AI-designed hair growth drugs, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 14:20:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA’s breakthrough pipeline fills up with generative AI devices",
+        "url": "https://www.statnews.com/2026/06/25/fda-breakthrough-generative-ai-devices-health-tech/",
+        "summary": "In this edition of STAT Health Tech: FDA drops enforcement against Whoop, more AI devices get FDA 'breakthrough' label, and more.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 13:43:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about weight loss drug spending, launch prices for medicines, and much more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/25/weight-loss-drug-spending-launch-prices-for-medicines/",
+        "summary": "The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 13:03:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA gives generative AI in radiology two breakthrough designation nods",
+        "url": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/",
+        "summary": "FDA has granted breakthrough designation to two devices that use generative AI to interpret chest X-rays and draft the radiology reports.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 12:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Another roadblock for DOJ campaign against trans health",
+        "url": "https://www.statnews.com/2026/06/25/health-news-another-roadblock-for-doj-campaign-against-trans-health/",
+        "summary": "New bill proposes expanding methadone access, $5.7 trillion on U.S. health care, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 11:48:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+        "url": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/",
+        "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: My adult daughter has Down syndrome. Her life is entirely different from what experts expected",
+        "url": "https://www.statnews.com/2026/06/25/prenatal-down-syndrome-diagnosis-screening-life-expectancy-health-facts/",
+        "summary": "“Women are fully capable of making difficult decisions, but meaningful choice requires trusted, vetted information,” writes Michelle Sie Whitten of the Global Down Syndrome Foundation.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cassidys-new-plan-reform-340b-rebates-contract-pharmacy-limits-and-more\" hreflang=\"en\">Cassidy's new plan to overhaul 340B: Rebates, contract pharmacy limits and more changes</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cassidys-new-plan-reform-340b-rebates-contract-pharmacy-limits-and-more",
+        "summary": "A legislative discussion draft shared Thursday by the Senate HELP chairman includes rebates, contract pharmacy limits, narrowed definitions and other proposals.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 4:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medicares-glp-1-bridge-coming-soon-walmart-expands-weight-management-supports-consumers\" hreflang=\"en\">With Medicare's GLP-1 'bridge' coming soon, Walmart expands weight management supports for consumers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medicares-glp-1-bridge-coming-soon-walmart-expands-weight-management-supports-consumers",
+        "summary": "Medicare's GLP-1 Bridge program goes into effect next week, so Walmart is rolling out new supports aimed at helping beneficiaries understand their weight management options.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 4:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/democrats-propose-bill-capping-out-pocket-costs-medicare-enrollees\" hreflang=\"en\">Democrats to propose bill capping out-of-pocket costs for Medicare enrollees</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/democrats-propose-bill-capping-out-pocket-costs-medicare-enrollees",
+        "summary": "Sen. Ron Wyden and 14 Democratic co-sponsors plan to introduce legislation Thursday to cap consumers’ potential out-of-pocket costs in traditional Medicare, resurfacing a long-running debate over why the program doesn’t limit beneficiary spending.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 12:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oracle-partners-theator-expand-ai-powered-surgical-documentation-operating-rooms\" hreflang=\"en\">Oracle partners with Theator to expand AI-powered surgical documentation to operating rooms</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oracle-partners-theator-expand-ai-powered-surgical-documentation-operating-rooms",
+        "summary": "Oracle Health, owned by tech giant Oracle after it acquired EHR company Cerner in 2022, is ramping up its AI capabilities while also expanding its AI ecosystem through partnerships.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 8:19am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps\" hreflang=\"en\">Judge blocks narrowed definition of 'professional degree' for federal student loan caps</a>",
+        "url": "https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps",
+        "summary": "Plaintiff provider associations cheered the decision, as the rule's definition would have barred advanced practice students from a higher borrowing limit.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 4:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/upside-secures-20m-series-expand-healthcare-focused-housing-platform\" hreflang=\"en\">Upside secures $20M series A to expand healthcare-focused housing platform</a>",
+        "url": "https://www.fiercehealthcare.com/finance/upside-secures-20m-series-expand-healthcare-focused-housing-platform",
+        "summary": "The company plans to use the funding simultaneously across Medicaid, Medicare Advantage and employer-sponsored markets.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 12:18pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—St. Charles cuts 45 leadership roles; MU Health Care lays off 74</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/tigerconnect-expands-ai-driven-platform-new-scheduling-capabilities\" hreflang=\"en\">TigerConnect expands AI-driven platform with new scheduling capabilities</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/tigerconnect-expands-ai-driven-platform-new-scheduling-capabilities",
+        "summary": "The new platform offers real-time AI-generated gap detection and intelligent assignment logic for schedule balancing.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 24, 2026 3:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/first-stop-health-expands-weight-management-program-shares-first-year-results\" hreflang=\"en\">First Stop Health expands weight management program, shares first-year results</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/first-stop-health-expands-weight-management-program-shares-first-year-results",
+        "summary": "During the first year, one employer saw 100% of participants lose weight over 12 months, the company says.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 24, 2026 2:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/infinitus-launches-risk-detection-system-ensure-appropriate-patient-triage\" hreflang=\"en\"> Infinitus launches risk detection system to ensure appropriate patient triage from AI agents</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/infinitus-launches-risk-detection-system-ensure-appropriate-patient-triage",
+        "summary": "The solution—dubbed Clinical Escalations—continuously assesses risk during interactions, allowing reclassification of events to emergent clinical situations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 24, 2026 12:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-scores-120m-series-c-scale-voice-ai-agent-platform-healthcare\" hreflang=\"en\">Assort Health scores $120M series C to scale voice AI agent platform for healthcare </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-scores-120m-series-c-scale-voice-ai-agent-platform-healthcare",
+        "summary": "Assort Health has a large proprietary specialty dataset built on 190 million patient interactions, 62,000 care protocols and 1.6 million decision pathways.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 24, 2026 6:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/kaiser-health-plan-ordered-pay-hospital-82m-over-insufficient-reimbursement\" hreflang=\"en\">Kaiser Health Plan ordered to pay hospital $82M over insufficient reimbursement</a>",
+        "url": "https://www.fiercehealthcare.com/providers/kaiser-health-plan-ordered-pay-hospital-82m-over-insufficient-reimbursement",
+        "summary": "A drawn-out legal back-and-forth between Kaiser Health Plan and Pomona Valley Hospital over out-of-network emergency care reimbursement hinged on the terms of a previously terminated contract, making the case \"a useful reminder that a terminated contract is not always a dead document.”",
+        "source": "Fierce Healthcare",
+        "published": "Jun 24, 2026 4:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fosun-pharma-plots-global-push-beyond-oncology-fueled-multi-asset-alzheimers-strategy\" hreflang=\"en\">Fosun Pharma plots global push beyond oncology, fueled by multi-asset Alzheimer’s strategy</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fosun-pharma-plots-global-push-beyond-oncology-fueled-multi-asset-alzheimers-strategy",
+        "summary": "In a recent interview with Fierce, Fosun Pharma co-president, Xinli Wang, M.D., Ph.D., detailed how the company leveraged two recent deals to quickly build up its portfolio in Alzheimer’s disease as part of a multi-step roadmap to establish its independent capabilities in the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 10:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bio-how-gut-feeling-transformed-cancer-treatment-forever\" hreflang=\"en\">BIO 2026: How a gut feeling transformed cancer treatment forever</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bio-how-gut-feeling-transformed-cancer-treatment-forever",
+        "summary": "Dr. Israel Lowy remembers the days when he and his oncology immunotherapy colleagues were assigned tables in the distant east wing of the American Society of Clinical Oncology conference in Chicago. They would watch aficionados walk by, scoffing at these iconoclastic researchers pushing an alternative way to treat cancer.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 10:01pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/otsuka-posts-phase-3b-adhd-trial-win-ahead-looming-fda-approval-decision\" hreflang=\"en\">Otsuka posts phase 3b ADHD trial win ahead of looming FDA approval decision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/otsuka-posts-phase-3b-adhd-trial-win-ahead-looming-fda-approval-decision",
+        "summary": "A phase 3b trial of Otsuka’s attention-deficit/hyperactivity disorder prospect has hit its primary endpoint, strengthening the drugmaker’s hand weeks before a potential U.S. launch of the therapy.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 9:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/15m-discovery-deal-boehringer-becomes-latest-big-pharma-buy-immunais-ai-platform\" hreflang=\"en\">With $15M discovery deal, Boehringer becomes latest Big Pharma to buy into Immunai’s AI platform</a>",
+        "url": "https://www.fiercebiotech.com/biotech/15m-discovery-deal-boehringer-becomes-latest-big-pharma-buy-immunais-ai-platform",
+        "summary": "TechBio outfit Immunai is continuing its parade of Big Pharma partnerships with its third such pact this year, this time with German drugmaker Boehringer Ingelheim.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 3:19pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-drops-blood-pressure-device-enforcement-against-whoop\" hreflang=\"en\">FDA drops blood pressure device enforcement against Whoop</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-drops-blood-pressure-device-enforcement-against-whoop",
+        "summary": "The FDA has sent an End of Enforcement notice to consumer wearable device company Whoop, putting a formal end to the agency’s investigation into its blood pressure tech use.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 3:40am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ionis-bags-30m-recordati-ex-us-rights-near-approval-rare-disease-prospect\" hreflang=\"en\">Ionis bags $30M from Recordati for ex-US rights to near-approval rare disease prospect</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ionis-bags-30m-recordati-ex-us-rights-near-approval-rare-disease-prospect",
+        "summary": "Ionis Pharmaceuticals has offloaded regional rights to its near-approval rare disease asset zilganersen, pocketing $30 million upfront from Recordati for an ex-U.S. license to the drug candidate.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 6:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spurned-fda-passage-bio-finds-exit-through-merger-remix\" hreflang=\"en\">Spurned by FDA, Passage Bio finds exit through merger with Remix</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spurned-fda-passage-bio-finds-exit-through-merger-remix",
+        "summary": "Passage Bio, the Philadelphia-based gene therapy outfit that launched a strategic review earlier this year after tough feedback from the FDA, has found an exit in an all-stock reverse merger with RNA specialist Remix Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 5:09pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/icon-names-microsoft-tech-partner-q1-results-grow-analyst-confidence\" hreflang=\"en\">Icon names Microsoft tech partner as Q1 results grow analyst confidence </a>",
+        "url": "https://www.fiercebiotech.com/cro/icon-names-microsoft-tech-partner-q1-results-grow-analyst-confidence",
+        "summary": "Irish CRO giant Icon this week made Microsoft its technology partner as the organization advances its plan to increase investment in AI over the next three years. Microsoft’s Copilot and data infrastructure will be implemented enterprise-wide to further scale Icon’s agentic AI platform, Orbis.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 3:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mapp-gilead-antivirals-be-deployed-drc-ebola-trial-who-chief\" hreflang=\"en\">Mapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mapp-gilead-antivirals-be-deployed-drc-ebola-trial-who-chief",
+        "summary": "Officials are planning to study Mapp Biopharmaceutical’s MBP134 and Gilead Sciences’ remdesivir, which gained prominence during the COVID-19 pandemic, against the&nbsp;Bundibugyo ebolavirus.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 2:51pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/nature-retracts-provocative-pd-1-study-tied-lung-cancer-survival-treatment-timing\" hreflang=\"en\">Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing</a>",
+        "url": "https://www.fiercebiotech.com/pharma/nature-retracts-provocative-pd-1-study-tied-lung-cancer-survival-treatment-timing",
+        "summary": "After a four-month investigation, Nature Medicine has decided to pull a viral study that linked early-day PD-1/chemo treatment to a massive survival benefit versus late-day infusion in non-small cell lung cancer.",
+        "source": "Fierce Biotech",
+        "published": "Jun 23, 2026 10:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: ADC Tx slims workforce by 17%; Sangamo sheds staff</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rq-bio-reels-115m-take-long-acting-flu-prevention-antiviral-clinic\" hreflang=\"en\">RQ Bio reels in $115M to take long-acting flu prevention antiviral into clinic</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rq-bio-reels-115m-take-long-acting-flu-prevention-antiviral-clinic",
+        "summary": "Amid a bustling fundraising week for biotechs, the U.K.’s RQ Bio is adding $115 million to its coffers to advance a long-acting antibody for flu prevention.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 9:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+        "url": "https://www.36kr.com/p/3868596994069509",
+        "summary": "普通人减肥不用焦虑了。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 25 Jun 2026 13:42:26 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+        "url": "https://www.36kr.com/p/3866854221698313",
+        "summary": "WAVES2026圆桌：AI+医疗，探讨产业落地下一步",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 24 Jun 2026 07:31:56 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
+        "url": "https://www.36kr.com/p/3868502221018370",
+        "summary": "高考出分三日，千问志愿大模型为考生生成500万份志愿报告",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 25 Jun 2026 11:44:15 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
+        "url": "https://huggingface.co/papers/2606.21959",
+        "summary": "A working citation looks like proof -- but the fact that a link resolves does not mean the cited paper supports the claim. I find that current agentic models rarely fabricate citations (over 99% resolve), yet roughly 15.9% link to the wrong paper. Existing benchmarks miss this failure mode: when a question has a fixed answer key, a model can reproduce the expected source from that key rather than independently verifying that the source supports the claim. I introduce \\openbiorq{}, a retrieval-grounded agentic benchmark of 12{,}553 unsolved biomedical research questions across 12 domains that t",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-19T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+        "url": "https://huggingface.co/papers/2606.22953",
+        "summary": "Long-horizon agents depend on context management: systems compress, summarize, and evict old tokens so tasks can continue beyond finite windows. That is safe only when dropped information is no longer needed or has been internalized. Plans are the stress case: they are written early, used for many steps, and first to be evicted. We introduce replay pairing, a diagnostic that runs the same trajectory with and without the plan in history and measures hidden-state cosine distance. On Llama-3.1-70B, plan signal spikes to 0.453 one step after the plan, then falls 4.1x in a single action-observation",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
+        "url": "https://huggingface.co/papers/2606.18239",
+        "summary": "We present EBench, a simulation benchmark that diagnoses generalist mobile manipulation policies beyond a single success-rate scalar. EBench comprises 26 diverse and challenging manipulation tasks annotated along 5 capability dimensions and 4 generalization dimensions. We evaluate state-of-the-art generalist manipulation models including π_0, π_{0.5}, XVLA, and InternVLA-A1, and reveal that models with near success rates exhibit strikingly different capability profiles: π_{0.5} achieves the highest test success rate and the best train--test retention, whereas InternVLA-A1 dominates mobile mani",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-19T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

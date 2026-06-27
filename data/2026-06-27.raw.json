@@ -1,0 +1,390 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T12:45:20.980301+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
+        "url": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/",
+        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 16:58:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/06/26/up-down-ladder-jobs-pharma-biotech-sanofi-biogen-lilly-pfizer/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 14:56:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "988’s LGBTQ+ hotline to relaunch this year. But the group that helped start it might be excluded",
+        "url": "https://www.statnews.com/2026/06/26/988-lgbtq-hotline-relaunch-trevor-project/",
+        "summary": "The Trump administration is moving to restart the specialized LGBTQ+ option for youth who contact the 988 crisis line, but the group that helped pioneer the idea is being shut&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 13:55:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Embryo editing advances reignite ethical debates",
+        "url": "https://www.statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/",
+        "summary": "Cassidy targets 340B, Eli Lilly's mysterious retatrutide patient, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 13:40:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a bill to overhaul the 340B program, a new FDA commissioner candidate, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/26/bill-overhaul-340b-program-new-fda-commisioner-candidate/",
+        "summary": "And so, another working week will soon draw to a close. Not a moment too soon, yes? This is, you may recall, our treasured signal to daydream about weekend plans.&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 13:17:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: European antitrust regulators probe Sanofi for allegedly disparaging a rival flu vaccine",
+        "url": "https://www.statnews.com/pharmalot/2026/06/26/european-antitrust-regulators-probe-sanofi-for-allegedly-disparaging-rival-flu-vaccine/",
+        "summary": "The European Commission is investigating Sanofi for allegedly breaching antitrust rules by running a “misleading” campaign about a flu vaccine.",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 12:29:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Supreme Court rules in weedkiller cancer case",
+        "url": "https://www.statnews.com/2026/06/26/health-news-supreme-court-rules-in-weedkiller-roundup-cancer-case/",
+        "summary": "Dems want to unmask Eli Lilly's obesity drug user, a new genome-editing tool raises ethics questions, and more health news",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 11:41:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
+        "url": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/",
+        "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Joseph Fraumeni Jr., pioneering cancer genetics researcher, devoted his life to families like mine",
+        "url": "https://www.statnews.com/2026/06/26/joseph-fraumeni-li-syndrome-hereditary-cancer-obituary/",
+        "summary": "“They don't make many like Joe Fraumeni anymore,” writes Lawrence Ingrassia, author of “A Fatal Inheritance.”",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: ‘The Hot Zone’ led me to work with Ebola patients. Now I have mixed feelings about the book",
+        "url": "https://www.statnews.com/2026/06/26/the-hot-zone-richard-preston-ebola-narrative/",
+        "summary": "“The reality of Ebola is simultaneously less sensational and far more challenging than most people imagine,” writes Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Jails are the frontline in fielding dangerous new type of drug withdrawal",
+        "url": "https://www.statnews.com/2026/06/26/medetomidine-opioid-withdrawal-crisis-jails/",
+        "summary": "Medetomidine-laced opioids cause severe, life-threatening withdrawal in jails. Here's why many facilities remain ill-equipped to treat a growing crisis.",
+        "source": "STAT News",
+        "published": "Fri, 26 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+        "url": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/",
+        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 20:15:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: At BIO 2026, industry wrestled with Washington politics, and making AI work better",
+        "url": "https://www.statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/",
+        "summary": "Biotech executives reveal concerns over Chinese biotech, the profitability of AI, and the durability of Trump's drug price moves.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 19:19:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The mysterious case of Eli Lilly’s obesity drug",
+        "url": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/",
+        "summary": "Who got exclusive access to Eli Lilly's highly anticipated obesity candidate? And why are drugmakers spending so much on acquisitions? Find out on this week's \"Readout LOUD.\"",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 18:58:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+        "url": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/",
+        "summary": "Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts.",
+        "source": "STAT News",
+        "published": "Thu, 25 Jun 2026 17:32:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/pbm-industry-shifts-lucyrx-and-abarca-health-merge-build-scale\" hreflang=\"en\">As PBM industry shifts, LucyRx and Abarca Health merge to build scale</a>",
+        "url": "https://www.fiercehealthcare.com/payers/pbm-industry-shifts-lucyrx-and-abarca-health-merge-build-scale",
+        "summary": "Amid significant shifts in the pharmacy benefit management industry, LucyRx and Abarca Health have revealed plans to merge to build the scale necessary to compete in this changing landscape.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 12:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/clinicians-compensation-rose-43-across-2025-amga\" hreflang=\"en\">Clinicians' compensation rose 4.3% across 2025: AMGA</a>",
+        "url": "https://www.fiercehealthcare.com/providers/clinicians-compensation-rose-43-across-2025-amga",
+        "summary": "The annual survey of 451 medical groups and health systems found signs of \"genuine demand expansion\" and productivity increases that support about half of the year's compensation growth.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 12:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-innovaccer-aws-ink-strategic-collab-invoca-launches-patient-engagement\" hreflang=\"en\">Weekly Rundown: Innovaccer, AWS ink strategic collaboration; Mount Sinai adopts Signal 1 for AI management</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-innovaccer-aws-ink-strategic-collab-invoca-launches-patient-engagement",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 10:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-what-pope-leos-ai-encyclical-could-mean-healthcare-3-key\" hreflang=\"en\">Industry Voices—What Pope Leo’s AI encyclical could mean for healthcare: 3 key takeaways for leaders</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-what-pope-leos-ai-encyclical-could-mean-healthcare-3-key",
+        "summary": "The papal letter’s guidance on artificial intelligence can provide competitive, legal, reputational and financial benefits to healthcare organizations, faith-based and otherwise, legal experts from Epstein Becker Green write.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 10:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cassidys-new-plan-reform-340b-rebates-contract-pharmacy-limits-and-more\" hreflang=\"en\">Cassidy's new plan to overhaul 340B: Rebates, contract pharmacy limits and more changes</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cassidys-new-plan-reform-340b-rebates-contract-pharmacy-limits-and-more",
+        "summary": "A legislative discussion draft shared Thursday by the Senate HELP chairman includes rebates, contract pharmacy limits, narrowed definitions and other proposals.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 4:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medicares-glp-1-bridge-coming-soon-walmart-expands-weight-management-supports-consumers\" hreflang=\"en\">With Medicare's GLP-1 'bridge' coming soon, Walmart expands weight management supports for consumers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medicares-glp-1-bridge-coming-soon-walmart-expands-weight-management-supports-consumers",
+        "summary": "Medicare's GLP-1 Bridge program goes into effect next week, so Walmart is rolling out new supports aimed at helping beneficiaries understand their weight management options.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 4:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/democrats-propose-bill-capping-out-pocket-costs-medicare-enrollees\" hreflang=\"en\">Democrats to propose bill capping out-of-pocket costs for Medicare enrollees</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/democrats-propose-bill-capping-out-pocket-costs-medicare-enrollees",
+        "summary": "Sen. Ron Wyden and 14 Democratic co-sponsors plan to introduce legislation Thursday to cap consumers’ potential out-of-pocket costs in traditional Medicare, resurfacing a long-running debate over why the program doesn’t limit beneficiary spending.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 12:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oracle-partners-theator-expand-ai-powered-surgical-documentation-operating-rooms\" hreflang=\"en\">Oracle partners with Theator to expand AI-powered surgical documentation to operating rooms</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oracle-partners-theator-expand-ai-powered-surgical-documentation-operating-rooms",
+        "summary": "Oracle Health, owned by tech giant Oracle after it acquired EHR company Cerner in 2022, is ramping up its AI capabilities while also expanding its AI ecosystem through partnerships.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 8:19am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps\" hreflang=\"en\">Judge blocks narrowed definition of 'professional degree' for federal student loan caps</a>",
+        "url": "https://www.fiercehealthcare.com/providers/coalition-attorneys-general-sue-block-federal-student-loan-caps",
+        "summary": "Plaintiff provider associations cheered the decision, as the rule's definition would have barred advanced practice students from a higher borrowing limit.",
+        "source": "Fierce Healthcare",
+        "published": "May 19, 2026 4:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/upside-secures-20m-series-expand-healthcare-focused-housing-platform\" hreflang=\"en\">Upside secures $20M series A to expand healthcare-focused housing platform</a>",
+        "url": "https://www.fiercehealthcare.com/finance/upside-secures-20m-series-expand-healthcare-focused-housing-platform",
+        "summary": "The company plans to use the funding simultaneously across Medicaid, Medicare Advantage and employer-sponsored markets.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 25, 2026 12:18pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—St. Charles cuts 45 leadership roles; MU Health Care lays off 74</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/tigerconnect-expands-ai-driven-platform-new-scheduling-capabilities\" hreflang=\"en\">TigerConnect expands AI-driven platform with new scheduling capabilities</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/tigerconnect-expands-ai-driven-platform-new-scheduling-capabilities",
+        "summary": "The new platform offers real-time AI-generated gap detection and intelligent assignment logic for schedule balancing.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 24, 2026 3:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/epicrispr-gene-silencer-becomes-first-enhance-muscle-form-muscular-dystrophy\" hreflang=\"en\">Epicrispr gene silencer is 1st drug to boost muscle in form of muscular dystrophy, biotech says</a>",
+        "url": "https://www.fiercebiotech.com/biotech/epicrispr-gene-silencer-becomes-first-enhance-muscle-form-muscular-dystrophy",
+        "summary": "Epicrispr Biotechnologies has used its gene silencing tech to boost muscle mass in three patients with facioscapulohumeral muscular dystrophy, a clinical first for the debilitating disease with no approved treatments.",
+        "source": "Fierce Biotech",
+        "published": "Jun 26, 2026 10:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Biogen sheds Apellis R&amp;D roles; ADC Tx slims workforce</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-ends-apellis-research-programs-cuts-small-number-roles-after-56b-buyout\" hreflang=\"en\">Biogen ends Apellis research programs, cuts ‘small number’ of roles after $5.6B buyout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogen-ends-apellis-research-programs-cuts-small-number-roles-after-56b-buyout",
+        "summary": "Biogen isn’t wasting any time integrating&nbsp;its multibillion-dollar purchase of Apellis, revealing plans to part ways with some of the biotech’s&nbsp;staffers and halt work on most of&nbsp;its&nbsp;research programs.",
+        "source": "Fierce Biotech",
+        "published": "Jun 26, 2026 9:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/deal-deal\" hreflang=\"en\">The deal before the deal </a>",
+        "url": "https://www.fiercebiotech.com/biotech/deal-deal",
+        "summary": "Before a biotech deal gets signed, companies are already being tested by investors, pharma partners and their own pipelines. This episode looks at the pressure, timing and hard choices shaping what makes it to the table.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 3:25pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Lycia raises $75M; Oblenio reels in $62M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moderna-enters-vivo-car-t-granting-autoimmune-asset-007-license-kill-pathogenic-cells\" hreflang=\"en\">Moderna enters in vivo CAR-T, granting autoimmune asset ‘007’ license to kill pathogenic cells</a>",
+        "url": "https://www.fiercebiotech.com/biotech/moderna-enters-vivo-car-t-granting-autoimmune-asset-007-license-kill-pathogenic-cells",
+        "summary": "Moderna has unveiled its first in vivo CAR-T program. Building on other groups’ ex vivo CAR-T data, the company plans to start clinical development of an off-the-shelf autoimmune disease prospect, dubbed “007,” next year.",
+        "source": "Fierce Biotech",
+        "published": "Jun 26, 2026 8:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-emd-serono-taps-new-commercial-strategy-head\" hreflang=\"en\">Chutes &amp; Ladders—EMD Serono taps in new commercial strategy head</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-emd-serono-taps-new-commercial-strategy-head",
+        "summary": "EMD Serono, Merck KGaA’s North American healthcare arm, has promoted from within to replace its retiring head of global commercial strategy, Andrew Paterson. Taking the commercial wheel is Miguel Fernández Alcalde, who’s spent over a decade at the company.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 4:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/cardiac-medtech-heartbeam-drops-ceo-eno-part-corporate-restructuring\" hreflang=\"en\">Cardiac medtech HeartBeam drops CEO in restructuring aimed at global ECG platform push</a>",
+        "url": "https://www.fiercebiotech.com/medtech/cardiac-medtech-heartbeam-drops-ceo-eno-part-corporate-restructuring",
+        "summary": "HeartBeam, the maker of a cable-free ECG system, moved CEO Robert Eno into a consulting role as part of a corporate restructuring aimed at expanding the company’s global market reach.",
+        "source": "Fierce Biotech",
+        "published": "Jun 26, 2026 7:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-ibio-aims-stand-out-obesity-targeting-both-sides-equation-antibody-discovery\" hreflang=\"en\">How iBio aims to stand out in obesity by targeting ‘both sides of the equation’ for antibody discovery</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-ibio-aims-stand-out-obesity-targeting-both-sides-equation-antibody-discovery",
+        "summary": "Upon finally reaching the clinic, iBio feels vindicated about the artificial intelligence-powered discovery platform it picked up in 2022.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 5:55pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fosun-pharma-plots-global-push-beyond-oncology-fueled-multi-asset-alzheimers-strategy\" hreflang=\"en\">Fosun Pharma plots global push beyond oncology, fueled by multi-asset Alzheimer’s strategy</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fosun-pharma-plots-global-push-beyond-oncology-fueled-multi-asset-alzheimers-strategy",
+        "summary": "In a recent interview with Fierce, Fosun Pharma co-president, Xinli Wang, M.D., Ph.D., detailed how the company leveraged two recent deals to quickly build up its portfolio in Alzheimer’s disease as part of a multi-step roadmap to establish its independent capabilities in the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 10:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bio-how-gut-feeling-transformed-cancer-treatment-forever\" hreflang=\"en\">BIO 2026: How a gut feeling transformed cancer treatment forever</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bio-how-gut-feeling-transformed-cancer-treatment-forever",
+        "summary": "Dr. Israel Lowy remembers the days when he and his oncology immunotherapy colleagues were assigned tables in the distant east wing of the American Society of Clinical Oncology conference in Chicago. They would watch aficionados walk by, scoffing at these iconoclastic researchers pushing an alternative way to treat cancer.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 10:01pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/otsuka-posts-phase-3b-adhd-trial-win-ahead-looming-fda-approval-decision\" hreflang=\"en\">Otsuka posts phase 3b ADHD trial win ahead of looming FDA approval decision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/otsuka-posts-phase-3b-adhd-trial-win-ahead-looming-fda-approval-decision",
+        "summary": "A phase 3b trial of Otsuka’s attention-deficit/hyperactivity disorder prospect has hit its primary endpoint, strengthening the drugmaker’s hand weeks before a potential U.S. launch of the therapy.",
+        "source": "Fierce Biotech",
+        "published": "Jun 25, 2026 9:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "DeepMind 研究科学家：广告没人看了，互联网上AI的流量已经超过了真人",
+        "url": "https://www.36kr.com/p/3869907044160775",
+        "summary": "全世界的智能体几乎都在用 GPT 和 Claude 那几个模型，一旦它们犯错，全网 AI 将在同一秒迎来大崩溃。",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 26 Jun 2026 12:40:05 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+        "url": "https://www.36kr.com/p/3868596994069509",
+        "summary": "普通人减肥不用焦虑了。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 25 Jun 2026 13:42:26 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
+        "url": "https://www.36kr.com/p/3868502221018370",
+        "summary": "高考出分三日，千问志愿大模型为考生生成500万份志愿报告",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 25 Jun 2026 11:44:15 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+        "url": "https://huggingface.co/papers/2606.27288",
+        "summary": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely reports. For any policy whose output is one member model answer, accuracy cannot exceed one minus beta, where beta is the rate at which every model is wrong on the same query. In contrast, the usual diagnostic, average pairwise error correlation rho, cannot identify beta: error laws with identical marginals and pairwise correlations can have different all-wrong rates. A Clopper-Pearson bound on beta giv",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-24T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "How Post-Training Shapes Biological Reasoning Models",
+        "url": "https://huggingface.co/papers/2606.16517",
+        "summary": "Scientific reasoning models for biology combine language models with foundation models trained on multimodal biological data, including DNA, RNA, and proteins. These models are built through post-training, yet how each stage shapes reasoning and generalization remains poorly understood. We study when post-training improves performance and when it induces over-specialization. Across genomics, transcriptomics, and proteins, we train and evaluate more than 100 biological reasoning models under controlled variation in backbone, continued pre-training (CPT), supervised fine-tuning (SFT), and reinfo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-14T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
+        "url": "https://huggingface.co/papers/2606.21959",
+        "summary": "A working citation looks like proof -- but the fact that a link resolves does not mean the cited paper supports the claim. I find that current agentic models rarely fabricate citations (over 99% resolve), yet roughly 15.9% link to the wrong paper. Existing benchmarks miss this failure mode: when a question has a fixed answer key, a model can reproduce the expected source from that key rather than independently verifying that the source supports the claim. I introduce \\openbiorq{}, a retrieval-grounded agentic benchmark of 12{,}553 unsolved biomedical research questions across 12 domains that t",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-19T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents",
+        "url": "https://huggingface.co/papers/2606.22953",
+        "summary": "Long-horizon agents depend on context management: systems compress, summarize, and evict old tokens so tasks can continue beyond finite windows. That is safe only when dropped information is no longer needed or has been internalized. Plans are the stress case: they are written early, used for many steps, and first to be evicted. We introduce replay pairing, a diagnostic that runs the same trajectory with and without the plan in history and measures hidden-state cosine distance. On Llama-3.1-70B, plan signal spikes to 0.453 one step after the plan, then falls 4.1x in a single action-observation",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
+        "url": "https://huggingface.co/papers/2606.18239",
+        "summary": "We present EBench, a simulation benchmark that diagnoses generalist mobile manipulation policies beyond a single success-rate scalar. EBench comprises 26 diverse and challenging manipulation tasks annotated along 5 capability dimensions and 4 generalization dimensions. We evaluate state-of-the-art generalist manipulation models including π_0, π_{0.5}, XVLA, and InternVLA-A1, and reveal that models with near success rates exhibit strikingly different capability profiles: π_{0.5} achieves the highest test success rate and the best train--test retention, whereas InternVLA-A1 dominates mobile mani",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-19T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T12:58:22.960954+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA’s top gene therapy regulator is leaving his role",
+        "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/",
+        "summary": "The departure of Vijay Kumar follows a broader leadership shakeup at the FDA.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 21:46:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
+        "url": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/",
+        "summary": "AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 20:17:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: 26 states sue to block Medicaid work requirements",
+        "url": "https://www.statnews.com/2026/06/29/state-lawsuit-block-medicaid-work-requirements/",
+        "summary": "States argue the rules will make it too hard for people to get the Medicaid coverage they're entitled too.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 20:11:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "5 takeaways from STAT’s investigation into microhospital operator Nutex Health",
+        "url": "https://www.statnews.com/2026/06/29/nutex-health-investigation-takeaways-stat-news-no-surprises-act/",
+        "summary": "Read the takeaways from STAT's investigation into Nutex, which used the No Surprises Act to fuel a stunning financial turnaround.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 17:28:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Unredacted comments from California hospital lawsuits show stunning admissions and a ‘forced’ McKinsey collaboration",
+        "url": "https://www.statnews.com/2026/06/29/healthcare-news-unredacted-ca-hospital-lawsuit-sad-mckinsey-tax/",
+        "summary": "Who controls the Medicaid market, GLP-1 usage and pizza household costs, and more from Health Care Inc.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 17:03:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Longevity, wellness physicians named to panel advising FDA on peptides",
+        "url": "https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/",
+        "summary": "The panel will soon consider whether to relax restrictions on certain peptides.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 16:51:35 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Talawar bets bispecific approach can shake up eczema market",
+        "url": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/",
+        "summary": "Moderna still bullish on mRNA, Ipsen's acquisition of Kartos, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 13:52:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a broader $35 insulin cap, a former FDA cancer drug chief, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/29/insulin-cap-revival-former-fda-cancer-drug-chief/",
+        "summary": "The search for affordability wins is leading U.S. senators back to capping the cost of insulin at $35 in the private insurance market and for the uninsured",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 13:07:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What’s next for 988 LGBTQ+ services?",
+        "url": "https://www.statnews.com/2026/06/29/health-news-whats-next-for-988-lgbtq-services/",
+        "summary": "Private ERs, pulmonary hypertension, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 12:04:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Moderna co-founder Kenneth Chien on the future of mRNA — and Moderna",
+        "url": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/",
+        "summary": "In a Q&#38;A, Kenneth Chien, no longer with Moderna, predicts the company's mRNA cancer vaccine will be transformative for biotech.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Investor Clive Meanwell on designing biotechs for population health, and AI’s role as a catalyst",
+        "url": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/",
+        "summary": "Clive Meanwell, chairman of investment firm Population Health Partners, was an AI skeptic until recently. Now, he thinks it's a catalyst.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sword Health contracted to provide AI-supported physical therapy for an entire country",
+        "url": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/",
+        "summary": "Portugal's National Health Service signed a deal with digital health company Sword for its AI-assisted virtual physical therapy care.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most",
+        "url": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/",
+        "summary": "“There is a difference between a policy based on evidence and a broad legislative response that targets China-origin entities as inherently suspicious,” writes Brian Yang.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Banning gender-affirming care doesn’t protect children — it makes it harder to help them",
+        "url": "https://www.statnews.com/2026/06/29/gender-affirming-care-trans-youth-plastic-surgeons-statement/",
+        "summary": "“Physician groups betraying the public’s trust out of fear of government retaliation has permanent consequences,” writes a plastic surgeon.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The ERs that can turn patients away — and are reaping millions",
+        "url": "https://www.statnews.com/2026/06/29/nutex-health-micro-hospitals-er-loophole-idr-profits/",
+        "summary": "The hospital operator Nutex enriched itself by exploiting loopholes in laws meant to protect patients, STAT found.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/how-payers-drugmakers-can-collaborate-drive-more-outcomes-based-contracts\" hreflang=\"en\">How payers, drugmakers can collaborate to drive more outcomes-based contracts</a>",
+        "url": "https://www.fiercehealthcare.com/payers/how-payers-drugmakers-can-collaborate-drive-more-outcomes-based-contracts",
+        "summary": "LAS VEGAS — As drug costs and spending continue to rise, the demand for solutions opens the door to closer collaboration between payers and manufacturers.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 4:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hrsa-opens-applications-140m-rural-health-grant-funding\" hreflang=\"en\">HRSA opens applications for $140M in rural health grant funding</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hrsa-opens-applications-140m-rural-health-grant-funding",
+        "summary": "Substance use disorder, medical residencies, rural integrated networks and telehealth are among the administration's targets for the funds.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 3:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/more-1b-health-records-exchange-through-tefca-onc-officials-report\" hreflang=\"en\">HHS announces new oversight measures for TEFCA, touts 1B health records exchanged</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/more-1b-health-records-exchange-through-tefca-onc-officials-report",
+        "summary": "ONC unveiled new efforts to strengthen oversight of TEFCA, including hiring a federal IT contractor to conduct audits and reviews of TEFCA participants.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 5:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aca-marketplace-enrollment-down-3m-february-new-federal-data-show\" hreflang=\"en\">ACA marketplace enrollment down by 3M as of February, new federal data show</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aca-marketplace-enrollment-down-3m-february-new-federal-data-show",
+        "summary": "New federal data show that 19.2 million individuals were enrolled in Affordable Care Act marketplace plans as of February, down by nearly 3 million from 2025.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/clinic-network-ceo-pleas-guilty-embezzling-millions-social-media-influenced-market\" hreflang=\"en\">Clinic network CEO pleads guilty to embezzling millions for 'social media influenced' market trading</a>",
+        "url": "https://www.fiercehealthcare.com/providers/clinic-network-ceo-pleas-guilty-embezzling-millions-social-media-influenced-market",
+        "summary": "Patrick Alan Bucknum's \"poor trades\" led him to transfer more and more funds away from Washington's Community Clinic Network to try and recover his losses, according to the Department of Justice.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 12:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/doctronic-simple-healthkit-partner-connect-home-screening-ai-powered\" hreflang=\"en\">Doctronic, Simple HealthKit partner to connect at-home screening with AI-powered clinical care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doctronic-simple-healthkit-partner-connect-home-screening-ai-powered",
+        "summary": "AI startup Doctronic is partnering with Simple HealthKit, an at-home health screening platform, to offer consumers end-to-end diagnostic screening integrated with virtual clinical care.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 6:56am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/one-brooklyn-health-selects-hellocareai-advance-ai-powered-virtual-care-across-its\" hreflang=\"en\">One Brooklyn Health Selects hellocare.ai to Advance AI-Powered Virtual Care Across Its Hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/one-brooklyn-health-selects-hellocareai-advance-ai-powered-virtual-care-across-its",
+        "summary": "This partnership reinforces OBH’s commitment to innovation and positions the organization at the forefront of AI-driven healthcare transformation, delivering safer, smarter, and more efficient care to the communities it serves.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 12:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/kff-poll-finds-around-3-10-adults-use-ai-or-social-media-health-advice\" hreflang=\"en\">3 in 10 adults turn to AI or social media for health advice, citing difficulties accessing and affording care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/kff-poll-finds-around-3-10-adults-use-ai-or-social-media-health-advice",
+        "summary": "A recent KFF poll found that roughly three in ten adults self-reported turning to social media (31%) or AI chatbots (29%) at least monthly for health information and advice.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 1:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/pbm-industry-shifts-lucyrx-and-abarca-health-merge-build-scale\" hreflang=\"en\">As PBM industry shifts, LucyRx and Abarca Health merge to build scale</a>",
+        "url": "https://www.fiercehealthcare.com/payers/pbm-industry-shifts-lucyrx-and-abarca-health-merge-build-scale",
+        "summary": "Amid significant shifts in the pharmacy benefit management industry, LucyRx and Abarca Health have revealed plans to merge to build the scale necessary to compete in this changing landscape.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 12:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/clinicians-compensation-rose-43-across-2025-amga\" hreflang=\"en\">Clinicians' compensation rose 4.3% across 2025: AMGA</a>",
+        "url": "https://www.fiercehealthcare.com/providers/clinicians-compensation-rose-43-across-2025-amga",
+        "summary": "The annual survey of 451 medical groups and health systems found signs of \"genuine demand expansion\" and productivity increases that support about half of the year's compensation growth.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 12:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Trump taps Klomp as HHS Deputy Secretary; Rush, CHOP CEOs to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/fda-rejects-sobi-gout-drug-over-manufacturing-issues-sparing-amgen-blockbuster\" hreflang=\"en\">FDA rejects Sobi’s gout drug over manufacturing issues, sparing Amgen blockbuster</a>",
+        "url": "https://www.fiercebiotech.com/manufacturing/fda-rejects-sobi-gout-drug-over-manufacturing-issues-sparing-amgen-blockbuster",
+        "summary": "Sobi’s plan to introduce a challenger to Amgen’s blockbuster gout drug Krystexxa has been put on hold by the FDA.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 10:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biocryst-ends-internal-discovery-programs-pivot-cost-saving-partnerships\" hreflang=\"en\">BioCryst ends internal discovery programs, closes Alabama facility in pivot to cost-saving partnerships</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biocryst-ends-internal-discovery-programs-pivot-cost-saving-partnerships",
+        "summary": "After scrapping development on its diabetic macular edema treatment avoralstat last month, BioCryst has announced it is shuttering all internal discovery programs to focus on external innovation and partnerships.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 10:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/evommunes-phase-2b-flops-ending-challenge-novartis-hives\" hreflang=\"en\">Evommune’s phase 2b trial flops, ending challenge to Novartis in hives</a>",
+        "url": "https://www.fiercebiotech.com/biotech/evommunes-phase-2b-flops-ending-challenge-novartis-hives",
+        "summary": "A phase 2b trial of Evommune’s EVO756 has missed its primary endpoint, wiping out a would-be rival to Novartis for the chronic spontaneous urticaria market.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 9:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/united-therapeutics-nabs-fda-approval-donor-lungs-assessment-device\" hreflang=\"en\">United Therapeutics nabs FDA approval for donor-lung assessment device  </a>",
+        "url": "https://www.fiercebiotech.com/medtech/united-therapeutics-nabs-fda-approval-donor-lungs-assessment-device",
+        "summary": "United Therapeutics has been given a premarket approval from the FDA for its LungFX device.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 7:35am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-launches-eagerly-awaited-illumina-gene-sequencing-platform-rival-axelios-1\" hreflang=\"en\">Roche launches Axelios 1, its eagerly awaited gene sequencing rival to Illumina</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-launches-eagerly-awaited-illumina-gene-sequencing-platform-rival-axelios-1",
+        "summary": "Roche may have failed to buy out Illumina back in 2012, but now it’s trying to take up some of the gene sequencing specialist’s market share with its own next-gen platform.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 7:55am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/production-problems-hamper-lantheus-bid-fda-approval-radiopharma-dx-kit\" hreflang=\"en\">Production problems hamper Lantheus bid for FDA approval of radiopharma dx kit</a>",
+        "url": "https://www.fiercebiotech.com/medtech/production-problems-hamper-lantheus-bid-fda-approval-radiopharma-dx-kit",
+        "summary": "The FDA dealt Lantheus’ bid to garner approval of its radiodiopharmaceutical diagnostic kit a setback due to manufacturing issues at a third-party facility.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 8:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ipsen-pens-17b-deal-acquire-kartos-potential-jakafi-add-therapy-myelofibrosis\" hreflang=\"en\">Ipsen pens $1.7B deal to acquire Kartos for potential Jakafi add-on therapy for myelofibrosis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ipsen-pens-17b-deal-acquire-kartos-potential-jakafi-add-therapy-myelofibrosis",
+        "summary": "Ipsen is paying $450 million upfront to buy U.S.-based Kartos Therapeutics for a phase 3-stage blood cancer drug designed to improve Jakafi treatment.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 4:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/uk-based-scancell-bids-nasdaq-listed-neuphoria-increase-profile-us-investors\" hreflang=\"en\">UK-based Scancell bids to buy Nasdaq-listed Neuphoria to ‘increase profile’ with US investors</a>",
+        "url": "https://www.fiercebiotech.com/biotech/uk-based-scancell-bids-nasdaq-listed-neuphoria-increase-profile-us-investors",
+        "summary": "As Neuphoria continues to navigate the fallout of its failed social anxiety program, the biotech is mulling an offer from another potential buyer.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 7:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/preclinical-bispecific-company-talawar-heads-nasdaq-spac-support-eczema-asset\" hreflang=\"en\">'There's room for multiple winners': Talawar heads to Nasdaq via SPAC deal to bankroll eczema asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/preclinical-bispecific-company-talawar-heads-nasdaq-spac-support-eczema-asset",
+        "summary": "Amid a flurry of traditional IPOs this spring, Talawar Therapeutics is taking a different path to the public markets via a merger with a special purpose acquisition company.",
+        "source": "Fierce Biotech",
+        "published": "Jun 26, 2026 12:15pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-unveils-phase-3-bone-disease-data-behind-5b-forecast-strensiq-successor\" hreflang=\"en\">AstraZeneca unveils phase 3 bone disease data behind $5B forecast for Strensiq successor</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-unveils-phase-3-bone-disease-data-behind-5b-forecast-strensiq-successor",
+        "summary": "AstraZeneca has shared the data behind previously disclosed phase 3 rare disease wins, fleshing out the case for a Strensiq successor tipped to generate blockbuster sales. The company has yet to share data from a third trial that missed its primary endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 4:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cash-strapped-alopexx-reignites-plans-go-public-30m-ipo-fund-infectious-disease-programs\" hreflang=\"en\">Cash-strapped Alopexx reignites plans to go public via $30M IPO to fund infectious disease programs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cash-strapped-alopexx-reignites-plans-go-public-30m-ipo-fund-infectious-disease-programs",
+        "summary": "Alopexx has resuscitated its plans for a public listing as the biotech seeks urgently needed funds to advance a pipeline that includes an infectious disease antibody that was once the focus of a $375 million deal with Sanofi.",
+        "source": "Fierce Biotech",
+        "published": "Jun 27, 2026 6:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/epicrispr-gene-silencer-becomes-first-enhance-muscle-form-muscular-dystrophy\" hreflang=\"en\">Epicrispr gene silencer is 1st drug to boost muscle in form of muscular dystrophy, biotech says</a>",
+        "url": "https://www.fiercebiotech.com/biotech/epicrispr-gene-silencer-becomes-first-enhance-muscle-form-muscular-dystrophy",
+        "summary": "Epicrispr Biotechnologies has used its gene silencing tech to boost muscle mass in three patients with facioscapulohumeral muscular dystrophy, a clinical first for the debilitating disease with no approved treatments.",
+        "source": "Fierce Biotech",
+        "published": "Jun 26, 2026 10:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "WAIC 2026 × 36氪「氪话未来直播间」：带着AI去前线",
+        "url": "https://www.36kr.com/p/3873732080997639",
+        "summary": "2026WAIC举办，36氪将设「氪话未来直播间」",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 29 Jun 2026 04:07:27 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+        "url": "https://huggingface.co/papers/2606.30084",
+        "summary": "MLLM-based GUI grounding methods commonly formulate target localization as autoregressive coordinate generation, enabling models to leverage the strong instruction-following and semantic understanding capabilities of MLLMs. However, this formulation requires the model to retain region-level target evidence while decoding coordinate tokens with the spatial precision demanded by GUI clicking. Our diagnostic analysis reveals that target-region awareness emerges in intermediate decoder layers but is neither retained nor translated into the final coordinate prediction. Existing ZoomIn-style methods",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-28T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
+        "url": "https://huggingface.co/papers/2606.23404",
+        "summary": "The emergence of Large Reasoning Models has introduced exceptionally long Chain-of-Thought traces, creating a transparency burden where critical logic is often buried under massive procedural text. To address this, we present ReasoningLens, an open-source framework designed for the hierarchical visualization and diagnostic auditing of complex reasoning chains. ReasoningLens addresses information necropsy by: (1) structuring traces into interactive hierarchies that separate high-level strategy from low-level execution; (2) leveraging an agentic auditor for automated error detection and tool-aug",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "The Galaxy's Guide to the Tokenizer: A Benchmark for Scientific Foundation Models",
+        "url": "https://huggingface.co/papers/2606.25610",
+        "summary": "Tokenization is central to adapting scientific data for transformer-based foundation models, yet its impact on learned representations remains poorly understood. We compare four tokenization strategies, Affine, AIM, JetFormer, and VQ-VAE, within a unified transformer framework for astronomical imaging. Using 640,000 galaxy images from the DESI Legacy Survey and a shared AstroPT backbone, we evaluate each method on reconstruction fidelity and prediction of physical properties. Our results reveal trade-offs across approaches. The flow-based JetFormer achieves higher reconstruction quality, while",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-23T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments",
+        "url": "https://huggingface.co/papers/2606.27537",
+        "summary": "Video generation models aspire to simulate dynamic environments, and several benchmarks now evaluate memory consistency across frames. However, most assess consistency only while the target remains in view, and the few that force objects out of view evaluate static scenes where nothing changes during occlusion. To bridge this gap, we introduce MemoBench, a diagnostic benchmark built around the disappear-and-reappear paradigm in dynamically changing environments: a target object undergoes a physical process, disappears from view, and must be correctly recovered in its updated state upon reappea",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-24T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
+        "url": "https://huggingface.co/papers/2606.22873",
+        "summary": "Vision-language models (VLMs) are increasingly deployed in consumer, medical, financial, and enterprise applications. This broad deployment expands the safety surface: risks can arise from multimodal question answering, assistant responses, and cross-modal composition, while moderation policies may vary across products, regions, and deployment stages. Most existing guardrails either rely on fixed taxonomies or target only a narrow set of interaction settings, which limits their adaptability when safety rules change at deployment time. We present SingGuard, a policy-adaptive multimodal guardrai",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-21T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T13:16:46.338949+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
+        "url": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/",
+        "summary": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 22:48:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
+        "url": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/",
+        "summary": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 19:40:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Anthropic releases Claude Science, a product aimed at researchers, the pharma industry",
+        "url": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/",
+        "summary": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies.",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 17:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region",
+        "url": "https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/",
+        "summary": "Sources confirm to STAT that Marburg cases have been detected in western Uganda, adding another viral hemorrhagic fever outbreak in central Africa.",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 15:58:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: All of Us tests a new approach to collect real-world data for research",
+        "url": "https://www.statnews.com/2026/06/30/nih-all-of-us-program-taps-ehr-records-fill-data-gaps/",
+        "summary": "The NIH All of Us Research Program has secured thousands of electronic medical records through an innovative use of patient data-sharing networks",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 14:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Investors double down on Bain-backed startup",
+        "url": "https://www.statnews.com/2026/06/30/biotech-news-investors-double-down-on-bain-backed-capital/",
+        "summary": "FDA's top gene therapy regulator steps down, Trump's plan to lower GLP-1 prices, and more biotech news",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 13:40:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA digital leader hints at coming AI policy updates",
+        "url": "https://www.statnews.com/2026/06/30/health-tech-fda-digital-leader-hints-at-coming-ai-policy-updates/",
+        "summary": "Today's health tech news includes virtual PT for a whole country, what the FDA is considering on AI policy, and more",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 13:32:06 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Chinese trial sites being probed, RFK Jr. and peptides, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/06/30/china-clinical-trials-probe-rfk-jr-peptides-compounders/",
+        "summary": "U.S. lawmakers are investigating whether several large drugmakers have been involved ​in clinical trials in China that helped fuel its military capability",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 13:31:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Half of states sue over Medicaid work requirements",
+        "url": "https://www.statnews.com/2026/06/30/health-news-half-of-states-sue-over-medicaid-work-requirements/",
+        "summary": "FDA peptide panelists, a new study on Covid and flu shots, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 12:14:25 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions",
+        "url": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/",
+        "summary": "“This administrative logic is hopelessly out of touch with the empirical reality of American health care,” writes David S. Shapiro.",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk",
+        "url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/",
+        "summary": "The Trump administration's grand bargain with drugmakers isn't working out as planned.",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Florida is the first state to require EKGs for high school athletes. It’s a mistake",
+        "url": "https://www.statnews.com/2026/06/30/florida-ekg-law-high-school-athletes/",
+        "summary": "“There are better ways for schools to protect student athletes,” writes Katherine Hofmann.",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Even with MAHA, Trump administration has gone soft on alcohol",
+        "url": "https://www.statnews.com/2026/06/30/maha-trump-ignores-alcohol-risk-deadliest-drug-part-6/",
+        "summary": "A STAT investigation has found that the Trump administration has downplayed alcohol’s risks and actively derailed efforts to understand and prevent drinking-related harms.",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Abivax seeks to ease safety concerns with new data, boosting shares",
+        "url": "https://www.statnews.com/2026/06/30/abivax-obefazimod-ulcerative-colitis-maintenance-trial-safety-data/",
+        "summary": "Safety concerns tied to Abivax's experimental bowel disease drug tanked company shares just weeks ago. But a new analysis sent them climbing.",
+        "source": "STAT News",
+        "published": "Tue, 30 Jun 2026 07:05:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA’s top gene therapy regulator is leaving his role",
+        "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/",
+        "summary": "The departure of Vijay Kumar follows a broader leadership shakeup at the FDA.",
+        "source": "STAT News",
+        "published": "Mon, 29 Jun 2026 21:46:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule\" hreflang=\"en\">26 states sue CMS over final Medicaid work requirements rule</a>",
+        "url": "https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule",
+        "summary": "A coalition of 26 states is suing the Trump administration over its rollout of Medicaid work requirements.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/startup-queue-lands-126m-launch-autonomous-robotic-pharmacy-kiosks\" hreflang=\"en\">Startup Queue lands $12.6M to launch autonomous robotic pharmacy kiosks</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/startup-queue-lands-126m-launch-autonomous-robotic-pharmacy-kiosks",
+        "summary": "Startup Queue emerged from stealth to launch what it calls the first fully autonomous robotic pharmacy in the form of prescription medication kiosks.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/carbon-health-agrees-corporate-reorg-california-clinics-pay-penalties\" hreflang=\"en\">Carbon Health agrees to revise contracts with its California clinics, pay penalties</a>",
+        "url": "https://www.fiercehealthcare.com/providers/carbon-health-agrees-corporate-reorg-california-clinics-pay-penalties",
+        "summary": "The primary care chain's settlement agreement follows a California DOJ investigation of its advertising and billing practices, as well as contracts that allegedly gave the company de facto control over its physician-owned clinics.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 3:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/45-us-patients-wait-see-healthcare-providers-until-theyre-sick-zs-impact\" hreflang=\"en\">AI playing a major role in consumers' healthcare decision-making, survey finds</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/45-us-patients-wait-see-healthcare-providers-until-theyre-sick-zs-impact",
+        "summary": "Patients are taking charge of their healthcare with artificial intelligence and other solutions, with 58% of U.S. patients researching symptoms before deciding whether to book an appointment, a survey found.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 11:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rural-adults-falling-behind-urban-and-suburban-adults-medical-and-cancer-screenings\" hreflang=\"en\">Rural residents falling behind urban and suburban communities on medical, cancer screenings</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rural-adults-falling-behind-urban-and-suburban-adults-medical-and-cancer-screenings",
+        "summary": "Only 48% of rural Americans have had a routine medical visit or cancer screening in the past year, as opposed to 56% of urban and suburban adults, revealing a widening care gap, new survey data show.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 1:48am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/american-hospital-association-names-steve-walsh-next-ceo\" hreflang=\"en\">American Hospital Association names Steve Walsh as next CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/american-hospital-association-names-steve-walsh-next-ceo",
+        "summary": "Walsh is currently the head of the Massachusetts Hospital Association and will be taking the national stage at a moment of substantial policy and political challenges for the hospital industry.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 12:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/hyro-rolls-out-agentic-ai-intelligence-layer-give-orgs-strategic-access\" hreflang=\"en\">Hyro rolls out analytics platform to glean insights from AI agent interactions</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hyro-rolls-out-agentic-ai-intelligence-layer-give-orgs-strategic-access",
+        "summary": "The solution—dubbed Care Intelligence—allows organizations to measure, benchmark and optimize care access through patients’ AI agent conversations.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 10:39am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Retirements at YNHHS, Deaconess, MUSC</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/how-payers-drugmakers-can-collaborate-drive-more-outcomes-based-contracts\" hreflang=\"en\">How payers, drugmakers can collaborate to drive more outcomes-based contracts</a>",
+        "url": "https://www.fiercehealthcare.com/payers/how-payers-drugmakers-can-collaborate-drive-more-outcomes-based-contracts",
+        "summary": "LAS VEGAS — As drug costs and spending continue to rise, the demand for solutions opens the door to closer collaboration between payers and manufacturers.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 4:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hrsa-opens-applications-140m-rural-health-grant-funding\" hreflang=\"en\">HRSA opens applications for $140M in rural health grant funding</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hrsa-opens-applications-140m-rural-health-grant-funding",
+        "summary": "Substance use disorder, medical residencies, rural integrated networks and telehealth are among the administration's targets for the funds.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 3:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/more-1b-health-records-exchange-through-tefca-onc-officials-report\" hreflang=\"en\">HHS announces new oversight measures for TEFCA, touts 1B health records exchanged</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/more-1b-health-records-exchange-through-tefca-onc-officials-report",
+        "summary": "ONC unveiled new efforts to strengthen oversight of TEFCA, including hiring a federal IT contractor to conduct audits and reviews of TEFCA participants.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 5:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aca-marketplace-enrollment-down-3m-february-new-federal-data-show\" hreflang=\"en\">ACA marketplace enrollment down by 3M as of February, new federal data show</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aca-marketplace-enrollment-down-3m-february-new-federal-data-show",
+        "summary": "New federal data show that 19.2 million individuals were enrolled in Affordable Care Act marketplace plans as of February, down by nearly 3 million from 2025.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes\" hreflang=\"en\">Can We Outrun Cancer's Evolution? Why BrYet Is Targeting Cancer-Specific Phenotypes</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes",
+        "summary": "Genetic instability makes metastatic cancer largely incurable. BrYet aims to work around it with a new approach targeting cancer-specific phenotypes.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 3:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bain-backed-bone-specialist-angitia-drops-lead-spinal-fusion-candidate\" hreflang=\"en\">Bain-backed bone specialist Angitia drops lead spinal fusion candidate</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bain-backed-bone-specialist-angitia-drops-lead-spinal-fusion-candidate",
+        "summary": "Coming on the heels of a $130 million fundraising round just four months ago, bone-focused Angitia Biopharmaceuticals has pivoted away from its lead asset to structure its pipeline around two earlier-stage drug candidates.",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 4:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-gene-therapy-regulator-vijay-kumar-steps-down-leadership-role\" hreflang=\"en\">FDA gene therapy regulator Vijay Kumar steps down from leadership role</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-gene-therapy-regulator-vijay-kumar-steps-down-leadership-role",
+        "summary": "Vijay Kumar, the acting head of the FDA office that oversees new gene therapies, is stepping down from his role after a year in the job.",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 10:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abivax-reverses-stock-drop-reassuring-safety-data-much-hyped-colitis-prospect\" hreflang=\"en\">Abivax rebounds from stock drop with safety data for much-hyped colitis prospect</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abivax-reverses-stock-drop-reassuring-safety-data-much-hyped-colitis-prospect",
+        "summary": "Abivax has recovered from a dent in its share price after unveiling fresh safety data that appeared to ease investors’ concerns with its ulcerative colitis prospect.",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 10:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/china-approved-worlds-first-solid-tumor-car-t-therapy-when-will-us-follow\" hreflang=\"en\">China approved the world’s first solid tumor CAR-T therapy. When will the US follow?</a>",
+        "url": "https://www.fiercebiotech.com/research/china-approved-worlds-first-solid-tumor-car-t-therapy-when-will-us-follow",
+        "summary": "CAR-T cell therapy has flourished since it was first used in 2010, leading to eight approved medicines for different blood cancers. But adapting the powerful technique, which involves engineering a patient’s own T cells to fight cancer, to solid tumors has proven a vexing challenge.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 3:04pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vistagen-fails-another-phase-3-social-anxiety-trial-spies-path-market\" hreflang=\"en\">Vistagen fails another phase 3 social anxiety trial but spies path to market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vistagen-fails-another-phase-3-social-anxiety-trial-spies-path-market",
+        "summary": "Vistagen’s social anxiety disorder drug candidate has flunked another phase 3 trial. But, with a post hoc subpopulation analysis linking fasedienol to a nominally statistically significant improvement, the biotech plans to talk to the FDA about a path to approval built around a single future phase 3 study and confirmatory evidence from its broader PALISADE program.",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 9:16am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/deerfields-boulevard-bio-pens-16b-deal-trispecific-tce-chinas-metis-techbio\" hreflang=\"en\">Deerfield’s Boulevard Bio pens $1.6B deal for trispecific TCE from China’s Metis TechBio</a>",
+        "url": "https://www.fiercebiotech.com/biotech/deerfields-boulevard-bio-pens-16b-deal-trispecific-tce-chinas-metis-techbio",
+        "summary": "U.S.-based Boulevard Bio is paying $20 million upfront to China’s Metis TechBio for the global rights to a trispecific T-cell engager for autoimmune diseases.",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 4:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bain-and-bms-backed-beeline-bolsters-autoimmune-ambitions-126m-series-extension\" hreflang=\"en\">BMS-backed Beeline 'putting worker bee mentality into effect' with $126M series A extension</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bain-and-bms-backed-beeline-bolsters-autoimmune-ambitions-126m-series-extension",
+        "summary": "Just two and a half months after buzzing out of stealth with $300 million and five autoimmune programs from Bristol Myers Squibb, busy Beeline Medicines has flown an extra $126.3 million back to its hive.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 5:47pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/praxis-faces-fda-delay-analysts-point-finger-agency-layoffs\" hreflang=\"en\">Praxis faces FDA decision delay as analysts point finger at agency layoffs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/praxis-faces-fda-delay-analysts-point-finger-agency-layoffs",
+        "summary": "The FDA has delayed a decision on the approval of Praxis Precision Medicine’s rare epilepsy prospect by three months. TD Cowen analysts said they “strongly believe FDA bandwidth constraints from last year’s agency downsizing likely contributed to the delay.”",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 4:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/fda-rejects-sobi-gout-drug-over-manufacturing-issues-sparing-amgen-blockbuster\" hreflang=\"en\">FDA rejects Sobi’s gout drug over manufacturing issues, sparing Amgen blockbuster</a>",
+        "url": "https://www.fiercebiotech.com/manufacturing/fda-rejects-sobi-gout-drug-over-manufacturing-issues-sparing-amgen-blockbuster",
+        "summary": "Sobi’s plan to introduce a challenger to Amgen’s blockbuster gout drug Krystexxa has been put on hold by the FDA.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 10:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biocryst-ends-internal-discovery-programs-pivot-cost-saving-partnerships\" hreflang=\"en\">BioCryst ends internal discovery programs, closes Alabama facility in pivot to cost-saving partnerships</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biocryst-ends-internal-discovery-programs-pivot-cost-saving-partnerships",
+        "summary": "After scrapping development on its diabetic macular edema treatment avoralstat last month, BioCryst has announced it is shuttering all internal discovery programs to focus on external innovation and partnerships.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 10:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/evommunes-phase-2b-flops-ending-challenge-novartis-hives\" hreflang=\"en\">Evommune’s phase 2b trial flops, ending challenge to Novartis in hives</a>",
+        "url": "https://www.fiercebiotech.com/biotech/evommunes-phase-2b-flops-ending-challenge-novartis-hives",
+        "summary": "A phase 2b trial of Evommune’s EVO756 has missed its primary endpoint, wiping out a would-be rival to Novartis for the chronic spontaneous urticaria market.",
+        "source": "Fierce Biotech",
+        "published": "Jun 29, 2026 9:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "AI进入下半场：模型不再稀缺，真正稀缺的是算力、场景和信任",
+        "url": "https://www.36kr.com/p/3875509249765379",
+        "summary": "AI告别跑分时代",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 30 Jun 2026 12:57:42 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "真健康VS睿触机器人：国产穿刺机器人双雄，打响县城之战",
+        "url": "https://www.36kr.com/p/3875261744577161",
+        "summary": "得县城者得手术量，得手术量者得耗材复购率，最终方得“天下”。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 30 Jun 2026 09:59:46 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "这家国产手术机器人今日IPO，市值超130亿",
+        "url": "https://www.36kr.com/p/3875321118633987",
+        "summary": "切入经皮穿刺手术机器人这一细分赛道。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 30 Jun 2026 07:32:30 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark",
+        "url": "https://huggingface.co/papers/2606.30170",
+        "summary": "Generative molecular design is shaped by simple proxy benchmarks for drug-like properties and models pretrained on large pharmaceutical datasets. This combination yields strong benchmark metrics but limits transferability to domains structurally distinct from drug discovery. To overcome this limitation and drive discovery toward real, scientifically grounded targets, we introduce the Nanotechnology Molecular Optimization (NMO) Benchmark, which bridges machine learning (ML) and quantum materials science. NMO acts simultaneously as a rigorous testbed for the ML community and a discovery engine f",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-28T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
+        "url": "https://huggingface.co/papers/2606.27828",
+        "summary": "Recent interest in multimodal large language models (MLLMs) raises a central question: can they reason over dynamic visual evidence rather than merely recognize objects or events in individual frames? This ability, which we refer to as video temporal-logical reasoning, requires models to maintain, update, and compose evidence as visual states evolve across frames. Existing video benchmarks often conflate this capability with scene complexity, static recognition, or uncontrolled temporal variation. To isolate this capability, we introduce Video-MME-Logical, a controlled benchmark organized arou",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-25T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+        "url": "https://huggingface.co/papers/2606.30084",
+        "summary": "MLLM-based GUI grounding methods commonly formulate target localization as autoregressive coordinate generation, enabling models to leverage the strong instruction-following and semantic understanding capabilities of MLLMs. However, this formulation requires the model to retain region-level target evidence while decoding coordinate tokens with the spatial precision demanded by GUI clicking. Our diagnostic analysis reveals that target-region awareness emerges in intermediate decoder layers but is neither retained nor translated into the final coordinate prediction. Existing ZoomIn-style methods",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-28T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T12:29:17.785952+08:00",
+  "counts": {
+    "news": 45,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+        "url": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/",
+        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 19:52:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lawmakers urge HHS to force Eli Lilly to provide 340B drug discounts to hospitals",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/lawmakers-urge-lilly-to-provide-340b-drug-discounts-to-hospitals/",
+        "summary": "Lawmakers step into a dispute between Eli Lilly and hospitals about the 340b drug discount program.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 19:52:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Elevance sues government over $115 million tied to Medicare Advantage star ratings",
+        "url": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/",
+        "summary": "The health insurer says CMS didn't calculate its star ratings appropriately.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 18:34:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/pharma-biotech-jobs-ladder-vertex-gilead-astrazeneca-lilly/",
+        "summary": "Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we’ll share it with others.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 17:32:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What does DeGette’s loss mean for pharma?",
+        "url": "https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/",
+        "summary": "Colorado Democratic Rep. Diana DeGette, who lost her primary, was knowledgeable about biopharma, if not always a friend to the industry.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 16:09:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roche drug sets new standard for KRAS-driven lung cancer",
+        "url": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/",
+        "summary": "Biotech's bull market, Vertex's gene therapy expansion, and more news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 14:13:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a court win for Amgen, Novo seeking supplier discounts, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/",
+        "summary": "U.S. judge blocked a Colorado state panel from placing a cap on the price of Amgen's blockbuster drug Enbrel",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 13:25:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: U.S. judge blocks Colorado’s first-of-its-kind price cap on an Amgen drug",
+        "url": "https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/",
+        "summary": "A federal judge blocked a Colorado state panel from placing a cap on the price of Enbrel, a blockbuster drug sold by Amgen",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 12:54:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: More frequent, more intense, and longer heat waves pose health risks for Americans",
+        "url": "https://www.statnews.com/2026/07/02/health-news-frequent-intense-heat-waves-pose-health-risks-for-americans/",
+        "summary": "The presidential fitness test is back, surprising new data on the health risks of obesity, and more Morning Rounds news",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 11:24:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Halfway into the year, biotech is booming",
+        "url": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/",
+        "summary": "The biotech stock rally that began in April 2025 has not stopped, and if anything, has accelerated.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A ‘historic’ FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
+        "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/",
+        "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "The new presidential fitness test is a positive step, not the solution, experts say",
+        "url": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/",
+        "summary": "Physical activity needs to be fun to keep kids engaged. And the test risks embarrassing them, instead.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A year after distressed buyout, what’s become of Bluebird Bio?",
+        "url": "https://www.statnews.com/2026/07/02/genetix-david-meek-bluebird-bio-turnaround-effort/",
+        "summary": "Bluebird Bio was a dark biotech morality tale when David Meek bought it. He says the new company, Genetix, is already making money.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’s guidance wrong",
+        "url": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/",
+        "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: CDC leadership continues to try to manufacture a scientific debate on vaccines where none exists",
+        "url": "https://www.statnews.com/2026/07/02/measuring-vaccine-effectiveness-test-negative-design-cdc/",
+        "summary": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists, writes Ben Lopman.",
+        "source": "STAT News",
+        "published": "Thu, 02 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-mulls-tougher-medicare-enrollment-rules-combat-fraud-part-2027-home-health-payment\" hreflang=\"en\">CMS mulls tougher Medicare enrollment rules to combat fraud as part of 2027 home health payment rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-mulls-tougher-medicare-enrollment-rules-combat-fraud-part-2027-home-health-payment",
+        "summary": "CMS is proposing changes to provider enrollment provisions aimed at strengthening the agency's ability to recover improper payments and remove noncompliant providers and suppliers from Medicare.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 5:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-goes-live-glp-1-bridge-program-part-d-beneficiaries\" hreflang=\"en\">CMS goes live with GLP-1 Bridge program for Part D beneficiaries</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-goes-live-glp-1-bridge-program-part-d-beneficiaries",
+        "summary": "The Trump administration has officially launched its new \"bridge\" model that brings GLP-1 coverage for weight loss to Medicare beneficiaries.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 4:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-administration-withholds-funds-new-yorks-medicaid-fraud-unit\" hreflang=\"en\">Trump administration withholds funds from New York's Medicaid fraud unit</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-withholds-funds-new-yorks-medicaid-fraud-unit",
+        "summary": "As part of its efforts to crack down on fraud in Medicaid, the Trump administration revealed that it will suspend funding for New York's state Medicaid Fraud Control Unit.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 2:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/zelis-rolls-out-ai-solution-tackle-payer-no-surprises-act-disputes\" hreflang=\"en\">Zelis rolls out AI solution to help payers navigate No Surprises Act dispute process</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/zelis-rolls-out-ai-solution-tackle-payer-no-surprises-act-disputes",
+        "summary": "Healthcare technology company Zelis rolled out an AI-native solution to help health plans manage Independent Dispute Resolution complexity under the No Surprises Act.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 11:39am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/experity-acquires-exdion-healthcare-accelerate-demand-care-rcm-automation\" hreflang=\"en\">Experity acquires Exdion Healthcare to accelerate on-demand care RCM automation</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/experity-acquires-exdion-healthcare-accelerate-demand-care-rcm-automation",
+        "summary": "The acquisition aims to accelerate RCM automation for on-demand care.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 2:51pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/access-model-behavioral-health-edition\" hreflang=\"en\">ACCESS Model: behavioral health edition</a>",
+        "url": "https://www.fiercehealthcare.com/providers/access-model-behavioral-health-edition",
+        "summary": "A new payment model is designed to pay digital health companies based on outcomes in chronic condition management. But where does behavioral health fit? This episode explores that question with SonderMind and Headspace, two companies participating in the model's behavioral health track.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 9:34am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/saint-peters-healthcare-system-expands-intelligent-hospital-room-initiative-hellocareai\" hreflang=\"en\">Saint Peter’s Healthcare System Expands Intelligent Hospital Room Initiative with hellocare.ai to Advance AI Assisted Patient Safety and Virtual Care</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/saint-peters-healthcare-system-expands-intelligent-hospital-room-initiative-hellocareai",
+        "summary": "hellocare.ai is expanding its partnership with Saint Peter's Healthcare System to deploy advanced intelligent hospital room capabilities across the organization.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 12:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/evernorth-unveils-new-ai-powered-specialty-pharmacy-program-pharmacy-forward\" hreflang=\"en\">Evernorth unveils new AI-powered specialty pharmacy program, Pharmacy Forward</a>",
+        "url": "https://www.fiercehealthcare.com/payers/evernorth-unveils-new-ai-powered-specialty-pharmacy-program-pharmacy-forward",
+        "summary": "Evernorth has unveiled a new specialty pharmacy program that leans on AI to support a better experience for patients with complex conditions.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 5:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule\" hreflang=\"en\">26 states sue CMS over final Medicaid work requirements rule</a>",
+        "url": "https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule",
+        "summary": "A coalition of 26 states is suing the Trump administration over its rollout of Medicaid work requirements.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/startup-queue-lands-126m-launch-autonomous-robotic-pharmacy-kiosks\" hreflang=\"en\">Startup Queue lands $12.6M to launch autonomous robotic pharmacy kiosks</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/startup-queue-lands-126m-launch-autonomous-robotic-pharmacy-kiosks",
+        "summary": "Startup Queue emerged from stealth to launch what it calls the first fully autonomous robotic pharmacy in the form of prescription medication kiosks.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/carbon-health-agrees-corporate-reorg-california-clinics-pay-penalties\" hreflang=\"en\">Carbon Health agrees to revise contracts with its California clinics, pay penalties</a>",
+        "url": "https://www.fiercehealthcare.com/providers/carbon-health-agrees-corporate-reorg-california-clinics-pay-penalties",
+        "summary": "The primary care chain's settlement agreement follows a California DOJ investigation of its advertising and billing practices, as well as contracts that allegedly gave the company de facto control over its physician-owned clinics.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 3:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/45-us-patients-wait-see-healthcare-providers-until-theyre-sick-zs-impact\" hreflang=\"en\">AI playing a major role in consumers' healthcare decision-making, survey finds</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/45-us-patients-wait-see-healthcare-providers-until-theyre-sick-zs-impact",
+        "summary": "Patients are taking charge of their healthcare with artificial intelligence and other solutions, with 58% of U.S. patients researching symptoms before deciding whether to book an appointment, a survey found.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 29, 2026 11:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes\" hreflang=\"en\">Can We Outrun Cancer's Evolution? Why BrYet Is Targeting Cancer-Specific Phenotypes</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes",
+        "summary": "Genetic instability makes metastatic cancer largely incurable. BrYet aims to work around it with a new approach targeting cancer-specific phenotypes.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 3:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact\" hreflang=\"en\">AstraZeneca pens $1.7B kidney drug discovery pact with go-to Chinese partner CSPC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact",
+        "summary": "AstraZeneca has added another piece to its sprawling interface with CSPC Pharmaceutical, paying the Chinese biotech $30 million upfront to jointly discover and develop two kidney disease drug candidates.",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 4:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup\" hreflang=\"en\">United Therapeutics pays $140M for thymic cell therapy startup</a>",
+        "url": "https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup",
+        "summary": "United Therapeutics has paid $140 million to buy Thymmune Therapeutics for preclinical regenerative cell therapies focused on the thymus.",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 5:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers\" hreflang=\"en\">Roche orchestrates phase 3 KRAS lung cancer win over Amgen, BMS</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers",
+        "summary": "Roche’s investigational KRAS G12C inhibitor has beaten Amgen’s Lumakras and Bristol Myers Squibb’s Krazati in a phase 3 trial, furthering its ambitions to establish divarasib as a new standard of care.",
+        "source": "Fierce Biotech",
+        "published": "Jul 2, 2026 5:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fosun-pays-32m-join-lilly-and-novartis-fiercely-competitive-psoriasis-market\" hreflang=\"en\">Fosun pays $32M to join Lilly and Novartis in fiercely competitive psoriasis market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fosun-pays-32m-join-lilly-and-novartis-fiercely-competitive-psoriasis-market",
+        "summary": "A Fosun Pharma subsidiary has paid Junshi Biosciences 215 million yuan ($32 million) for Chinese rights to a near-approval autoimmune disease drug candidate.",
+        "source": "Fierce Biotech",
+        "published": "Jul 2, 2026 6:56am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/insilco-continues-run-partnership-600m-biobuck-collab-takeda\" hreflang=\"en\">Insilico keeps partnership sprint apace in $600M biobucks collab with Takeda</a>",
+        "url": "https://www.fiercebiotech.com/biotech/insilco-continues-run-partnership-600m-biobuck-collab-takeda",
+        "summary": "Insilico Medicine has signed a deal worth up to $600 million with Japanese Big Pharma Takeda to collaborate on discovery of assets across Takeda’s therapeutic areas of interest.",
+        "source": "Fierce Biotech",
+        "published": "Jul 1, 2026 2:19pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-halts-ph-2-alzheimers-trial-after-neuphoria-small-molecule-underwhelms\" hreflang=\"en\">Merck halts ph. 2 Alzheimer’s trial after Neuphoria small molecule underwhelms</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-halts-ph-2-alzheimers-trial-after-neuphoria-small-molecule-underwhelms",
+        "summary": "Merck &amp; Co. has nixed the phase 2 study of a potential Alzheimer’s disease medicine after the drug underwhelmed in an interim analysis, marking another blow for the pharma’s struggling partner Neuphoria Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Jul 1, 2026 2:23pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/zimmer-biomet-buys-non-drug-pain-relief-system-pacira-140m\" hreflang=\"en\">Zimmer Biomet buys non-drug pain relief system from Pacira for up to $140M</a>",
+        "url": "https://www.fiercebiotech.com/medtech/zimmer-biomet-buys-non-drug-pain-relief-system-pacira-140m",
+        "summary": "Pacira BioSciences offloaded its cold-therapy pain relief device to medtech orthopedics specialist Zimmer Biomet in a deal valued at up to $140 million.",
+        "source": "Fierce Biotech",
+        "published": "Jul 1, 2026 8:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotechs-better-position-avoid-workforce-reductions-layoffs-continue-drop-q226\" hreflang=\"en\">Biotechs ‘in better position to avoid workforce reductions’ as layoffs continue to ease in Q2’26</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biotechs-better-position-avoid-workforce-reductions-layoffs-continue-drop-q226",
+        "summary": "A sharp reduction in layoffs continued in the second quarter, extending a trend that started last fall.",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 9:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ipsen-gets-memo-penning-eu700m-deal-buy-rare-disease-biotech-clinical-stage-asset\" hreflang=\"en\">Ipsen gets the Memo, penning €700M deal to buy rare disease biotech for clinical-stage asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ipsen-gets-memo-penning-eu700m-deal-buy-rare-disease-biotech-clinical-stage-asset",
+        "summary": "Ipsen is on a roll this week, scooping up its second biotech in three days in order to firm up its pipeline with promising clinical-stage candidates.",
+        "source": "Fierce Biotech",
+        "published": "Jul 1, 2026 7:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/backed-top-tier-vcs-stealthy-biotech-bags-alzecure-alzheimers-asset-12m-upfront\" hreflang=\"en\">Backed by top-tier VCs, stealthy biotech bags AlzeCure Alzheimer’s asset in $2.2B deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/backed-top-tier-vcs-stealthy-biotech-bags-alzecure-alzheimers-asset-12m-upfront",
+        "summary": "QuantumCell has licensed AlzeCure Pharma’s Alzheimer’s disease platform and lead asset for $12 million upfront, bagging a potentially symptom-relieving drug candidate that is on the cusp of phase 2.",
+        "source": "Fierce Biotech",
+        "published": "Jul 1, 2026 4:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bain-backed-bone-specialist-angitia-drops-lead-spinal-fusion-candidate\" hreflang=\"en\">Bain-backed bone specialist Angitia drops lead spinal fusion candidate</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bain-backed-bone-specialist-angitia-drops-lead-spinal-fusion-candidate",
+        "summary": "Coming on the heels of a $130 million fundraising round just four months ago, bone-focused Angitia Biopharmaceuticals has pivoted away from its lead asset to structure its pipeline around two earlier-stage drug candidates.",
+        "source": "Fierce Biotech",
+        "published": "Jun 30, 2026 4:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "从红杉26年33笔AI投资，看懂智能体时代的下注逻辑",
+        "url": "https://www.36kr.com/p/3878416087445509",
+        "summary": "红杉在赌一个新时代",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 02 Jul 2026 12:11:48 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "腾讯红杉连续投，在沙特开首家“没有医生”诊所的AI企业冲击IPO",
+        "url": "https://www.36kr.com/p/3878239780598020",
+        "summary": "智慧医疗风口已至",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 02 Jul 2026 10:25:53 GMT",
+        "importance_hint": 4
+      },
+      {
+        "title": "上海跑出一个AI医疗IPO，腾讯红杉都投了",
+        "url": "https://www.36kr.com/p/3879721909563399",
+        "summary": "打造多场景智能医疗解决方案。",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 03 Jul 2026 10:43:07 GMT",
+        "importance_hint": 4
+      },
+      {
+        "title": "“X-Day”西丽湖路演社香港科创专场圆满落幕：深港协同共筑湾区科创新高地",
+        "url": "https://www.36kr.com/p/3879757854109697",
+        "summary": "2026西丽湖路演社香港科创专场在深举办，探讨深港科创协同",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 03 Jul 2026 10:15:00 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "国产神外手术机器人迎来“高光时刻”，第一股要来了",
+        "url": "https://www.36kr.com/p/3879513905492232",
+        "summary": "有望成为国产神外手术机器人第一股。",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 03 Jul 2026 09:52:23 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "纽脉医疗，冲刺科创板IPO",
+        "url": "https://www.36kr.com/p/3878159239131142",
+        "summary": "核心产品尚处市场培育期",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 02 Jul 2026 07:34:18 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+        "url": "https://huggingface.co/papers/2607.02271",
+        "summary": "Vein recognition is a secure biometric technology often constrained by limited annotated data and imaging variations. While data augmentation mitigates this, strategies designed for natural images may disrupt the fine-grained topology and textures essential for identity discrimination. We present AGVBench, which evaluates 30 representative augmentation strategies on five public palm- and finger-vein datasets with seven backbone architectures, covering classic CNNs, vision transformers, and vein-specific recognition models. Our results show that multi-image mixing methods (e.g., MixUp, PuzzleMi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
+        "url": "https://huggingface.co/papers/2606.31825",
+        "summary": "Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on final answer correctness or sequence-level preferences. This suffers from sparse credit assignment, making it difficult to optimize the reasoning process essential for clinical applications. Our analysis reveals that cascading errors from early-stage reasoning failures are a leading cause of incorrect predictions in medical visual question answering (VQA) benchmarks. Motivated by this, we propose Medical Reasoning-aw",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+        "url": "https://huggingface.co/papers/2607.01436",
+        "summary": "Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medical foundation models, however, remain almost entirely autoregressive. We adapt a mixture-of-experts diffusion language model, DiffusionGemma-26B, and benchmark it against its same-size AR sibling Gemma-4-26B under an identical LoRA recipe on medical visual question answering datasets, scored by a verbosity-robust LLM judge. Diffusion matches or exceeds AR on all of them, and the finetuned model (3.",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-30T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+        "url": "https://huggingface.co/papers/2606.31179",
+        "summary": "As AI agents become increasingly capable of complex, long-horizon reasoning, rigorous and holistic evaluation is essential for measuring progress toward real-world healthcare applications. We introduce HealthAgentBench, a suite of 54 agentic healthcare tasks across 7 categories each with its unique environment. The benchmark suite spans diverse workflows throughout the patient journey and a broad range of modalities. Each task is designed to replicate an end-to-end clinical workflow: given minimal instructions, an agent must explore raw healthcare data, operate within a complex environment, an",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-29T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

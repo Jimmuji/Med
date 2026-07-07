@@ -1,0 +1,334 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T12:44:37.377089+08:00",
+  "counts": {
+    "news": 36,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
+        "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 20:52:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
+        "url": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/",
+        "summary": "States across the country saw steep drops in the number of people covered by the Affordable Care Act over the past year, according to new federal data.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 19:58:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Online GLP-1 prescriptions are often fast, easy — and low on clinical oversight",
+        "url": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/",
+        "summary": "A new secret-shopper study found that GLP-1 prescriptions from telehealth sites aren't often backed by appropriate clinical care.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Four major biotech updates to catch up on",
+        "url": "https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/",
+        "summary": "Anthropic CEO talks drug discovery, Medicare proposes steep 340B drug payment cuts, and more biotech news",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 13:37:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/",
+        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 12:56:19 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "The race for an Ebola therapy begins",
+        "url": "https://www.statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins/",
+        "summary": "Male marathoners \"hit the wall,\" mental health in 2026, and more Morning Rounds news",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 12:08:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned",
+        "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/",
+        "summary": "Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse",
+        "url": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/",
+        "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
+        "url": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/",
+        "summary": "“The medical industry has spent enormous effort making more advanced tests but expended little effort learning how to use tests correctly,” writes Daniel Morgan.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The smart way to regulate the peptide boom",
+        "url": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/",
+        "summary": "“The FDA should pursue a structured, clinician-guided framework” on popular peptides, writes former surgeon general Jerome Adams.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What does content creation do to mental health?",
+        "url": "https://www.statnews.com/2026/07/06/vidcon-topic-mental-health-content-creators-status-report-alex-hogan/",
+        "summary": "This year at Vidcon, I was struck by how much of the conference’s programming was dedicated to the mental health of content creators.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 08:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medicare-advantage-plans-set-rake-13b-2026-quality-bonus-payments\" hreflang=\"en\">Medicare Advantage plans set to rake in $13B in 2026 quality bonus payments</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medicare-advantage-plans-set-rake-13b-2026-quality-bonus-payments",
+        "summary": "The feds are set to pay out at least $13.4 billion in Medicare quality bonus payments this year, up slightly year-over-year and reflecting a rapid escalation in spending over the past decade, a new report shows.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/elevance-health-sues-cms-over-ma-star-ratings-recalculations\" hreflang=\"en\">Elevance Health sues CMS over MA star ratings recalculations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/elevance-health-sues-cms-over-ma-star-ratings-recalculations",
+        "summary": "Elevance Health is suing the feds over its recent recalculations for the 2026 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 1:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cms-2027-outpatient-pay-proposal-brings-340b-site-neutral-pay-overhauls\" hreflang=\"en\">CMS' 2027 outpatient pay proposal brings 340B, site-neutral changes, to hospitals' dismay</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cms-2027-outpatient-pay-proposal-brings-340b-site-neutral-pay-overhauls",
+        "summary": "A substantial 340B reimbursement rate cut, reduced payments for hospitals' outpatient imaging services and other changes raised immediate alarms among hospital groups.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 12:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/how-matt-rothstein-bringing-his-experience-native-ai-platform-akido-labs\" hreflang=\"en\">How Akido Labs' new head of engineering brings consumer product thinking to healthcare delivery</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/how-matt-rothstein-bringing-his-experience-native-ai-platform-akido-labs",
+        "summary": "Akido Labs' new head of engineering, Matt Rothstein, detailed how he’s bringing his consumer products experience to the provider and clinical automation platform.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 11:09am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/american-medical-association-updates-maternity-care-cpt-coding\" hreflang=\"en\">American Medical Association updates maternity care CPT coding</a>",
+        "url": "https://www.fiercehealthcare.com/providers/american-medical-association-updates-maternity-care-cpt-coding",
+        "summary": "Changes will go into effect Jan. 1, 2027, and aim to improve care delivery and data for maternal health outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 10:30am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/commure-launches-ai-powered-referral-and-patient-intake-platform\" hreflang=\"en\">Commure launches AI-powered referral and patient intake platform</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/commure-launches-ai-powered-referral-and-patient-intake-platform",
+        "summary": "The company designed its platform, called Commure Orchestrator, to close the gap between referral sent and patient seen by eliminating fax-based workflows, reducing referral leakage and cutting pre-visit administrative burden.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 3:56pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthcare-dealmakers-ascension-closes-39b-amsurg-deal-hims-hers-12b-international-play-and\" hreflang=\"en\">Healthcare Dealmakers—Ascension closes $3.9B Amsurg purchase, Hims &amp; Hers' $1.2B international play and more</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-ascension-closes-39b-amsurg-deal-hims-hers-12b-international-play-and",
+        "summary": "WVU Health System nears acquisition of Independence Health System, alternative PBMs join forces and other merger and acquisition news from the month of June.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 3:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/revenue-cycle-model-being-rebuilt-and-cfos-are-leading-way\" hreflang=\"en\">The Revenue Cycle Model Is Being Rebuilt And CFOs Are Leading the Way</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/revenue-cycle-model-being-rebuilt-and-cfos-are-leading-way",
+        "summary": "The revenue cycle has always been a reflection of broader healthcare pressures. When labor levels were more abundant and reimbursement rates were higher, a headcount-heavy model made sense. Today, neither of those conditions exist.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 26, 2026 11:18am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/when-health-system-joint-ventures-need-growth-capital-dont-overlook-bank\" hreflang=\"en\">When Health System Joint Ventures Need Growth Capital, Don’t Overlook the Bank</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/when-health-system-joint-ventures-need-growth-capital-dont-overlook-bank",
+        "summary": "Physician joint ventures can unlock growth capital through a bankable holding company. Learn how Provident Bank structures these facilities.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 17, 2026 3:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/can-you-use-ai-without-turning-your-revenue-cycle-upside-down\" hreflang=\"en\">Can You Use AI Without Turning Your Revenue Cycle Upside Down?</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/can-you-use-ai-without-turning-your-revenue-cycle-upside-down",
+        "summary": "You don't have to overhaul everything to use AI in RCM. Here's how to get started.&nbsp;",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-preps-leadership-changes-president-sumit-rana-plans-step-away\" hreflang=\"en\">Epic reshapes leadership as President Sumit Rana plans to step away</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-preps-leadership-changes-president-sumit-rana-plans-step-away",
+        "summary": "Epic President Sumit Rana shared with company staff on Friday that he plans to step away from Epic for personal reasons.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 5, 2026 8:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-mulls-tougher-medicare-enrollment-rules-combat-fraud-part-2027-home-health-payment\" hreflang=\"en\">CMS mulls tougher Medicare enrollment rules to combat fraud as part of 2027 home health payment rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-mulls-tougher-medicare-enrollment-rules-combat-fraud-part-2027-home-health-payment",
+        "summary": "Through the 2027 home health payment rule, CMS is proposing changes to provider enrollment provisions aimed at strengthening the agency's ability to recover improper payments and remove noncompliant providers and suppliers from Medicare.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 1, 2026 5:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: BioCryst ends internal programs; Biogen sheds Apellis R&amp;D roles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes\" hreflang=\"en\">Can We Outrun Cancer's Evolution? Why BrYet Is Targeting Cancer-Specific Phenotypes</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes",
+        "summary": "Genetic instability makes metastatic cancer largely incurable. BrYet aims to work around it with a new approach targeting cancer-specific phenotypes.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 3:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials\" hreflang=\"en\">Scribe notes down IPO ambition to fund lipid-lowering genetic meds through clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scribe-pens-ipo-ambitions-push-lipid-lowering-genetic-meds-through-clinic-trials",
+        "summary": "Scribe Therapeutics is the latest biotech to prepare a public listing, as the company looks to propel its lipid-lowering medicines through clinical trials.",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 11:11am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/exact-imaging-boosts-us-commercial-team-next-gen-prostate-cancer-testing-tech\" hreflang=\"en\">Exact Imaging boosts U.S. commercial team for next-gen prostate cancer testing tech</a>",
+        "url": "https://www.fiercebiotech.com/medtech/exact-imaging-boosts-us-commercial-team-next-gen-prostate-cancer-testing-tech",
+        "summary": "Exact Imaging is looking to broaden uptake of its high-resolution micro-ultrasound system for prostate cancer screening and is boosting its commercial team to help.",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 10:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect\" hreflang=\"en\">Caris Life Sciences launches cancer blood test ‘Caris Detect’</a>",
+        "url": "https://www.fiercebiotech.com/medtech/caris-life-sciences-launches-cancer-blood-test-caris-detect",
+        "summary": "Caris Life Sciences has launched a new oncology blood test designed alongside AI modeling to pick up cancer at earlier stages.",
+        "source": "Fierce Biotech",
+        "published": "Jul 2, 2026 9:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-sees-103-roles-impacted-gred-rethink-pens-490m-breast-cancer-collab\" hreflang=\"en\">Genentech lays off 103 alongside gRED rethink, pens $490M breast cancer collab</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-sees-103-roles-impacted-gred-rethink-pens-490m-breast-cancer-collab",
+        "summary": "A month after Genentech confirmed the restructuring of its early development group, the Roche subsidiary has now disclosed that this has formed part of a round of 103 layoffs.",
+        "source": "Fierce Biotech",
+        "published": "Jul 5, 2026 9:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pay-11b-upfront-myricx-expand-adc-pipeline\" hreflang=\"en\">Novartis to pay $1.1B upfront for UK biotech Myricx to expand the pharma's ADC pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-pay-11b-upfront-myricx-expand-adc-pipeline",
+        "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio for a pipeline based on a novel payload.",
+        "source": "Fierce Biotech",
+        "published": "Jul 6, 2026 4:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Celea raises $180M for phase 3 study of PureTech IPF drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact\" hreflang=\"en\">AstraZeneca pens $1.7B kidney drug discovery pact with go-to Chinese partner CSPC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-pays-go-chinese-partner-cspc-30m-form-kidney-drug-discovery-pact",
+        "summary": "AstraZeneca has added another piece to its sprawling interface with CSPC Pharmaceutical, paying the Chinese biotech $30 million upfront to jointly discover and develop two kidney disease drug candidates.",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 4:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup\" hreflang=\"en\">United Therapeutics pays $140M for thymic cell therapy startup</a>",
+        "url": "https://www.fiercebiotech.com/biotech/united-therapeutics-pays-140m-thymic-cell-therapy-startup",
+        "summary": "United Therapeutics has paid $140 million to buy Thymmune Therapeutics for preclinical regenerative cell therapies focused on the thymus.",
+        "source": "Fierce Biotech",
+        "published": "Jul 3, 2026 5:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fosun-pays-32m-join-lilly-and-novartis-fiercely-competitive-psoriasis-market\" hreflang=\"en\">Fosun pays $32M to join Lilly and Novartis in fiercely competitive psoriasis market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fosun-pays-32m-join-lilly-and-novartis-fiercely-competitive-psoriasis-market",
+        "summary": "A Fosun Pharma subsidiary has paid Junshi Biosciences 215 million yuan ($32 million) for Chinese rights to a near-approval autoimmune disease drug candidate.",
+        "source": "Fierce Biotech",
+        "published": "Jul 2, 2026 6:56am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers\" hreflang=\"en\">Roche orchestrates phase 3 KRAS lung cancer win over Amgen, BMS</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-orchestrates-phase-3-kras-lung-cancer-win-over-amgen-and-bristol-myers",
+        "summary": "Roche’s investigational KRAS G12C inhibitor has beaten Amgen’s Lumakras and Bristol Myers Squibb’s Krazati in a phase 3 trial, furthering its ambitions to establish divarasib as a new standard of care.",
+        "source": "Fierce Biotech",
+        "published": "Jul 2, 2026 5:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "摩根士丹利最新AI报告解读：真正创造最大价值的公司，可能尚未成立",
+        "url": "https://www.36kr.com/p/3884786855882755",
+        "summary": "摩尔定律终结与瓶颈迁移。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 06 Jul 2026 23:45:26 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care",
+        "url": "https://huggingface.co/papers/2606.31036",
+        "summary": "Specialist epilepsy expertise is scarce in resource-constrained settings, making LLM-based decision support attractive for frontline clinicians managing longitudinal treatment. Such systems must adapt to local prescribing practice and know when to defer. We study this problem in Ugandan pediatric epilepsy care, predicting anti-seizure medication regimens from longitudinal unstructured clinic notes. Standard prompting achieves non-trivial agreement with physician prescriptions, but neurologist review shows that many errors reflect distribution-miscalibrated prescribing defaults rather than fail",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-29T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition",
+        "url": "https://huggingface.co/papers/2607.02271",
+        "summary": "Vein recognition is a secure biometric technology often constrained by limited annotated data and imaging variations. While data augmentation mitigates this, strategies designed for natural images may disrupt the fine-grained topology and textures essential for identity discrimination. We present AGVBench, which evaluates 30 representative augmentation strategies on five public palm- and finger-vein datasets with seven backbone architectures, covering classic CNNs, vision transformers, and vein-specific recognition models. Our results show that multi-image mixing methods (e.g., MixUp, PuzzleMi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
+        "url": "https://huggingface.co/papers/2606.31825",
+        "summary": "Recent multimodal large language models have shown great promise in clinical image reasoning, but existing post-training pipelines remain predominantly outcome-centric, relying on final answer correctness or sequence-level preferences. This suffers from sparse credit assignment, making it difficult to optimize the reasoning process essential for clinical applications. Our analysis reveals that cascading errors from early-stage reasoning failures are a leading cause of incorrect predictions in medical visual question answering (VQA) benchmarks. Motivated by this, we propose Medical Reasoning-aw",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+        "url": "https://huggingface.co/papers/2607.01436",
+        "summary": "Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medical foundation models, however, remain almost entirely autoregressive. We adapt a mixture-of-experts diffusion language model, DiffusionGemma-26B, and benchmark it against its same-size AR sibling Gemma-4-26B under an identical LoRA recipe on medical visual question answering datasets, scored by a verbosity-robust LLM judge. Diffusion matches or exceeds AR on all of them, and the finetuned model (3.",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-30T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

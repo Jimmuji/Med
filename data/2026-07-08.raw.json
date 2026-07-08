@@ -1,0 +1,374 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T12:09:57.357141+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
+        "url": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/",
+        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 16:44:36 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: The crumbling employer-based health insurance system",
+        "url": "https://www.statnews.com/2026/07/07/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson/",
+        "summary": "Today's D.C. Diagnosis newsletter covers maintaining diversity in drug trials and troubling trends in employer-based health insurance.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 15:40:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Compass says depression drug has long-lasting benefits",
+        "url": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/",
+        "summary": "Vertex makes its largest-ever deal, skyrocketing health insurance costs, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 15:04:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: America’s employer health insurance is decaying",
+        "url": "https://www.statnews.com/2026/07/07/insurance-affordability-crisis-health-care-inc-newsletter/",
+        "summary": "STAT's Bob Herman examines the under-the-radar crisis brewing in employer-based health insurance.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 14:58:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ‘Secret shopper’ study probes GLP-1 telehealth sites",
+        "url": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 13:47:51 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a $10 billion Vertex deal, the pace of FDA drug approvals, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 13:14:01 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Ebola outbreak exposes a fractured outbreak response system",
+        "url": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/",
+        "summary": "The costly threat to employer-based health care, Gen Z doctors, and more health news",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 12:06:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "5 takeaways from STAT’s series on the soaring cost of health insurance",
+        "url": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/",
+        "summary": "Read the 5 key takeaways from STAT's series \"Out of Pocket, Out of Reach,\" an examination of workplace health insurance.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: What if this Ebola outbreak can’t be stopped?",
+        "url": "https://www.statnews.com/2026/07/07/ebola-outbreak-drc-uganda-endemic-control/",
+        "summary": "In the past, the possibility of endemic Ebola was unthinkable. This time is different, write Ivan Buendia Gayton and Eric D. Perakslis.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: This whistleblower took on a health insurance giant and a political machine. She’s not stopping there",
+        "url": "https://www.statnews.com/2026/07/07/employer-based-insurance-whistleblower-out-of-pocket-series-part-3/",
+        "summary": "America’s employers must stop acting helpless in the face of health care industry profiteering, Chris Deacon says.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: America’s small businesses are giving up on health insurance",
+        "url": "https://www.statnews.com/2026/07/07/small-business-health-insurance-costs-out-of-pocket-series-part-1/",
+        "summary": "America's employer-based health insurance system is crumbling. STAT investigates why, in our new series, “Out of Pocket, Out of Reach.”",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: For a Georgia entrepreneur, health coverage has never been affordable",
+        "url": "https://www.statnews.com/2026/07/07/aca-health-insurance-small-business-out-of-pocket-series-part-2/",
+        "summary": "Amy Bielawski is one of the 30 million people who run their own businesses. She's gone most of her life without health insurance.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Medicine thinks Gen Z is too soft. It’s wrong",
+        "url": "https://www.statnews.com/2026/07/07/gen-z-doctors-too-soft/",
+        "summary": "“Gen Z physicians are on a collision course with institutions still built around older assumptions,” writes Frantz M. Berthaud.",
+        "source": "STAT News",
+        "published": "Tue, 07 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
+        "url": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 20:52:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
+        "url": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/",
+        "summary": "States across the country saw steep drops in the number of people covered by the Affordable Care Act over the past year, according to new federal data.",
+        "source": "STAT News",
+        "published": "Mon, 06 Jul 2026 19:58:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/nonprofit-private-equity-joint-ventures-worth-scrutiny-pesp-report-finds\" hreflang=\"en\">Nonprofit-private equity joint ventures worth scrutiny, PESP report says</a>",
+        "url": "https://www.fiercehealthcare.com/finance/nonprofit-private-equity-joint-ventures-worth-scrutiny-pesp-report-finds",
+        "summary": "Private equity may enter healthcare markets through joint ventures with nonprofits and other healthcare providers. This extends across subsectors, and for a variety of reasons requires greater regulatory oversight, the report said.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 4:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/independent-pharmacies-hit-prime-therapeutics-antitrust-suit-over-alleged-price-fixing\" hreflang=\"en\">Independent pharmacies hit Prime Therapeutics with antitrust suit over alleged price fixing</a>",
+        "url": "https://www.fiercehealthcare.com/payers/independent-pharmacies-hit-prime-therapeutics-antitrust-suit-over-alleged-price-fixing",
+        "summary": "A group representing thousands of pharmacies has filed an antitrust suit against Prime Therapeutics, alleging that the company colluded with rival Express Scripts to fix prices.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 2:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/nonprofit-hospitals-are-embracing-high-risk-high-reward-investment-portfolios-problem\" hreflang=\"en\">Nonprofit hospitals are embracing high-risk, high-reward investment portfolios. Is that a problem?</a>",
+        "url": "https://www.fiercehealthcare.com/providers/nonprofit-hospitals-are-embracing-high-risk-high-reward-investment-portfolios-problem",
+        "summary": "A newly published study of nonprofit hospitals' tax forms outlines huge swings in investment returns and an increasing foray into non-publicly traded vehicles like private equity and venture capital.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/lenz-therapeutics-rolls-out-telehealth-offering-presbyopia-drops-vizz\" hreflang=\"en\">Lenz Therapeutics rolls out telehealth offering for Vizz prescription eye drops</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/lenz-therapeutics-rolls-out-telehealth-offering-presbyopia-drops-vizz",
+        "summary": "A patient-driven telehealth Rx model is more sustainable given the success of other aesthetic Rx products offered via telehealth, including GLP-1s and acne medications, Leerink Partners analysts wrote.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 3:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Dignity Health lays off 139; Adventist Health trims 132 roles</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ascension-plans-acquire-independent-system-williamson-health-nearly-1b\" hreflang=\"en\">Ascension plans to acquire independent system Williamson Health for nearly $1B</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ascension-plans-acquire-independent-system-williamson-health-nearly-1b",
+        "summary": "The offer, unanimously approved by Williamson's board of trustees, includes a $700 million price tag and $250 million of capital support over 10 years, beating out other proposals from HCA Healthcare and Optum. The partners are now working on a nonbinding letter of intent for county board approval.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 11:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/allegheny-health-network-heritage-valley-health-system-finalize-acquisition\" hreflang=\"en\">Allegheny Health Network acquires Heritage Valley Health System</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/allegheny-health-network-heritage-valley-health-system-finalize-acquisition",
+        "summary": "The affiliation agreement brings two new hospitals plus 36 physician offices and multi-specialty outpatient facilities to Allegheny Health Network.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 10:36am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/handspring-health-lands-19m-series-b-expand-behavioral-health-model-youth\" hreflang=\"en\">Handspring Health lands $19M series B to expand behavioral health model for youth</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/handspring-health-lands-19m-series-b-expand-behavioral-health-model-youth",
+        "summary": "The startup, which launched four years ago, picked up $19 million in series B funding to grow its clinician workforce, expand value-based care partnerships with payers and broaden its geographic reach.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 5:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/marketing/ai-care-partner-heidi-puts-spin-pharma-advertising-tropes-new-brand-campaign-touting\" hreflang=\"en\">AI care partner Heidi puts a spin on pharma ad tropes in new campaign to relieve 'side effects'</a>",
+        "url": "https://www.fiercehealthcare.com/marketing/ai-care-partner-heidi-puts-spin-pharma-advertising-tropes-new-brand-campaign-touting",
+        "summary": "Heidi, alongside creative firm Cocogun and media agency TRG, have launched a new brand campaign that positions its AI tool as a dose of \"relief, on repeat.\"",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 5:41pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/palomar-health-ucsd-health-join-operations-form-new-regional-system\" hreflang=\"en\">Palomar Health, UCSD Health join operations to form new regional system</a>",
+        "url": "https://www.fiercehealthcare.com/providers/palomar-health-ucsd-health-join-operations-form-new-regional-system",
+        "summary": "Palomar UC San Diego Health combines the strengths of a community-based health system and an academic health system under a single unified governance structure, executives said.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 8:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medicare-advantage-plans-set-rake-13b-2026-quality-bonus-payments\" hreflang=\"en\">Medicare Advantage plans set to rake in $13B in 2026 quality bonus payments</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medicare-advantage-plans-set-rake-13b-2026-quality-bonus-payments",
+        "summary": "The feds are set to pay out at least $13.4 billion in Medicare quality bonus payments this year, up slightly year-over-year and reflecting a rapid escalation in spending over the past decade, a new report shows.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/elevance-health-sues-cms-over-ma-star-ratings-recalculations\" hreflang=\"en\">Elevance Health sues CMS over MA star ratings recalculations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/elevance-health-sues-cms-over-ma-star-ratings-recalculations",
+        "summary": "Elevance Health is suing the feds over its recent recalculations for the 2026 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 1:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/meiragtx-scores-400m-oberland-capital-help-get-2-gene-therapies-commercialization\" hreflang=\"en\">MeiraGTx scores $400M from Oberland Capital to help get 2 gene therapies to commercialization </a>",
+        "url": "https://www.fiercebiotech.com/biotech/meiragtx-scores-400m-oberland-capital-help-get-2-gene-therapies-commercialization",
+        "summary": "As MeiraGTx lines up the pieces for a commercial push, the company has new funding to work with.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 1:52pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/eckman-coulter-grows-alzheimers-dx-portfolio-ce-mark-new-assay\" hreflang=\"en\">Beckman Coulter grows Alzheimer’s dx portfolio with CE mark for new assay</a>",
+        "url": "https://www.fiercebiotech.com/medtech/eckman-coulter-grows-alzheimers-dx-portfolio-ce-mark-new-assay",
+        "summary": "Diagnostics specialist Beckman Coulter expanded its portfolio of Alzheimer’s disease diagnostics by earning a CE mark in Europe for its Access p-Tau217 assay.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 7:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/whitehawk-swoops-five-adcs-development-deal-biocytogen\" hreflang=\"en\">Whitehawk swoops in for five ADCs via development deal with China's Biocytogen</a>",
+        "url": "https://www.fiercebiotech.com/biotech/whitehawk-swoops-five-adcs-development-deal-biocytogen",
+        "summary": "Biocytogen and Whitehawk Therapeutics are joining forces to develop bispecific antibody-drug conjugates using Biocytogen's discovery platform.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 10:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd\" hreflang=\"en\">Boehringer bags PVT’s viral vector platform for cancer vaccine R&amp;D</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd",
+        "summary": "Boehringer Ingelheim has landed an exclusive license to Prime Vector Technologies’ viral vector platform for developing next-generation cancer vaccines.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 9:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/us-lawmakers-increase-scrutiny-chinese-trials-industry-fears-huge-distraction-and-expense\" hreflang=\"en\">As US lawmakers increase scrutiny of Chinese trials, industry fears ‘huge distraction and expense’ </a>",
+        "url": "https://www.fiercebiotech.com/biotech/us-lawmakers-increase-scrutiny-chinese-trials-industry-fears-huge-distraction-and-expense",
+        "summary": "As U.S. lawmakers continue to scrutinize the consequences of China’s expanding role in biotech innovation, industry insiders have been left debating how they can navigate this shifting landscape—or even whether biotechs should abandon China altogether.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 6:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/metabolic-biotech-kalohexis-files-confidential-ipo-develop-glp-1-challenger\" hreflang=\"en\">Endevica spinout Kalohexis submits confidential IPO filing to develop obesity challenger to GLP-1s</a>",
+        "url": "https://www.fiercebiotech.com/biotech/metabolic-biotech-kalohexis-files-confidential-ipo-develop-glp-1-challenger",
+        "summary": "Clinical-stage Kalohexis is readying a public listing to support its obesity and cancer cachexia treatments.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 10:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/novo-nordisk-pens-glp-1-long-acting-implant-tech-deal-vivani-medical\" hreflang=\"en\">Novo Nordisk pens long-acting GLP-1 implant tech deal with Vivani Medical</a>",
+        "url": "https://www.fiercebiotech.com/medtech/novo-nordisk-pens-glp-1-long-acting-implant-tech-deal-vivani-medical",
+        "summary": "As Novo Nordisk looks for new ways to broaden its semaglutide GLP-1 franchise, the Danish drugmaker has signed a new deal with Californian medtech Vivani Medical to help.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 8:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials\" hreflang=\"en\">Kailera’s oral GLP-1 asset sees 11% weight loss, hits goals in Chinese phase 3 obesity and diabetes trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kaileras-oral-glp-1-asset-hits-goals-chinese-phase-3-obesity-and-diabetes-trials",
+        "summary": "Phase 3 trials of Kailera Therapeutics’ oral GLP-1 prospect have hit their primary endpoints, positioning the biotech’s partner Hengrui Pharma to seek approval in obesity and diabetes in China.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 8:44am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/nice-recommends-endosure-and-endotest-diagnostics-endometriosis\" hreflang=\"en\">NICE recommends Endosure and Endotest diagnostics for endometriosis</a>",
+        "url": "https://www.fiercebiotech.com/medtech/nice-recommends-endosure-and-endotest-diagnostics-endometriosis",
+        "summary": "Women in England are set to gain new, taxpayer-funded tests for endometriosis after NICE recommended them for regular use.",
+        "source": "Fierce Biotech",
+        "published": "Jul 6, 2026 6:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/vertex-acquires-endocrine-disease-specialist-crinetics-10b\" hreflang=\"en\">Vertex, in its largest-ever deal, acquires endocrine disease specialist Crinetics for $10B </a>",
+        "url": "https://www.fiercebiotech.com/pharma/vertex-acquires-endocrine-disease-specialist-crinetics-10b",
+        "summary": "Vertex Pharmaceuticals has struck a $10 billion deal—its largest ever—to&nbsp;acquire endocrine disease specialist Crinetics Pharmaceuticals. The transaction's two focuses, Palsonify and atumelnant, have combined peak sales potential of more than $5 billion, Vertex said.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 7:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes\" hreflang=\"en\">Can We Outrun Cancer's Evolution? Why BrYet Is Targeting Cancer-Specific Phenotypes</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/can-we-outrun-cancers-evolution-why-bryet-targeting-cancer-specific-phenotypes",
+        "summary": "Genetic instability makes metastatic cancer largely incurable. BrYet aims to work around it with a new approach targeting cancer-specific phenotypes.",
+        "source": "Fierce Biotech",
+        "published": "Jun 24, 2026 3:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: BioCryst ends internal programs; Biogen sheds Apellis R&amp;D roles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "摩根士丹利最新AI报告解读：真正创造最大价值的公司，可能尚未成立",
+        "url": "https://www.36kr.com/p/3884786855882755",
+        "summary": "摩尔定律终结与瓶颈迁移。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 06 Jul 2026 23:45:26 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "纯机械无源牵引解决全场景颈椎康复痛点，盛达安康寻求200万种子轮融资",
+        "url": "https://www.36kr.com/p/3871182563792132",
+        "summary": "千亿脊柱康复赛道缺口，盛达安康募200万推无源牵引方案",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 07 Jul 2026 08:51:15 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment",
+        "url": "https://huggingface.co/papers/2607.02920",
+        "summary": "Significant disparities exist in the diagnosis and clinical presentation of depression across different linguistic populations. Speech-based depression detection performs well monolingually, but cross-lingual generalization remains an open challenge. A key reason is that prior work uses segment-level random splits without speaker grouping, leading to identity leakage that inflates reported metrics. We propose CLeaD, a supervised contrastive alignment framework that maps WavLM embeddings from English and Mandarin into a shared clinical space, without parallel data or target-language fine-tuning",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-02T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models",
+        "url": "https://huggingface.co/papers/2607.03751",
+        "summary": "Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing remedy, post-training via supervised fine-tuning or reinforcement learning, improves task-specific performance but narrows the generalist capability that makes pretraining valuable. We identify a key bottleneck: VLA failures stem not only from action generation but also from action evaluation. A diagnostic pass@k study confirms that frozen VLAs already contain competent behaviors in their output dis",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-03T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Transition-Aware best-of-N sampling for Longitudinal Chest X-ray Reports",
+        "url": "https://huggingface.co/papers/2606.28393",
+        "summary": "In longitudinal clinical practice, every chest X-ray is read in the context of the patients prior exam, and much of what the radiologist communicates is the change from one visit to the next. To the best of our knowledge, we present the first training-free best-of-N sampling scheme for pre-trained chest X-ray report generators that is explicitly aware of this longitudinal prior to current transition. We call it transition-aware best-of-N sampling, each report is split into sentences and embedded into an unordered set in Rd; each (prior, current) pair is reduced to a fixed-dim directional vecto",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-06-22T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training",
+        "url": "https://huggingface.co/papers/2607.02998",
+        "summary": "Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX, a latent diffusion model for chest computed tomography (CT): a 3D variational autoencoder compresses each volume, and a rectified-flow transformer generates in the latent space. Generation is conditioned on structured radiological metadata (18 abnormality findings, sex, age, and reconstruction kernel) through adaptive layer normalization. The mod",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-06T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

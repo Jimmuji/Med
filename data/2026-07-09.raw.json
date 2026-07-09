@@ -1,0 +1,358 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T12:44:32.819560+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
+        "url": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/",
+        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 20:41:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: White House reviewing top contenders to lead FDA",
+        "url": "https://www.statnews.com/2026/07/08/new-fda-commissioner-finalists-under-white-house-review/",
+        "summary": "The White House is reviewing finalists for FDA commissioner, suggesting the highly anticipated decision may come soon.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 18:51:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Mass General Brigham, nurses called to talk at State House amid biggest nursing strike in Mass.",
+        "url": "https://www.statnews.com/2026/07/08/brigham-and-womens-hospital-boston-nurses-strike-largest-massachusetts-history/",
+        "summary": "The Brigham, a nationally renowned Harvard teaching hospital, and MGB have have unsuccessfully been negotiating a new contract for months.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 17:32:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In private meeting, Trump officials push to onshore generic drugmaking",
+        "url": "https://www.statnews.com/2026/07/08/trump-officials-want-to-make-generic-medicines-in-the-us/",
+        "summary": "Marco Rubio, RFK Jr., and Chris Klomp are urging industry leaders to make more medicines in the U.S.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 16:44:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose",
+        "url": "https://www.statnews.com/2026/07/08/bryan-johnson-autoimmune-gastritis-diagnosis-explained/",
+        "summary": "Why longevity entrepreneur Bryan Johnson’s chronic disease is notoriously difficult to diagnose.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 16:13:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Affordable Care Act insurers want more premium increases as enrollment sags",
+        "url": "https://www.statnews.com/2026/07/08/affordable-care-act-insurers-premium-increases-enrollment-dips/",
+        "summary": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases, driven by rising medical costs as well as federal policy changes.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 15:31:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Transplants extended survival for patients whose stage 4 lung cancer hadn’t spread, study says",
+        "url": "https://www.statnews.com/2026/07/08/lung-transplant-advanced-cancer-study-results-ethics-jama/",
+        "summary": "Lung cancer patients hadn't been seen as candidates for organ transplant. Now a study finds patients did well.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Europe will accelerate its review of RevMed’s drug",
+        "url": "https://www.statnews.com/2026/07/08/biotech-news-europe-will-accelerate-its-review-of-revmed-cancer-drug/",
+        "summary": "Kailera's GLP-1 pill data raises concerns, FDA clears Vera autoimmune therapy, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 14:24:53 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Prime Medicine claims victory in dispute over gene-editing technology with Beam Therapeutics",
+        "url": "https://www.statnews.com/2026/07/08/prime-medicine-beam-therapeutics-arbitration-outcome/",
+        "summary": "Prime Medicine said it had won an arbitration dispute against Beam Therapeutics, a clash that had pitted two well-backed gene-editing companies against each other.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 13:52:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Vera kidney drug approval, a U.K. Enhertu pricing deal, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/",
+        "summary": "The FDA approved a kidney disease drug from Vera Therapeutics called Trutakna, to treat IgA nephropathy",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 13:11:36 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Another big premium hike on the horizon",
+        "url": "https://www.statnews.com/2026/07/08/health-news-more-big-premium-hikes-on-the-horizon/",
+        "summary": "FDA's crackdown on online ketamine retailers, unprecedented health care premium hikes, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 11:43:19 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Trump administration pursues more durable changes to science policy after setbacks in court",
+        "url": "https://www.statnews.com/2026/07/08/trump-research-funding-scientists-see-omb-overreach-control/",
+        "summary": "The White House has proposed sweeping changes to the bedrock regulation undergirding all federal contracts, empowering the executive branch to direct research, terminate grants, and external scientific reviews.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Are glucose monitors a good thing for 2-year-olds? Experts look at risks, benefits",
+        "url": "https://www.statnews.com/2026/07/08/dexcom-stelo-cgm-risk-benefit-otc-glucose-monitoring-children/",
+        "summary": "The newly approved over-the-counter CGM offers a new approach to tackling childhood obesity but also raises a host of questions.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: The AI licensure debate is missing the point of licensure",
+        "url": "https://www.statnews.com/2026/07/08/licensing-ai-medicine-physician-responsibility/",
+        "summary": "“AI will reshape medicine. The physicians who answer for the outcome must lead the way it enters patient care,\" write Afnan R. Tariq and Ami Bhatt.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: What’s the right role for AI in dementia care?",
+        "url": "https://www.statnews.com/2026/07/08/dementia-care-ai-artificial-intelligence-chatbots/",
+        "summary": "Three tricky questions about using AI in dementia care.",
+        "source": "STAT News",
+        "published": "Wed, 08 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tampa-general-hospital-sues-eli-lilly-over-pulled-340b-discounts\" hreflang=\"en\">Tampa General Hospital sues Eli Lilly over pulled 340B discounts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tampa-general-hospital-sues-eli-lilly-over-pulled-340b-discounts",
+        "summary": "The drugmaker's decision to rescind 340B discounts to hospitals that do not submit requested claims data has raised prices at Tampa General Hospital by 25% to 50% on average, it wrote in a complaint.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/mass-general-brigham-nurses-home-care-clinicians-launch-largest-healthcare-strike-state\" hreflang=\"en\">Mass General Brigham nurses, home care clinicians launch largest healthcare strike in state history</a>",
+        "url": "https://www.fiercehealthcare.com/providers/mass-general-brigham-nurses-home-care-clinicians-launch-largest-healthcare-strike-state",
+        "summary": "Contract disputes will keep about 4,000 Brigham and Women's Hospital nurses off the job for five days, and another 450 home care clinicians on picket lines for a week.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 12:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-preps-leadership-changes-president-sumit-rana-plans-step-away\" hreflang=\"en\">Epic plans to expand 4 executives' roles as President Sumit Rana exits the company</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-preps-leadership-changes-president-sumit-rana-plans-step-away",
+        "summary": "Epic President Sumit Rana shared with company staff on Friday that he plans to step away from Epic for personal reasons.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 5, 2026 8:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show\" hreflang=\"en\">ACA plans set for another year of premium spikes, preliminary filings show</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show",
+        "summary": "Plans on the Affordable Care Act's exchanges are set for further premium increases next year, a new report shows.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 12:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/primary-cares-ai-moment\" hreflang=\"en\">Primary care’s AI moment</a>",
+        "url": "https://www.fiercehealthcare.com/providers/primary-cares-ai-moment",
+        "summary": "Artificial intelligence is here to stay, and physicians should be learning how to use it thoughtfully. That’s the argument Shawn Martin, CEO of the American Academy of Family Physicians, makes in a conversation with Senior Writer Anastassia Gliadkovskaya.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 9:34am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system\" hreflang=\"en\">Leo Cancer Care secures $65M to advance upright radiotherapy system as company preps for IPO</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system",
+        "summary": "Medical technology company Leo Cancer Care closed a $65 million series D financing round to scale its radiotherapy solution, which uses groundbreaking upright treatment technology.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 8:00am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/national-basketball-players-association-names-teladoc-health-preferred-virtual-care\" hreflang=\"en\">Teladoc Health inks multi-year virtual care deal with National Basketball Players Association</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/national-basketball-players-association-names-teladoc-health-preferred-virtual-care",
+        "summary": "The partnership gives current and retired NBA players and families preferred access to Teladoc’s virtual care services.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 12:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/american-heart-association-joins-social-network-roon-medical-research-collaboration\" hreflang=\"en\">American Heart Association joins social network Roon for medical research collaboration</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/american-heart-association-joins-social-network-roon-medical-research-collaboration",
+        "summary": "Roon, a physician-only social network, is collaborating with the American Heart Association to integrate its medical research onto the platform to bridge published medical literature with real-time peer discussion.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 2:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders— ANA taps new president; OU Health announces new CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/nonprofit-private-equity-joint-ventures-worth-scrutiny-pesp-report-finds\" hreflang=\"en\">Nonprofit-private equity joint ventures worth scrutiny, PESP report says</a>",
+        "url": "https://www.fiercehealthcare.com/finance/nonprofit-private-equity-joint-ventures-worth-scrutiny-pesp-report-finds",
+        "summary": "Private equity may enter healthcare markets through joint ventures with nonprofits and other healthcare providers. This extends across subsectors, and for a variety of reasons requires greater regulatory oversight, the report said.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 4:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/independent-pharmacies-hit-prime-therapeutics-antitrust-suit-over-alleged-price-fixing\" hreflang=\"en\">Independent pharmacies hit Prime Therapeutics with antitrust suit over alleged price fixing</a>",
+        "url": "https://www.fiercehealthcare.com/payers/independent-pharmacies-hit-prime-therapeutics-antitrust-suit-over-alleged-price-fixing",
+        "summary": "A group representing thousands of pharmacies has filed an antitrust suit against Prime Therapeutics, alleging that the company colluded with rival Express Scripts to fix prices.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 2:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/nonprofit-hospitals-are-embracing-high-risk-high-reward-investment-portfolios-problem\" hreflang=\"en\">Nonprofit hospitals are embracing high-risk, high-reward investment portfolios. Is that a problem?</a>",
+        "url": "https://www.fiercehealthcare.com/providers/nonprofit-hospitals-are-embracing-high-risk-high-reward-investment-portfolios-problem",
+        "summary": "A newly published study of nonprofit hospitals' tax forms outlines huge swings in investment returns and an increasing foray into non-publicly traded vehicles like private equity and venture capital.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 6, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-halts-release-new-drug-rejection-letters-while-working-formalize-policy\" hreflang=\"en\">FDA halts release of new drug rejection letters while working to formalize policy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-halts-release-new-drug-rejection-letters-while-working-formalize-policy",
+        "summary": "The FDA has paused a controversial policy of releasing letters describing its rationale for rejecting drugs, Fierce Biotech has learned, following a citizen’s petition from an unnamed pharma company in April.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 1:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/prime-wins-patent-fight-beam-can-continue-work-aatd-gene-editing-therapy\" hreflang=\"en\">Prime wins patent fight with Beam to continue work on AATD gene editing therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/prime-wins-patent-fight-beam-can-continue-work-aatd-gene-editing-therapy",
+        "summary": "Prime Medicine has come out ahead in its patent dispute with fellow gene-editing biotech Beam Therapeutics, after a panel of adjudicators ruled that the company did not violate its agreement with Beam and can continue developing its lead asset for alpha-1 antitrypsin deficiency.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 11:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/satellos-intriguing-duchenne-data-raise-hopes-ahead-key-readout\" hreflang=\"en\">Satellos’ ‘intriguing’ Duchenne data raise hopes ahead of key readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/satellos-intriguing-duchenne-data-raise-hopes-ahead-key-readout",
+        "summary": "Satellos Bioscience has shared evidence that its Duchenne muscular dystrophy drug candidate is active in adults, leading analysts to predict the molecule “could re-imagine the ... therapeutic landscape” if the biotech replicates the data in children.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 9:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scipher-picks-chemomabs-ra-drug-nasdaq-listing-all-stock-merger\" hreflang=\"en\">Scipher picks up Chemomab’s liver disease drug, Nasdaq listing in all-stock merger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scipher-picks-chemomabs-ra-drug-nasdaq-listing-all-stock-merger",
+        "summary": "Precision immunology company Scipher Medicine will absorb Chemomab Therapeutics after having identified the Israeli biotech’s liver disease drug as the ideal fit for its own expertise.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 9:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system\" hreflang=\"en\">Leo Cancer Care secures $65M to advance upright radiotherapy system as company preps for IPO</a>",
+        "url": "https://www.fiercebiotech.com/health-tech/leo-cancer-care-secures-65m-series-d-advance-upright-radiotherapy-system",
+        "summary": "Medical technology company Leo Cancer Care closed a $65 million series D financing round to scale its radiotherapy solution, which uses groundbreaking upright treatment technology.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 8:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Novartis loses 322 US staffers; BioCryst ends internal programs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-pays-sino-200m-challenger-mercks-copd-drug-ohtuvayre\" hreflang=\"en\">AstraZeneca pens $2.1B Sino deal for challenger to Merck’s COPD drug Ohtuvayre</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-pays-sino-200m-challenger-mercks-copd-drug-ohtuvayre",
+        "summary": "AstraZeneca is paying Sino Biopharmaceutical $200 million upfront for ex-China rights to a late-phase challenger to Merck &amp; Co.’s chronic obstructive pulmonary disease drug Ohtuvayre.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 3:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/caidya-and-simbec-orion-unite-global-cro-combo\" hreflang=\"en\">Caidya and Simbec-Orion unite in global CRO combo</a>",
+        "url": "https://www.fiercebiotech.com/cro/caidya-and-simbec-orion-unite-global-cro-combo",
+        "summary": "Contract research organizations (CROs) Caidya and Simbec-Orion have united to create a new platform aimed at helping drug development programs accelerate and scale.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 4:01pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/meiragtx-scores-400m-oberland-capital-help-get-2-gene-therapies-commercialization\" hreflang=\"en\">MeiraGTx scores $400M from Oberland Capital to help get 2 gene therapies to commercialization </a>",
+        "url": "https://www.fiercebiotech.com/biotech/meiragtx-scores-400m-oberland-capital-help-get-2-gene-therapies-commercialization",
+        "summary": "As MeiraGTx lines up the pieces for a commercial push, the company has new funding to work with.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 1:52pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/eckman-coulter-grows-alzheimers-dx-portfolio-ce-mark-new-assay\" hreflang=\"en\">Beckman Coulter grows Alzheimer’s dx portfolio with CE mark for new assay</a>",
+        "url": "https://www.fiercebiotech.com/medtech/eckman-coulter-grows-alzheimers-dx-portfolio-ce-mark-new-assay",
+        "summary": "Diagnostics specialist Beckman Coulter expanded its portfolio of Alzheimer’s disease diagnostics by earning a CE mark in Europe for its Access p-Tau217 assay.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 7:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/whitehawk-swoops-five-adcs-development-deal-biocytogen\" hreflang=\"en\">Whitehawk swoops in for five ADCs via development deal with China's Biocytogen</a>",
+        "url": "https://www.fiercebiotech.com/biotech/whitehawk-swoops-five-adcs-development-deal-biocytogen",
+        "summary": "Biocytogen and Whitehawk Therapeutics are joining forces to develop bispecific antibody-drug conjugates using Biocytogen's discovery platform.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 10:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd\" hreflang=\"en\">Boehringer bags PVT’s viral vector platform for cancer vaccine R&amp;D</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-bags-pvts-viral-vector-platform-cancer-vaccine-rd",
+        "summary": "Boehringer Ingelheim has landed an exclusive license to Prime Vector Technologies’ viral vector platform for developing next-generation cancer vaccines.",
+        "source": "Fierce Biotech",
+        "published": "Jul 7, 2026 9:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "纯机械无源牵引解决全场景颈椎康复痛点，盛达安康寻求200万种子轮融资",
+        "url": "https://www.36kr.com/p/3871182563792132",
+        "summary": "千亿脊柱康复赛道缺口，盛达安康募200万推无源牵引方案",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 07 Jul 2026 08:51:15 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
+        "url": "https://huggingface.co/papers/2607.06065",
+        "summary": "Coding agents increasingly generate pull requests (PRs) for real-world software issues, yet one-shot PR generation remains open-loop: the PR is proposed without systematic review, diagnosis, or revision. We introduce SWE-Review, a framework for closing this loop with agentic code review. Given an issue and an AI-generated PR, a reviewer agent explores the repository, decides whether the PR should be accepted, and provides structured feedback for revision. We evaluate this setting with our proposed SWE-Review-Bench to measure both review correctness and downstream revision usefulness. We furthe",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES",
+        "url": "https://huggingface.co/papers/2607.05691",
+        "summary": "Every chemical language model reading SMILES begins with a tokenizer, yet the field has inherited byte-pair encoding (BPE) from natural language with little scrutiny. In natural language, BPE's principal alternative, Unigram-LM, is known to build structurally different vocabularies. Whether that contrast survives in chemistry was open. We report a controlled comparison of BPE and Unigram-LM over a fixed 165-token chemistry base, at the small vocabulary sizes where token embeddings are learnable, across three corpus typologies (diverse, drug-like, natural-products) and both pre-tokenization bou",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-05T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment",
+        "url": "https://huggingface.co/papers/2607.02920",
+        "summary": "Significant disparities exist in the diagnosis and clinical presentation of depression across different linguistic populations. Speech-based depression detection performs well monolingually, but cross-lingual generalization remains an open challenge. A key reason is that prior work uses segment-level random splits without speaker grouping, leading to identity leakage that inflates reported metrics. We propose CLeaD, a supervised contrastive alignment framework that maps WavLM embeddings from English and Mandarin into a shared clinical space, without parallel data or target-language fine-tuning",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-02T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

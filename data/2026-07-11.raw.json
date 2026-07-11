@@ -1,0 +1,414 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T12:07:38.766578+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 9
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Nominee for key federal health role has a history of questioning vaccines",
+        "url": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/",
+        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
+        "source": "STAT News",
+        "published": "Fri, 10 Jul 2026 19:27:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roche ends Huntington’s gene-silencing programs",
+        "url": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/",
+        "summary": "ARPA-H launches bespoke gene therapy push, Lilly and Novo to promote Bridge program, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Fri, 10 Jul 2026 13:35:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about bigger drug discounts in Germany, drugmakers embracing secrecy, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/10/germany-seeks-bigger-drug-discounts-drugmakers-embracing-secrecy/",
+        "summary": "German lawmakers passed a bill that would more than double the discount on branded medicines drugmakers must provide the government",
+        "source": "STAT News",
+        "published": "Fri, 10 Jul 2026 13:13:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FDA quietly pushes back deadline on electric shock ban",
+        "url": "https://www.statnews.com/2026/07/10/health-news-fda-quietly-pushes-back-deadline-on-electric-shock-ban/",
+        "summary": "Massachusetts' biggest nursing strike ever, tackling the male loneliness epidemic, and other health news for Morning Rounds",
+        "source": "STAT News",
+        "published": "Fri, 10 Jul 2026 11:51:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
+        "url": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/",
+        "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting.",
+        "source": "STAT News",
+        "published": "Fri, 10 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New York boys club has a time-tested recipe to protect members’ mental health",
+        "url": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/",
+        "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 10 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The primary care crisis paradox",
+        "url": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/",
+        "summary": "“Solving the health crisis in the United States will require confronting things far harder than readjusting a fee schedule.”",
+        "source": "STAT News",
+        "published": "Fri, 10 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
+        "url": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/",
+        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 20:07:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+        "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/",
+        "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation’s largest such outbreaks in years.",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 15:01:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ARPA-H launches $160 million effort to develop custom gene editing drugs",
+        "url": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/",
+        "summary": "An ARPA-H program to jump-start custom gene editing treatments was delayed by a change in administrations. Now seven labs will get sizable grants.",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA finalists under review",
+        "url": "https://www.statnews.com/2026/07/09/fda-commissioner-finalists-under-review-obamacare-premiums-surge-again/",
+        "summary": "Three top contenders to run the FDA are under review by the White House",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 14:50:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Prime wins Beam arbitration, clearing path to clinic",
+        "url": "https://www.statnews.com/2026/07/09/biotech-news-prime-wins-beam-arbitration-clearing-path-to-clinic/",
+        "summary": "AstraZeneca, Ionis report major trial failure, White House pushes for American drug manufacturing, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 14:05:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about FDA commissioner contenders, a heart drug failure, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/09/fda-commissioner-contenders-reviewed-astrazeneca-ionis-heart-drug-failed/",
+        "summary": "The White House is reviewing a list of three top contenders for the FDA commissioner post",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 13:18:02 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: OpenEvidence backs study that finds it beats LLMs",
+        "url": "https://www.statnews.com/2026/07/09/openevidence-backs-study-that-finds-it-beats-llms-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Dueling research pitting OpenEvidence against general purpose LLMs, use of Dexcom's CGM in children, and more.",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 13:05:54 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Who’s going to run the FDA?",
+        "url": "https://www.statnews.com/2026/07/09/health-news-whos-going-to-run-the-fda/",
+        "summary": "RFK Jr.'s list of Covid vaccine injuries, a father's quest to cure his daughter, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 09 Jul 2026 11:24:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/op-ed-tackling-affordability-shared-responsibility-heres-what-hospitals-are-doing\" hreflang=\"en\">Op-ed: Tackling affordability is a shared responsibility. Here's what hospitals are doing</a>",
+        "url": "https://www.fiercehealthcare.com/providers/op-ed-tackling-affordability-shared-responsibility-heres-what-hospitals-are-doing",
+        "summary": "No single part of the healthcare system can solve affordability on its own. Real progress will require shared responsibility and coordinated action—including on the part of hospitals, writes American Hospital Association President and CEO Rick Pollack.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 10, 2026 11:00am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/aco-reach-participants-generated-nearly-1b-2024-savings-cms\" hreflang=\"en\">ACO REACH participants generated nearly $1B in 2024 savings: CMS</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/aco-reach-participants-generated-nearly-1b-2024-savings-cms",
+        "summary": "Participants in the ACO REACH program generated nearly $1 billion in savings in 2024, according to new performance data from the Trump administration.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 10, 2026 11:48am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/feds-push-back-hipaa-security-rule-overhaul-july-2027\" hreflang=\"en\">Feds push back HIPAA security rule overhaul to July 2027</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/feds-push-back-hipaa-security-rule-overhaul-july-2027",
+        "summary": "The 125-page proposed update prompted fierce pushback from hospitals, health systems and other healthcare stakeholders who warned it would place substantial financial burdens on organizations.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 10, 2026 2:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/pearl-health-banks-110m-fresh-funding-build-out-ai-medicare-providers\" hreflang=\"en\">Pearl Health banks $110M in fresh funding to build out tech and AI for Medicare providers</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/pearl-health-banks-110m-fresh-funding-build-out-ai-medicare-providers",
+        "summary": "Health tech startup Pearl Health raised $110 million in a mix of debt and equity financing to build out its artificial intelligence platform for Medicare providers, including AI agents to handle administrative tasks.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 10, 2026 10:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-surgical-safety-technologies-rebrands-aimbient-uc-san-diego-launches\" hreflang=\"en\">Weekly Rundown: Surgical Safety Technologies rebrands to Aimbient; UC San Diego launches applied health intelligence institute</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-surgical-safety-technologies-rebrands-aimbient-uc-san-diego-launches",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 11:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Northwell Health names first Chief Biotechnology Officer; Collective Health announces new executive hire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/former-mayo-clinic-research-director-sues-system-over-alleged-retaliation\" hreflang=\"en\">Former Mayo Clinic research director sues system over alleged retaliation for raising AI practice concerns</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/former-mayo-clinic-research-director-sues-system-over-alleged-retaliation",
+        "summary": "The suit alleges Mayo Clinic violated the retaliation provision of the False Claims Act, Americans with Disabilities Act and Family and Medical Leave Act.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 4:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-omnicare-unit-agrees-440m-settlement-doj-ongoing-fraud-case\" hreflang=\"en\">CVS' Omnicare unit agrees to $440M settlement with DOJ in ongoing fraud case</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-omnicare-unit-agrees-440m-settlement-doj-ongoing-fraud-case",
+        "summary": "CVS Health and its embattled Omnicare unit have agreed to pay $440 million to the Department of Justice to satisfy a nearly $950 million judgment against the company as part of an ongoing fraud case.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 3:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/memorial-hermann-health-plan-winds-down-commercial-coverage\" hreflang=\"en\">Memorial Hermann Health Plan winds down commercial coverage</a>",
+        "url": "https://www.fiercehealthcare.com/payers/memorial-hermann-health-plan-winds-down-commercial-coverage",
+        "summary": "The southeast Texas system’s insurance subsidiary has informed brokers, employers and providers that it plans to wind down and close its employer-focused offerings.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 3:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hhs-calls-hospitals-sign-make-hospital-food-healthier-pledge\" hreflang=\"en\">HHS calls on hospitals to sign 'Make Hospital Food Healthier Pledge'</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hhs-calls-hospitals-sign-make-hospital-food-healthier-pledge",
+        "summary": "The administration is seeking voluntary commitments from hospitals to serve less processed foods in line with recently updated dietary guidelines, which officials said will boost chronic disease prevention and general long-term wellness.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 1:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/iks-health-acquire-trubridge-557m-deal\" hreflang=\"en\">IKS Health acquires TruBridge in $557M deal</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/iks-health-acquire-trubridge-557m-deal",
+        "summary": "The acquisition will combine IKS Health’s care enablement capabilities with TruBridge’s revenue cycle management and electronic health records solutions for rural and community hospitals. It is expected to support more than 2,000 healthcare organizations and more than 150,000 clinicians across the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Apr 28, 2026 11:34am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/founder-telehealth-startup-done-sentenced-six-years-prison-adderall-fraud-scheme\" hreflang=\"en\">Founder of telehealth startup Done sentenced to six years in prison for Adderall fraud scheme</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/founder-telehealth-startup-done-sentenced-six-years-prison-adderall-fraud-scheme",
+        "summary": "Ruthia He, the founder and former chief executive officer of telehealth startup Done Global, was sentenced to six years in prison on Tuesday and fined $1 million in connection with an Adderall fraud scheme.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 2:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-sees-phase-3-win-hansoh-partnered-adc-china-justifying-hype\" hreflang=\"en\">GSK sees phase 3 win for Hansoh-partnered ADC in China as validating its ‘priority asset’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-sees-phase-3-win-hansoh-partnered-adc-china-justifying-hype",
+        "summary": "Hansoh Pharmaceutical’s pair of much-hyped ADCs continue to justify partner GSK’s decision to make them priority programs.",
+        "source": "Fierce Biotech",
+        "published": "Jul 10, 2026 8:17am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-idorsia-locks-new-ceo-after-shakeup\" hreflang=\"en\">Chutes &amp; Ladders—Idorsia locks in new CEO after shakeup</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-idorsia-locks-new-ceo-after-shakeup",
+        "summary": "After Idorsia’s former chief, Srishti Gupta, M.D., left the company upon “mutual agreement” in March, the Swiss drugmaker has now tapped a new leader, Roland Wandeler, Ph.D. Wandeler will officially take over from interim CEO and board chairman Jean-Paul Clozel, M.D., come October 1.",
+        "source": "Fierce Biotech",
+        "published": "Jul 9, 2026 5:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bausch-lomb-gives-next-breakthrough-glaucoma-eye-drops-after-phase-2-fail\" hreflang=\"en\">Bausch + Lomb gives up on glaucoma eye drop hopeful after phase 2 fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bausch-lomb-gives-next-breakthrough-glaucoma-eye-drops-after-phase-2-fail",
+        "summary": "Bausch + Lomb has abandoned its next great hope in glaucoma after the eye drops flunked a phase 2 study.",
+        "source": "Fierce Biotech",
+        "published": "Jul 10, 2026 5:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: MindRank rakes in $52M to advance phase 3-stage oral GLP-1</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/arpa-h-awards-160m-scientists-developing-custom-genetic-medicines\" hreflang=\"en\">ARPA-H awards up to $160M to scientists developing custom genetic medicines</a>",
+        "url": "https://www.fiercebiotech.com/research/arpa-h-awards-160m-scientists-developing-custom-genetic-medicines",
+        "summary": "The Advanced Research Projects Agency for Health has awarded a new tranche of funds for companies and institutions developing personalized genetic medicines, with the recipient list dominated by high-profile players in the buzzy field.",
+        "source": "Fierce Biotech",
+        "published": "Jul 9, 2026 5:50pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-ends-2-huntingtons-disease-programs-including-ionis-partnered-tominersen\" hreflang=\"en\">Roche ends 2 Huntington’s disease programs, including Ionis-partnered tominersen</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-ends-2-huntingtons-disease-programs-including-ionis-partnered-tominersen",
+        "summary": "Roche has halted development on two of its Huntington’s disease prospects, marking another blow for a patient community that has long awaited new medicines.",
+        "source": "Fierce Biotech",
+        "published": "Jul 9, 2026 2:09pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/illumina-names-new-commercial-legal-chiefs-sequencing-business-shows-signs-stability\" hreflang=\"en\">Illumina names new commercial, legal chiefs as sequencing business shows signs of stability</a>",
+        "url": "https://www.fiercebiotech.com/medtech/illumina-names-new-commercial-legal-chiefs-sequencing-business-shows-signs-stability",
+        "summary": "Illumina has filled two key C-suite posts, naming Mike Sullivan as chief commercial officer and Julie Coletti as chief legal officer as the DNA sequencing giant works to keep its turnaround on track after years of regulatory, geopolitical and investor turbulence.",
+        "source": "Fierce Biotech",
+        "published": "Jul 9, 2026 12:09pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fates-shelf-car-t-cell-therapy-shows-early-promise-treatment-resistant-autoimmune-disease\" hreflang=\"en\">Fate’s off-the-shelf CAR-T therapy shows early promise in treatment-resistant autoimmune disease </a>",
+        "url": "https://www.fiercebiotech.com/biotech/fates-shelf-car-t-cell-therapy-shows-early-promise-treatment-resistant-autoimmune-disease",
+        "summary": "“We were not expecting to see clinical responses so early,” Vaneet Sandhu, M.D., rheumatologist and vice president of clinical development at Fate Therapeutics, told Fierce.",
+        "source": "Fierce Biotech",
+        "published": "Jul 9, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/unseen-impact-how-one-big-beautiful-bill-act-could-hamper-drug-development\" hreflang=\"en\">Why biotech revenue projections ‘won’t look as sunny’ once Trump tax bill hits Medicaid enrollment</a>",
+        "url": "https://www.fiercebiotech.com/biotech/unseen-impact-how-one-big-beautiful-bill-act-could-hamper-drug-development",
+        "summary": "Insurance coverage losses caused by the Trump administration's tax and spend law could make it harder for biotechs to secure funding and recruit patients for trials, experts have told Fierce.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 12:22pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-cuts-losses-700m-upfront-alzheimers-collab-alector-following-two-clinical-failures\" hreflang=\"en\">GSK cuts losses on $700M upfront Alzheimer’s collab with Alector following 2 clinical failures</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-cuts-losses-700m-upfront-alzheimers-collab-alector-following-two-clinical-failures",
+        "summary": "GSK has walked away from a $2.2 billion biobucks neurodegenerative disease pact with Alector that has seen both “next generation” drugs involved flunk clinical trials.",
+        "source": "Fierce Biotech",
+        "published": "Jul 9, 2026 2:50am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-halts-release-new-drug-rejection-letters-while-working-formalize-policy\" hreflang=\"en\">FDA halts release of new drug rejection letters while working to formalize policy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-halts-release-new-drug-rejection-letters-while-working-formalize-policy",
+        "summary": "The FDA has paused a controversial policy of releasing letters describing its rationale for rejecting drugs, Fierce Biotech has learned, following a citizen’s petition from an unnamed pharma company in April.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 1:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/prime-wins-patent-fight-beam-can-continue-work-aatd-gene-editing-therapy\" hreflang=\"en\">Prime wins patent fight with Beam to continue work on AATD gene editing therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/prime-wins-patent-fight-beam-can-continue-work-aatd-gene-editing-therapy",
+        "summary": "Prime Medicine has come out ahead in its patent dispute with fellow gene-editing biotech Beam Therapeutics, after a panel of adjudicators ruled that the company did not violate its agreement with Beam and can continue developing its lead asset for alpha-1 antitrypsin deficiency.",
+        "source": "Fierce Biotech",
+        "published": "Jul 8, 2026 11:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "单日暴跌40%，「AGI第一股」要回答的不只是股价问题",
+        "url": "https://www.36kr.com/p/3889597431495433",
+        "summary": "港股AI题材次新股样本",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 10 Jul 2026 11:32:11 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "很突然，一家60亿的基金，要被清盘了",
+        "url": "https://www.36kr.com/p/3889746500287238",
+        "summary": "美国CVC退场，中国CVC狂卷硬科技。",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 10 Jul 2026 11:49:35 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+        "url": "https://huggingface.co/papers/2607.08716",
+        "summary": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the rec",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-08T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+        "url": "https://huggingface.co/papers/2607.08404",
+        "summary": "Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease context on target behavior and therapeutic outcomes. To address this gap, we introduce DrugGen-2, a novel generative model that designs small molecules conditioned on both disease ontology and target protein sequences. DrugGen-2 was developed by fine-tuning a pre-trained GPT-2 model on a curated dataset of approved drugs linked to their diseases and targets, using a two-step strategy of supervised fin",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-08T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+        "url": "https://huggingface.co/papers/2601.16211",
+        "summary": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models predict verbs via object-driven shortcuts (i.e., relying on the labeled object class) rather than temporal evidence. We argue that sparse compositional supervision and verb-object learning asymmetry can promote object-driven shortcut learning. Our analysis with proposed diagnostic metrics shows that existing methods overfit to training co-occurrence patterns and underuse temporal verb cues, resulti",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
+        "url": "https://huggingface.co/papers/2603.29616",
+        "summary": "The inherent complexity of video understanding makes it difficult to determine whether Video-LLM benchmark performance stems from visual perception, linguistic reasoning, or knowledge priors. While many benchmarks have emerged to assess high-level reasoning, shared criteria for evaluating video understanding remain largely overlooked. Instead of introducing yet another benchmark, we take a step back to re-examine the criteria for evaluating video understanding. In this work, we introduce Video-Oasis, a sustainable diagnostic suite for systematically auditing existing video understanding benchm",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
+        "url": "https://huggingface.co/papers/2607.06238",
+        "summary": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-resolution target. This overlooks a key property of MRI acquisition physics: spatial resolution and signal-to-noise ratio (SNR) are inherently coupled, making any given low-resolution scan merely one of many possible realizations under varying acquisition trade-offs. We rethink MRI super-resolution as a physics-aware reconstruction problem, in which the goal is to identify the optimal resolution-SNR c",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+        "url": "https://huggingface.co/papers/2607.08758",
+        "summary": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal, typed, evidence-grounded Idea Genome objects, and a GenomeDiff aligns these objects to record inher",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-08T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Token-Based Dual-view Fusion and Adaptation of Large Vision Models for Breast Cancer Classification",
+        "url": "https://huggingface.co/papers/2607.06309",
+        "summary": "Accurate breast cancer classification from mammography requires effective integration of complementary information from craniocaudal (CC) and mediolateral oblique (MLO) views, which provide a more complete characterization of breast abnormalities. However, existing multi-view learning approaches typically rely on feature-level aggregation or single-stage cross-attention, which can entangle view-specific and shared representations and restrict interaction to limited network depths. To address these limitations, we propose a token-centric dual-view learning framework that unifies prompt-based ad",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure",
+        "url": "https://huggingface.co/papers/2607.05966",
+        "summary": "Long-horizon failure in world models is conventionally attributed to compounding error, a generic framing that does not distinguish what kind of error compounds. We propose a kinematic-vs-dynamic reframing: world models tend to imagine kinematically rather than dynamically. We operationalize this as the imagined Kinematic-Consistency Error, a per-step diagnostic that measures how far a rollout departs from a closed-form kinematic null, paired with a perturbation protocol that tests whether iKCE responds when physical conditions cross a regime boundary. We instantiate the diagnostic on a releas",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review",
+        "url": "https://huggingface.co/papers/2607.06065",
+        "summary": "Coding agents increasingly generate pull requests (PRs) for real-world software issues, yet one-shot PR generation remains open-loop: the PR is proposed without systematic review, diagnosis, or revision. We introduce SWE-Review, a framework for closing this loop with agentic code review. Given an issue and an AI-generated PR, a reviewer agent explores the repository, decides whether the PR should be accepted, and provides structured feedback for revision. We evaluate this setting with our proposed SWE-Review-Bench to measure both review correctness and downstream revision usefulness. We furthe",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-06T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

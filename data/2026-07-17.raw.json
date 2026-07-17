@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T11:55:46.820230+08:00",
+  "counts": {
+    "news": 43,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
+        "url": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/",
+        "summary": "Turmoil at the ADA has taken a fresh turn, with leaders blocking editors at its flagship journal from publishing pieces detailing a controversy at the group’s annual meeting.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 21:38:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Predicting biotech clinical trials and a new Alzheimer’s drug controversy",
+        "url": "https://www.statnews.com/2026/07/16/readout-loud-podcast-predicting-clinical-trials-biogen-alzheimers-tau/",
+        "summary": "This week on \"The Readout LOUD\" podcast: a new Alzheimer's drug controversy and prediction markets for clinical trials and FDA drug reviews. Listen now.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 20:06:43 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: GOP blocks effort to end Medicare test of AI prior authorization",
+        "url": "https://www.statnews.com/2026/07/16/medicare-ai-prior-authorization-pilot-wiser-senate-vote/",
+        "summary": "The Trump administration is testing the use of AI in Medicare to approve some medical services.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 18:53:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Despite earnings celebration, UnitedHealth signals more financial pain for employers",
+        "url": "https://www.statnews.com/2026/07/16/unitedhealth-employer-insurance-costs-medical-spending/",
+        "summary": "Insurance giant UnitedHealth signals the cost of providing workers with health insurance will climb even higher.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 17:34:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Pete Hegseth’s announcement of annual testosterone screenings for service members divides medical experts",
+        "url": "https://www.statnews.com/2026/07/16/hegseth-testosterone-testing-proposal-reactions-range-promising-crazy/",
+        "summary": "Medical experts are divided on Defense Secretary Pete Hegseth’s announcement that U.S. service members will undergo annual testosterone screenings.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 17:20:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "WHO: Uganda is silent on updates following disclosure of Marburg outbreak",
+        "url": "https://www.statnews.com/2026/07/16/world-health-organization-wants-marburg-virus-update-from-uganda/",
+        "summary": "The government of Uganda has gone quiet on an outbreak of the deadly Marburg virus that it reported late last month, the WHO acknowledged.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 16:22:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Brain implant restores the sensation of touch in a person with quadriplegia",
+        "url": "https://www.statnews.com/2026/07/16/brain-computer-interface-implant-restores-sensation-double-neural-bypass/",
+        "summary": "A brain-computer interface helped restore movement and sensation in a 48-year old man with quadriplegia, researchers say.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Medicare wants to shake up how it pays for clinical AI",
+        "url": "https://www.statnews.com/2026/07/16/medicare-shake-clinical-ai-rpm-payments-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Centers for Medicare and Medicaid Services proposes major changes to RPM, clinical AI payment models.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 14:48:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Kalshi bets on clinical trials, a Merck cholesterol pill, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/16/kalshi-bets-on-clinical-trials-merck-cholesterol-pill/",
+        "summary": "Kalshi, one of the world’s largest prediction market exchanges, plans to take bets on clinical trials and regulatory approvals",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 13:14:44 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA approves Merck’s oral PCSK9 drug, a first",
+        "url": "https://www.statnews.com/2026/07/16/biotech-news-fda-approves-merck-oral-pcsk9-drug-in-a-first/",
+        "summary": "Kalshi allows bets on clinical trial outcomes, Eli Lilly buys a psychedelic medicine, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 13:04:36 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Kalshi comes for biopharma, with prediction markets for clinical trials and FDA approvals",
+        "url": "https://www.statnews.com/2026/07/16/kalshi-new-offering-prediction-market-clinical-trials-fda-approvals/",
+        "summary": "Prediction markets have permeated the worlds of sports, politics, and reality television shows. Now, the biopharma industry could be next.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 12:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Eli Lilly to acquire psychedelics-focused biotech AtaiBeckley",
+        "url": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/",
+        "summary": "Eli Lilly is buying the psychedelics-focused biotech AtaiBeckley for $2.8 billion upfront, a move that will expand its neuroscience pipeline.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 11:28:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Spring forward forever? Another daylight saving debate arrives in Congress",
+        "url": "https://www.statnews.com/2026/07/16/health-news-another-daylight-savings-debate-arrives-in-congress/",
+        "summary": "Trump's pandemic preparedness nominee testifies, the \"fang-to-pharmacy\" pipeline, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 11:09:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Amylyx nears pivotal endocrine drug study readout",
+        "url": "https://www.statnews.com/2026/07/16/amylyx-bph-avexitide-biogen-diranersen-agios/",
+        "summary": "Amylyx Pharmaceuticals will soon read out results from a study evaluating a new treatment for a rare endocrine disorder, a pivotal moment for patients and the company.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: CMS signals intent to revamp how it pays for clinical software and AI",
+        "url": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/",
+        "summary": "CMS wants to build a standardized payment structure for clinical software and AI that factors in their impact on patient outcomes.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/medicare-proposes-stricter-requirements-remote-monitoring-services-limiting-use-third\" hreflang=\"en\">CMS proposal to block third-party vendors will upend remote monitoring services, health tech leaders say</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/medicare-proposes-stricter-requirements-remote-monitoring-services-limiting-use-third",
+        "summary": "Tucked inside a Medicare physician pay draft rule released this week, federal regulators proposed major changes to remote patient monitoring payment policies that experts say will significantly disrupt providers' RPM programs.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 2:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ge-healthcare-catholic-health-strike-10-year-500m-technology-partnership\" hreflang=\"en\">GE HealthCare, Catholic Health strike 10-year, $500M technology partnership</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ge-healthcare-catholic-health-strike-10-year-500m-technology-partnership",
+        "summary": "The deal is slated to add more than 1,300 new pieces of technology across Catholic Health's 40 hospital and outpatient sites, with additional operational support and access to digital tools.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/thriveworks-launches-dashboard-insights-referring-providers\" hreflang=\"en\">Thriveworks launches insight dashboard for referring providers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/thriveworks-launches-dashboard-insights-referring-providers",
+        "summary": "When a provider refers a patient to Thriveworks, they will be able to sign on to a dashboard to see crucial data, like whether they successfully connected to care, clinical progress and new medications.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Vanderbilt Health names David Miller as next CEO; PCMA expands public affairs team</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-outlook-it-posts-55b-q2-profit\" hreflang=\"en\">UnitedHealth Group to maintain 'restless' even after topping investor's Q2 expectations, CEO says</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-outlook-it-posts-55b-q2-profit",
+        "summary": "UnitedHealth Group boosted its outlook for the year on the back of $5.5 billion in profit for the second quarter.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 7:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-launches-implementation-initiative-public-health\" hreflang=\"en\">Coalition for Health AI launches implementation initiative for public health agencies </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-launches-implementation-initiative-public-health",
+        "summary": "Applications for the effort are now open through Aug. 6, and participants will be selected by CHAI’s leadership council.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 10:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/west-tennessee-healthcare-expands-critical-care-support-through-eicu-program-partnership\" hreflang=\"en\">West Tennessee Healthcare expands critical care support through eICU Program in partnership with Philips and hellocare.ai</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/west-tennessee-healthcare-expands-critical-care-support-through-eicu-program-partnership",
+        "summary": "Jackson, TN - West Tennessee Healthcare is continuing to strengthen critical care services across the region through the expansion of its systemwide eICU program powered by Philips eCareManager and integrated with the hellocare.ai virtual care platform.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 3:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/senate-help-committee-grills-cdc-nominee-erica-schwartz-vaccine-policy-restoring-trust\" hreflang=\"en\">Senate HELP committee grills CDC nominee Erica Schwartz on vaccine policy, resistance to political interference</a>",
+        "url": "https://www.fiercehealthcare.com/providers/senate-help-committee-grills-cdc-nominee-erica-schwartz-vaccine-policy-restoring-trust",
+        "summary": "Erica Schwartz, M.D., the latest nominee to lead the beleaguered CDC, told lawmakers on Wednesday that she was committed to scientific integrity and transparency to restore trust in the country's top public health agency.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 5:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/american-medical-associations-handling-cpt-codes-enters-congress-crosshairs\" hreflang=\"en\">CMS seeks public feedback on 'AMA's monopoly' over CPT codes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/american-medical-associations-handling-cpt-codes-enters-congress-crosshairs",
+        "summary": "The agency joins prominent Republican lawmakers in scrutinizing the government's decades-long reliance on the physician association's proprietary coding system, and said it believes a divorce would not run afoul of statute.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2025 12:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/bipartisan-house-bill-tying-doc-pay-inflation-earns-resounding-applause-providers\" hreflang=\"en\">Bipartisan House bill tying doc pay to inflation earns resounding applause from providers </a>",
+        "url": "https://www.fiercehealthcare.com/providers/bipartisan-house-bill-tying-doc-pay-inflation-earns-resounding-applause-providers",
+        "summary": "Less than a day after a draft rule outlining reimbursement cuts for 2027, heads of the GOP and Democratic Doctors Caucuses introduced a sweeping physician pay overhaul featuring wish list items from primary care capitated payments to mandatory model changes.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/lark-health-samsung-team-ai-powered-health-coach-us-seniors\" hreflang=\"en\">Lark Health, Samsung team up on AI-powered health coach for U.S. seniors</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/lark-health-samsung-team-ai-powered-health-coach-us-seniors",
+        "summary": "Eligible seniors will be able to use one or more of Lark’s 12 chronic disease management and prevention programs with no out-of-pocket costs through Samsung Health.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 12:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/retail/amazon-pharmacy-partners-enavvi-provide-real-time-medication-pricing-delivery-info-providers\" hreflang=\"en\">Amazon Pharmacy partners with eNavvi to provide real-time medication pricing, delivery info to providers</a>",
+        "url": "https://www.fiercehealthcare.com/retail/amazon-pharmacy-partners-enavvi-provide-real-time-medication-pricing-delivery-info-providers",
+        "summary": "The partnership allows providers to see current pricing and stock for prescriptions, including cash pricing versus estimated insurance copays, and delivery estimates.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 10:38am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development\" hreflang=\"en\">Understanding Agentic AI in Clinical Development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development",
+        "summary": "Earlier this year, my colleague Matt Harrington suggested that clinical leaders should stop asking whether their organizations have an “AI strategy”, not because strategy doesn’t matter, but because the question often produces the wrong conversation.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 3:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takedas-zasocitinib-proves-top-notch-difficult-treat-psoriasis-phase-3-update\" hreflang=\"en\">Takeda’s zasocitinib proves ‘top-notch’ for difficult-to-treat psoriasis in phase 3 update</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takedas-zasocitinib-proves-top-notch-difficult-treat-psoriasis-phase-3-update",
+        "summary": "Takeda has unveiled more data from its phase 3 trials of zasocitinib, demonstrating that the once-daily pill was able to clear or almost clear scalp psoriasis in 75% of patients.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 10:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/nobel-laureate-jennifer-doudna-enters-ai-protein-design-arena\" hreflang=\"en\">Nobel Laureate Jennifer Doudna enters AI protein design arena</a>",
+        "url": "https://www.fiercebiotech.com/research/nobel-laureate-jennifer-doudna-enters-ai-protein-design-arena",
+        "summary": "Jennifer Doudna, Ph.D., the Nobel Laureate best known for co-inventing the CRISPR system that has become the foundation for gene-editing, is dipping her toes into a new, buzzy field: AI-powered protein design.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 3:32pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/axioms-wharton-jelly-stem-cell-therapy-posts-positive-phase-1-data-newborn-brain-injury\" hreflang=\"en\">Why Axiom hopes it’s ‘solved 2 major potholes’ that have hurt other stem cell biotechs</a>",
+        "url": "https://www.fiercebiotech.com/research/axioms-wharton-jelly-stem-cell-therapy-posts-positive-phase-1-data-newborn-brain-injury",
+        "summary": "When Axiom's stem cell therapy demonstrated a 0% mortality rate over two years in potentially fatal newborn neurological diseases this week, the biotech's leadership saw a broader validation for their approach to targeting the brain.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 9:46am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial\" hreflang=\"en\">Racing Takeda, InnoCare reports TYK2 inhibitor win in phase 2 vitiligo trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial",
+        "summary": "A phase 2 trial of InnoCare Pharma’s TYK2 inhibitor soficitinib in nonsegmental vitiligo has hit its primary endpoint, clearing the Chinese biotech to advance into the phase 3 part of the study.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 9:38am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-inks-28b-ataibeckley-buyout-challenge-jj-psychedelic-mental-health-market\" hreflang=\"en\">Lilly buys AtaiBeckley for $2.8B upfront to challenge J&amp;J for psychedelic mental health market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-28b-ataibeckley-buyout-challenge-jj-psychedelic-mental-health-market",
+        "summary": "Eli Lilly has struck a deal to buy AtaiBeckley for $2.8 billion upfront, continuing its takeover spree to move into a psychedelic mental health sector targeted by companies including Johnson &amp; Johnson.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 7:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vogenx-joins-ipo-queue-fund-phase-2-stage-metabolic-drug\" hreflang=\"en\">Vogenx joins the IPO queue to fund phase 2-stage metabolic drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vogenx-joins-ipo-queue-fund-phase-2-stage-metabolic-drug",
+        "summary": "Vogenx has joined the growing queue for the Nasdaq, as the metabolic biotech eyes an IPO to fund its SGLT1 inhibitor.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 5:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/braveheart-aims-freedom-ipo-support-hengrui-licensed-cardio-asset\" hreflang=\"en\">Braveheart aims for freedom with IPO to support Hengrui-licensed cardio asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/braveheart-aims-freedom-ipo-support-hengrui-licensed-cardio-asset",
+        "summary": "It appears Braveheart Bio isn’t going to let Big Pharma take its freedom anytime soon, as the company is aiming for a Nasdaq listing to move its phase 3 cardiovascular drug forward.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 1:43pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/advancell-flush-315m-raise-ready-put-radiotherapy-pedal-metal\" hreflang=\"en\">Big Pharma-backed AdvanCell, flush with $315M series D, ready to put radiotherapy pedal to the metal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/advancell-flush-315m-raise-ready-put-radiotherapy-pedal-metal",
+        "summary": "Less than a month after locking down a lease for a new U.S. headquarters, radiotherapy outfit AdvanCell is poised to push its lead prostate cancer candidate into phase 3 development with the help of a $315 million series D.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 10:52am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-axes-eye-disease-gene-therapy-after-key-phase-2b-readout\" hreflang=\"en\">J&amp;J axes eye disease gene therapy after key phase 2b readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jj-axes-eye-disease-gene-therapy-after-key-phase-2b-readout",
+        "summary": "Johnson &amp; Johnson has stopped development of an eye disease gene therapy after reviewing data from one of its key readouts for 2026.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 10:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/jj-medtech-sales-trajectory-continues-ease-q2-abiomed-drags-sales\" hreflang=\"en\">J&amp;J MedTech growth slows again in Q2 as Abiomed weighs on results</a>",
+        "url": "https://www.fiercebiotech.com/medtech/jj-medtech-sales-trajectory-continues-ease-q2-abiomed-drags-sales",
+        "summary": "Johnson &amp; Johnson’s MedTech business posted operational sales growth of 3.6% in the second quarter, reaching $8.93 billion, as weaker Abiomed sales weighed on the unit’s performance.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 8:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-recalls-catheter-delivery-system-may-detach-and-cause-death\" hreflang=\"en\">Medtronic recalls catheter delivery system that may detach and cause death </a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-recalls-catheter-delivery-system-may-detach-and-cause-death",
+        "summary": "Medtronic issued a voluntary recall of 102 lots of its Harmony delivery catheter system due to a risk that their tips may detach, which could result in serious injury or death.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 8:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "大厂医疗AI战，开始“卷”减重",
+        "url": "https://www.36kr.com/p/3896639942592134",
+        "summary": "低频医疗场景，能否靠高频运营留住用户。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 16 Jul 2026 02:21:30 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "2026年家居行业转型：减掉“脂肪”留下“肌肉”",
+        "url": "https://www.36kr.com/p/3899080086193540",
+        "summary": "集中力量",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 17 Jul 2026 03:25:00 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "手术室烟雾与腹腔压力管理专家：精准手术好辅助 常州衡合天使融资计划",
+        "url": "https://www.36kr.com/p/3898163740067463",
+        "summary": "衡合医疗研发新型气腹机，融资推进国产替代抢占市场",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 17 Jul 2026 02:34:10 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "欧洲创业风向变了，AI、机器人和工业科技成为新风口",
+        "url": "https://www.36kr.com/p/3863794419356928",
+        "summary": "欧洲不缺创意，真正稀缺的是把技术从试点推向规模化销售的能力。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 16 Jul 2026 07:12:09 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
+        "url": "https://huggingface.co/papers/2607.13399",
+        "summary": "On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regulations of OPD. We first clarify the role of OPD as an exploration catalyst: it steers the student toward correct reasoning paths via dense token-level guidance, without expanding capability ceiling. We confirm this by showing that prompt diversity matters more than per-problem sampling numbers, and critically, that the effectiveness of OPD hinges entirely on the quality of its guiding signal. Thi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-14T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+        "url": "https://huggingface.co/papers/2607.07702",
+        "summary": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally imp",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-07T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering",
+        "url": "https://huggingface.co/papers/2603.28583",
+        "summary": "Despite the success of Vision-Language Models (VLMs), misleading charts remain a significant challenge due to their deceptive visual structures and distorted data representations. We present ChartCynics, an agentic dual-path framework designed to unmask visual deception via a \"skeptical\" reasoning paradigm. Unlike holistic models, ChartCynics decouples perception from verification: a Diagnostic Vision Path captures structural anomalies (e.g., inverted axes) through strategic ROI cropping, while an OCR-Driven Data Path ensures numerical grounding. To resolve cross-modal conflicts, we introduce ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Towards Autonomous and Auditable Medical Imaging Model Development",
+        "url": "https://huggingface.co/papers/2607.10522",
+        "summary": "Large language model (LLM) agents are beginning to automate machine learning engineering (MLE) by coupling planning, code execution, debugging, and empirical feedback. Translating this capability to medical imaging remains difficult because each task imposes modality-specific experimentation and strict requirements for validation protocols and prediction artifacts. Here we introduce AMID, an autonomous multi-agent framework for medical imaging model development. AMID first proposes Data-Conditioned Method Planning, which refines coarse task-level search spaces into executable, parallelizable m",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-11T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

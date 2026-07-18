@@ -1,0 +1,374 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T11:49:59.449509+08:00",
+  "counts": {
+    "news": 43,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Opinion: What the 20th-century war on smog tells us about today’s wildfire smoke",
+        "url": "https://www.statnews.com/2026/07/17/wildfire-smoke-air-quality-smog-policy-climate-change/",
+        "summary": "The evolution of air pollution policy shows how to respond to the dangerous haze caused by Canadian wildfires, experts write in opinion piece.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 20:48:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
+        "url": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/",
+        "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 16:05:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Lettuce at Taco Bell in five states confirmed as a source of diarrhea-causing parasite",
+        "url": "https://www.statnews.com/2026/07/17/cyclosporiasis-outbreak-traced-taylor-farms-lettuce-taco-bell/",
+        "summary": "Health officials have identified lettuce from Mexico served at Taco Bell locations across five U.S. states as a source of the outbreak of diarrhea-causing parasite cyclospora.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 14:52:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The end for GSK’s chronic cough treatment",
+        "url": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/",
+        "summary": "Sonothera's ultrasound gene therapy delivery, a new Alzheimer's drug controversy, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 14:40:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/07/17/up-down-ladder-jobs-comings-goings/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 13:04:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about rising drug shortages, GSK coughing up a trial loss, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/17/rising-drug-shortages-gsk-abandons-chronic-cough-medication/",
+        "summary": "The number of active medication shortages in the U.S. rose to 227 in the second quarter of 2026",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 13:02:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Who can access testosterone hormone medication in the U.S.?",
+        "url": "https://www.statnews.com/2026/07/17/health-news-who-can-access-testosterone-hormone-therapy-in-us/",
+        "summary": "Wildfire smoke health hazards, a new idea for treating Duchenne, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 11:53:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why affirming trans identities can be critical for suicide prevention counseling",
+        "url": "https://www.statnews.com/2026/07/17/trevor-project-suicide-prevention-counseling-for-trans-youth/",
+        "summary": "Advocates worry that excluding trans youth in some way from LGBTQ+ counseling services provided through the 988 crisis line could be harmful.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: MDCalc is scoring the clinical calculators used by millions of doctors",
+        "url": "https://www.statnews.com/2026/07/17/mdcalc-quality-ratings-clinical-algorithms-for-bias-validity/",
+        "summary": "MDCalc is launching a quality-rating system for the more than 800 clinical calculators used to assess disease risk, transplant eligibility, and more.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: MAHA is rewriting the vocabulary of American mental health care",
+        "url": "https://www.statnews.com/2026/07/17/maha-mental-health-care-vocabulary-rhetoric-wellness/",
+        "summary": "“‘Deprescribing’ elevated into a movement, and a cultural default, is a clinical hazard,” writes Sunny Patel.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Can ultrasound unlock the power of gene therapy? A startup makes big claims",
+        "url": "https://www.statnews.com/2026/07/17/sonathera-ultrasound-duchenne-muscular-dystrophy-treatment/",
+        "summary": "Sonothera is developing a new way to deliver genes into cells that, if borne out, could have a big impact on muscular dystrophy and other diseases.",
+        "source": "STAT News",
+        "published": "Fri, 17 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
+        "url": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/",
+        "summary": "Turmoil at the ADA has taken a fresh turn, with leaders blocking editors at its flagship journal from publishing pieces detailing a controversy at the group’s annual meeting.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 21:38:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Predicting biotech clinical trials and a new Alzheimer’s drug controversy",
+        "url": "https://www.statnews.com/2026/07/16/readout-loud-podcast-predicting-clinical-trials-biogen-alzheimers-tau/",
+        "summary": "This week on \"The Readout LOUD\" podcast: a new Alzheimer's drug controversy and prediction markets for clinical trials and FDA drug reviews. Listen now.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 20:06:43 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: GOP blocks effort to end Medicare test of AI prior authorization",
+        "url": "https://www.statnews.com/2026/07/16/medicare-ai-prior-authorization-pilot-wiser-senate-vote/",
+        "summary": "The Trump administration is testing the use of AI in Medicare to approve some medical services.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 18:53:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Despite earnings celebration, UnitedHealth signals more financial pain for employers",
+        "url": "https://www.statnews.com/2026/07/16/unitedhealth-employer-insurance-costs-medical-spending/",
+        "summary": "Insurance giant UnitedHealth signals the cost of providing workers with health insurance will climb even higher.",
+        "source": "STAT News",
+        "published": "Thu, 16 Jul 2026 17:34:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-exec-says-ineffective-no-surprises-act-idr-process-demands-reform\" hreflang=\"en\">UnitedHealthcare exec says 'ineffective' No Surprises Act IDR process demands reform</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-exec-says-ineffective-no-surprises-act-idr-process-demands-reform",
+        "summary": "Industry giant UnitedHealthcare is adding its voice to the chorus of insurers criticizing the current state of the No Surprises Act's independent dispute resolution process.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 17, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-novant-health-rolls-out-new-virtual-primary-care-model-gw-rhythmx-hits\" hreflang=\"en\">Weekly Rundown: Novant Health rolls out new virtual primary care model; GW RhythmX launches Pulse on Microsoft Marketplace</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-novant-health-rolls-out-new-virtual-primary-care-model-gw-rhythmx-hits",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 1:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/legislators-introduce-resolution-seek-congressional-disapproval-cms-wiser-ai-prior-auth\" hreflang=\"en\">Senate strikes down Dems move to overturn CMS’ WISeR AI prior auth pilot</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/legislators-introduce-resolution-seek-congressional-disapproval-cms-wiser-ai-prior-auth",
+        "summary": "Democratic lawmakers in the Senate and House of Representatives introduced resolutions back in May to stop the WISeR model that introduces AI-driven prior authorization to traditional Medicare.",
+        "source": "Fierce Healthcare",
+        "published": "May 20, 2026 3:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/coalition-organizations-file-lawsuit-against-trump-administration-over-teen-pregnancy\" hreflang=\"en\">Coalition files lawsuit against Trump administration over Teen Pregnancy Prevention Program funding cuts</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/coalition-organizations-file-lawsuit-against-trump-administration-over-teen-pregnancy",
+        "summary": "The lawsuit comes after two new Notice of Funding Opportunities were issued—and then revoked—imposing new criteria for funding awards for the program.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 17, 2026 10:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/federal-judge-blocks-provisions-upcoming-aca-marketplace-changes\" hreflang=\"en\">Federal judge temporarily blocks key provisions of final ACA exchange rule days before set to take effect</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/federal-judge-blocks-provisions-upcoming-aca-marketplace-changes",
+        "summary": "The lawsuit was filed in June by a group of municipalities—including Columbus, Ohio and Chicago—and two provider groups.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 17, 2026 11:50am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/medicare-proposes-stricter-requirements-remote-monitoring-services-limiting-use-third\" hreflang=\"en\">CMS proposal to block third-party vendors will upend remote monitoring services, health tech leaders say</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/medicare-proposes-stricter-requirements-remote-monitoring-services-limiting-use-third",
+        "summary": "Tucked inside a Medicare physician pay draft rule released this week, federal regulators proposed major changes to remote patient monitoring payment policies that experts say will significantly disrupt providers' RPM programs.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 2:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ge-healthcare-catholic-health-strike-10-year-500m-technology-partnership\" hreflang=\"en\">GE HealthCare, Catholic Health strike 10-year, $500M technology partnership</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ge-healthcare-catholic-health-strike-10-year-500m-technology-partnership",
+        "summary": "The deal is slated to add more than 1,300 new pieces of technology across Catholic Health's 40 hospital and outpatient sites, with additional operational support and access to digital tools.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/thriveworks-launches-dashboard-insights-referring-providers\" hreflang=\"en\">Thriveworks launches insight dashboard for referring providers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/thriveworks-launches-dashboard-insights-referring-providers",
+        "summary": "When a provider refers a patient to Thriveworks, they will be able to sign on to a dashboard to see crucial data, like whether they successfully connected to care, clinical progress and new medications.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Vanderbilt Health names David Miller as next CEO; PCMA expands public affairs team</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-launches-implementation-initiative-public-health\" hreflang=\"en\">Coalition for Health AI launches implementation initiative for public health agencies </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-launches-implementation-initiative-public-health",
+        "summary": "Applications for the effort are now open through Aug. 6, and participants will be selected by CHAI’s leadership council.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 10:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-outlook-it-posts-55b-q2-profit\" hreflang=\"en\">UnitedHealth Group to stay 'restless' even after topping investor's Q2 expectations, CEO says</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-boosts-outlook-it-posts-55b-q2-profit",
+        "summary": "UnitedHealth Group boosted its outlook for the year on the back of $5.5 billion in profit for the second quarter.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 16, 2026 7:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/west-tennessee-healthcare-expands-critical-care-support-through-eicu-program-partnership\" hreflang=\"en\">West Tennessee Healthcare expands critical care support through eICU Program in partnership with Philips and hellocare.ai</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/west-tennessee-healthcare-expands-critical-care-support-through-eicu-program-partnership",
+        "summary": "Jackson, TN - West Tennessee Healthcare is continuing to strengthen critical care services across the region through the expansion of its systemwide eICU program powered by Philips eCareManager and integrated with the hellocare.ai virtual care platform.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 3:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development\" hreflang=\"en\">Understanding Agentic AI in Clinical Development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development",
+        "summary": "Earlier this year, my colleague Matt Harrington suggested that clinical leaders should stop asking whether their organizations have an “AI strategy”, not because strategy doesn’t matter, but because the question often produces the wrong conversation.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 3:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/blossomhill-eyes-ipo-fertilizer-grow-taller-crowded-cancer-fields\" hreflang=\"en\">BlossomHill eyes IPO as fertilizer to grow taller in crowded cancer fields</a>",
+        "url": "https://www.fiercebiotech.com/biotech/blossomhill-eyes-ipo-fertilizer-grow-taller-crowded-cancer-fields",
+        "summary": "Another biotech is squeezing into the crowded IPO waiting room just in time for the weekend. BlossomHill Therapeutics, a San Diego-based oncology outfit focused on small molecules, has filed paperwork with the Securities and Exchange Commission to publicly offer stock for the first time.",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 12:10pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-search-strategic-alternatives-jasper-finds-new-life-and-public-markets-kira-merger\" hreflang=\"en\">Jasper finds new purpose in merger with Kira, while offloading Tavneos rival to Mirador</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-search-strategic-alternatives-jasper-finds-new-life-and-public-markets-kira-merger",
+        "summary": "Jasper Therapeutics is being reborn via a merger with Nasdaq-listed immune-mediated disease biotech Kira Pharmaceuticals.",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 9:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/5-emerging-biotech-hubs\" hreflang=\"en\">5 emerging biotech hubs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/5-emerging-biotech-hubs",
+        "summary": "Boston. San Francisco. Beijing? The global biotech industry has long been concentrated in a handful of cities. But which emerging hubs could become dominant forces in biotech in the decades ahead?",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-cue-lines-new-cmo-and-research-head\" hreflang=\"en\">Chutes &amp; Ladders—Cue lines up new CMO and research head</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-cue-lines-new-cmo-and-research-head",
+        "summary": "Cue Biopharma is tapping in a new chief medical officer and head of R&amp;D in Dominic Borie, M.D., Ph.D., a physician-scientist with over two decades of industry experience.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 3:58pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-2q-led-strong-devicedx-sales-boosts-26-profit-forecast\" hreflang=\"en\">Abbott Q2 led by strong device, diagnostic sales as it boosts profit forecast</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-2q-led-strong-devicedx-sales-boosts-26-profit-forecast",
+        "summary": "Abbott turned in a stronger-than-expected second quarter, allaying market concerns that subsidy cuts to the Affordable Care Act by the Trump administration would hurt medtech firms.",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 8:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-axes-key-cough-drug-candidate-after-phase-3-data-disappoint\" hreflang=\"en\">GSK axes key cough drug candidate after phase 3 data end blockbuster hopes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-axes-key-cough-drug-candidate-after-phase-3-data-disappoint",
+        "summary": "GSK has ended development of camlipixant in chronic cough after delivering mixed phase 3 data, dealing a major blow to a potential blockbuster that analysts saw as the key 2026 catalyst for the drugmaker.",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 5:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront\" hreflang=\"en\">Dimerix snaps up Mission’s stalled, phase 2-ready kidney disease candidate in $292M deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront",
+        "summary": "Dimerix has bought an acute kidney injury drug from Mission Therapeutics, paying $5 million upfront and committing up to $287 million in milestones for the phase 2-ready asset.",
+        "source": "Fierce Biotech",
+        "published": "Jul 17, 2026 4:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takedas-zasocitinib-proves-top-notch-difficult-treat-psoriasis-phase-3-update\" hreflang=\"en\">Takeda’s zasocitinib proves ‘top-notch’ for difficult-to-treat psoriasis in phase 3 update</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takedas-zasocitinib-proves-top-notch-difficult-treat-psoriasis-phase-3-update",
+        "summary": "Takeda has unveiled more data from its phase 3 trials of zasocitinib, demonstrating that the once-daily pill was able to clear or almost clear scalp psoriasis in 75% of patients.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 10:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/nobel-laureate-jennifer-doudna-enters-ai-protein-design-arena\" hreflang=\"en\">Nobel Laureate Jennifer Doudna enters AI protein design arena</a>",
+        "url": "https://www.fiercebiotech.com/research/nobel-laureate-jennifer-doudna-enters-ai-protein-design-arena",
+        "summary": "Jennifer Doudna, Ph.D., the Nobel Laureate best known for co-inventing the CRISPR system that has become the foundation for gene-editing, is dipping her toes into a new, buzzy field: AI-powered protein design.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 3:32pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/axioms-wharton-jelly-stem-cell-therapy-posts-positive-phase-1-data-newborn-brain-injury\" hreflang=\"en\">Why Axiom hopes it’s ‘solved 2 major potholes’ that have hurt other stem cell biotechs</a>",
+        "url": "https://www.fiercebiotech.com/research/axioms-wharton-jelly-stem-cell-therapy-posts-positive-phase-1-data-newborn-brain-injury",
+        "summary": "When Axiom's stem cell therapy demonstrated a 0% mortality rate over two years in potentially fatal newborn neurological diseases this week, the biotech's leadership saw a broader validation for their approach to targeting the brain.",
+        "source": "Fierce Biotech",
+        "published": "Jul 15, 2026 9:46am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial\" hreflang=\"en\">Racing Takeda, InnoCare reports TYK2 inhibitor win in phase 2 vitiligo trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/racing-takeda-innocare-reports-tyk2-inhibitor-win-phase-2-vitiligo-trial",
+        "summary": "A phase 2 trial of InnoCare Pharma’s TYK2 inhibitor soficitinib in nonsegmental vitiligo has hit its primary endpoint, clearing the Chinese biotech to advance into the phase 3 part of the study.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 9:38am",
+        "importance_hint": 5
+      },
+      {
+        "title": "手术机器人第一股收购骨科龙头，行业迎来最强战力",
+        "url": "https://www.36kr.com/p/3898977584039554",
+        "summary": "天智航拟购微创骨科控股权，将推动骨科机器人行业整合",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 17 Jul 2026 06:00:00 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "2026年家居行业转型：减掉“脂肪”留下“肌肉”",
+        "url": "https://www.36kr.com/p/3899080086193540",
+        "summary": "集中力量",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 17 Jul 2026 03:25:00 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "手术室烟雾与腹腔压力管理专家：精准手术好辅助 常州衡合天使融资计划",
+        "url": "https://www.36kr.com/p/3898163740067463",
+        "summary": "衡合医疗研发新型气腹机，融资推进国产替代抢占市场",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 17 Jul 2026 02:34:10 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "欧洲创业风向变了，AI、机器人和工业科技成为新风口",
+        "url": "https://www.36kr.com/p/3863794419356928",
+        "summary": "欧洲不缺创意，真正稀缺的是把技术从试点推向规模化销售的能力。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 16 Jul 2026 07:12:09 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
+        "url": "https://huggingface.co/papers/2607.13399",
+        "summary": "On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regulations of OPD. We first clarify the role of OPD as an exploration catalyst: it steers the student toward correct reasoning paths via dense token-level guidance, without expanding capability ceiling. We confirm this by showing that prompt diversity matters more than per-problem sampling numbers, and critically, that the effectiveness of OPD hinges entirely on the quality of its guiding signal. Thi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-14T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+        "url": "https://huggingface.co/papers/2607.07702",
+        "summary": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally imp",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-07T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

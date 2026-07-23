@@ -1,0 +1,390 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T12:10:30.777770+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 7
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: What is a ‘world model’? Nabla’s Alex LeBrun explains",
+        "url": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis, Brittany Trang talks to Alex LeBrun, AI scribe company Nabla's executive chairman, about an alternative to LLMs",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 21:22:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New study supports testing of Merck’s Ebola vaccine in DRC outbreak",
+        "url": "https://www.statnews.com/2026/07/22/new-study-supports-testing-of-mercks-ebola-vaccine-in-drc-outbreak/",
+        "summary": "New data supports the idea that Merck’s Ebola vaccine Ervebo, licensed to target the Zaire species of ebolaviruses, could also offer some protection against another.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 21:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: What Argentina’s World Cup loss should teach American hospitals",
+        "url": "https://www.statnews.com/2026/07/22/world-cup-argentina-loss-hospitals-lessons/",
+        "summary": "“Hospitals often make Argentina’s mistake: We confuse continuity with progress,” writes physician, hospital administrator, and bioethicist Basel Tarab.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 16:25:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Congo’s Ebola outbreak has killed over 1,000 people",
+        "url": "https://www.statnews.com/2026/07/22/congo-ebola-outbreak-1000-deaths/",
+        "summary": "At least 999 people have died from the Ebola outbreak in Congo, a grim toll in what’s already been declared the fastest Ebola outbreak in history.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 14:52:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharma tries to tamp down broad China restrictions",
+        "url": "https://www.statnews.com/2026/07/22/biotech-news-pharma-tries-to-tamp-down-broad-china-restrictions/",
+        "summary": "AI-focused VC firm raises $800M, Merck's new cholesterol pill, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 14:18:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Trump’s plan for tariffs on generics, a Merck and Gilead HIV pill, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/22/trump-plans-tariffs-on-generics-merck-gilead-hiv-pill/",
+        "summary": "President Trump plans to impose tariffs on imported generic medicines, his latest threat aimed at bringing pharmaceutical manufacturing back to the U.S.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 13:13:56 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+        "url": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/",
+        "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 11:52:58 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: ‘Cochlear implant for blindness’ debuts in Europe, could launch in U.S. in 2027",
+        "url": "https://www.statnews.com/2026/07/22/prima-retinal-implant-for-macular-degeneration-us-timeline/",
+        "summary": "Science Corporation announced the European launch of its retinal implant for patients with age-related macular degeneration.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Federal health quality research grants worth $109 million ended early",
+        "url": "https://www.statnews.com/2026/07/22/ahrq-grants-health-quality-researchers-lose-109-million-funding/",
+        "summary": "At least 78 AHRQ grants worth $200 million have been affected by \"non-award\" notices; it's estimated those grants had $109.2 million in funding remaining.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: STAT+: I’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer",
+        "url": "https://www.statnews.com/2026/07/22/lipfendra-enlicitide-merck-cholesterol-barriers/",
+        "summary": "“In truth, I don’t anticipate prescribing patterns changing immediately,” cardiologist Vishal Khetpal writes of the new cholesterol drug Lipfendra.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Hospitals’ AI may be drifting. Who’s watching?",
+        "url": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/",
+        "summary": "Senior leaders must treat AI governance as their own daily job, not something the technology committee handles quarterly, write Peter Pronovost, Justin Norden, and Kedar Mate.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "As Maui recovers from devastating fires, a study offers vision for new rural health model",
+        "url": "https://www.statnews.com/2026/07/22/maui-wildfire-exposure-study-health-impacts-lahaina-hawaii/",
+        "summary": "A study of the long-term health impact of the Lahaina wildfires is inspiring a new model for disaster recovery and support.",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
+        "url": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/",
+        "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'",
+        "source": "STAT News",
+        "published": "Wed, 22 Jul 2026 04:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration says it’s deferring $1B in Medicaid payments to California and Minnesota",
+        "url": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/",
+        "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+        "source": "STAT News",
+        "published": "Tue, 21 Jul 2026 20:10:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Rare disease drugmakers try to avoid Trump price cuts",
+        "url": "https://www.statnews.com/2026/07/21/rare-disease-drugmakers-avoid-trump-price-cuts-pbm-state-laws-dc-diagnosis/",
+        "summary": "Plus, GOP voters want a crackdown on health care fraud, and how PBMs are skirting state laws.",
+        "source": "STAT News",
+        "published": "Tue, 21 Jul 2026 18:17:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/visana-revamps-well-woman-visit-comprehensively-address-symptoms\" hreflang=\"en\">Visana revamps well-woman visit to comprehensively address symptoms</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/visana-revamps-well-woman-visit-comprehensively-address-symptoms",
+        "summary": "Under the Affordable Care Act, most women are entitled to one fully covered annual wellness visit with no copay or deductible. Yet today these visits often leave women without complete answers to their symptoms or surprise bills, Visana executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 2:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/community-health-systems-misses-q2-earnings-revenue\" hreflang=\"en\">Community Health Systems misses on Q2 earnings, revenue</a>",
+        "url": "https://www.fiercehealthcare.com/providers/community-health-systems-misses-q2-earnings-revenue",
+        "summary": "Similar to its for-profit peer HCA Healthcare, CHS said \"an unfavorable change\" in payer mix played a role in this quarter's numbers.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 4:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/boulder-care-awarded-nih-grant-provide-sud-care-complex-settings\" hreflang=\"en\">Boulder Care awarded NIH grant to provide SUD care in complex settings</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/boulder-care-awarded-nih-grant-provide-sud-care-complex-settings",
+        "summary": "Access to medications for opioid use disorder, considered the gold standard of care, is poor on average and even worse in underserved settings. Boulder will design and deliver special care pathways across five such settings.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 4:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-appeals-court-decision-behind-2026-ma-star-ratings-recalculations\" hreflang=\"en\">CMS appeals court decision behind 2026 MA star ratings recalculations</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-appeals-court-decision-behind-2026-ma-star-ratings-recalculations",
+        "summary": "The Trump administration will appeal a Georgia court ruling that led it to broadly recalculate insurers' Medicare Advantage star ratings scores for 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-proposed-rule-outlines-more-provider-tax-cutbacks\" hreflang=\"en\">CMS proposed rule lays groundwork for more OBBBA provider tax cutbacks</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-proposed-rule-outlines-more-provider-tax-cutbacks",
+        "summary": "The agency took another step toward codifying and enacting provider tax thresholds outlined in last summer's One Big Beautiful Bill Act.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 3:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/candid-health-secures-120m-series-d-funding-ai-powered-rcm-ramps\" hreflang=\"en\">Candid Health secures $120M series D as investment in AI-powered RCM ramps up</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/candid-health-secures-120m-series-d-funding-ai-powered-rcm-ramps",
+        "summary": "The company says its RCM platform, which leverages advanced automation to decrease the cost to collect and increase net collection rates, is now used by more than 200 healthcare organizations.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 2:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/erlanger-health-system-signs-letter-intent-join-prisma-health\" hreflang=\"en\">Erlanger Health System signs letter of intent to join Prisma Health</a>",
+        "url": "https://www.fiercehealthcare.com/providers/erlanger-health-system-signs-letter-intent-join-prisma-health",
+        "summary": "The tentative deal includes a $2 billion strategic capital commitment from Prisma and would yield a 27-hospital, $9 billion operating revenue nonprofit in the southeast.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 12:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/samsung-launches-beta-version-ai-powered-health-assistant-across-us\" hreflang=\"en\">Samsung launches beta version of AI-powered health assistant across US</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/samsung-launches-beta-version-ai-powered-health-assistant-across-us",
+        "summary": "The tool, dubbed Samsung Health Assistant, allows users to ask questions and receive personalized guidance and recommendations in the Samsung Health app.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 11:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/startup-assured-banks-19m-series-ai-native-credientialing-provider-enrollment\" hreflang=\"en\">Startup Assured banks $19M to build out AI-powered platform for provider onboarding</a>",
+        "url": "https://www.fiercehealthcare.com/finance/startup-assured-banks-19m-series-ai-native-credientialing-provider-enrollment",
+        "summary": "The company plans to use the funding to expand research and development and go-to-market teams, Assured Co-Founder and President Rahul Shivkumar told Fierce Healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 21, 2026 4:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/more-connected-approach-prenatal-care\" hreflang=\"en\">A more connected approach to prenatal care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/more-connected-approach-prenatal-care",
+        "summary": "Fewer women are beginning prenatal care in the first trimester, while more are entering care later or not at all. Unified Women’s Healthcare Chief Medical Officer Elizabeth Cherot, M.D., discusses what is driving the decline and how technology, care coordination and stronger patient trust could help expand access.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 9:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/biotech/biotech-industry-leaders-file-brief-backing-fda-against-malicious-mifepristone-challenge\" hreflang=\"en\">Biotech industry leaders file brief backing FDA against ‘malicious’ mifepristone challenge</a>",
+        "url": "https://www.fiercehealthcare.com/biotech/biotech-industry-leaders-file-brief-backing-fda-against-malicious-mifepristone-challenge",
+        "summary": "A group of 61 biopharma companies, executives and investors has filed an amicus brief in support of the FDA in an ongoing case brought by Louisiana meant to remove access to the abortion pill mifepristone.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 21, 2026 5:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/oig-states-can-improve-enforcement-medicaid-mcos-fraud-referrals\" hreflang=\"en\">OIG: States can improve enforcement of Medicaid MCOs' fraud referrals</a>",
+        "url": "https://www.fiercehealthcare.com/payers/oig-states-can-improve-enforcement-medicaid-mcos-fraud-referrals",
+        "summary": "As part of the Trump administration's ongoing war on fraud, waste and abuse in healthcare, a new report looks at how states can improve the volume of fraud referrals from managed care organizations.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 21, 2026 3:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/hhs-joins-trumps-artificial-intelligence-genesis-mission\" hreflang=\"en\">NIH joins Trump’s $5B AI mission with biomedical research push</a>",
+        "url": "https://www.fiercebiotech.com/research/hhs-joins-trumps-artificial-intelligence-genesis-mission",
+        "summary": "The U.S. Department of Health and Human Services announced new efforts Wednesday aligned with President Donald Trump’s artificial intelligence-driven Genesis Mission. The centerpiece of HHS’ participation is the NIH-led Bio Genesis Mission",
+        "source": "Fierce Biotech",
+        "published": "Jul 22, 2026 2:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing\" hreflang=\"en\">House passes bill directing FDA to update animal testing rules</a>",
+        "url": "https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing",
+        "summary": "The U.S. House of Representatives passed the FDA Modernization Act 3.0 this week, and lawmakers and animal welfare advocates are celebrating the bill as a step toward a new era in preclinical testing and drug development.",
+        "source": "Fierce Biotech",
+        "published": "Jul 22, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug\" hreflang=\"en\">Royalty Pharma pens $425M deal for slice of sales on AstraZeneca’s ATTR drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug",
+        "summary": "Royalty Pharma has secured a stake in another transthyretin-mediated amyloidosis drug, this time paying $125 million upfront to Neurimmune for a cut of the sales of its AstraZeneca-partnered med.",
+        "source": "Fierce Biotech",
+        "published": "Jul 22, 2026 9:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotech-industry-leaders-file-brief-backing-fda-against-malicious-mifepristone-challenge\" hreflang=\"en\">Biotech industry leaders file brief backing FDA against ‘malicious’ mifepristone challenge</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biotech-industry-leaders-file-brief-backing-fda-against-malicious-mifepristone-challenge",
+        "summary": "A group of 61 biopharma companies, executives and investors has filed an amicus brief in support of the FDA in an ongoing case brought by Louisiana meant to remove access to the abortion pill mifepristone.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 5:12pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/crystalys-mines-130m-series-b-round-de-risked-gout-therapy\" hreflang=\"en\">Crystalys mines $130M series B to push gout drug through phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/crystalys-mines-130m-series-b-round-de-risked-gout-therapy",
+        "summary": "Crystalys Therapeutics has raised $130 million in series B financing to advance the development of its gout drug dotinurad and prepare for a potential commercial launch.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 2:03pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celldex-ends-work-skin-disease-after-failing-phase-2-test\" hreflang=\"en\">Celldex ends skin disease program after failing phase 2 test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/celldex-ends-work-skin-disease-after-failing-phase-2-test",
+        "summary": "A phase 2 study of Celldex’s barzolvolimab in a chronic skin disease has missed its primary endpoint, driving the biotech to end development in the indication and raising doubts about an upcoming eczema readout.",
+        "source": "Fierce Biotech",
+        "published": "Jul 22, 2026 5:11am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rare-disease-startup-inks-31m-deal-chinese-drug-thiel-backed-ceo-eyes-50m-fundraise\" hreflang=\"en\">‘We’re moving quickly’: Startup bags rare disease drug as Thiel-backed CEO eyes $50M fundraise</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rare-disease-startup-inks-31m-deal-chinese-drug-thiel-backed-ceo-eyes-50m-fundraise",
+        "summary": "A rare disease startup with a mission to repurpose proven drugs has licensed a Chinese formulation of a well-known medicine and set its sights on a $50 million fundraise.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 6:57pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-novartis-ceo-ended-his-adc-holdout-15b-myricx-deal\" hreflang=\"en\">‘We’ve been looking for a novel approach’: Why Novartis CEO ended ADC holdout for $1.5B Myricx deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-novartis-ceo-ended-his-adc-holdout-15b-myricx-deal",
+        "summary": "For years, as Big Pharma poured billions into ADCs, Novartis CEO Vas Narasimhan notably stayed on the sidelines. Asked by Fierce during Novartis’ Q2 earnings call, Narasimhan explained why he is ending that holdout with the proposed $1.5 billion deal for Myricx.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 12:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jupiter-neurosciences-enter-psychedelic-space-100-million-mdma-deal\" hreflang=\"en\">Jupiter enters psychedelics space with $100M deal for PharmAla's MDMA drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jupiter-neurosciences-enter-psychedelic-space-100-million-mdma-deal",
+        "summary": "Jupiter Neurosciences will pay $3.3 million upfront to Canada's PharmAla Biotech for U.S. rights to an MDMA drug to treat neuropsychiatric disorders.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 10:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/agios-says-adios-sickle-cell-program-over-lackluster-phase-2-data\" hreflang=\"en\">Agios says adios to sickle cell program over lackluster phase 2 data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/agios-says-adios-sickle-cell-program-over-lackluster-phase-2-data",
+        "summary": "A phase 2 study of Agios Pharmaceuticals’ next-generation pyruvate kinase activator has failed to support continued development in sickle cell disease, leading the company to ax an indication for the second time in two months.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 8:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lupin-seeds-spinout-kaveri-cash-and-clinical-phase-cancer-assets\" hreflang=\"en\">Indian generics maker Lupin seeds US spinout Kaveri with cash, clinical-phase cancer assets </a>",
+        "url": "https://www.fiercebiotech.com/biotech/lupin-seeds-spinout-kaveri-cash-and-clinical-phase-cancer-assets",
+        "summary": "Lupin has spun out two clinical-phase cancer drug candidates to create Kaveri Therapeutics, a U.S.-based startup that plans to raise cash for further development. Kaveri’s programs hit targets pursued by major drugmakers including AstraZeneca, Bayer and Bristol Myers Squibb.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 5:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-drops-phase-2-stage-radioligand-therapy-commitment-modality-unchanged\" hreflang=\"en\">Novartis drops phase 2 radioligand therapy, but CEO’s commitment to modality ‘unchanged’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-drops-phase-2-stage-radioligand-therapy-commitment-modality-unchanged",
+        "summary": "Novartis has dropped a phase 2-stage radioligand therapy after the candidate disappointed in the clinic.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 7:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "昌平2026脑科学与脑机接口创新论坛举办 芯智达、智冉医疗等10余家企业入驻脑机接口集聚区",
+        "url": "https://www.36kr.com/p/3905229082134153",
+        "summary": "2026脑科学与脑机接口创新论坛圆满举办 25+顶尖院士专家、领军企业共探产业落地通路",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 21 Jul 2026 10:29:54 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+        "url": "https://huggingface.co/papers/2607.19747",
+        "summary": "As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "AutoIndex: Learning Representation Programs for Retrieval",
+        "url": "https://huggingface.co/papers/2607.18603",
+        "summary": "We present AutoIndex, a framework for learning representation programs: executable transformations that map raw documents into the representations exposed to a retrieval system. Rather than tuning retrievers, rerankers, or a small set of preprocessing hyperparameters, AutoIndex searches over programs that slice, enrich, normalize, reweight, or reorganize documents before indexing. At each iteration, AutoIndex performs validation-guided program search, in which agents diagnose failures of the current program and synthesize candidate updates, retaining only updates that improve retrieval quality",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
+        "url": "https://huggingface.co/papers/2607.18754",
+        "summary": "LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support for identifying the root cause or translating diagnosis into recovery. We present AgentDebugX, an open-source debugging framework that organizes debugging as a closed loop of Detect, Attribute, Recover, and Rerun. At its core, DeepDebug performs multi-turn root-cause diagnosis through global trajectory understanding, structure-guided investigation, and cross-examination. On the Who and When benchm",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video",
+        "url": "https://huggingface.co/papers/2607.17790",
+        "summary": "Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore highly desirable. However, existing approaches often rely on auxiliary inputs such as pre-computed camera trajectories, treat scene perception and human ego-motion modeling as separate problems despite their strong interdependency, and suffer from slow inference time. To address these limitations, we present R",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-19T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
+        "url": "https://huggingface.co/papers/2607.18144",
+        "summary": "Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods are rapidly emerging in molecular design and have shown competitive performance in pocket-conditioned molecular generation. However, their ability to reason about physics and 3D spatial environments is largely underexplored. In this work, we systematically analyze whether current general-purpose LLMs are cap",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-19T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Diagnosing and Calibrating Tool-Call Boundary Drift in Multi-Teacher On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2607.07050",
+        "summary": "Agentic language models must learn when to call tools, when to consume tool responses, and when to answer directly. This makes multi-teacher on-policy distillation a natural training strategy: one teacher can specialize in tool calls, another in direct responses, and the student can learn from both on\n  its own generated distribution. We show that this strategy can induce a behavior shift that is invisible from aggregate losses alone. In a two-teacher tool-use setting, vanilla generalized knowledge distillation improves tool-call recall but also moves the model toward over-calling, where it ca",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-14T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Can Multimodal Large Language Models Understand OCT?",
+        "url": "https://huggingface.co/papers/2607.16609",
+        "summary": "Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential in medical image analysis, existing benchmarks largely reduce OCT understanding to coarse-grained disease classification or isolated visual question answering, leaving the complete cognitive process from visual perception to clinical reasoning insufficiently evaluated. To address this limitation, we introduce OCT-Bench, a comprehensive benchmark dedicated to OCT image understanding. OCT-Bench comp",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-17T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

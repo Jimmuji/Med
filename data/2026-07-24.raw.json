@@ -1,0 +1,358 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T12:09:14.767943+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
+        "url": "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/",
+        "summary": "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 20:08:56 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "U.S. health officials are investigating a new outbreak of a diarrhea-causing parasite",
+        "url": "https://www.statnews.com/2026/07/23/cyclospora-second-outbreak-reported-fda-cites-72-new-cases/",
+        "summary": "Federal health officials are investigating a new outbreak involving the diarrhea-causing parasite cyclospora.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 17:25:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: European regulators take steps to bolster clinical trial transparency",
+        "url": "https://www.statnews.com/pharmalot/2026/07/23/european-medicines-agency-bolster-clinical-trials-transparency/",
+        "summary": "The European Medicines Agency is taking what advocacy groups are calling unexpectedly “rapid action” to ensure that clinical trial results are made public as required by law.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 16:33:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Popular insulin product enters shortage as other pens leave market",
+        "url": "https://www.statnews.com/2026/07/23/sanofi-insulin-lantus-solostar-pen-reported-short-supply/",
+        "summary": "The Lantus Solostar insulin pen isn't in official FDA shortage, but patients are having a tough time finding it.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 16:23:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Senate health panel delays vote on CDC nominee",
+        "url": "https://www.statnews.com/2026/07/23/erica-schwartz-cdc-director-vote-delayed/",
+        "summary": "Too few senators were in attendance to proceed with a vote on the CDC director nominee.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 16:18:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What’s in the last-minute flurry of health care bills?",
+        "url": "https://www.statnews.com/2026/07/23/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson-3/",
+        "summary": "Congress is scrambling to advance a slew of health care bills before an August recess. Price transparency and prior authorization top the list.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 15:26:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FDA panel confronting peptide controversy",
+        "url": "https://www.statnews.com/2026/07/23/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson-2/",
+        "summary": "Today's biotech news features the FDA weighing the fate of peptides; approvals for RevMed, GSK; and data on Lilly's \"triple-G.\"",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 14:58:41 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "A father’s mission to save his daughter, and allegations on telehealth GLP-1 prescribing",
+        "url": "https://www.statnews.com/2026/07/23/readout-loud-podcast-matt-wilsey-rare-disease-lifemd-novo-nordisk-eli-lilly/",
+        "summary": "Has a wanted fugitive been posing as a biotech executive? And what does it take to develop a therapy for an ultra-rare disease? Find out on this week's episode of&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 14:45:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Vote on key federal health nominee delayed amid questions over vaccine views",
+        "url": "https://www.statnews.com/2026/07/23/sean-kaufman-aspr-nomination-confirmation-vote-postponed-senate-committee/",
+        "summary": "Sean Kaufman, nominated to run ASPR, has a track record of questioning the safety of vaccines.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 14:03:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump administration quietly picks Timothy Westlake to lead mental health agency",
+        "url": "https://www.statnews.com/2026/07/23/trump-nominates-timothy-westlake-samhsa/",
+        "summary": "Timothy Westlake, an emergency doctor nominated to head SAMHSA, has been active in addiction policy in Wisconsin.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 13:55:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Lilly obesity drug data, a push for FDA to ban DTC ads, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/23/lilly-obesity-drug-data-fda-asked-to-ban-dtc-ads/",
+        "summary": "A study of Lilly's retatrutide weight loss drug in people with heart disease did not answer a crucial question — whether it reduces cardiovascular risk",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 13:21:05 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: HHS to convene experts on standards for clinical AI",
+        "url": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/",
+        "summary": "In this edition of STAT Health Tech: HHS is inviting experts to shape policy on clinical AI, Whoop's new CMO, news about brain implants, and more.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 13:06:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA is urged by advocacy group to ban DTC prescription drug ads",
+        "url": "https://www.statnews.com/pharmalot/2026/07/23/fda-urged-by-advocacy-group-to-ban-dtc-prescription-drug-ads/",
+        "summary": "A leading advocacy group petitioned the FDA to ban direct-to-consumer advertising of prescription medicines.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Expect a clash at today’s FDA peptide panel",
+        "url": "https://www.statnews.com/2026/07/23/health-news-expect-a-clash-at-today-fda-peptide-panel/",
+        "summary": "The service members who refused the Covid vaccine, the fastest-growing Ebola outbreak in history, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 11:34:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New data on Eli Lilly’s ‘triple-G’ drug leave open questions on heart benefit",
+        "url": "https://www.statnews.com/2026/07/23/new-data-on-eli-lilly-triple-g-drug-retatrutide-leave-open-questions-on-heart-benefit/",
+        "summary": "On analyses that looked at major cardiovascular events, those taking retatrutide did not have a significant lower risk of death, heart attack, or stroke.",
+        "source": "STAT News",
+        "published": "Thu, 23 Jul 2026 10:45:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/new-cms-data-spotlights-continued-rise-no-surprises-act-disputes\" hreflang=\"en\">New CMS data spotlight continued rise in No Surprises Act disputes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/new-cms-data-spotlights-continued-rise-no-surprises-act-disputes",
+        "summary": "The number of out-of-network billing disputes proceeding to arbitration continues to grow, much to the consternation of health plans.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 3:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule\" hreflang=\"en\">HHS appeals vacatur of 2025 ACA program integrity rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule",
+        "summary": "Several of the controversial provisions that were struck down reflect those of this year's annual rulemaking, which have been paused temporarily.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 2:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/molina-healthcare-plans-more-marketplace-exits-aca-segment-falters\" hreflang=\"en\">Molina Healthcare plans more marketplace exits as ACA segment falters</a>",
+        "url": "https://www.fiercehealthcare.com/payers/molina-healthcare-plans-more-marketplace-exits-aca-segment-falters",
+        "summary": "Molina Healthcare is planning further reductions in its marketplace business as high costs continue to pressure that segment, the company's top brass told investors on Thursday morning.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 1:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/dc-appeals-court-sides-hhs-340b-drug-discount-program-rebate-challenge\" hreflang=\"en\">D.C. appeals court sides with HHS in 340B drug discount program rebate challenge</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/dc-appeals-court-sides-hhs-340b-drug-discount-program-rebate-challenge",
+        "summary": "The ruling upheld a previous decision that pharma companies cannot impose rebates without HHS Secretary approval.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 11:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/teal-health-uc-davis-team-expand-access-hpv-screenings\" hreflang=\"en\">Teal Health, UC Davis team up to expand HPV screening access</a>",
+        "url": "https://www.fiercehealthcare.com/providers/teal-health-uc-davis-team-expand-access-hpv-screenings",
+        "summary": "At UC Davis, women ages 30 to 65 who are due for a screen will receive outreach with the option to select Teal’s at-home device.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 11:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/community-health-systems-misses-q2-earnings-revenue\" hreflang=\"en\">Amid ACA subsidy fallout, half of Community Health Systems' Q2 volume gains were uninsured patients</a>",
+        "url": "https://www.fiercehealthcare.com/providers/community-health-systems-misses-q2-earnings-revenue",
+        "summary": "Similar to its for-profit peer HCA Healthcare, CHS credited a higher-than-expected impact from disruption on the ACA exchanges for its poor quarter and revised its full-year forecast.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 4:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Novant Health cuts 31 rev cycle roles; Dignity Health lays off 139</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/anterior-stellarus-enter-strategic-partnership-speed-ai-drive-prior\" hreflang=\"en\">Anterior, Stellarus enter strategic partnership to speed up AI-driven prior authorizations</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/anterior-stellarus-enter-strategic-partnership-speed-ai-drive-prior",
+        "summary": "The companies say providers will receive quicker, first-time approvals through the partnership, ultimately giving members quicker care access.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 4:56pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-medical-banks-16m-scale-ai-driven-concierge-care-platform\" hreflang=\"en\">Prosper Medical banks $16M to scale AI-driven concierge care platform</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-medical-banks-16m-scale-ai-driven-concierge-care-platform",
+        "summary": "Artificial intelligence-driven health platform Prosper Medical secured $16 million in seed funding to make concierge medicine more accessible through scaling its AI-powered platform.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 3:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-expands-ai-powered-care-management-programs-members\" hreflang=\"en\">Cigna expands AI-powered care management programs for members</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-expands-ai-powered-care-management-programs-members",
+        "summary": "Cigna Healthcare is taking steps to significantly expand its personalized care management programs, leaning on AI to identify risks sooner and simplify the patient journey.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 2:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/teladoc-health-virtual-care-model-employers-health-plans-ties-payment-results\" hreflang=\"en\">Teladoc Health unveils new virtual care model for employers, health plans that ties payment to results</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-virtual-care-model-employers-health-plans-ties-payment-results",
+        "summary": "Teladoc Health unveiled a new virtual care model for employers and health plans designed to offer a more coordinated, personalized approach for members, while tying payment to clinical and financial outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 6:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Bunkerhill Health closes series B round; Corner Health lands $32.5M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scancell-go-public-after-winning-reverse-merger-bid-troubled-neuphoria\" hreflang=\"en\">Scancell to go public after winning reverse merger bid for troubled Neuphoria</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scancell-go-public-after-winning-reverse-merger-bid-troubled-neuphoria",
+        "summary": "Scancell and Neuphoria have made their union official via a reverse merger that will result in a Nasdaq listing for Scancell and a resolution for Neuphoria’s shareholders after the biotech ended its social anxiety program last year.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 10:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lillys-triple-g-drug-hits-226-weight-loss-cardio-risk-impact-disappoints\" hreflang=\"en\">Lilly’s triple-G drug hits 22.6% weight loss, but impact on reducing cardio risk is less clear</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lillys-triple-g-drug-hits-226-weight-loss-cardio-risk-impact-disappoints",
+        "summary": "Eli Lilly’s triple-G drug retatrutide has hit the primary endpoints of a pair of phase 3 obesity trials, although the peak weight loss fell short of previous trials while failing to prove the drug reduces cardiovascular risk.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 8:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Clinuvel cuts fifth of staff; Novartis loses 322 workers</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-johnson-johnsons-surgical-robot-next-era-surgery\" hreflang=\"en\">FDA clears Johnson &amp; Johnson’s surgical robot for ‘the next era in surgery’</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-johnson-johnsons-surgical-robot-next-era-surgery",
+        "summary": "The FDA has authorized Johnson &amp; Johnson’s Ottava Robotic Surgical System as the company looks to compete with Intuitive Surgical and Medtronic.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 2:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-diagnostics-see-3-growth-china-near-patient-care-unit-dragging-sales\" hreflang=\"en\">Roche Diagnostics growth remains muted amid China headwinds</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-diagnostics-see-3-growth-china-near-patient-care-unit-dragging-sales",
+        "summary": "Roche’s Diagnostics division continues to battle growth headwinds, notching a 3% increase in sales.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 8:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us\" hreflang=\"en\">Australian biopharma Clinuvel to shed up to 20% of workforce in move to US</a>",
+        "url": "https://www.fiercebiotech.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us",
+        "summary": "Australian biopharma Clinuvel Pharmaceuticals is moving its headquarters to the U.S.— but up to a fifth of the company’s workforce won’t be staying for the trans-Pacific pivot.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 5:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/substantially-better-new-report-highlights-indias-opportunity-seize-string-recent\" hreflang=\"en\">‘Substantially better than before’: Why India has golden opportunity to build on innovative R&amp;D wins</a>",
+        "url": "https://www.fiercebiotech.com/biotech/substantially-better-new-report-highlights-indias-opportunity-seize-string-recent",
+        "summary": "A string of recent wins on the frontiers of novel drug development could mean that a homegrown innovation industry is within reach.",
+        "source": "Fierce Biotech",
+        "published": "Jul 16, 2026 4:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-drops-tce-lupus-hasnt-given-autoimmune-cell-therapies\" hreflang=\"en\">Roche drops TCE for lupus, but hasn’t given up on autoimmune cell therapies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-drops-tce-lupus-hasnt-given-autoimmune-cell-therapies",
+        "summary": "Roche may have scrapped work on a T-cell engager being evaluated for lupus, but the company’s head of pharma told Fierce that still has a strategy for developing cell therapies for autoimmune diseases.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 4:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/hhs-joins-trumps-artificial-intelligence-genesis-mission\" hreflang=\"en\">NIH joins Trump’s $5B AI mission with biomedical research push</a>",
+        "url": "https://www.fiercebiotech.com/research/hhs-joins-trumps-artificial-intelligence-genesis-mission",
+        "summary": "The U.S. Department of Health and Human Services announced new efforts Wednesday aligned with President Donald Trump’s artificial intelligence-driven Genesis Mission. The centerpiece of HHS’ participation is the NIH-led Bio Genesis Mission",
+        "source": "Fierce Biotech",
+        "published": "Jul 22, 2026 2:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing\" hreflang=\"en\">House passes bill directing FDA to update animal testing rules</a>",
+        "url": "https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing",
+        "summary": "The U.S. House of Representatives passed the FDA Modernization Act 3.0 this week, and lawmakers and animal welfare advocates are celebrating the bill as a step toward a new era in preclinical testing and drug development.",
+        "source": "Fierce Biotech",
+        "published": "Jul 22, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug\" hreflang=\"en\">Royalty Pharma pens $425M deal for slice of sales on AstraZeneca’s ATTR drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug",
+        "summary": "Royalty Pharma has secured a stake in another transthyretin-mediated amyloidosis drug, this time paying $125 million upfront to Neurimmune for a cut of the sales of its AstraZeneca-partnered med.",
+        "source": "Fierce Biotech",
+        "published": "Jul 22, 2026 9:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotech-industry-leaders-file-brief-backing-fda-against-malicious-mifepristone-challenge\" hreflang=\"en\">Biotech industry leaders file brief backing FDA against ‘malicious’ mifepristone challenge</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biotech-industry-leaders-file-brief-backing-fda-against-malicious-mifepristone-challenge",
+        "summary": "A group of 61 biopharma companies, executives and investors has filed an amicus brief in support of the FDA in an ongoing case brought by Louisiana meant to remove access to the abortion pill mifepristone.",
+        "source": "Fierce Biotech",
+        "published": "Jul 21, 2026 5:12pm",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
+        "url": "https://huggingface.co/papers/2607.18149",
+        "summary": "Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles models into pure Boolean circuits executable via bitwise CPU operations. Through rigorous iso-parameter experiments across four EEG datasets spanning two classification tasks, binary dementia detection and 3-class emotion recognition, we compared Diff-Logic against matched-capacity Multi-Layer Perceptron (MLP) and Binarized Neural Network (BNN) baselines at fo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-19T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+        "url": "https://huggingface.co/papers/2607.19747",
+        "summary": "As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "AutoIndex: Learning Representation Programs for Retrieval",
+        "url": "https://huggingface.co/papers/2607.18603",
+        "summary": "We present AutoIndex, a framework for learning representation programs: executable transformations that map raw documents into the representations exposed to a retrieval system. Rather than tuning retrievers, rerankers, or a small set of preprocessing hyperparameters, AutoIndex searches over programs that slice, enrich, normalize, reweight, or reorganize documents before indexing. At each iteration, AutoIndex performs validation-guided program search, in which agents diagnose failures of the current program and synthesize candidate updates, retaining only updates that improve retrieval quality",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
+        "url": "https://huggingface.co/papers/2607.18754",
+        "summary": "LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support for identifying the root cause or translating diagnosis into recovery. We present AgentDebugX, an open-source debugging framework that organizes debugging as a closed loop of Detect, Attribute, Recover, and Rerun. At its core, DeepDebug performs multi-turn root-cause diagnosis through global trajectory understanding, structure-guided investigation, and cross-examination. On the Who and When benchm",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-20T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

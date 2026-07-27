@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T12:32:02.345795+08:00",
+  "counts": {
+    "news": 26,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/new-university-initiative-offers-screening-referrals-endometriosis\" hreflang=\"en\">New university initiative offers screening, referrals for endometriosis </a>",
+        "url": "https://www.fiercehealthcare.com/providers/new-university-initiative-offers-screening-referrals-endometriosis",
+        "summary": "The partnership, led by a national provider of endometriosis care and an awareness nonprofit, offers colleges free educational resources, screening tools and referral pathways.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 12:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tenet-healthcare-shrugs-aca-headwinds-sweeping-q2-outperformance-boosts-2026-guidance\" hreflang=\"en\">Tenet Healthcare shrugs off ACA headwinds with sweeping Q2 outperformance, boosts 2026 guidance</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tenet-healthcare-shrugs-aca-headwinds-sweeping-q2-outperformance-boosts-2026-guidance",
+        "summary": "Bucking a trend set by its for-profit peers, the company outpaced the margin hit of substantial uninsured volume growth and boosted its 2026 guidance.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 2:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/why-aetna-investing-improvements-build-provider-trust\" hreflang=\"en\">What's behind Aetna's investments to build provider trust</a>",
+        "url": "https://www.fiercehealthcare.com/payers/why-aetna-investing-improvements-build-provider-trust",
+        "summary": "Addressing healthcare's biggest challenges will require payers and providers working together.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 12:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/industry-voices-new-model-rural-healthcare-already-taking-shape\" hreflang=\"en\">Industry Voices—The new model for rural healthcare is already taking shape</a>",
+        "url": "https://www.fiercehealthcare.com/payers/industry-voices-new-model-rural-healthcare-already-taking-shape",
+        "summary": "Community health plans are uniquely positioned to bring together technology and community partnerships to address local rural care needs, writes Tom Doran, president of Highmark Health Plan.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 10:47am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/hca-healthcare-reports-203b-q2-revenue-amid-aca-coverage-disruptions\" hreflang=\"en\">HCA Healthcare's H1 ACA volume dropoffs 'almost one for one' shifted to uninsurance</a>",
+        "url": "https://www.fiercehealthcare.com/finance/hca-healthcare-reports-203b-q2-revenue-amid-aca-coverage-disruptions",
+        "summary": "The for-profit health system's executives said the number of patients who dropped health insurance exchanges was within expectations, but that they were surprised almost none of those patients shifted to commercial coverage.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health\" hreflang=\"en\">OpenAI makes Health in ChatGPT widely available, moving deeper into consumer health</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-makes-health-chatgpt-widely-available-moving-deeper-consumer-health",
+        "summary": "OpenAI on Thursday made its Health in ChatGPT feature broadly available, enabling U.S. users to connect its artificial intelligence chatbot with medical records and wellness apps.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 7:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/new-cms-data-spotlights-continued-rise-no-surprises-act-disputes\" hreflang=\"en\">New CMS data spotlight continued rise in No Surprises Act disputes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/new-cms-data-spotlights-continued-rise-no-surprises-act-disputes",
+        "summary": "The number of out-of-network billing disputes proceeding to arbitration continues to grow, much to the consternation of health plans.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 3:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule\" hreflang=\"en\">HHS appeals vacatur of 2025 ACA program integrity rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/judge-tosses-multiple-provisions-cms-2025-aca-program-integrity-rule",
+        "summary": "Several of the controversial provisions that were struck down reflect those of this year's annual rulemaking, which have been paused temporarily.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 15, 2026 2:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/molina-healthcare-plans-more-marketplace-exits-aca-segment-falters\" hreflang=\"en\">Molina Healthcare plans more marketplace exits as ACA segment falters</a>",
+        "url": "https://www.fiercehealthcare.com/payers/molina-healthcare-plans-more-marketplace-exits-aca-segment-falters",
+        "summary": "Molina Healthcare is planning further reductions in its marketplace business as high costs continue to pressure that segment, the company's top brass told investors on Thursday morning.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 1:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/dc-appeals-court-sides-hhs-340b-drug-discount-program-rebate-challenge\" hreflang=\"en\">D.C. appeals court sides with HHS in 340B drug discount program rebate challenge</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/dc-appeals-court-sides-hhs-340b-drug-discount-program-rebate-challenge",
+        "summary": "The ruling upheld a previous decision that pharma companies cannot impose rebates without HHS Secretary approval.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 11:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/teal-health-uc-davis-team-expand-access-hpv-screenings\" hreflang=\"en\">Teal Health, UC Davis team up to expand HPV screening access</a>",
+        "url": "https://www.fiercehealthcare.com/providers/teal-health-uc-davis-team-expand-access-hpv-screenings",
+        "summary": "At UC Davis, women ages 30 to 65 who are due for a screen will receive outreach with the option to select Teal’s at-home device.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 11:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-headspace-expands-specialty-care-4-partnerships-vitvio-launches-3d\" hreflang=\"en\">Weekly Rundown: FDA names Dexcom as first TEMPO participant; Ardent Health tops 1M patient visits with ambient AI</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-headspace-expands-specialty-care-4-partnerships-vitvio-launches-3d",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 23, 2026 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-sheds-around-40-staffers-struggles-pile-tavneos-pipeline\" hreflang=\"en\">Amgen sheds around 40 staffers amid continuing struggles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-sheds-around-40-staffers-struggles-pile-tavneos-pipeline",
+        "summary": "Amgen has laid off around 40 employees as part of “organizational changes” meant to better align operations with the company’s strategic objectives, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Jul 24, 2026 3:39pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Amgen sheds staff; Clinuvel cuts fifth of workforce</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/study-yescarta-patients-reveals-genetic-red-flags-car-t-therapy-side-effects\" hreflang=\"en\">Study of Yescarta patients reveals genetic red flags for CAR-T therapy side effects</a>",
+        "url": "https://www.fiercebiotech.com/research/study-yescarta-patients-reveals-genetic-red-flags-car-t-therapy-side-effects",
+        "summary": "A new analysis of patients who took part in clinical trials for Kite Pharma’s CAR-T cell therapy Yescarta has revealed genetic signatures of toxicity risk, potentially providing a path forward for future CAR-Ts to be engineered to be safer.",
+        "source": "Fierce Biotech",
+        "published": "Jul 24, 2026 12:36pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/merck-prepares-expanded-access-alimatravir-monthly-hiv-prep-pill-ahead-approval\" hreflang=\"en\">Merck stages expanded access to monthly HIV PrEP pill ahead of approval</a>",
+        "url": "https://www.fiercebiotech.com/pharma/merck-prepares-expanded-access-alimatravir-monthly-hiv-prep-pill-ahead-approval",
+        "summary": "Following in the footsteps of Gilead, Merck has signed voluntary licensing agreements to enable access to its investigational HIV PrEP pill alimatravir ahead of any regulatory submissions.",
+        "source": "Fierce Biotech",
+        "published": "Jul 24, 2026 9:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biogen-rd-vet-gets-formation\" hreflang=\"en\">Chutes &amp; Ladders—Biogen R&amp;D vet gets in Formation</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biogen-rd-vet-gets-formation",
+        "summary": "AI-focused Formation Bio has found a new chief scientist with extensive experience in biotech, Big Pharma and academia. Michael Ehlers, M.D., Ph.D., is joining the 2025 Fierce 15 honoree as chief scientific officer and head of R&amp;D.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 4:58pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-abandons-plan-seek-approval-eczema-drug-11b-kymab-buyout\" hreflang=\"en\">Sanofi abandons plan to seek approval for eczema drug from $1.1B Kymab buyout </a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-abandons-plan-seek-approval-eczema-drug-11b-kymab-buyout",
+        "summary": "Sanofi has abandoned plans to seek approval for amlitelimab in atopic dermatitis, admitting that a drug once tipped as a potential blockbuster “would not represent a meaningful improvement” to existing treatments.",
+        "source": "Fierce Biotech",
+        "published": "Jul 24, 2026 5:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scribe-records-upsized-129m-ipo-latest-biotech-stock-market-debut\" hreflang=\"en\">Scribe records upsized $129M IPO to bankroll lipid-lowering genetic meds</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scribe-records-upsized-129m-ipo-latest-biotech-stock-market-debut",
+        "summary": "In vivo gene editing outfit Scribe Therapeutics has priced its IPO at $128.7 million, surpassing the $96 million goal set out earlier this week.",
+        "source": "Fierce Biotech",
+        "published": "Jul 24, 2026 1:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scancell-go-public-after-winning-reverse-merger-bid-troubled-neuphoria\" hreflang=\"en\">Scancell to go public after winning reverse merger bid for troubled Neuphoria</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scancell-go-public-after-winning-reverse-merger-bid-troubled-neuphoria",
+        "summary": "Scancell and Neuphoria have made their union official via a reverse merger that will result in a Nasdaq listing for Scancell and a resolution for Neuphoria’s shareholders after the biotech ended its social anxiety program last year.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 10:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lillys-triple-g-drug-hits-226-weight-loss-cardio-risk-impact-disappoints\" hreflang=\"en\">Lilly’s triple-G drug hits 22.6% weight loss, but impact on reducing cardio risk is less clear</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lillys-triple-g-drug-hits-226-weight-loss-cardio-risk-impact-disappoints",
+        "summary": "Eli Lilly’s triple-G drug retatrutide has hit the primary endpoints of a pair of phase 3 obesity trials, although the peak weight loss fell short of previous trials while failing to prove the drug reduces cardiovascular risk.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 8:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-johnson-johnsons-surgical-robot-next-era-surgery\" hreflang=\"en\">FDA clears Johnson &amp; Johnson’s surgical robot for ‘the next era in surgery’</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-johnson-johnsons-surgical-robot-next-era-surgery",
+        "summary": "The FDA has authorized Johnson &amp; Johnson’s Ottava Robotic Surgical System as the company looks to compete with Intuitive Surgical and Medtronic.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 2:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-diagnostics-see-3-growth-china-near-patient-care-unit-dragging-sales\" hreflang=\"en\">Roche Diagnostics growth remains muted amid China headwinds</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-diagnostics-see-3-growth-china-near-patient-care-unit-dragging-sales",
+        "summary": "Roche’s Diagnostics division continues to battle growth headwinds, notching a 3% increase in sales.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 8:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us\" hreflang=\"en\">Australian biopharma Clinuvel to shed up to 20% of workforce in move to US</a>",
+        "url": "https://www.fiercebiotech.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us",
+        "summary": "Australian biopharma Clinuvel Pharmaceuticals is moving its headquarters to the U.S.— but up to a fifth of the company’s workforce won’t be staying for the trans-Pacific pivot.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 5:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "哈萨比斯震撼预言：留给旧世界的时间，不到2000天",
+        "url": "https://www.36kr.com/p/3911097960699265",
+        "summary": "留给人类的时间，可能不多了。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 27 Jul 2026 00:52:26 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI制药步入下半场：临床开发能力成商业价值兑现关键点",
+        "url": "https://www.36kr.com/p/3913366926431368",
+        "summary": "当AI批量筛选出具备成药价值的分子，医药创新的先行者们发现：如何更为高效的验证这些分子的临床价值，成为了又一个待解的难题。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 27 Jul 2026 04:03:02 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
+        "url": "https://huggingface.co/papers/2607.18149",
+        "summary": "Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles models into pure Boolean circuits executable via bitwise CPU operations. Through rigorous iso-parameter experiments across four EEG datasets spanning two classification tasks, binary dementia detection and 3-class emotion recognition, we compared Diff-Logic against matched-capacity Multi-Layer Perceptron (MLP) and Binarized Neural Network (BNN) baselines at fo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-19T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+        "url": "https://huggingface.co/papers/2607.19747",
+        "summary": "As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-21T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

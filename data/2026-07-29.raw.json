@@ -1,0 +1,366 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T11:59:36.554150+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: American Diabetes Association, facing calls for resignations, asks for patience",
+        "url": "https://www.statnews.com/2026/07/28/american-diabetes-association-fallout-researchers-expulsion/",
+        "summary": "An open letter to the board of the American Diabetes Association said the board had badly mishandled an incident at its annual meeting.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 23:34:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Six key issues we’re watching at Fauci’s hearing",
+        "url": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/",
+        "summary": "Sen. Rand Paul is forcing Fauci to appear before his Senate panel.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 19:29:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Visa time limits on foreign Ph.D. students and postdocs will harm U.S. science, experts warn",
+        "url": "https://www.statnews.com/2026/07/28/dhs-visa-policy-change-international-students-scientific-research-impact/",
+        "summary": "A Trump administration plan to limit visas for graduate student and postdocs to four years is fueling concerns that the U.S. could lose out on foreign scientists",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 17:00:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Bracing for another Fauci hearing",
+        "url": "https://www.statnews.com/2026/07/28/anthony-fauci-rand-paul-hearing-democrats-ivf-proposal-dc-diagnosis/",
+        "summary": "Plus: Democrats take on Trump over IVF, and Trump's White House releases a new science funding blueprint.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 16:37:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GSK lays out plans to cut costs, pursue more late-stage drug trials",
+        "url": "https://www.statnews.com/2026/07/28/gsk-earnings-report-luke-miels-strategy-late-stage-clinical-trials/",
+        "summary": "New GSK CEO Luke Miels outlined his strategy to help the company navigate a patent cliff and get on a path toward long-term growth.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 14:11:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA staff reiterate concerns about Replimune skin cancer treatment",
+        "url": "https://www.statnews.com/2026/07/28/replimune-rp1-skin-cancer-fda-staff-analysis/",
+        "summary": "Regulators at the FDA have reiterated concerns that Replimmune does not have adequate data to support an approval of its investigational skin cancer treatment.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 13:39:53 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about FDA views on a Duchenne drug, GSK cost savings, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/28/fda-duchenne-drug-gsk-cost-savings-plan/",
+        "summary": "The FDA said a Capricor stem cell treatment for Duchenne muscular dystrophy did not meet a Phase 3 trial's objectives — contrary to company claims",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 13:25:49 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Three questions with Whoop’s new CMO",
+        "url": "https://www.statnews.com/2026/07/28/three-questions-with-whoops-new-cmo-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A chat with Whoop's new chief medical officer, an update on CMS health tech initiative, and more.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 13:22:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Anthony Fauci’s pandemic-era diary entries",
+        "url": "https://www.statnews.com/2026/07/28/health-news-anthony-fauci-pandemic-era-diary-entries-hearing/",
+        "summary": "New data on American substance use, concerns of a global HIV resurgence, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 11:57:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Preliminary trial results suggest a path to a safer Alzheimer’s treatment",
+        "url": "https://www.statnews.com/2026/07/28/promis-neurosciences-amyloid-alzheimers-aria/",
+        "summary": "ProMIS Neurosciences is trying to design a safer amyloid-clearing drug for Alzheimer's. Early results suggest it might be on to something.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: CMS evaluates one year of health tech progress, announces eight new pledge categories",
+        "url": "https://www.statnews.com/2026/07/28/medicare-medicaid-evaluates-health-tech-progress-unveils-eight-pledge-categories/",
+        "summary": "One year after launching the CMS Health Tech Ecosystem, officials convened in D.C. to celebrate the Trump administration modernizing health technology.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: From ‘lost cause’ to gold rush: Biotechs swarm to cure AATD",
+        "url": "https://www.statnews.com/2026/07/28/biotech-industry-race-aatd-cure-gene-editing-alpha-1-antitrypsin-deficiency/",
+        "summary": "Biotech companies are racing to cure alpha-1 antitrypsin deficiency, AATD, fueling patent disputes, startup defections, arbitration, and a U.S.-China rivalry.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Dementia finally has a business model",
+        "url": "https://www.statnews.com/2026/07/28/brain-infrastructure-dementia-business-model-aaic2026/",
+        "summary": "The big takeaway from the recent Alzheimer’s Association International Conference in London is an economic message: Dementia finally has a business model, writes Jason Karlawish.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "After PCOS became PMOS, there’s hope for new awareness among Black and Latina women",
+        "url": "https://www.statnews.com/2026/07/28/pmos-name-change-growing-awareness-faster-diagnosis-women-of-color/",
+        "summary": "Growing awareness of a painful endocrine disorder now named PMOS is good news for women of color, who have high prevalence and low diagnosis.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+        "url": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/",
+        "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+        "source": "STAT News",
+        "published": "Mon, 27 Jul 2026 20:45:59 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/universal-health-services-tops-q2-expectations-dials-back-full-year-earnings\" hreflang=\"en\">Universal Health Services tops Q2 expectations, but dials back full-year earnings</a>",
+        "url": "https://www.fiercehealthcare.com/providers/universal-health-services-tops-q2-expectations-dials-back-full-year-earnings",
+        "summary": "Volume recovery, capacity increases, supplemental funding, some struggling facilities and a jump in liability expenses all played into a guidance revision at the acute and behavioral hospital operator. Health insurance exchange impacts, while elevated, still landed within the higher range of the company's initial expectations.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 28, 2026 2:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/american-red-cross-declares-second-ever-national-blood-supply-crisis-urges-immediate\" hreflang=\"en\">American Red Cross declares second-ever national blood supply crisis, urges ‘immediate’ donations</a>",
+        "url": "https://www.fiercehealthcare.com/providers/american-red-cross-declares-second-ever-national-blood-supply-crisis-urges-immediate",
+        "summary": "Donations this summer are not “keeping pace with hospital demand,” with the nonprofit citing extreme heat, poor air quality and foodborne illnesses as factors in the low donor turnout.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 28, 2026 2:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-boosts-2026-guidance-it-posts-11b-q2-profit\" hreflang=\"en\">Margin improvements underpin Centene's strategy for 2027 ACA plans, CEO says</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-boosts-2026-guidance-it-posts-11b-q2-profit",
+        "summary": "Centene reported $1.1 billion in profit for the second quarter of 2026, rebounding from a loss a year ago.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 28, 2026 7:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/procode-ai-secures-10m-series-ai-powered-rcm-surgical-billing\" hreflang=\"en\">Procode AI secures $10M series A for AI-powered RCM for surgical billing</a>",
+        "url": "https://www.fiercehealthcare.com/finance/procode-ai-secures-10m-series-ai-powered-rcm-surgical-billing",
+        "summary": "The fresh funding will back two additional acquisitions, which executives say will be announced in the coming months.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 12:25pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/aurenar-lands-57m-seed-funding-round-non-invasive-neuromodulation-platform\" hreflang=\"en\">Aurenar lands $5.7M seed funding round for non-invasive neuromodulation platform</a>",
+        "url": "https://www.fiercehealthcare.com/finance/aurenar-lands-57m-seed-funding-round-non-invasive-neuromodulation-platform",
+        "summary": "The funding will be used to advance the company’s technology and capabilities, CEO and founder Eric Leuthardt, M.D., told Fierce.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 3:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/included-health-inks-agreement-acquire-firefly-health-scale-alternative-health-plan\" hreflang=\"en\">Included Health inks agreement to acquire Firefly Health to scale alternative health plans for employers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/included-health-inks-agreement-acquire-firefly-health-scale-alternative-health-plan",
+        "summary": "Virtual care and health navigation company Included Health inked a deal to acquire Firefly Health to scale health plan alternatives for employers.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 8:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/lifebridge-health-deploys-prenosis-ai-powered-diagnostic-tool-diagnose\" hreflang=\"en\">LifeBridge Health deploys Prenosis' FDA-authorized AI tool to speed sepsis detection </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/lifebridge-health-deploys-prenosis-ai-powered-diagnostic-tool-diagnose",
+        "summary": "LifeBridge Health's Sinai Hospital of Baltimore is putting an artificial intelligence-powered diagnostic for sepsis into clinical use, bringing a research-backed tool to the patients' bedside.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 10:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/industry-survey-finds-ma-enrollees-have-lower-out-pocket-costs-those-traditional-medicare\" hreflang=\"en\">Industry survey finds MA enrollees have lower out-of-pocket costs than those in traditional Medicare</a>",
+        "url": "https://www.fiercehealthcare.com/payers/industry-survey-finds-ma-enrollees-have-lower-out-pocket-costs-those-traditional-medicare",
+        "summary": "A new analysis finds that Medicare Advantage enrollees spend less on average than those in the traditional program, but report similar satisfaction levels.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 2:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/intermountain-health-acquiring-interests-2-idaho-hospitals-795m\" hreflang=\"en\">Intermountain Health acquiring interests in 2 Idaho hospitals for $795M</a>",
+        "url": "https://www.fiercehealthcare.com/providers/intermountain-health-acquiring-interests-2-idaho-hospitals-795m",
+        "summary": "The nonprofit would become the sole owner of the 88-bed Idaho Falls Community Hospital and share ownership of the 38-bed Mountain View Hospital. It has been a minority investor in both since 2023.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 11:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/salesforce-awarded-16b-3-year-veteran-affairs-contract-part-veterans-first-initiative\" hreflang=\"en\">Salesforce lands $1.6B Veteran Affairs deal to integrate AI into healthcare workflows</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/salesforce-awarded-16b-3-year-veteran-affairs-contract-part-veterans-first-initiative",
+        "summary": "The agreement aims to create a “unified foundation across the department, equipping VA employees with trusted agentic AI, integrated data, and advanced collaboration tools that can reduce administrative friction and give staff more time to serve Veterans,\" the VA said.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 2:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-scribe-adoption-grows-researchers-suki-challenge-industrys-quality\" hreflang=\"en\">As AI scribe adoption grows, researchers at Suki challenge the industry's quality playbook</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-scribe-adoption-grows-researchers-suki-challenge-industrys-quality",
+        "summary": "As adoption of AI ambient scribe technology rapidly grows, the healthcare industry's standard method for evaluating clinical AI notes may be fundamentally flawed, failing to detect significant errors in patient notes.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 7:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/flourish-health-secures-26m-scale-intensive-youth-mental-healthcare\" hreflang=\"en\">Flourish Health secures $26M to scale intensive youth mental healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/finance/flourish-health-secures-26m-scale-intensive-youth-mental-healthcare",
+        "summary": "The startup provides an in-home care model to help child and young adult patients with serious complex mental health needs.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 24, 2026 10:14am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most\" hreflang=\"en\">Eli Lilly tops new biopharma ranking on launch success, development speed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most",
+        "summary": "Flush with GLP-1 cash and pipeline success, Eli Lilly rose from 16th to first over five years in Norstella’s inaugural Pipeline-to-Patient Productivity Index, which evaluated 25 large, global biopharma companies on R&amp;D productivity, market access and commercial performance.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 1:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incyte-ditches-development-jak-inhibitor-pursue-next-generation-pipeline\" hreflang=\"en\">Incyte ditches phase 1-stage JAK inhibitor to pursue next-gen options</a>",
+        "url": "https://www.fiercebiotech.com/biotech/incyte-ditches-development-jak-inhibitor-pursue-next-generation-pipeline",
+        "summary": "Incyte has ditched a JAK2 inhibitor in phase 1 development for a rare blood cancer in favor of “next-generation” replacements.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 10:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/altimmunes-next-gen-glp-1-curbs-heavy-drinking-unequivocal-ph-2-alcohol-use-disorder-win\" hreflang=\"en\">Altimmune’s next-gen GLP-1 curbs heavy drinking in ‘unequivocal’ ph. 2 alcohol use disorder win </a>",
+        "url": "https://www.fiercebiotech.com/biotech/altimmunes-next-gen-glp-1-curbs-heavy-drinking-unequivocal-ph-2-alcohol-use-disorder-win",
+        "summary": "An experimental drug targeting both GLP-1 and glucagon receptors has curbed heavy drinking in a phase 2 trial, providing hope that the ubiquitous weight loss meds can be effectively harnessed against alcohol use disorder (AUD).",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 10:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-unveils-3-year-cost-saving-plan-fund-late-stage-rd-research-hq-move\" hreflang=\"en\">GSK unveils 3-year cost-saving plan to fund late-stage R&amp;D, move research HQ to AZ's backyard</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-unveils-3-year-cost-saving-plan-fund-late-stage-rd-research-hq-move",
+        "summary": "GSK has unveiled an ambitious three-year plan to divert resources to its late-stage R&amp;D programs and shift its research headquarters—but CEO Luke Miels is being tight-lipped about the extent of any job losses.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 9:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ateas-hepatitis-c-asset-matches-gileads-epclusa-phase-3-trial\" hreflang=\"en\">Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ateas-hepatitis-c-asset-matches-gileads-epclusa-phase-3-trial",
+        "summary": "Atea Pharmaceuticals’ hepatitis C prospect has matched Gilead’s Epclusa in a phase 3 trial, keeping the biotech barreling toward a second readout for its shorter, simpler treatment regimen.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 9:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/guardant-health-taps-patrick-dempsey-emotional-colorectal-cancer-awareness-video\" hreflang=\"en\">Guardant Health taps Patrick Dempsey for emotional colorectal cancer awareness video </a>",
+        "url": "https://www.fiercebiotech.com/medtech/guardant-health-taps-patrick-dempsey-emotional-colorectal-cancer-awareness-video",
+        "summary": "Colorectal cancer blood test maker Guardant Health has teamed up with “Grey’s Anatomy” star Patrick Dempsey for a new, highly emotional video.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 8:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-unveils-major-restructuring-plots-job-cuts-amid-savings-drive\" hreflang=\"en\">Boston Scientific unveils major restructuring, plots job cuts amid savings drive</a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-unveils-major-restructuring-plots-job-cuts-amid-savings-drive",
+        "summary": "Medical device maker Boston Scientific has been a prolific dealmaker this year but is now taking a step back as it looks to make changes internally.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 2:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-partner-hansoh-reports-another-phase-3-win-priority-adc\" hreflang=\"en\">GSK partner Hansoh reports another phase 3 win for priority ADC </a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-partner-hansoh-reports-another-phase-3-win-priority-adc",
+        "summary": "Hansoh Pharmaceutical has guided its GSK-partnered, B7-H3-directed antibody-drug conjugate to another phase 3 win in China.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 7:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-backed-claris-bio-emerges-118m-and-eye-rare-corneal-disease\" hreflang=\"en\">‘This could be a large market’: Novo Holdings-backed Claris secures $118M for corneal disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-backed-claris-bio-emerges-118m-and-eye-rare-corneal-disease",
+        "summary": "A new biotech has come into view with a $118 million series B and a vision for making the front of the eye front-of-mind.",
+        "source": "Fierce Biotech",
+        "published": "Jul 27, 2026 5:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro\" hreflang=\"en\">Acrosian debuts as AI-focused biometrics CRO </a>",
+        "url": "https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro",
+        "summary": "The founders of contract research organization Quartesian have reunited to form Acrosian, a CRO designed to be purpose-built for the AI era.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 9:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ra-capital-launches-rare-disease-company-oak-hill-bio-nasdaq-spac\" hreflang=\"en\">RA Capital launches rare disease company Oak Hill Bio onto Nasdaq via SPAC </a>",
+        "url": "https://www.fiercebiotech.com/biotech/ra-capital-launches-rare-disease-company-oak-hill-bio-nasdaq-spac",
+        "summary": "Rare disease biotech Oak Hill is headed to the Nasdaq through a SPAC merger with RA Capital-sponsored Research Alliance Corporation III (RACC) to fund a rare genetic disease candidate.",
+        "source": "Fierce Biotech",
+        "published": "Jul 27, 2026 1:56pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/maplight-shares-sink-mixed-ph-2-schizophrenia-readout\" hreflang=\"en\">MapLight shares sink on mixed phase 2 schizophrenia readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/maplight-shares-sink-mixed-ph-2-schizophrenia-readout",
+        "summary": "MapLight Therapeutics’ stock plummeted more than 60% this morning after the neuro outfit dropped mixed results for a phase 2 trial of its experimental schizophrenia treatment.",
+        "source": "Fierce Biotech",
+        "published": "Jul 27, 2026 10:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "事关战略产业，顶级大会定调，这个地方率先出手了",
+        "url": "https://www.36kr.com/p/3916117070278275",
+        "summary": "信号已经足够强烈",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 29 Jul 2026 02:45:49 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI制药步入下半场：临床开发能力成商业价值兑现关键点",
+        "url": "https://www.36kr.com/p/3913366926431368",
+        "summary": "当AI批量筛选出具备成药价值的分子，医药创新的先行者们发现：如何更为高效的验证这些分子的临床价值，成为了又一个待解的难题。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 27 Jul 2026 04:03:02 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
+        "url": "https://huggingface.co/papers/2607.24957",
+        "summary": "We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasoning or domain knowledge, while application-driven benchmarks only cover narrow, fragmented domains shaped by heuristic designs. To address these limitations, PerceptionBench adopts a bottom-up approach: by diagnosing the earliest failure points in the responses of frontier MLLMs across 42 existing benchmarks, w",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling",
+        "url": "https://huggingface.co/papers/2607.23518",
+        "summary": "The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, existing approaches are predominantly implemented under a single-target, single-state assumption, limiting their ability to model multi-target or multi-state interactions required for advanced function-oriented protein design. Here, we introduce Chamaileon, which unifies multi-target and multi-state binder design by formulating the problem as cross-context bindi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-25T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+        "url": "https://huggingface.co/papers/2607.24743",
+        "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical understanding that systematically addresses these limitations. We propose a compositional and cascaded",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-26T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

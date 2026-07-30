@@ -1,0 +1,406 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T11:51:32.321788+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 7
+  },
+  "items": {
+    "news": [
+      {
+        "title": "NSF testing new Ph.D. model giving trainees academic and industry experience",
+        "url": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/",
+        "summary": "Students working in fields eligible for NSF funding will be able to participate, including chemistry, engineering, and basic life science research that doesn’t deal directly with the treatment of disease.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 21:36:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Latigo reports mid-stage success for would-be rival to Vertex’s pain drug Journavx",
+        "url": "https://www.statnews.com/2026/07/29/latigo-phase-2-results-non-opioid-pain-reliever-ltg-001/",
+        "summary": "Latigo Biotherapeutics published positive data for an acute-pain drug meant to rival a Vertex medicine already on the market",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 21:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
+        "url": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/",
+        "summary": "The U.S. Federal Trade Commission sued telehealth company Hims &#038; Hers alleging business practices that agency says misled consumers.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 18:45:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: End of Medicare drug subsidy gives Democrats new attack line on rising out-of-pocket costs",
+        "url": "https://www.statnews.com/2026/07/29/trump-medicare-subsidy-cuts-part-d-premium-change/",
+        "summary": "The White House decision to end a Medicare drug subsidy plays into Democratic arguments ahead of the midterms.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 14:58:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a fugitive who became a biotech exec, a hospital suing Lilly, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/29/fugitive-who-became-biotech-exec-hospital-sues-lilly/",
+        "summary": "The discovery that a fugitive had been working under an alias in the biotech industry prompted a question: How did he evade scrutiny for two decades?",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 13:36:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why benchmarking clinical LLMs from OpenEvidence, Doximity is complicated",
+        "url": "https://www.statnews.com/2026/07/29/benchmarking-clinical-chatbots-openevidence-doximity-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis: A conversation about benchmarking leading clinical chatbots, investor view on AI in biopharma, and more.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 13:29:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Fauci invokes Fifth Amendment in declining to answer questions before Senate panel",
+        "url": "https://www.statnews.com/2026/07/29/fauci-pleads-fifth-criticizes-rand-paul-senate-hearing/",
+        "summary": "At a highly anticipated Senate hearing, Anthony Fauci evoked his Fifth Amendment right to refuse to answer questions about the Covid-19 pandemic and its origins.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 12:55:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A neglected issue in pedestrian, biker deaths",
+        "url": "https://www.statnews.com/2026/07/29/health-news-neglected-issue-in-pedestrian-biker-deaths/",
+        "summary": "Fauci's testimony, visa time limits for research students, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 11:50:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA expert panel recommends against approval of Capricor’s Duchenne drug",
+        "url": "https://www.statnews.com/2026/07/29/capricor-therapeutics-deramiocel-fda-review-meeting-live-blog/",
+        "summary": "STAT is live-blogging an FDA meeting on Capricor Therapeutics’ treatment for Duchenne muscular dystrophy, which has been the subject of a contentious regulatory review.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 10:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Clinical chatbots are taking medicine by storm. Should doctors trust them?",
+        "url": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/",
+        "summary": "As LLMs compete for doctors' attention, some developers say the science of benchmarking their AI tools for safety and accuracy is flawed.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In the biotech industry, a most-wanted fugitive was long hiding in plain sight",
+        "url": "https://www.statnews.com/2026/07/29/ronald-fischer-fugitive-used-alias-forged-cv-held-biotech-executive-jobs/",
+        "summary": "Ronald Fischer, a most-wanted fugitive, was long hiding in the biotech industry in plain sight, and using an alias more extensively than has been previously reported.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The VA could help America win the biotechnology race with China",
+        "url": "https://www.statnews.com/2026/07/29/biotech-race-china-veterans-affairs-va/",
+        "summary": "“Together, HHS, the VA, and the DOD form a strong American innovation ecosystem — one that China and other competitors cannot easily replicate,” writes former VA Secretary David Shulkin.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Prolonged hospital stays can leave children isolated. It needs to change",
+        "url": "https://www.statnews.com/2026/07/29/long-hospital-stays-children-research-isolation/",
+        "summary": "“The effects of isolation extend far beyond children’s time in the hospital,” writes medical student Anna Tsioulias.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: American Diabetes Association, facing calls for resignations, asks for patience",
+        "url": "https://www.statnews.com/2026/07/28/american-diabetes-association-fallout-researchers-expulsion/",
+        "summary": "An open letter to the board of the American Diabetes Association said the board had badly mishandled an incident at its annual meeting.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 23:34:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Six key issues we’re watching at Fauci’s hearing",
+        "url": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/",
+        "summary": "Sen. Rand Paul is forcing Fauci to appear before his Senate panel.",
+        "source": "STAT News",
+        "published": "Tue, 28 Jul 2026 19:29:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/birches-health-finds-most-patients-improve-gambling-disorder-symptoms\" hreflang=\"en\">Virtual care helps patients improve their gambling disorder symptoms, Birches Health finds</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/birches-health-finds-most-patients-improve-gambling-disorder-symptoms",
+        "summary": "Birches, a virtual provider for digital addictions, says the study is the largest real-world dataset on virtual gambling disorder treatment in the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 4:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ftc-sues-hims-hers-alleging-it-breached-patient-privacy\" hreflang=\"en\">FTC sues Hims &amp; Hers over data privacy, billing practices</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ftc-sues-hims-hers-alleging-it-breached-patient-privacy",
+        "summary": "The Federal Trade Commission, along with Utah and California authorities, sued telehealth company Hims &amp; Hers, alleging it misled consumers about privacy, billing and subscription practices.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 8:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cms-proposed-340b-reimbursement-cuts-who-wins-and-who-loses\" hreflang=\"en\">CMS' proposed 340B reimbursement cut—who wins, and who loses?</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cms-proposed-340b-reimbursement-cuts-who-wins-and-who-loses",
+        "summary": "Disproportionate share hospitals are expected to see a 5.8% net reduction in OPPS revenue under the proposal, while for-profits are expecting a 7.4% net increase, KFF highlighted in a recent analysis of CMS projections.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 4:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-ending-medicare-part-d-subsidy-program\" hreflang=\"en\">CMS ending Medicare Part D subsidy program</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-ending-medicare-part-d-subsidy-program",
+        "summary": "The Trump administration announced that it will end a subsidy program that aimed to keep premiums low for Medicare Part D beneficiaries.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 2:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-still-track-25-medicare-advantage-membership-growth-year\" hreflang=\"en\">Humana plans more market exits for 2027, CFO says</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-still-track-25-medicare-advantage-membership-growth-year",
+        "summary": "As it continues to push toward its 2028 margin goals, Humana executives said Wednesday that the insurer is planning additional Medicare Advantage market exits for 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 7:55am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/leapfrog-announces-2026-ratings-launches-expanded-asc-public-reporting-program\" hreflang=\"en\">Leapfrog launches expanded ASC public reporting program</a>",
+        "url": "https://www.fiercehealthcare.com/providers/leapfrog-announces-2026-ratings-launches-expanded-asc-public-reporting-program",
+        "summary": "More than 3,900 ASCs were included in the national nonprofit’s 2026 ratings, along with more than 2,400 hospitals.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 9:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/wellstar-health-system-lays-761-corporate-administrative-staff\" hreflang=\"en\">Wellstar Health System lays off 761 corporate, administrative staff</a>",
+        "url": "https://www.fiercehealthcare.com/providers/wellstar-health-system-lays-761-corporate-administrative-staff",
+        "summary": "The cuts translate to about 2% of the nonprofit system's headcount, and do not include frontline care roles.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 11:50am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rising-inflation-projected-hospitals-non-labor-spending-2027-vizient\" hreflang=\"en\">AI, energy prices will strain hospitals' non-labor spending in 2027: Vizient</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rising-inflation-projected-hospitals-non-labor-spending-2027-vizient",
+        "summary": "Overall supply chain price inflation is trending well upward for the coming calendar year, with indirect spending categories like IT, construction and even food set for substantial increases, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 28, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—MaineHealth reorgs hit 83; Tower Health cutting 160 at PA hospital</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-cvs-march-toward-simpler-patient-experience\" hreflang=\"en\">A look at CVS’ march toward a simpler patient experience</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-cvs-march-toward-simpler-patient-experience",
+        "summary": "CVS Health Chief Medical Officer Amy Compton-Phillips, M.D., joins senior writer Paige Minemyer to unpack initiatives such as CVS Health 100 and discuss what the ideal patient experience might look like.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 8:29am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ai-doctor-startup-doctronic-acquires-summer-health-expand-pediatric-care\" hreflang=\"en\">AI doctor startup Doctronic acquires Summer Health to move into pediatric care</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ai-doctor-startup-doctronic-acquires-summer-health-expand-pediatric-care",
+        "summary": "AI doctor startup Doctronic aims to broaden its reach beyond adult primary care by acquiring text-based pediatric care platform Summer Health.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 28, 2026 11:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/rare-disease-foundation-partners-citizen-health-embed-ai-agent-everyday\" hreflang=\"en\">Rare disease foundation partners with Citizen Health to embed AI agent into everyday care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/rare-disease-foundation-partners-citizen-health-embed-ai-agent-everyday",
+        "summary": "The Angelman Syndrome Foundation is partnering with startup Citizen Health to offer families access to Ari, an artificial intelligence-powered advocate designed for rare disease communities.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 28, 2026 10:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-adcomm-shoots-down-capricors-duchenne-cell-therapy-after-meeting-marked-statistical\" hreflang=\"en\">FDA adcomm shoots down Capricor's Duchenne cell therapy after meeting marked by statistical dispute</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-adcomm-shoots-down-capricors-duchenne-cell-therapy-after-meeting-marked-statistical",
+        "summary": "A panel of experts today voted against Capricor’s cell therapy for Duchenne muscular dystrophy, capping off an advisory committee meeting marked by statistical confusion.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 5:51pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination\" hreflang=\"en\">Merck posts—then pulls—trial plan for PD-1xVEGF and TROP2 ADC combination</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination",
+        "summary": "After keeping tight-lipped for nearly two years, Merck &amp; Co. briefly dropped the first concrete hint as to where it intends to take its PD-1xVEGF bispecific antibody—before quietly scrubbing the evidence.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 1:59pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/low-tech-chemotherapy-nanoparticles-show-promise-deadly-brain-tumor-recurrence\" hreflang=\"en\">‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence</a>",
+        "url": "https://www.fiercebiotech.com/biotech/low-tech-chemotherapy-nanoparticles-show-promise-deadly-brain-tumor-recurrence",
+        "summary": "A standard chemotherapy drug loaded in nanoparticles has been able to penetrate the blood-brain barrier when administered shortly after resection of the tumor, new research has suggested.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 11:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-ceo-near-term-ma-we-have-what-we-need-grow\" hreflang=\"en\">‘We have what we need to grow:’ Biogen CEO happy to ease off the M&amp;A for a while</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogen-ceo-near-term-ma-we-have-what-we-need-grow",
+        "summary": "Biogen's business development team may have been busy in recent years, but CEO Christopher Viehbacher is easing off the acquisitions for a while.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 10:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-fails-dismiss-lawsuit-over-cagrisema-readout\" hreflang=\"en\">Novo Nordisk fails to dismiss lawsuit over CagriSema readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-fails-dismiss-lawsuit-over-cagrisema-readout",
+        "summary": "Novo Nordisk’s attempt to dismiss a lawsuit about its CagriSema readout has failed, with the judge ruling that parts of the investors’ argument were strong enough for the case to proceed.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 10:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/processa-acquires-vidya-potential-btk-inhibitor-rival-novartis-rhapsido\" hreflang=\"en\">Processa acquires Vidya for potential BTK inhibitor rival to Novartis’ Rhapsido</a>",
+        "url": "https://www.fiercebiotech.com/biotech/processa-acquires-vidya-potential-btk-inhibitor-rival-novartis-rhapsido",
+        "summary": "Processa Pharmaceuticals has made a push into the autoimmune space via the acquisition of Vidya Therapeutics, which delivers a potential rival to Novartis’ Rhapsido.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 10:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/caldera-erupts-public-markets-synlogic-merger-and-278m-financing\" hreflang=\"en\">‘Reverse mergers are increasingly popular’: Caldera hops on Synlogic’s Nasdaq listing </a>",
+        "url": "https://www.fiercebiotech.com/biotech/caldera-erupts-public-markets-synlogic-merger-and-278m-financing",
+        "summary": "Caldera Therapeutics has struck a reverse merger with the publicly traded Synlogic and inked a $278 million financing deal, continuing the meteoric rise of the inflammatory bowel disease startup.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 8:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vertexs-latest-autoimmune-tce-play-involves-28m-upfront-abcellera\" hreflang=\"en\">Vertex’s latest autoimmune TCE play involves $28M upfront to AbCellera</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vertexs-latest-autoimmune-tce-play-involves-28m-upfront-abcellera",
+        "summary": "AbCellera’s T-cell engager platform has reeled in a second client this summer, with Vertex paying $28 million upfront for a collaboration that will include autoimmune conditions.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 8:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most\" hreflang=\"en\">Eli Lilly tops new biopharma ranking on launch success, development speed</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most",
+        "summary": "Flush with GLP-1 cash and pipeline success, Eli Lilly rose from 16th to first over five years in Norstella’s inaugural Pipeline-to-Patient Productivity Index, which evaluated 25 large, global biopharma companies on R&amp;D productivity, market access and commercial performance.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 1:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/incyte-ditches-development-jak-inhibitor-pursue-next-generation-pipeline\" hreflang=\"en\">Incyte ditches phase 1-stage JAK inhibitor to pursue next-gen options</a>",
+        "url": "https://www.fiercebiotech.com/biotech/incyte-ditches-development-jak-inhibitor-pursue-next-generation-pipeline",
+        "summary": "Incyte has ditched a JAK2 inhibitor in phase 1 development for a rare blood cancer in favor of “next-generation” replacements.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 10:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/altimmunes-next-gen-glp-1-curbs-heavy-drinking-unequivocal-ph-2-alcohol-use-disorder-win\" hreflang=\"en\">Altimmune’s next-gen GLP-1 curbs heavy drinking in ‘unequivocal’ ph. 2 alcohol use disorder win </a>",
+        "url": "https://www.fiercebiotech.com/biotech/altimmunes-next-gen-glp-1-curbs-heavy-drinking-unequivocal-ph-2-alcohol-use-disorder-win",
+        "summary": "An experimental drug targeting both GLP-1 and glucagon receptors has curbed heavy drinking in a phase 2 trial, providing hope that the ubiquitous weight loss meds can be effectively harnessed against alcohol use disorder (AUD).",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 10:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-unveils-3-year-cost-saving-plan-fund-late-stage-rd-research-hq-move\" hreflang=\"en\">GSK unveils 3-year cost-saving plan to fund late-stage R&amp;D, move research HQ to AZ's backyard</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-unveils-3-year-cost-saving-plan-fund-late-stage-rd-research-hq-move",
+        "summary": "GSK has unveiled an ambitious three-year plan to divert resources to its late-stage R&amp;D programs and shift its research headquarters—but CEO Luke Miels is being tight-lipped about the extent of any job losses.",
+        "source": "Fierce Biotech",
+        "published": "Jul 28, 2026 9:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "事关战略产业，顶级大会定调，这个地方率先出手了",
+        "url": "https://www.36kr.com/p/3916117070278275",
+        "summary": "信号已经足够强烈",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 29 Jul 2026 02:45:49 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "西南五省市里，几乎只有成都的医疗企业能融到资了",
+        "url": "https://www.36kr.com/p/3917461833111170",
+        "summary": "2026年1-7月西南医疗融资成都占比100%，生态成型领跑西南",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 30 Jul 2026 03:15:38 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
+        "url": "https://www.36kr.com/p/3917362478148993",
+        "summary": "超过1100名领先人工智能公司的高管及员工联名签署公开信，呼吁美国政府对前沿自动化人工智能的发展节奏实施有序管控”。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 29 Jul 2026 23:50:17 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM-1 Mine Detection",
+        "url": "https://huggingface.co/papers/2607.25310",
+        "summary": "Hyperspectral imaging (HSI) is useful for material discrimination, but operational mine screening also depends on how many false alarms must be inspected before targets are found. This paper studies PFM-1 landmine detection in unmanned aerial vehicle (UAV) visible and near-infrared (VNIR) HSI using spectral angle mapper (SAM), matched filter (MF), adaptive coherence estimator (ACE), and constrained energy minimization (CEM). We compare a ground-measured SVC signature, a fully informed in-scene core-pixel signature, and a simulated human-in-the-loop signature bootstrap. Besides receiver operati",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis",
+        "url": "https://huggingface.co/papers/2607.25108",
+        "summary": "Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is a costly cycle that becomes impractical when labels are scarce or privacy constraints limit data sharing. We propose OPERA (Offline Policy-guided Expert Routing and Adaptation), a multi-agent ensemble framework that addresses this deployment bottleneck by treating expert weight assignment as an offline policy learning proble",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Edge-Aware Thermal Infrared UAV Swarm Tracking",
+        "url": "https://huggingface.co/papers/2607.12544",
+        "summary": "Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the Anti-UAV challenge, existing methods primarily prioritize accuracy while overlooking the computational constraints of real-time edge deployment. The standard Kalman Filter (KF) offers the efficiency required for edge devices, yet its constant-velocity assumption often breaks down under highly dynamic UAV motion",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-13T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels",
+        "url": "https://huggingface.co/papers/2607.22135",
+        "summary": "Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormalities introduce task-specific label noise by treating pathological regions as normal tissue. To address this limitation, we introduce BraTS-GLI Anatomy-Lesion, a controlled-access, labels-only derived resource built from the BraTS 2023-GLI training cohort. The resource provides 1,251 unified eight-class anato",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization",
+        "url": "https://huggingface.co/papers/2607.24176",
+        "summary": "Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared exte",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-26T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
+        "url": "https://huggingface.co/papers/2607.24957",
+        "summary": "We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasoning or domain knowledge, while application-driven benchmarks only cover narrow, fragmented domains shaped by heuristic designs. To address these limitations, PerceptionBench adopts a bottom-up approach: by diagnosing the earliest failure points in the responses of frontier MLLMs across 42 existing benchmarks, w",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling",
+        "url": "https://huggingface.co/papers/2607.23518",
+        "summary": "The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, existing approaches are predominantly implemented under a single-target, single-state assumption, limiting their ability to model multi-target or multi-state interactions required for advanced function-oriented protein design. Here, we introduce Chamaileon, which unifies multi-target and multi-state binder design by formulating the problem as cross-context bindi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-25T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

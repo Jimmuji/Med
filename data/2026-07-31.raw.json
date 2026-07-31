@@ -1,0 +1,334 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T12:17:33.255096+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Capricor’s data clash and a fugitive in the C-suite",
+        "url": "https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/",
+        "summary": "Is the FDA taking inconsistent approaches to Duchenne drugs? And how will a new batch of drug executives shake up their companies? Find out on the latest episode of \"The&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 19:03:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
+        "url": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/",
+        "summary": "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 14:17:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Judge denies states’ motion to postpone Medicaid work requirement",
+        "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-judge-declines-states-request-injunction/",
+        "summary": "Federal judge denied 26 states’ request to postpone the implementation of Medicaid work requirements announced in June.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 13:45:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Rising oil prices can boost the cost of some medicines. One expert says it’s time to lower reliance on fossil fuels",
+        "url": "https://www.statnews.com/pharmalot/2026/07/30/rising-oil-prices-cost-of-medicines-fosil-fuels/",
+        "summary": "Unitaid found the rising price of oil could boost the cost of a widely used HIV medicine it reviewed in a detailed analysis.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 13:22:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an FDA panel nixing a Duchenne drug, FTC suing Hims & Hers, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/30/fda-panel-nixes-duchenne-drug-ftc-sues-hims-and-hers/",
+        "summary": "An FDA advisory panel concluded clinical data for a Capricor treatment for Duchenne muscular dystrophy did not provide “substantial evidence” of efficacy",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 13:08:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Ebola outbreak nears milestone, while a vaccine remains months away",
+        "url": "https://www.statnews.com/2026/07/30/health-news-ebola-outbreak-nears-milestone-but-vaccine-close/",
+        "summary": "Medicaid work rules, FTC sues Hims, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 11:49:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA expert committee votes in favor of Replimune’s melanoma treatment",
+        "url": "https://www.statnews.com/2026/07/30/replimune-melanoma-drug-rp1-fda-expert-meeting-live-blog/",
+        "summary": "STAT is live-blogging a meeting of FDA experts to review Replimune’s experimental melanoma drug, RP1.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Chronically ill people face confusion over new Medicaid work rules and ‘medically frail’ exemption",
+        "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/",
+        "summary": "Patients, advocates, and experts fear the difficulty in documenting a frailty exemption to Medicaid work requirements will lead to millions losing coverage.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: U.S. dependence on China is a national security risk",
+        "url": "https://www.statnews.com/2026/07/30/china-us-pharmaceutical-supply-chain-national-security-risk/",
+        "summary": "“China is overtly seeking to displace U.S. leadership across the innovative biopharmaceutical value chain,” write authors of a Council on Foreign Relations report.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Ten years after WHO recognition, mycetoma remains one of the world’s most neglected diseases",
+        "url": "https://www.statnews.com/2026/07/30/mycetoma-who-neglected-disease-research-sudan/",
+        "summary": "“The next 10 years of mycetoma care will determine whether it remains a story of neglect or becomes one of collective action,” writes Borna Nyaoke-Anoke.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Is it safe to drink Red Bull and alcohol? Questionable research tied to energy drink giant has shaped policy",
+        "url": "https://www.statnews.com/2026/07/30/red-bull-funded-studies-energy-drinks-alcohol-shape-policy/",
+        "summary": "Studies tied to Red Bull helped block warning labels about drinking alcohol along with energy drinks. Independent studies report risks in mixing the two.",
+        "source": "STAT News",
+        "published": "Thu, 30 Jul 2026 04:05:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "NSF testing new Ph.D. model giving trainees academic and industry experience",
+        "url": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/",
+        "summary": "Students working in fields eligible for NSF funding will be able to participate, including chemistry, engineering, and basic life science research that doesn’t deal directly with the treatment of disease.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 21:36:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Latigo reports mid-stage success for would-be rival to Vertex’s pain drug Journavx",
+        "url": "https://www.statnews.com/2026/07/29/latigo-phase-2-results-non-opioid-pain-reliever-ltg-001/",
+        "summary": "Latigo Biotherapeutics published positive data for an acute-pain drug meant to rival a Vertex medicine already on the market",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 21:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
+        "url": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/",
+        "summary": "The U.S. Federal Trade Commission sued telehealth company Hims &#038; Hers alleging business practices that agency says misled consumers.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 18:45:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: End of Medicare drug subsidy gives Democrats new attack line on rising out-of-pocket costs",
+        "url": "https://www.statnews.com/2026/07/29/trump-medicare-subsidy-cuts-part-d-premium-change/",
+        "summary": "The White House decision to end a Medicare drug subsidy plays into Democratic arguments ahead of the midterms.",
+        "source": "STAT News",
+        "published": "Wed, 29 Jul 2026 14:58:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule\" hreflang=\"en\">Court rejects states' bid to delay Medicaid work requirements rollout</a>",
+        "url": "https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule",
+        "summary": "A coalition of 26 states is suing the Trump administration over its rollout of Medicaid work requirements.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-boosts-outlook-it-posts-q2-beat-earnings-revenue\" hreflang=\"en\">Cigna CEO: Express Scripts seeing 'significant early interest' from clients for new rebate-free PBM model</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-boosts-outlook-it-posts-q2-beat-earnings-revenue",
+        "summary": "Cigna is raising its outlook for the year after beating the Street on both earnings and revenue in the second quarter of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 7:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/nila-free-research-hub-menopause-other-hormone-conditions\" hreflang=\"en\">Free research hub Nila aims to demystify menopause, other hormone conditions</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/nila-free-research-hub-menopause-other-hormone-conditions",
+        "summary": "Nila’s goal is to offer inclusive information to underrepresented communities like neurodivergent or transgender people.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 2:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/waystar-boosts-2026-outlook-after-solid-q2-performance\" hreflang=\"en\">Waystar boosts 2026 outlook as AI-powered RCM solutions gain traction with providers</a>",
+        "url": "https://www.fiercehealthcare.com/finance/waystar-boosts-2026-outlook-after-solid-q2-performance",
+        "summary": "The healthcare payment software maker brought in $319.7 million in second-quarter revenue, up 18% YOY.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 11:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/teladoc-health-trims-2026-revenue-forecast-amid-challenges-betterhelp-insurance-shift\" hreflang=\"en\">Teladoc Health trims 2026 revenue forecast amid challenges with BetterHelp insurance shift</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-trims-2026-revenue-forecast-amid-challenges-betterhelp-insurance-shift",
+        "summary": "Teladoc Health trimmed its 2026 revenue outlook as its virtual behavioral health unit, BetterHelp, faces revenue pressure with consumer demand for insurance-covered services outpacing clinical capacity.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 8:25am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/senate-help-committee-grills-cdc-nominee-erica-schwartz-vaccine-policy-restoring-trust\" hreflang=\"en\">Senate HELP committee advances nominees for CDC director, HHS preparedness head</a>",
+        "url": "https://www.fiercehealthcare.com/providers/senate-help-committee-grills-cdc-nominee-erica-schwartz-vaccine-policy-restoring-trust",
+        "summary": "Erica Schwartz, M.D., and Sean Kaufman's nominations will move ahead to the full Senate, where they'll likely be confirmed.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 5:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/case-western-announces-drive-delivering-results-innovation-value-execution-program-october\" hreflang=\"en\">Case Western Reserve University launches next-generation healthcare leadership program</a>",
+        "url": "https://www.fiercehealthcare.com/finance/case-western-announces-drive-delivering-results-innovation-value-execution-program-october",
+        "summary": "Case Western Reserve University Weatherhead School of Management launched a new program for healthcare executives to turn strategic goals into measurable results.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 2:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/stellarus-launches-ai-powered-health-plan-customer-service-representative\" hreflang=\"en\">Stellarus launches AI-powered health plan customer service representative copilot</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/stellarus-launches-ai-powered-health-plan-customer-service-representative",
+        "summary": "CSR Chat provides health plan representatives with real-time guidance and contextual support during member interactions—and is embedded directly in workflows.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 28, 2026 12:25pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/birches-health-finds-most-patients-improve-gambling-disorder-symptoms\" hreflang=\"en\">Virtual care helps patients improve their gambling disorder symptoms, Birches Health finds</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/birches-health-finds-most-patients-improve-gambling-disorder-symptoms",
+        "summary": "Birches, a virtual provider for digital addictions, says the study is the largest real-world dataset on virtual gambling disorder treatment in the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 4:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ftc-sues-hims-hers-alleging-it-breached-patient-privacy\" hreflang=\"en\">FTC sues Hims &amp; Hers over data privacy, billing practices</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ftc-sues-hims-hers-alleging-it-breached-patient-privacy",
+        "summary": "The Federal Trade Commission, along with Utah and California authorities, sued telehealth company Hims &amp; Hers, alleging it misled consumers about privacy, billing and subscription practices.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 8:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cms-proposed-340b-reimbursement-cuts-who-wins-and-who-loses\" hreflang=\"en\">CMS' proposed 340B reimbursement cut—who wins, and who loses?</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cms-proposed-340b-reimbursement-cuts-who-wins-and-who-loses",
+        "summary": "Disproportionate share hospitals are expected to see a 5.8% net reduction in OPPS revenue under the proposal, while for-profits are expecting a 7.4% net increase, KFF highlighted in a recent analysis of CMS projections.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 4:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-ending-medicare-part-d-subsidy-program\" hreflang=\"en\">CMS ending Medicare Part D subsidy program</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-ending-medicare-part-d-subsidy-program",
+        "summary": "The Trump administration announced that it will end a subsidy program that aimed to keep premiums low for Medicare Part D beneficiaries.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 2:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/replimunes-twice-rejected-melanoma-drug-prevails-fda-adcomm\" hreflang=\"en\">Replimune’s twice-rejected melanoma drug prevails in FDA adcomm</a>",
+        "url": "https://www.fiercebiotech.com/biotech/replimunes-twice-rejected-melanoma-drug-prevails-fda-adcomm",
+        "summary": "Following a pair of FDA rejections of its melanoma drug, Replimune’s fortunes flipped today after an advisory committee voted 10 to 3 in favor of the candidate’s effectiveness.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 6:13pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/despite-lack-ma-activity-bms-doesnt-feel-any-compulsion-make-deals-ceo\" hreflang=\"en\">BMS CEO Boerner doesn’t ‘feel any compulsion to chase deals’ despite lack of M&amp;A this year</a>",
+        "url": "https://www.fiercebiotech.com/biotech/despite-lack-ma-activity-bms-doesnt-feel-any-compulsion-make-deals-ceo",
+        "summary": "BMS may have been absent from the dealmaking spree of some of its Big Pharma peers this year, but that might not change anytime soon.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 10:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/bristol-myers-delays-cobenfy-alzheimers-psychosis-readout-again-amid-another-quarterly-beat\" hreflang=\"en\">Bristol Myers delays Cobenfy Alzheimer’s psychosis readout again amid another quarterly beat</a>",
+        "url": "https://www.fiercebiotech.com/pharma/bristol-myers-delays-cobenfy-alzheimers-psychosis-readout-again-amid-another-quarterly-beat",
+        "summary": "Investors awaiting Bristol Myers Squibb’s key Alzheimer’s psychosis readout for Cobenfy and atrial fibrillation data for milvexian will have to wait a little longer.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 9:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/gsk-pens-110m-biological-datasets-pact-ai-biotech-relation\" hreflang=\"en\">GSK pens $110M biological datasets pact with AI biotech Relation </a>",
+        "url": "https://www.fiercebiotech.com/medtech/gsk-pens-110m-biological-datasets-pact-ai-biotech-relation",
+        "summary": "GSK is boosting its AI chops with a new deal worth up to $110 million with Relation.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 6:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-fresh-cost-savings-drive-plan-cuts-guidance-again\" hreflang=\"en\">Boston Scientific cuts guidance again after unveiling restructuring plan</a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-fresh-cost-savings-drive-plan-cuts-guidance-again",
+        "summary": "Boston Scientific is cutting its financial guidance for the second quarter in a row as it gears up for a tough six months ahead.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 3:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-scraps-another-phase-2-stage-celiac-disease-therapy-one-hope-left\" hreflang=\"en\">Takeda scraps another phase 2 celiac disease therapy, narrowing pipeline to one</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-scraps-another-phase-2-stage-celiac-disease-therapy-one-hope-left",
+        "summary": "Takeda has dropped another celiac disease therapy from its phase 2 pipeline, leaving the company with just one shot at treating the condition.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 7:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/attovia-braveheart-and-vogenx-seek-more-500m-ipos\" hreflang=\"en\">Attovia, Braveheart and Vogenx seek more than $500M across trio of IPOs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/attovia-braveheart-and-vogenx-seek-more-500m-ipos",
+        "summary": "Attovia Therapeutics, Braveheart Bio and Vogenx have set target ranges for their IPOs, positioning the trio to collectively net more than $500 million from public investors.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 8:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-posts-higher-2q-earnings-strength-diagnostics-lab-services-adjusts-full-year\" hreflang=\"en\">Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance</a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-posts-higher-2q-earnings-strength-diagnostics-lab-services-adjusts-full-year",
+        "summary": "Labcorp continues to power along as it posts strong quarterly earnings led by growth in its diagnostics and lab services and triggering the medtech to raise its full-year guidance.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 8:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-pays-sail-785m-charting-course-possible-vivo-car-t-buyout\" hreflang=\"en\">J&amp;J pays Sail $785M, charting course to possible in vivo CAR-T buyout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jj-pays-sail-785m-charting-course-possible-vivo-car-t-buyout",
+        "summary": "Johnson &amp; Johnson is cruising deeper into in vivo CAR-T waters, paying $785 million upfront to strike a deal that gives it the option to acquire Sail Biomedicines.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 3:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofis-new-ceo-looking-deeply-late-stage-pipeline-clinical-clearout-continues\" hreflang=\"en\">Sanofi’s new CEO ‘looking deeply’ at late-stage pipeline as clinical clearout continues</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofis-new-ceo-looking-deeply-late-stage-pipeline-clinical-clearout-continues",
+        "summary": "Sanofi's new CEO Belén Garijo opened up for the first time about her strategy to reverse a trend of clinical setbacks, including dumping Regeneron-partnered IL-33 candidate itepekimab.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 5:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-adcomm-shoots-down-capricors-duchenne-cell-therapy-after-meeting-marked-statistical\" hreflang=\"en\">FDA adcomm shoots down Capricor's Duchenne cell therapy after meeting marked by statistical dispute</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-adcomm-shoots-down-capricors-duchenne-cell-therapy-after-meeting-marked-statistical",
+        "summary": "A panel of experts today voted against Capricor’s cell therapy for Duchenne muscular dystrophy, capping off an advisory committee meeting marked by statistical confusion.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 5:51pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination\" hreflang=\"en\">Merck posts—then pulls—trial plan for PD-1xVEGF and TROP2 ADC combination</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination",
+        "summary": "After keeping tight-lipped for nearly two years, Merck &amp; Co. briefly dropped the first concrete hint as to where it intends to take its PD-1xVEGF bispecific antibody—before quietly scrubbing the evidence.",
+        "source": "Fierce Biotech",
+        "published": "Jul 29, 2026 1:59pm",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM-1 Mine Detection",
+        "url": "https://huggingface.co/papers/2607.25310",
+        "summary": "Hyperspectral imaging (HSI) is useful for material discrimination, but operational mine screening also depends on how many false alarms must be inspected before targets are found. This paper studies PFM-1 landmine detection in unmanned aerial vehicle (UAV) visible and near-infrared (VNIR) HSI using spectral angle mapper (SAM), matched filter (MF), adaptive coherence estimator (ACE), and constrained energy minimization (CEM). We compare a ground-measured SVC signature, a fully informed in-scene core-pixel signature, and a simulated human-in-the-loop signature bootstrap. Besides receiver operati",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-27T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

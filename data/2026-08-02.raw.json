@@ -1,0 +1,286 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T12:19:38.077247+08:00",
+  "counts": {
+    "news": 33,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
+        "url": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/",
+        "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 17:02:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/07/31/up-and-down-the-ladder-latest-comings-and-goings-jobs/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 14:47:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Novo setback, support for Replimune’s melanoma drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/07/31/novo-setback-fda-panel-endorses-replimune-melanoma-drug/",
+        "summary": "An FDA advisory panel recommended use of an experimental Replimune treatment for advanced melanoma that the agency has rejected twice",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 13:28:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novo Nordisk inflammation-targeting drug misses mark in heart disease study",
+        "url": "https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/",
+        "summary": "A Novo Nordisk drug missed the mark in a heart disease study, raising questions about targeting inflammation to prevent cardiovascular complications.",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 12:32:46 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Federal government could improve infectious disease monitoring, says federal government",
+        "url": "https://www.statnews.com/2026/07/31/health-news-federal-government-infectious-disease-monitoring-issues/",
+        "summary": "The new CDC director nominee moves to the full Senate vote, Medicaid work requirements will not be delayed, and more health news",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 12:28:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: We once praised the American Diabetes Association’s courage. How things have changed",
+        "url": "https://www.statnews.com/2026/07/31/american-diabetes-association-ada-police-apology-independence/",
+        "summary": "“The ADA is no longer what we’d call a profile in courage,” write Adam Marcus and Ivan Oransky of Retraction Watch.",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Limb girdle muscular dystrophy patients face a maddening reality",
+        "url": "https://www.statnews.com/2026/07/31/fda-platform-designation-hold-limb-girdle-muscular-dystrophy-lgmd/",
+        "summary": "“Too often, regulatory tools authorized to speed patient access to breakthrough treatments are being used in ways that even prevent approval,” writes Kat Bryant Knudson.",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: What a recent op-ed got wrong about our Covid study",
+        "url": "https://www.statnews.com/2026/07/31/letter-to-editor-covid-non-pharmaceutical-interventions-research/",
+        "summary": "“The appropriate counter to Covid revisionism is careful, rigorous, and honest assessment of the U.S. response.”",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Syphilis spreads while researchers contend with federal constraints and a drug shortage",
+        "url": "https://www.statnews.com/2026/07/31/syphilis-drug-shortage-case-study-san-diego-patient-researcher-advocate/",
+        "summary": "At the San Diego-Tijuana border, syphilis spreads while researchers contend with federal constraints and a drug shortage.",
+        "source": "STAT News",
+        "published": "Fri, 31 Jul 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cms-locks-23-inpatient-hospital-base-pay-increase-nudges-back-cjr-x-model-start-date\" hreflang=\"en\">CMS locks in 2.3% inpatient hospital base pay increase, nudges back CJR-X Model start date</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cms-locks-23-inpatient-hospital-base-pay-increase-nudges-back-cjr-x-model-start-date",
+        "summary": "The Inpatient Prospective Payment System (IPPS) final rule's base pay increase is slightly below what was proposed earlier this year, though the agency said it now expects the rule's changes to bring hospital payments hundreds of millions of dollars higher than its prior projection.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 5:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/revised-340b-rebate-model-pilot-program-moves-forward-despite-provider-pushback\" hreflang=\"en\">Revised 340B Rebate Model Pilot Program moves forward, despite provider pushback</a>",
+        "url": "https://www.fiercehealthcare.com/providers/revised-340b-rebate-model-pilot-program-moves-forward-despite-provider-pushback",
+        "summary": "A notice from the Health Resources &amp; Services Administration sidelines covered entities' attestations of substantial administrative burden and sets the mulligan program into motion, targeting a Jan. 1 start and 25 potentially eligible products.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 12:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health\" hreflang=\"en\">Function Health lands $450M in growth financing to scale tech-enabled preventive health</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health",
+        "summary": "Function Health, a company that offers lab testing and body scans for early disease detection, landed $450 million in growth financing to scale its tech-enabled personalized preventive health services.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 12:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-counsel-health-rolls-out-counsel-studio-community-health-network\" hreflang=\"en\">Weekly Rundown: Counsel Health rolls out white label AI care platform; Community Health Network launches MyChart AI assistant</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-counsel-health-rolls-out-counsel-studio-community-health-network",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 12:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-employers-attitudes-toward-ichras\" hreflang=\"en\">A look at employers' attitudes toward ICHRAs</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-employers-attitudes-toward-ichras",
+        "summary": "As employers face a continued rise in healthcare costs, ICHRAs do hold promise, but barriers to adoption remain, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 12:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-boasts-316-revenue-increase-q2-boosts-2026-outlook\" hreflang=\"en\">Alignment Healthcare boasts 32% revenue jump in Q2, lifts 2026 outlook</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-boasts-316-revenue-increase-q2-boosts-2026-outlook",
+        "summary": "Executives said the company plans to make further investments in clinical innovation, artificial intelligence solutions and market expansions.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 10:04am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/op-ed-hospitals-edge-time-cms-do-no-harm\" hreflang=\"en\">Op-ed: Hospitals on the edge, a time for CMS to do no harm</a>",
+        "url": "https://www.fiercehealthcare.com/providers/op-ed-hospitals-edge-time-cms-do-no-harm",
+        "summary": "The Centers for Medicare &amp; Medicaid Services' job is to implement last year's $911 billion Medicaid spending reduction, not cut even deeper than Congress intended, New Jersey Hospital Association President and CEO Cathy Bennett writes.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 10:14am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/how-physician-led-care-teams-models-tackle-primary-cares-workforce-problem\" hreflang=\"en\">How 'physician-led' care team models tackle primary care's workforce problem</a>",
+        "url": "https://www.fiercehealthcare.com/providers/how-physician-led-care-teams-models-tackle-primary-cares-workforce-problem",
+        "summary": "Appropriate respect for expertise and independence, plus a shift away from \"transactional\" pay models, can help bolster primary care delivery, recruitment and retention, experts said in a recent policy panel discussion.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 4:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/wellspan-health-hippocratic-ai-enter-expanded-multi-year-partnership-launch\" hreflang=\"en\">WellSpan Health, Hippocratic AI ink ‘multi-year’ partnership with plans to co-develop clinical AI agents</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/wellspan-health-hippocratic-ai-enter-expanded-multi-year-partnership-launch",
+        "summary": "The partnership was first announced in September 2024, with WellSpan Health being one of the first organizations to launch Hippocratic AI’s generative AI agent.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 3:34pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule\" hreflang=\"en\">Court rejects states' bid to delay Medicaid work requirements rollout</a>",
+        "url": "https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule",
+        "summary": "A coalition of 26 states is suing the Trump administration over its rollout of Medicaid work requirements.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-boosts-outlook-it-posts-q2-beat-earnings-revenue\" hreflang=\"en\">Cigna CEO: Express Scripts seeing 'significant early interest' from clients for new rebate-free PBM model</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-boosts-outlook-it-posts-q2-beat-earnings-revenue",
+        "summary": "Cigna is raising its outlook for the year after beating the Street on both earnings and revenue in the second quarter of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 7:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/nila-free-research-hub-menopause-other-hormone-conditions\" hreflang=\"en\">Free research hub Nila aims to demystify menopause, other hormone conditions</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/nila-free-research-hub-menopause-other-hormone-conditions",
+        "summary": "Nila’s goal is to offer inclusive information to underrepresented communities like neurodivergent or transgender people.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 30, 2026 2:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-left-praying-artemis-and-hermes-salvage-program-after-key-phase-3-trial-flops\" hreflang=\"en\">Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-left-praying-artemis-and-hermes-salvage-program-after-key-phase-3-trial-flops",
+        "summary": "A phase 3 trial of Novo Nordisk’s ziltivekimab has missed its primary endpoint, denting the prospects of a molecule analysts tipped to generate blockbuster sales and diversify the company’s portfolio. Novo has chances to rescue the program with its ongoing Artemis and Hermes trials.",
+        "source": "Fierce Biotech",
+        "published": "Jul 31, 2026 8:59am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-legend-biotech-ceo-departs-without-successor-place\" hreflang=\"en\">Chutes &amp; Ladders—Legend CEO departs without successor in place</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-biotech-ceo-departs-without-successor-place",
+        "summary": "Legend Biotech CEO Ying Huang, Ph.D., has left the company suddenly, without a predecessor in place. Huang was elevated from CFO to CEO in 2020 after a Chinese customs investigation was opened on founding CEO Fangliang Zhang, Ph.D.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 4:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/three-regions-fighting-their-place-future-biotech\" hreflang=\"en\">From Abu Dhabi to Brazil, every region is vying for the ‘new emerging economy’ of biotech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/three-regions-fighting-their-place-future-biotech",
+        "summary": "Whether it's looming tariff threats or the rise of China, you need a truly global view to navigate today's biopharma industry.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 2:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/apnimeds-ipo-dream-comes-true-upsized-192m-ipo-fund-sleep-apnea-pill\" hreflang=\"en\">Apnimed’s IPO dream comes true with upsized $192M IPO to fund sleep apnea pill launch</a>",
+        "url": "https://www.fiercebiotech.com/biotech/apnimeds-ipo-dream-comes-true-upsized-192m-ipo-fund-sleep-apnea-pill",
+        "summary": "Apnimed has raised $192 million for its upsized IPO, with the proceeds earmarked to fund the launch of its sleep apnea pill.",
+        "source": "Fierce Biotech",
+        "published": "Jul 31, 2026 4:10am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/replimunes-twice-rejected-melanoma-drug-prevails-fda-adcomm\" hreflang=\"en\">Replimune’s twice-rejected melanoma drug prevails in FDA adcomm</a>",
+        "url": "https://www.fiercebiotech.com/biotech/replimunes-twice-rejected-melanoma-drug-prevails-fda-adcomm",
+        "summary": "Following a pair of FDA rejections of its melanoma drug, Replimune’s fortunes flipped today after an advisory committee voted 10 to 3 in favor of the candidate’s effectiveness.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 6:13pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/despite-lack-ma-activity-bms-doesnt-feel-any-compulsion-make-deals-ceo\" hreflang=\"en\">BMS CEO Boerner doesn’t ‘feel any compulsion to chase deals’ despite lack of M&amp;A this year</a>",
+        "url": "https://www.fiercebiotech.com/biotech/despite-lack-ma-activity-bms-doesnt-feel-any-compulsion-make-deals-ceo",
+        "summary": "BMS may have been absent from the dealmaking spree of some of its Big Pharma peers this year, but that might not change anytime soon.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 10:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/bristol-myers-delays-cobenfy-alzheimers-psychosis-readout-again-amid-another-quarterly-beat\" hreflang=\"en\">Bristol Myers delays Cobenfy Alzheimer’s psychosis readout again amid another quarterly beat</a>",
+        "url": "https://www.fiercebiotech.com/pharma/bristol-myers-delays-cobenfy-alzheimers-psychosis-readout-again-amid-another-quarterly-beat",
+        "summary": "Investors awaiting Bristol Myers Squibb’s key Alzheimer’s psychosis readout for Cobenfy and atrial fibrillation data for milvexian will have to wait a little longer.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 9:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/gsk-pens-110m-biological-datasets-pact-ai-biotech-relation\" hreflang=\"en\">GSK pens $110M biological datasets pact with AI biotech Relation </a>",
+        "url": "https://www.fiercebiotech.com/medtech/gsk-pens-110m-biological-datasets-pact-ai-biotech-relation",
+        "summary": "GSK is boosting its AI chops with a new deal worth up to $110 million with Relation.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 6:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-fresh-cost-savings-drive-plan-cuts-guidance-again\" hreflang=\"en\">Boston Scientific cuts guidance again after unveiling restructuring plan</a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-fresh-cost-savings-drive-plan-cuts-guidance-again",
+        "summary": "Boston Scientific is cutting its financial guidance for the second quarter in a row as it gears up for a tough six months ahead.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 3:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takeda-scraps-another-phase-2-stage-celiac-disease-therapy-one-hope-left\" hreflang=\"en\">Takeda scraps another phase 2 celiac disease therapy, narrowing pipeline to one</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takeda-scraps-another-phase-2-stage-celiac-disease-therapy-one-hope-left",
+        "summary": "Takeda has dropped another celiac disease therapy from its phase 2 pipeline, leaving the company with just one shot at treating the condition.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 7:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/attovia-braveheart-and-vogenx-seek-more-500m-ipos\" hreflang=\"en\">Attovia, Braveheart and Vogenx seek more than $500M across trio of IPOs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/attovia-braveheart-and-vogenx-seek-more-500m-ipos",
+        "summary": "Attovia Therapeutics, Braveheart Bio and Vogenx have set target ranges for their IPOs, positioning the trio to collectively net more than $500 million from public investors.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 8:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-posts-higher-2q-earnings-strength-diagnostics-lab-services-adjusts-full-year\" hreflang=\"en\">Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance</a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-posts-higher-2q-earnings-strength-diagnostics-lab-services-adjusts-full-year",
+        "summary": "Labcorp continues to power along as it posts strong quarterly earnings led by growth in its diagnostics and lab services and triggering the medtech to raise its full-year guidance.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 8:21am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "See2Think: Do Multimodal Models Really Use Intermediate Visual States?",
+        "url": "https://huggingface.co/papers/2607.26769",
+        "summary": "Multimodal large language models increasingly use sketches, annotations, tools, and intermediate images during reasoning, but it remains unclear whether they truly rely on these visual states. Existing benchmarks are limited both by task collections with narrow coverage or partially text-solvable samples and by evaluations that emphasize final answers without diagnosing how intermediate visual states are generated, rendered, and used. We introduce See2Think, a unified evaluation framework comprising See2ThinkBench and Visual Action-of-Thought (VAoT). See2ThinkBench contains 1,200 open-ended, v",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-28T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

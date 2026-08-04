@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T11:59:15.899847+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case",
+        "url": "https://www.statnews.com/pharmalot/2026/08/03/california-supreme-court-sides-with-gilead-in-duty-to-innovate-case/",
+        "summary": "The California Supreme Court sided with Gilead Sciences in a closely watched case over whether the company had a \"duty\" to innovate.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 20:56:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
+        "url": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/",
+        "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 17:27:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Michigan reports the first 2 U.S. deaths related to a diarrhea-causing parasite",
+        "url": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/",
+        "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 16:59:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare eliminates key pathways used by ‘breakthrough’ devices for extra payments",
+        "url": "https://www.statnews.com/2026/08/03/cms-fda-breakthrough-devices-payment-pathways-eliminated/",
+        "summary": "Medicare is removing flexibilities that have allowed \"breakthrough\" medical devices to leapfrog qualifications for extra payments.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 15:41:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Is there a pharma mega-merger in the making?",
+        "url": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/",
+        "summary": "Moderna's imminent FDA vaccine decision, TCGX launches $400M Asia biotech fund, and more biotech news",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 13:18:23 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca-Bristol merger talks, a revised 340B plan, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/03/astrazeneca-bristol-merger-talks-340b-rebate-plan-revised/",
+        "summary": "AstraZeneca stock fell as investors balked at reports of merger talks with Bristol Myers Squibb about forming one of ​the world's biggest drugmakers",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 13:11:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New York’s assisted-dying law moves forward",
+        "url": "https://www.statnews.com/2026/08/03/health-news-new-york-assisted-dying-law-moves-forward/",
+        "summary": "Medicaid work requirements in effect in Nebraska, AI scribes in med school, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 12:58:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sandoz to pay $478.5 million to settle price-fixing allegations in long-running battle with states",
+        "url": "https://www.statnews.com/pharmalot/2026/08/03/sandoz-to-settle-price-fixing-allegations/",
+        "summary": "Sandoz agreed to pay $478.5 million to settle allegations that the company engaged in a conspiracy to artificially inflate and manipulate prices.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 12:12:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: BioNTech names Guido Oelkers its new CEO",
+        "url": "https://www.statnews.com/2026/08/03/biontech-ceo-guido-oelkers-ugur-sahin-replacement/",
+        "summary": "Guido Oelkers will take over as the new CEO of BioNTech, replacing company cofounder Ugur Sahin.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 11:25:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Are AI scribes useful tools in medical education, or a crutch that imperils learning?",
+        "url": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/",
+        "summary": "Educators want future physicians to be fluent in AI scribes, but they worry what off-loading clinical notes to AI could do to learning.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Heart transplant candidates fail if they get too weak. New program tries inpatient prehab",
+        "url": "https://www.statnews.com/2026/08/03/heart-transplant-prehabilitation-cardiologist-discusses-innovative-project/",
+        "summary": "Patients often get weaker waiting in the hospital for heart transplant. A cardiologist had an idea: inpatient prehabilitation.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m a neurologist. I’ve delivered ALS diagnoses. Then I received one myself",
+        "url": "https://www.statnews.com/2026/08/03/als-diagnosis-neurologist-research-hope/",
+        "summary": "“Losing the ability to speak has taught me how quickly society conflates physical dependence with diminished personhood,” writes Dr. Christopher Campos.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine",
+        "url": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/",
+        "summary": "The leaders of the Federation of State Medical Boards weigh in on the question of licensing AI to practice medicine.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Senate measure would block Trump plan to politicize federal grants, for now",
+        "url": "https://www.statnews.com/2026/08/02/senate-would-block-white-house-control-over-research-grants/",
+        "summary": "A White House proposal to subject research grants to political scrutiny meets at least a temporary roadblock in the Senate.",
+        "source": "STAT News",
+        "published": "Sun, 02 Aug 2026 23:55:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
+        "url": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/",
+        "summary": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forgo the drug.",
+        "source": "STAT News",
+        "published": "Sun, 02 Aug 2026 18:14:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cleveland-clinic-and-zipline-take-flight-through-prescription-drug-drone-delivery\" hreflang=\"en\">Cleveland Clinic, Zipline take flight with prescription drug drone delivery partnership </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cleveland-clinic-and-zipline-take-flight-through-prescription-drug-drone-delivery",
+        "summary": "Cleveland Clinic and Zipline have taken to the skies with their drone-delivery partnership for prescription drugs. It marks the first long-term deployment of a prescription drug drone delivery by a health system, they said, with the first deliveries made last week in and around Beachwood.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 2:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/why-payers-should-have-these-3-pipeline-drugs-their-radar\" hreflang=\"en\">Why payers should have these 3 pipeline drugs on their radar</a>",
+        "url": "https://www.fiercehealthcare.com/payers/why-payers-should-have-these-3-pipeline-drugs-their-radar",
+        "summary": "Optum Rx's latest look at the drug development pipeline highlights three drugs for rare and chronic conditions that payers and plan sponsors should be watching.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 4:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/democratic-ags-file-suit-challenging-2027-aca-rule\" hreflang=\"en\">Democratic AGs file suit challenging 2027 ACA rule</a>",
+        "url": "https://www.fiercehealthcare.com/payers/democratic-ags-file-suit-challenging-2027-aca-rule",
+        "summary": "Democratic attorneys general are making a renewed push to challenge the latest regulation governing the Affordable Care Act's marketplaces.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 3:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-appropriators-unveil-stopgap-funding-bill-blocks-trumps-attempt-change-science\" hreflang=\"en\">Senate appropriators unveil stopgap funding bill that blocks Trump's attempt to change science funding</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-appropriators-unveil-stopgap-funding-bill-blocks-trumps-attempt-change-science",
+        "summary": "Senators on the Appropriations Committee on Sunday released a stopgap funding bill to avert a government shutdown by Oct. 1 and temporarily block a White House proposal that would fundamentally change how the federal government awards and manages grants.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 2:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/simplifed-umass-study-finds-virtual-lactation-support-improved-outcomes\" hreflang=\"en\">Study: Virtual lactation support encouraged breastfeeding, improved mental health</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/simplifed-umass-study-finds-virtual-lactation-support-improved-outcomes",
+        "summary": "Participants who completed three or more telelactation visits breastfed for nearly 16 weeks longer than those who did not engage with any visits.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 11:25am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hrsa-funded-health-centers-saw-record-327m-patients-2025-hhs\" hreflang=\"en\">HRSA-funded health centers saw ‘record’ 32.7M patients in 2025: HHS</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hrsa-funded-health-centers-saw-record-327m-patients-2025-hhs",
+        "summary": "More than 32.7 million patients were served at HRSA-funded centers in 2025, in what the agency says is the highest in its history.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 11:56am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/missing-infrastructure-behind-medicaid-modernization\" hreflang=\"en\">The Missing Infrastructure Behind Medicaid Modernization</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/missing-infrastructure-behind-medicaid-modernization",
+        "summary": "Policy intervention alone won't modernize Medicaid. Sustainable home-based care depends on the operational systems that connect oversight, payments, and participant support.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 8:39am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/not-all-noninvasive-imaging-technologies-are-evaluated-same-payers\" hreflang=\"en\">Not All Noninvasive Imaging Technologies Are Evaluated the Same by Payers</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/not-all-noninvasive-imaging-technologies-are-evaluated-same-payers",
+        "summary": "As noninvasive tests for assessing liver disease continue to evolve, it can be tempting to assume that technologies designed to assess the same clinical conditions are evaluated the same way by health plans.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 29, 2026 9:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/rethinking-rcm-era-payer-complexity-and-ai\" hreflang=\"en\">Rethinking RCM in an era of payer complexity and AI</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/rethinking-rcm-era-payer-complexity-and-ai",
+        "summary": "Revenue cycle management has historically been labor intensive, demanding work. What has changed is the pace at which it is getting harder.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 22, 2026 1:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cms-locks-23-inpatient-hospital-base-pay-increase-nudges-back-cjr-x-model-start-date\" hreflang=\"en\">CMS locks in 2.3% inpatient hospital base pay increase, nudges back CJR-X Model start date</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cms-locks-23-inpatient-hospital-base-pay-increase-nudges-back-cjr-x-model-start-date",
+        "summary": "The Inpatient Prospective Payment System (IPPS) final rule's base pay increase is slightly below what was proposed earlier this year, though the agency said it now expects the rule's changes to bring hospital payments hundreds of millions of dollars higher than its prior projection.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 5:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/revised-340b-rebate-model-pilot-program-moves-forward-despite-provider-pushback\" hreflang=\"en\">Revised 340B Rebate Model Pilot Program moves forward, despite provider pushback</a>",
+        "url": "https://www.fiercehealthcare.com/providers/revised-340b-rebate-model-pilot-program-moves-forward-despite-provider-pushback",
+        "summary": "A notice from the Health Resources &amp; Services Administration sidelines covered entities' attestations of substantial administrative burden and sets the mulligan program into motion, targeting a Jan. 1 start and 25 potentially eligible products.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 12:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health\" hreflang=\"en\">Function Health lands $450M in growth financing to scale tech-enabled preventive health</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health",
+        "summary": "Function Health, a company that offers lab testing and body scans for early disease detection, landed $450 million in growth financing to scale its tech-enabled personalized preventive health services.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 31, 2026 12:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/curium-strikes-8b-deal-radiopharma-rival-lantheus\" hreflang=\"en\">Curium strikes up to $8B deal for radiopharma rival Lantheus</a>",
+        "url": "https://www.fiercebiotech.com/medtech/curium-strikes-8b-deal-radiopharma-rival-lantheus",
+        "summary": "Months after reports first linked Curium to a potential Lantheus takeover, the radiopharma players have made it official with a deal worth up to $8 billion.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 1:56pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/blossomhill-eyes-112m-ipo-harvest-bankroll-potential-tagrisso-challenger\" hreflang=\"en\">BlossomHill eyes $112M IPO harvest to bankroll potential Tagrisso challenger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/blossomhill-eyes-112m-ipo-harvest-bankroll-potential-tagrisso-challenger",
+        "summary": "BlossomHill Therapeutics plans to raise $111.7 million to fund the clinical journey of its potential challenger to Tagrisso.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 9:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-making-difference-madrigal-ceo-talks-strategy-behind-mash-shopping-spree\" hreflang=\"en\">‘It’s making a difference’: Madrigal CEO talks strategy behind MASH shopping spree </a>",
+        "url": "https://www.fiercebiotech.com/biotech/its-making-difference-madrigal-ceo-talks-strategy-behind-mash-shopping-spree",
+        "summary": "Not content with navigating Rezdiffra’s trajectory to blockbuster territory, Madrigal Pharmaceuticals has spent 2026 shopping for a range of drugs that the company hopes could work alongside its metabolic dysfunction-associated steatohepatitis trailblazer.",
+        "source": "Fierce Biotech",
+        "published": "Jul 31, 2026 9:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-6-month-wait-biontech-announces-sobi-ceo-will-take-top-job\" hreflang=\"en\">After 5-month wait, BioNTech announces Sobi CEO will take on top job at mRNA company</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-6-month-wait-biontech-announces-sobi-ceo-will-take-top-job",
+        "summary": "One of the most closely watched vacancies in biopharma has now been filled, with Sobi CEO Guido Oelkers, Ph.D., moving across to take up the top job at mRNA pioneer BioNTech.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 6:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/astrazeneca-bristol-myers-squibb-merger-would-be-bad-idea\" hreflang=\"en\">Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea</a>",
+        "url": "https://www.fiercebiotech.com/pharma/astrazeneca-bristol-myers-squibb-merger-would-be-bad-idea",
+        "summary": "Combining the two drugmakers would trigger severe regulatory concerns and significant pipeline disruptions, cost numerous jobs, all while damaging the broader biopharma ecosystem and hurting patients, Angus Liu argues in an editorial.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 12:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-left-praying-artemis-and-hermes-salvage-program-after-key-phase-3-trial-flops\" hreflang=\"en\">Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-left-praying-artemis-and-hermes-salvage-program-after-key-phase-3-trial-flops",
+        "summary": "A phase 3 trial of Novo Nordisk’s ziltivekimab has missed its primary endpoint, denting the prospects of a molecule analysts tipped to generate blockbuster sales and diversify the company’s portfolio. Novo has chances to rescue the program with its ongoing Artemis and Hermes trials.",
+        "source": "Fierce Biotech",
+        "published": "Jul 31, 2026 8:59am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-legend-biotech-ceo-departs-without-successor-place\" hreflang=\"en\">Chutes &amp; Ladders—Legend CEO departs without successor in place</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-biotech-ceo-departs-without-successor-place",
+        "summary": "Legend Biotech CEO Ying Huang, Ph.D., has left the company suddenly, without a predecessor in place. Huang was elevated from CFO to CEO in 2020 after a Chinese customs investigation was opened on founding CEO Fangliang Zhang, Ph.D.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 4:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/three-regions-fighting-their-place-future-biotech\" hreflang=\"en\">From Abu Dhabi to Brazil, every region is vying for the ‘new emerging economy’ of biotech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/three-regions-fighting-their-place-future-biotech",
+        "summary": "Whether it's looming tariff threats or the rise of China, you need a truly global view to navigate today's biopharma industry.",
+        "source": "Fierce Biotech",
+        "published": "Jul 23, 2026 2:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/apnimeds-ipo-dream-comes-true-upsized-192m-ipo-fund-sleep-apnea-pill\" hreflang=\"en\">Apnimed’s IPO dream comes true with upsized $192M IPO to fund sleep apnea pill launch</a>",
+        "url": "https://www.fiercebiotech.com/biotech/apnimeds-ipo-dream-comes-true-upsized-192m-ipo-fund-sleep-apnea-pill",
+        "summary": "Apnimed has raised $192 million for its upsized IPO, with the proceeds earmarked to fund the launch of its sleep apnea pill.",
+        "source": "Fierce Biotech",
+        "published": "Jul 31, 2026 4:10am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/replimunes-twice-rejected-melanoma-drug-prevails-fda-adcomm\" hreflang=\"en\">Replimune’s twice-rejected melanoma drug prevails in FDA adcomm</a>",
+        "url": "https://www.fiercebiotech.com/biotech/replimunes-twice-rejected-melanoma-drug-prevails-fda-adcomm",
+        "summary": "Following a pair of FDA rejections of its melanoma drug, Replimune’s fortunes flipped today after an advisory committee voted 10 to 3 in favor of the candidate’s effectiveness.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 6:13pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/despite-lack-ma-activity-bms-doesnt-feel-any-compulsion-make-deals-ceo\" hreflang=\"en\">BMS CEO Boerner doesn’t ‘feel any compulsion to chase deals’ despite lack of M&amp;A this year</a>",
+        "url": "https://www.fiercebiotech.com/biotech/despite-lack-ma-activity-bms-doesnt-feel-any-compulsion-make-deals-ceo",
+        "summary": "BMS may have been absent from the dealmaking spree of some of its Big Pharma peers this year, but that might not change anytime soon.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 10:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/bristol-myers-delays-cobenfy-alzheimers-psychosis-readout-again-amid-another-quarterly-beat\" hreflang=\"en\">Bristol Myers delays Cobenfy Alzheimer’s psychosis readout again amid another quarterly beat</a>",
+        "url": "https://www.fiercebiotech.com/pharma/bristol-myers-delays-cobenfy-alzheimers-psychosis-readout-again-amid-another-quarterly-beat",
+        "summary": "Investors awaiting Bristol Myers Squibb’s key Alzheimer’s psychosis readout for Cobenfy and atrial fibrillation data for milvexian will have to wait a little longer.",
+        "source": "Fierce Biotech",
+        "published": "Jul 30, 2026 9:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "17.96万亿，网球女皇的咖啡店要IPO了",
+        "url": "https://www.36kr.com/p/3923316164275584",
+        "summary": "印尼“瑞幸”，要上市了",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 03 Aug 2026 08:19:13 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
+        "url": "https://huggingface.co/papers/2607.29684",
+        "summary": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on carefully curated training data pairs, with limited robustness under different scenarios. This paper offers a new perspective for RGB-NIR low-light imaging by incorporating 3D-aware neural modeling. Without using clean RGB supervision, a powerful model can be optimized to implicitly fuse extremely noisy RGB observations with NIR cues in 3D space, effectively recovering clean RGB images. The proposed mo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-30T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "See2Think: Do Multimodal Models Really Use Intermediate Visual States?",
+        "url": "https://huggingface.co/papers/2607.26769",
+        "summary": "Multimodal large language models increasingly use sketches, annotations, tools, and intermediate images during reasoning, but it remains unclear whether they truly rely on these visual states. Existing benchmarks are limited both by task collections with narrow coverage or partially text-solvable samples and by evaluations that emphasize final answers without diagnosing how intermediate visual states are generated, rendered, and used. We introduce See2Think, a unified evaluation framework comprising See2ThinkBench and Visual Action-of-Thought (VAoT). See2ThinkBench contains 1,200 open-ended, v",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-28T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

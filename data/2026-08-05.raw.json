@@ -1,0 +1,358 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T11:54:19.496817+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
+        "url": "https://www.statnews.com/2026/08/04/ebola-1700-deaths-eastern-congo-fastest-growing-outbreak/",
+        "summary": "Ebola has killed more than 1,700 people in eastern Congo in what has become the fastest-growing outbreak of the disease.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 19:10:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Startup promising to scale custom CRISPR therapies abruptly scraps plans",
+        "url": "https://www.statnews.com/2026/08/04/aurora-therapeutics-ends-program-baby-kj-treatments-beam-therapeutics-jennifer-doudna/",
+        "summary": "The FDA, while promising flexibility in approving Baby KJ-type gene editing, still has set standards difficult for a small startup to meet.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 17:04:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Three biotechs with three news updates",
+        "url": "https://www.statnews.com/2026/08/04/biotech-news-gilead-wins-case-that-scrutinized-pace-of-drug-development/",
+        "summary": "Gilead wins case over its HIV medicine, Eli Lilly to expand retatrutide access, and more biotech news",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 15:54:53 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Are AI scribes medical devices? U.K. regulator weighs in",
+        "url": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/",
+        "summary": "In this edition of STAT Health Tech: UK regulator on AI scribes, CMS eliminates key payment pathways for 'breakthrough' devices, and more.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 13:23:31 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Lilly access program, a Gilead court victory, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/04/lilly-expands-retatrutide-access-program-gilead-court-victory/",
+        "summary": "Eli Lilly confirmed that it will allow more patients to apply for early access to retatrutide, an unapproved obesity drug",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 13:11:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trans federal employees sue over revoked health coverage",
+        "url": "https://www.statnews.com/2026/08/04/health-news-trans-federal-employees-sue-over-revoked-coverage/",
+        "summary": "Expanded retatrutide access, the cost of the 2025 measles outbreak, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 12:30:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The latest orphan drug exemptions may not be warranted, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/08/04/latest-orphan-drug-exemptions-may-not-be-warranted-analysis-finds/",
+        "summary": "A new analysis questions the wisdom of a controversial provision in federal law that exempts so-called orphan drugs from Medicare pricing negotiations.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 12:05:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kennedy and Oz call Medicaid cuts ‘myths.’ It’s more complicated than that",
+        "url": "https://www.statnews.com/2026/08/04/rfk-medicaid-cuts-myth-analysis/",
+        "summary": "Kennedy and Oz say Medicaid isn't being cut. But state Medicaid directors say new policies are likely to cause many people to lose coverage.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: As Trump administration pushes court-ordered mental health care, a new report raises questions",
+        "url": "https://www.statnews.com/2026/08/04/new-report-questions-new-york-program-court-ordered-mental-healthcare/",
+        "summary": "A study of New York’s court-ordered care for people with serious mental health conditions adds to the research on this type of involuntary care.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: How Josée became one of the 7.9% of Québécois who die by assisted suicide",
+        "url": "https://www.statnews.com/2026/08/04/assisted-suicide-medical-aid-in-dying-quebec-mental-illness-suffering/",
+        "summary": "“In focusing on medical aid in dying solely as an end, we’ve missed out on the life that was lived,” writes physician Sai Rajagopal.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m using not-FDA-approved software to manage my diabetes. I’ve never felt better",
+        "url": "https://www.statnews.com/2026/08/04/diabetes-open-source-software-fda-approval/",
+        "summary": "“It is no longer possible to ask the FDA to keep pace with software development by doing the same reviews faster,” writes Dana Goldman.",
+        "source": "STAT News",
+        "published": "Tue, 04 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case",
+        "url": "https://www.statnews.com/pharmalot/2026/08/03/california-supreme-court-sides-with-gilead-in-duty-to-innovate-case/",
+        "summary": "The California Supreme Court sided with Gilead Sciences in a closely watched case over whether the company had a \"duty\" to innovate.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 20:56:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
+        "url": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/",
+        "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 17:27:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Michigan reports the first 2 U.S. deaths related to a diarrhea-causing parasite",
+        "url": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/",
+        "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 16:59:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare eliminates key pathways used by ‘breakthrough’ devices for extra payments",
+        "url": "https://www.statnews.com/2026/08/03/cms-fda-breakthrough-devices-payment-pathways-eliminated/",
+        "summary": "Medicare is removing flexibilities that have allowed \"breakthrough\" medical devices to leapfrog qualifications for extra payments.",
+        "source": "STAT News",
+        "published": "Mon, 03 Aug 2026 15:41:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/us-news-2025-26-best-hospitals-lists-home-outcomes\" hreflang=\"en\">US News' 2025-26 Best Hospitals lists home in on outcomes</a>",
+        "url": "https://www.fiercehealthcare.com/providers/us-news-2025-26-best-hospitals-lists-home-outcomes",
+        "summary": "Among nearly 4,500 evaluated hospitals, the highly watched annual accolades awarded 16% some form of \"Best Hospitals\" designation.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 3:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-unveils-toolkit-states-safeguard-autism-care-amid-aba-spending-growth\" hreflang=\"en\">Amid spending growth scrutiny, CMS unveils toolkit for states to safeguard autism care</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-unveils-toolkit-states-safeguard-autism-care-amid-aba-spending-growth",
+        "summary": "The toolkit does not establish new federal requirements or endorse any single treatment approach to applied behavior analysis (ABA). Instead, CMS says it gives states practical tools to ensure every child gets individualized, evidence-based care.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 2:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hca-healthcare-acquires-40-texas-urgent-care-centers\" hreflang=\"en\">HCA Healthcare acquires 40 Texas urgent care centers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-acquires-40-texas-urgent-care-centers",
+        "summary": "The deal sees the facilities rebranded as CareNow sites, and many are being tied to the existing footprint of two affiliate systems.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 12:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/complete-health-pay-141m-medicare-advantage-coding-misuse-allegations-settlement\" hreflang=\"en\">Complete Health to pay $14.1M in Medicare Advantage coding misuse allegations settlement</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/complete-health-pay-141m-medicare-advantage-coding-misuse-allegations-settlement",
+        "summary": "The settlement resolves allegations from 2020 to 2023 that the company submitted HCCs that were \"not clinically valid\" or not supported by medical records or treatment plans.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 10:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/amae-health-teams-google-health-integrate-wearables-data-smi-care\" hreflang=\"en\">Amae Health teams up with Google Health to integrate wearables data into SMI care</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/amae-health-teams-google-health-integrate-wearables-data-smi-care",
+        "summary": "Amae’s long-term goal is to develop a predictive model that pulls on wearables and other data to measure disease state and progression and spot early warning signs of clinical decline.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 12:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/daffodil-health-unveils-ai-powered-payer-platform-managing-nsa-disputes\" hreflang=\"en\">Daffodil Health unveils AI-powered payer platform for managing NSA disputes</a>",
+        "url": "https://www.fiercehealthcare.com/payers/daffodil-health-unveils-ai-powered-payer-platform-managing-nsa-disputes",
+        "summary": "AI health tech company Daffodil Health is rolling out a new platform aimed at supporting payers in managing the No Surprises Act dispute process.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 2:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/quanthealth-raises-45m-series-b-accelerate-ai-driven-clinical-trial-simulations\" hreflang=\"en\">QuantHealth raises $45M series B to accelerate AI-driven clinical trial simulations</a>",
+        "url": "https://www.fiercehealthcare.com/finance/quanthealth-raises-45m-series-b-accelerate-ai-driven-clinical-trial-simulations",
+        "summary": "The company plans to use the fresh capital to advance its R&amp;D, grow its team and expand its product portfolio, CEO and co-founder Orr Inbar told Fierce Healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 3:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/startup-claryx-launches-out-stealth-tackle-45b-challenge-hospital-acquired-infections\" hreflang=\"en\">Startup Claryx launches out of stealth to tackle the $45B challenge of hospital-acquired infections </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/startup-claryx-launches-out-stealth-tackle-45b-challenge-hospital-acquired-infections",
+        "summary": "Startup Claryx is taking a novel approach to pathogen detection, using environmental and genomic intelligence to support hospital infection prevention programs. The company is building an immune system for hospitals, one that catches transmission while it's happening.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 6:27am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cleveland-clinic-and-zipline-take-flight-through-prescription-drug-drone-delivery\" hreflang=\"en\">Cleveland Clinic, Zipline take flight with prescription drug drone delivery partnership </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cleveland-clinic-and-zipline-take-flight-through-prescription-drug-drone-delivery",
+        "summary": "Cleveland Clinic and Zipline have taken to the skies with their drone-delivery partnership for prescription drugs. It marks the first long-term deployment of a prescription drug drone delivery by a health system, they said, with the first deliveries made last week in and around Beachwood.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 2:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/why-payers-should-have-these-3-pipeline-drugs-their-radar\" hreflang=\"en\">Why payers should have these 3 pipeline drugs on their radar</a>",
+        "url": "https://www.fiercehealthcare.com/payers/why-payers-should-have-these-3-pipeline-drugs-their-radar",
+        "summary": "Optum Rx's latest look at the drug development pipeline highlights three drugs for rare and chronic conditions that payers and plan sponsors should be watching.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 4:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/democratic-ags-file-suit-challenging-2027-aca-rule\" hreflang=\"en\">Democratic AGs file suit challenging 2027 ACA rule</a>",
+        "url": "https://www.fiercehealthcare.com/payers/democratic-ags-file-suit-challenging-2027-aca-rule",
+        "summary": "Democratic attorneys general are making a renewed push to challenge the latest regulation governing the Affordable Care Act's marketplaces.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 3:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-appropriators-unveil-stopgap-funding-bill-blocks-trumps-attempt-change-science\" hreflang=\"en\">Senate appropriators unveil stopgap funding bill that blocks Trump's attempt to change science funding</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-appropriators-unveil-stopgap-funding-bill-blocks-trumps-attempt-change-science",
+        "summary": "Senators on the Appropriations Committee on Sunday released a stopgap funding bill to avert a government shutdown by Oct. 1 and temporarily block a White House proposal that would fundamentally change how the federal government awards and manages grants.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 2:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/icon-inks-anthropic-partnership-deploy-claude-clinical-trials\" hreflang=\"en\">Icon inks Anthropic partnership to deploy Claude into clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/icon-inks-anthropic-partnership-deploy-claude-clinical-trials",
+        "summary": "Contract research organization Icon announced a multi-year collaboration with Anthropic this week to bring Claude’s AI capabilities to clinical trials.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 1:30pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-drops-early-stage-obesity-drug-upping-pressure-maritide\" hreflang=\"en\">Amgen drops early-stage obesity drug, upping pressure on MariTide</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-drops-early-stage-obesity-drug-upping-pressure-maritide",
+        "summary": "Amgen has ended development of its early-stage obesity drug AMG 513, foisting its hopes for a slice of the massive weight loss market onto the shoulders of phase 3 candidate MariTide.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 1:13pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/smith-nephew-cuts-2026-outlook-us-knee-implant-sales-slide\" hreflang=\"en\">Smith &amp; Nephew cuts 2026 outlook as US knee implant sales slide</a>",
+        "url": "https://www.fiercebiotech.com/medtech/smith-nephew-cuts-2026-outlook-us-knee-implant-sales-slide",
+        "summary": "Smith &amp; Nephew has lowered its 2026 sales outlook after weakness in U.S. orthopedics and wound care outweighed stronger growth in sports medicine.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 11:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fiercest-women-life-sciences-2026-nominations-open-now\" hreflang=\"en\">Fiercest Women in Life Sciences 2026: Nominations open now</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fiercest-women-life-sciences-2026-nominations-open-now",
+        "summary": "Who should be a 2026 Fiercest Woman in Life Sciences? Nominations are open for women making an impact across pharma, biotech, medtech and beyond. The deadline is Sept. 18.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 11:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lisata-lays-72-staffers-sues-kuva-after-merger-falls-apart\" hreflang=\"en\">Lisata lays off 72% of staffers, sues Kuva after planned merger falls apart</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lisata-lays-72-staffers-sues-kuva-after-merger-falls-apart",
+        "summary": "Lisata is laying off 72% of its workforce, including its chief medical officer, as the solid tumor biotech tries to navigate a new future after a planned merger with cancer imaging company Kuva Labs fell apart.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 9:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/kkr-shells-out-57b-take-medtech-manufacturing-giant-integer-private\" hreflang=\"en\">KKR inks $5.7B deal to take medtech manufacturing giant Integer private</a>",
+        "url": "https://www.fiercebiotech.com/medtech/kkr-shells-out-57b-take-medtech-manufacturing-giant-integer-private",
+        "summary": "Private equity giant KKR is expanding its healthcare portfolio with a deal to take medtech manufacturing giant Integer private for approximately $5.7 billion.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 8:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-axes-ex-metsera-obesity-asset-and-gipr-prospect-quarterly-clearout\" hreflang=\"en\">Pfizer axes ex-Metsera obesity asset and GIPR prospect in quarterly clearout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-axes-ex-metsera-obesity-asset-and-gipr-prospect-quarterly-clearout",
+        "summary": "Pfizer has axed two clinical-stage obesity programs, dropping a GLP-1 receptor agonist from the Metsera buyout and a GIPR antagonist as part of its quarterly pipeline cleanout.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 8:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/latigo-laces-247m-ipo-fund-non-opioid-pain-drug-rival-vertexs-journavx\" hreflang=\"en\">Latigo laces up for $247M IPO to fund non-opioid pain drug rival to Vertex’s Journavx</a>",
+        "url": "https://www.fiercebiotech.com/biotech/latigo-laces-247m-ipo-fund-non-opioid-pain-drug-rival-vertexs-journavx",
+        "summary": "Latigo Biotherapeutics has fleshed out its plans for an IPO to finance the development of its clinical-stage pipeline of non-opioid pain management drugs.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 7:56am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pathos-ai-pads-pipeline-22b-alphamab-deal-plus-astrazeneca-pact\" hreflang=\"en\">Pathos AI pads pipeline with $2.2B Alphamab deal, AstraZeneca pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pathos-ai-pads-pipeline-22b-alphamab-deal-plus-astrazeneca-pact",
+        "summary": "Pathos AI has agreed to pay $125 million for a bispecific antibody-drug conjugate from China’s Alphamab Oncology, while adding a Big Pharma partner in the form of AstraZeneca.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 4:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-11b-asset-delivers-1-win-1-loss-midphase-inflammatory-disease-trials\" hreflang=\"en\">Merck’s $11B anti-TL1A bet delivers 1 win, 1 loss in midphase inflammatory disease trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mercks-11b-asset-delivers-1-win-1-loss-midphase-inflammatory-disease-trials",
+        "summary": "A phase 2 trial of Merck &amp; Co.’s anti-TL1A monoclonal antibody has missed its primary endpoint, closing off one avenue for expansion of an asset acquired in a $10.8 billion takeover. The setback was offset by a midphase win in another indication.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 4:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/curium-strikes-8b-deal-radiopharma-rival-lantheus\" hreflang=\"en\">Curium strikes up to $8B deal for radiopharma rival Lantheus</a>",
+        "url": "https://www.fiercebiotech.com/medtech/curium-strikes-8b-deal-radiopharma-rival-lantheus",
+        "summary": "Months after reports first linked Curium to a potential Lantheus takeover, the radiopharma players have made it official with a deal worth up to $8 billion.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 1:56pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/blossomhill-eyes-112m-ipo-harvest-bankroll-potential-tagrisso-challenger\" hreflang=\"en\">BlossomHill eyes $112M IPO harvest to bankroll potential Tagrisso challenger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/blossomhill-eyes-112m-ipo-harvest-bankroll-potential-tagrisso-challenger",
+        "summary": "BlossomHill Therapeutics plans to raise $111.7 million to fund the clinical journey of its potential challenger to Tagrisso.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 9:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "无人再议AI六小龙",
+        "url": "https://www.36kr.com/p/3923656696190849",
+        "summary": "上市并非终局，只是获得了更大的燃料池",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 03 Aug 2026 12:31:55 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
+        "url": "https://huggingface.co/papers/2608.02392",
+        "summary": "A wearable assistant should both answer questions about its visual history and recognize when that history is useful to the present situation. Existing video-memory systems primarily support question-conditioned recall, whereas proactive assistants typically use separate memory and control mechanisms. We introduce GROVE, a training-free framework that supports both behaviors with one memory grown causally from a continuous video stream. GROVE retains fine-grained perceptual evidence and incrementally consolidates it into time-stamped moments, coherent episodes, and recurring cross-day patterns",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-02T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI",
+        "url": "https://huggingface.co/papers/2608.01462",
+        "summary": "Multimodal clinical models are usually judged on accuracy with every modality present, but deployment removes modalities; an echocardiogram is often unavailable where an ECG is routine. Two questions then matter beyond the size of the accuracy loss: which modality was responsible, and whether the model fails loudly or silently once that modality is dropped. The distinction is per-example and modality-level, and is separate from post-hoc feature attribution (e.g. SHAP). Models are replaced often; the evaluation that answers these questions is reused. We present a model-agnostic modality-failure",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models",
+        "url": "https://huggingface.co/papers/2607.26326",
+        "summary": "Multimodal Large Language Models (MLLMs) achieve strong performance by integrating visual inputs with the rich priors of pretrained language models. However, they often fail on vision-centric tasks, especially when visual evidence conflicts with pretrained knowledge. We explore these failures separately using two diagnostic paradigms: (1) probing whether visual information is available, via image reconstruction, and (2) measuring multimodal context sensitivity, the extent to which the model follows visual context versus the language prior. To support the second, we introduce the WhatIfVis, a b",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-27T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

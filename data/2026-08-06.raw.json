@@ -1,0 +1,374 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T11:59:36.375845+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology",
+        "url": "https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/",
+        "summary": "The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 02:18:37 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Takeda’s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments",
+        "url": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/",
+        "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 20:41:35 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Federal regulators invite industry, researchers, and lobbyists to closed-door meetings on clinical AI",
+        "url": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/",
+        "summary": "Federal health officials invited tech companies and lobbyists to closed-door meetings as they seek to boost adoption of clinical AI.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 20:05:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Erica Schwartz confirmed as CDC director, filling nearly yearlong vacancy",
+        "url": "https://www.statnews.com/2026/08/05/senate-confirms-dr-erica-schwartz-new-cdc-director/",
+        "summary": "Now confirmed, Erica Schwartz is the third CDC nominee since Trump took office for his second term.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 19:08:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Could poop pills be the next treatment for food allergies?",
+        "url": "https://www.statnews.com/2026/08/05/fecal-microbiome-transplant-for-peanut-food-allergy/",
+        "summary": "Some participants in a small trial showed improved tolerance to peanuts after fecal microbiome transplant.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 18:10:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Once again, child dies in gene-editing trial in China, rekindling debate on transparency and safety",
+        "url": "https://www.statnews.com/2026/08/05/china-clinical-trial-fatality-safety-questions-investigator-led-studies/",
+        "summary": "With a second delayed report of a child's death in China, criticism is rising of a looser form of clinical trial. One expert: what \"bothers me is the lack of&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 17:46:55 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Moderna launches early trial of Ebola mRNA vaccine",
+        "url": "https://www.statnews.com/2026/08/05/biotech-news-moderna-launches-early-ebola-mrna-vaccine-trial/",
+        "summary": "Novo and Lilly earnings are out, Aurora Therapeutics slashing staff, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 13:32:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why Schrödinger CEO Ramy Farid changed how he’s thinking about AI",
+        "url": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis: Why Schrödinger CEO Ramy Farid is rethinking AI, Recursion's neuron map, and more health AI news.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 13:29:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Medicare pilot and orphan drugs, Pfizer cutbacks, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/05/medicare-pilot-orphan-drugs-pfizer-cutbacks/",
+        "summary": "In today's Pharmalittle newsletter, a Medicare pilot and orphan drugs, Pfizer cutbacks, and more.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 13:26:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The main therapy used for children with autism faces changes under Medicaid",
+        "url": "https://www.statnews.com/2026/08/05/health-news-aba-therapy-for-children-with-autism-faces-changes-under-medicaid/",
+        "summary": "Quid-pro-quo vaping policies, ebola vaccine efforts, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 11:55:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Exemption of rare disease therapies in drug-pricing pilots would wipe out huge savings, analysis finds",
+        "url": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/",
+        "summary": "Excluding rare disease therapies from a Medicare pilot program to lower drug prices would wipe out much of the savings from retail drugs, according to new research.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Senate inquiry suggests Trump administration softened kratom and tobacco policies in quid pro quo",
+        "url": "https://www.statnews.com/2026/08/05/senator-ron-wyden-investigation-kennedy-flavored-vapes-kratom/",
+        "summary": "The Senate investigation includes RFK Jr. as well as the heads of Reynolds American and kratom company Botanic Tonics, asking for written responses and documentation by Aug. 31.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "MRI is standard for diagnosing prostate cancer in most western countries. But most U.S. men don’t get them",
+        "url": "https://www.statnews.com/2026/08/05/prostate-cancer-screening-biopsy-vs-mri-debate/",
+        "summary": "Pre-biopsy MRI is standard outside the U.S., but the latest data show such scans were done in only about a third of U.S. prostate cancer cases in 2022.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Tear down the wall between M.D. and D.O. education",
+        "url": "https://www.statnews.com/2026/08/05/md-vs-do-medical-education-merge/",
+        "summary": "Having separate systems for M.D.s and D.O.s “is historical inertia dressed as educational diversity,” write physicians Abigail MacKenzie and Vijay Rajput.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Something is missing from movies about medical aid in dying",
+        "url": "https://www.statnews.com/2026/08/05/new-york-medical-aid-dying-assisted-suicide-room-next-door-movies/",
+        "summary": "Films and documentaries about assisted dying can narrow the frame of debate, write Anna Magdalena Elsner and Vanessa Rampton.",
+        "source": "STAT News",
+        "published": "Wed, 05 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-announces-decertification-kentucky-based-organ-procurement-organization-network-hope\" hreflang=\"en\">HHS announces decertification of Kentucky-based organ procurement organization Network for Hope</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-decertification-kentucky-based-organ-procurement-organization-network-hope",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. said the decertification comes after federal reviews found “persistent patient safety failures.”",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 4:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ardent-health-offsets-q2-volume-stumble-tightening-costs-renegotiating-contracts\" hreflang=\"en\">Ardent Health offsets Q2 volume stumble by tightening costs, renegotiating contracts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ardent-health-offsets-q2-volume-stumble-tightening-costs-renegotiating-contracts",
+        "summary": "The for-profit health system missed analysts' earnings and revenue targets, but reaffirmed its full-year guidance on the back of fast-moving margin improvement initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 1:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show\" hreflang=\"en\">Insurers propose a median ACA rate hike of 15% for 2027: KFF</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show",
+        "summary": "Plans on the Affordable Care Act's exchanges are set for further premium increases next year, a new report shows.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 12:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-raises-guidance-it-posts-3b-profit-106b-revenue-q2\" hreflang=\"en\">CVS enhances supports for patients taking GLP-1s</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-raises-guidance-it-posts-3b-profit-106b-revenue-q2",
+        "summary": "CVS Health is raising its guidance for the year as it blew past Wall Street analysts' expectations in the second quarter.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 7:49am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/amwell-boasts-dha-intent-sole-source-contract-q2-earnings-touts-increasing-subscription\" hreflang=\"en\">Amwell deepens partnership with Defense Health Agency, boosts 2026 revenue outlook</a>",
+        "url": "https://www.fiercehealthcare.com/finance/amwell-boasts-dha-intent-sole-source-contract-q2-earnings-touts-increasing-subscription",
+        "summary": "The DHA renewed its contract with the telehealth platform last August, and negotiations are currently underway.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 11:26am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthcare-dealmakers-erlanger-joining-prisma-trubridge-acquired-and-more\" hreflang=\"en\">Healthcare Dealmakers—Erlanger joining Prisma, TruBridge acquired and more</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-erlanger-joining-prisma-trubridge-acquired-and-more",
+        "summary": "Denver's upcoming hospital joint venture, Cardinal Health's home care purchases and more merger and acquisition news from July.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 11:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/closing-gaps-ms-care-during-pregnancy\" hreflang=\"en\">Closing the gaps in MS care during pregnancy</a>",
+        "url": "https://www.fiercehealthcare.com/providers/closing-gaps-ms-care-during-pregnancy",
+        "summary": "Women with multiple sclerosis can still encounter outdated or conflicting pregnancy guidance, but emerging research is giving providers a clearer path toward more informed, individualized care.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 8:47am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/marketing/womens-new-health-ecosystem-takes-shape-reddit-report\" hreflang=\"en\">Women’s ‘new health ecosystem’ takes shape on Reddit: report </a>",
+        "url": "https://www.fiercehealthcare.com/marketing/womens-new-health-ecosystem-takes-shape-reddit-report",
+        "summary": "Weber Shandwick and Reddit partnered up in a July report that aims to decode the “new health ecosystem” and the modern women’s health content discovery journey, which, as it turns out, takes place on Reddit.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 4:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/hinge-health-acquire-cylinder-health-105m-deal-expand-digestive-healthcare\" hreflang=\"en\">Hinge Health to acquire Cylinder Health in a $105M deal to expand into gastrointestinal care</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/hinge-health-acquire-cylinder-health-105m-deal-expand-digestive-healthcare",
+        "summary": "Hinge Health raised its full-year revenue and profitability expectations for the remainder of 2026 as the company reported another strong quarter and further expands its business beyond muscle and joint pain.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 5:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/76-gen-z-use-ai-seeking-professional-medical-care-aflac\" hreflang=\"en\">As AI use rises, younger adults skip preventive care, survey finds</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/76-gen-z-use-ai-seeking-professional-medical-care-aflac",
+        "summary": "Online search, medical websites and social media are also used to manage health more than consulting providers among younger patients, the survey found.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/here-now-mental-health-provider-foster-youth-expands-new-mexico\" hreflang=\"en\">Here Now, mental health startup for foster youth, expands to New Mexico Medicaid</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/here-now-mental-health-provider-foster-youth-expands-new-mexico",
+        "summary": "Here Now Health aims to connect Medicaid-covered youth with mental health services in a fragmented foster care system. Being virtual allows it to maintain access even if a child moves.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 5:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/us-news-2025-26-best-hospitals-lists-home-outcomes\" hreflang=\"en\">US News' 2025-26 Best Hospitals lists home in on outcomes</a>",
+        "url": "https://www.fiercehealthcare.com/providers/us-news-2025-26-best-hospitals-lists-home-outcomes",
+        "summary": "Among nearly 4,500 evaluated hospitals, the highly watched annual accolades awarded 16% some form of \"Best Hospitals\" designation.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 3:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/narcan-maker-emergent-biosolutions-eliminates-top-rd-role-sweeping-restructuring\" hreflang=\"en\">Narcan maker Emergent BioSolutions eliminates top R&amp;D role in sweeping restructuring</a>",
+        "url": "https://www.fiercebiotech.com/pharma/narcan-maker-emergent-biosolutions-eliminates-top-rd-role-sweeping-restructuring",
+        "summary": "Two and a half years into his tenure as Emergent BioSolutions CEO, Joseph Papa is executing another round of restructuring to align the business with “current business realities.”",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 6:13pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-suspends-chronic-lung-disease-phase-2-study-tied-strategic-business-reasons\" hreflang=\"en\">Sanofi suspends chronic lung disease phase 2 study, tied to ‘strategic business reasons’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-suspends-chronic-lung-disease-phase-2-study-tied-strategic-business-reasons",
+        "summary": "Sanofi halted a phase 2 trial testing a monoclonal antibody, SAR445399, in non-cystic fibrosis bronchiectasis, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 2:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fecal-transplant-increases-peanut-sensitivity-six-times-small-phase-1-trial\" hreflang=\"en\">Fecal transplant increases tolerance to peanuts sixfold in small food allergy trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fecal-transplant-increases-peanut-sensitivity-six-times-small-phase-1-trial",
+        "summary": "Fecal transplants can increase tolerance to peanuts sixfold in people with food allergies, new research out of Boston Children’s Hospital has suggested.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 10:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-drops-another-gene-therapy-trial-1b-prevail-buyout\" hreflang=\"en\">Lilly drops another gene therapy trial from $1B Prevail buyout </a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-drops-another-gene-therapy-trial-1b-prevail-buyout",
+        "summary": "Eli Lilly has axed another trial of a gene therapy acquired in its $1 billion Prevail Therapeutics buyout, further denting the drugmaker’s chances of delivering a return on its investment.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 8:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/expedition-lands-115m-series-b-advance-phase-2-copd-trial\" hreflang=\"en\">Sanofi-backed Expedition uses $115M series B to advance COPD drug on phase 2 journey</a>",
+        "url": "https://www.fiercebiotech.com/biotech/expedition-lands-115m-series-b-advance-phase-2-copd-trial",
+        "summary": "Expedition Therapeutics has secured an oversubscribed $115 million series B financing from a line-up of big-name investors to propel its lead DPP1 inhibitor through phase 2.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 12:52pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-ceo-accepts-couple-setbacks-rd-cagrisema-posts-more-mixed-data\" hreflang=\"en\">Novo CEO accepts ‘couple of setbacks’ in R&amp;D as CagriSema posts more mixed data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-ceo-accepts-couple-setbacks-rd-cagrisema-posts-more-mixed-data",
+        "summary": "Novo Nordisk’s CEO admitted the Danish pharma has had “a couple of setbacks” in the wake of mixed data for CagriSema and its cardiovascular hopeful ziltivekimab, while stressing that the company is already on the hunt for bolt-on deals.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 3:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/attovia-aims-scratch-itch-opportunity-and-challenge-dupixent-289m-ipo\" hreflang=\"en\">Attovia's CEO aims to scratch itch opportunity and challenge Dupixent with $289M IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/attovia-aims-scratch-itch-opportunity-and-challenge-dupixent-289m-ipo",
+        "summary": "Attovia Therapeutics has accreted a hefty $289 million from its IPO to power its anti-itch drugs through clinical development, marking another upsized listing in what has become a banner year for biotech Nasdaq debuts.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 12:10am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/icon-inks-anthropic-partnership-deploy-claude-clinical-trials\" hreflang=\"en\">Icon inks Anthropic partnership to deploy Claude into clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/icon-inks-anthropic-partnership-deploy-claude-clinical-trials",
+        "summary": "Contract research organization Icon announced a multi-year collaboration with Anthropic this week to bring Claude’s AI capabilities to clinical trials.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 1:30pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-drops-early-stage-obesity-drug-upping-pressure-maritide\" hreflang=\"en\">Amgen drops early-stage obesity drug, upping pressure on MariTide</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-drops-early-stage-obesity-drug-upping-pressure-maritide",
+        "summary": "Amgen has ended development of its early-stage obesity drug AMG 513, foisting its hopes for a slice of the massive weight loss market onto the shoulders of phase 3 candidate MariTide.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 1:13pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/smith-nephew-cuts-2026-outlook-us-knee-implant-sales-slide\" hreflang=\"en\">Smith &amp; Nephew cuts 2026 outlook as US knee implant sales slide</a>",
+        "url": "https://www.fiercebiotech.com/medtech/smith-nephew-cuts-2026-outlook-us-knee-implant-sales-slide",
+        "summary": "Smith &amp; Nephew has lowered its 2026 sales outlook after weakness in U.S. orthopedics and wound care outweighed stronger growth in sports medicine.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 11:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fiercest-women-life-sciences-2026-nominations-open-now\" hreflang=\"en\">Fiercest Women in Life Sciences 2026: Nominations open now</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fiercest-women-life-sciences-2026-nominations-open-now",
+        "summary": "Who should be a 2026 Fiercest Woman in Life Sciences? Nominations are open for women making an impact across pharma, biotech, medtech and beyond. The deadline is Sept. 18.",
+        "source": "Fierce Biotech",
+        "published": "Aug 3, 2026 11:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lisata-lays-72-staffers-sues-kuva-after-merger-falls-apart\" hreflang=\"en\">Lisata lays off 72% of staffers, sues Kuva after planned merger falls apart</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lisata-lays-72-staffers-sues-kuva-after-merger-falls-apart",
+        "summary": "Lisata is laying off 72% of its workforce, including its chief medical officer, as the solid tumor biotech tries to navigate a new future after a planned merger with cancer imaging company Kuva Labs fell apart.",
+        "source": "Fierce Biotech",
+        "published": "Aug 4, 2026 9:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "山姆·阿尔特曼亲自下场拉人，OpenAI 押注医疗",
+        "url": "https://www.36kr.com/p/3924990704269701",
+        "summary": "OpenAI全力押注医疗健康，机遇与风险并存。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 04 Aug 2026 12:00:02 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "侵入式脑机接口，最值得关注的16家国产企业",
+        "url": "https://www.36kr.com/p/3924686919915395",
+        "summary": "16家创新企业，代表了中国侵入式脑机接口从科研工具走向医疗健康产品的三种力量。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 04 Aug 2026 09:05:20 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "NOLLI: A Difficulty-Calibrated Puzzle Benchmark for Diagnosing the English-Korean Performance Gap",
+        "url": "https://huggingface.co/papers/2608.04397",
+        "summary": "We introduce NOLLI, a procedurally generated English-Korean puzzle benchmark designed to diagnose where Korean performance gaps arise. It comprises 15 puzzle types (25 tasks; 7,500 items), with every instance seed-regenerable, verified to have a unique solution, and scored deterministically. Rather than equating harder with bigger, we calibrate difficulty behaviorally, tuning each generator until a fixed reference model lands in target accuracy bands. Its three-level design combines matched direct translations, script adaptations over Hangul jamo (sub-syllabic letters), and Korean-only tasks g",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-04T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induced Ternary Complex",
+        "url": "https://huggingface.co/papers/2607.22143",
+        "summary": "Molecular glue degraders have emerged as a promising strategy for targeted protein degradation by inducing ternary complex formation between an E3 ubiquitin ligase and a target protein. Despite their therapeutic potential, computational design of molecular glues remains largely unexplored. Unlike conventional structure-based drug design, molecular glue design is governed by the unknown protein-protein interface and requires the simultaneous modeling of ligand generation, protein-protein docking, and ternary complex assembly. In this work, we formulate molecular glue design as a ternary complex",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-03T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Decoding Children's Gait Behavior",
+        "url": "https://huggingface.co/papers/2608.00371",
+        "summary": "We introduce a new problem domain for human action recognition: the fine-grained analysis of children's gait behaviors from standard RGB video. We specifically target the ambulatory patterns of children aged 3-17 years. Such behaviors arise naturally in the diagnosis and treatment of several critical developmental and neuromuscular disorders, such as cerebral palsy and hemiplegia. Despite their clinical value, current 3D sensor-based gait analysis systems are expensive, intrusive, and often impractical for young subjects. To address this, we introduce a new dataset comprising over 1,100 high-f",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-31T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts",
+        "url": "https://huggingface.co/papers/2607.28993",
+        "summary": "World Action Models (WAMs) have emerged as a promising paradigm by jointly modeling robot actions and future visual dynamics. However, their reliance on pixel-generative future supervision can entangle action-relevant state transitions with task-irrelevant visual content, limiting robustness under visual distribution shifts. We identify Training-Distribution Hallucination, a recurring phenomenon in which futures conditioned on visually shifted observations hallucinate training-domain content rather than remain faithful to the current scene. A controlled frame-triplet diagnosis further shows th",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-30T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T11:43:52.961628+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA approves Replimune melanoma drug previously rejected twice",
+        "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/",
+        "summary": "The FDA approved Replimune’s treatment for advanced melanoma, dealing the company and patient advocates a big win after a tumultuous saga.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 19:59:28 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Medicare quietly gave blockbuster AbbVie drug seven extra years before price negotiations, advocacy group asserts",
+        "url": "https://www.statnews.com/pharmalot/2026/08/06/medicare-gave-blockbuster-abbvie-drug-seven-extra-years-before-price-negotiations/",
+        "summary": "A little-noticed government policy shift caused a seven-year delay in choosing a costly medicine for Medicare price negotiations, an advocacy group says.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 19:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Study reveals new role for tau, a top target for Alzheimer’s drug development",
+        "url": "https://www.statnews.com/2026/08/06/research-finds-how-tau-targets-cells-structure-alzheimers-drug-development/",
+        "summary": "The protein tau is top target for Alzheimer’s drug development, and a new study bolsters those efforts by describing a previously unknown role that tau plays in neurodegeneration.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Two FDA approvals — a new drug and a new vaccine",
+        "url": "https://www.statnews.com/2026/08/06/biotech-news-two-fda-approvals-a-new-drug-and-a-new-vaccine/",
+        "summary": "Takeda's narcolepsy drug approved, the first mRNA flu shot approved, and more biotech updates from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 13:49:23 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "U.S. moves to shut a Kentucky organ donation group, citing safety failures",
+        "url": "https://www.statnews.com/2026/08/06/us-to-shut-kentucky-organ-donation-group-safety-concerns/",
+        "summary": "The U.S. moves to shut a Kentucky organ donation group that's been accused of continuing plans for organ retrieval from some patients who unexpectedly showed signs of life.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 13:47:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The U.S. needs a 9/11 Commission-style independent body to investigate Covid response",
+        "url": "https://www.statnews.com/2026/08/06/covid-accountability-9-11-style-commission-needed-not-fauci-bashing/",
+        "summary": "“A transparent evaluation of Covid would separate what happened from competing political narratives and help us improve for the future,” writes IDSA President Ronald Nahass.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 13:38:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Senate committee votes along party lines to hold Fauci in contempt of Congress",
+        "url": "https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/",
+        "summary": "A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 13:12:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Moderna’s flu shot, a death in a gene-editing trial in China, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/06/moderna-flu-shot-gene-editing-trial-death-pharmalittle-newsletter/",
+        "summary": "In today's Pharmalittle newsletter: Moderna's mRNA flu shot approved, a death reported in a gene-editing trial in China, and more.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 13:03:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare pushes ACCESS but doesn’t tell patients what providers offer it",
+        "url": "https://www.statnews.com/2026/08/06/cms-medicare-pilot-access-patient-info-health-tech/",
+        "summary": "In this edition: Progress report on ACCESS, Medicare's chronic care pilot, and health regulators courting industry on AI regulation.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 12:54:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was",
+        "url": "https://www.statnews.com/2026/08/06/mflusiva-fda-mrna-flu-vaccine-rfk-jr/",
+        "summary": "“The United States invented this platform and is the only country walking away from it,” Jeff Coller writes of mRNA vaccines.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 12:10:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Covid can reactivate dormant viruses, according to study",
+        "url": "https://www.statnews.com/2026/08/06/health-news-covid-can-reactivate-dormant-viruses-study-finds/",
+        "summary": "A CDC director officially confirmed, Moderna's mRNA flu shot approved, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 11:55:38 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: A scientist-turned-biotech executive is notching some wins, and enjoying it",
+        "url": "https://www.statnews.com/2026/08/06/greg-verdine-lifemine-parabilis-research/",
+        "summary": "Scientist-turned-biotech executive Greg Verdine is having a very good year.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech’s next big bet: A Tenax study of a heart failure treatment",
+        "url": "https://www.statnews.com/2026/08/06/tenax-study-heart-failure-preview/",
+        "summary": "Tenax Therapeutics will soon report results from a Phase 3 study that is one of the biggest binary biotech stock events remaining in the sector this year.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 10:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: What my colleagues and I will look for as we assess U.S. measles elimination status",
+        "url": "https://www.statnews.com/2026/08/06/measles-elimination-status-2026-paho/",
+        "summary": "Noel T. Brewer and colleagues will soon decide whether the U.S. has maintained its elimination status. Here’s what they’re looking at.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Stop asking if AI is good for medicine",
+        "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/",
+        "summary": "Overgeneralizations about AI can slow down the adoption of tools that work.",
+        "source": "STAT News",
+        "published": "Thu, 06 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/omada-health-ceo-appoints-wei-li-shao-new-ceo-company-ramps-glp-1-strategy\" hreflang=\"en\">Omada Health appoints Wei-Li Shao as new CEO as company ramps up GLP-1 strategy</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/omada-health-ceo-appoints-wei-li-shao-new-ceo-company-ramps-glp-1-strategy",
+        "summary": "Omada Health reported strong Q2 growth driven by demand for its integrated approach to managing chronic conditions such as diabetes, hypertension, obesity and musculoskeletal disorders.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 4:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ccbhc-model-continues-expand-faces-some-funding-constraints\" hreflang=\"en\">CCBHC model continues to expand, but faces some funding constraints</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ccbhc-model-continues-expand-faces-some-funding-constraints",
+        "summary": "More uninsured people due to OBBBA Medicaid cuts, predicted to lead to millions losing Medicaid coverage, could increase uncompensated care costs and strain CCBHCs.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 2:51pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—UCare cuts 102 jobs; MaineHealth reorgs hit 83</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-committee-advances-fauci-contempt-referral-schwartz-confirmed-new-cdc-director\" hreflang=\"en\">Senate committee advances Fauci contempt referral; Schwartz confirmed as new CDC director</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-committee-advances-fauci-contempt-referral-schwartz-confirmed-new-cdc-director",
+        "summary": "Senators green-lighted two votes in the past 24 hours centered on the country’s past and future public health leadership.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 12:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/oscar-health-boosts-2026-earnings-outlook-after-record-profitability-during-first-half-year\" hreflang=\"en\">Oscar Health hikes 2026 outlook after record profitability during first half of the year</a>",
+        "url": "https://www.fiercehealthcare.com/finance/oscar-health-boosts-2026-earnings-outlook-after-record-profitability-during-first-half-year",
+        "summary": "CEO Mark Bertolini said during Thursday’s earnings call that the company brought in $1.1 billion in earnings and $1 billion in net income for the first half of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 10:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Jaewon Ryu steps down from Risant; Summa Health hires permanent CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/millie-joins-ucsf-healths-clinically-integrated-network-coordinate-maternity-care\" hreflang=\"en\">Millie joins UCSF Health's clinically integrated network to coordinate maternity care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/millie-joins-ucsf-healths-clinically-integrated-network-coordinate-maternity-care",
+        "summary": "Millie and UCSF Health providers will work together as a clinically integrated care team with shared protocols and EHR integration. Millie is also tapping into UCSF’s payer contracts, streamlining in-network patient referrals.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 11:52am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/clover-health-reaffirms-ai-commitments-discusses-star-rating-amid-strong-q2-performance\" hreflang=\"en\">On the heels of star rating win, Clover Health boosts outlook on strength of MA membership growth in Q2</a>",
+        "url": "https://www.fiercehealthcare.com/finance/clover-health-reaffirms-ai-commitments-discusses-star-rating-amid-strong-q2-performance",
+        "summary": "The company posted $153 million in profit, up 54% year-over-year, according to financial results published Wednesday afternoon.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 6:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/fitch-2025-likely-brief-operational-peak-nonprofit-hospitals-ahead-obbba-changes\" hreflang=\"en\">Fitch: 2025 likely 'a brief operational peak' for nonprofit hospitals ahead of OBBBA changes</a>",
+        "url": "https://www.fiercehealthcare.com/providers/fitch-2025-likely-brief-operational-peak-nonprofit-hospitals-ahead-obbba-changes",
+        "summary": "“Fitch's view is that fiscal 2025 may represent a brief operational peak—a period of relative stability afforded by the delay in OBBBA implementation—before a more challenging phase begins,\" the ratings agency wrote in a recent report.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 4:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-announces-decertification-kentucky-based-organ-procurement-organization-network-hope\" hreflang=\"en\">HHS announces decertification of Kentucky-based organ procurement organization Network for Hope</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-decertification-kentucky-based-organ-procurement-organization-network-hope",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. said the decertification comes after federal reviews found “persistent patient safety failures.”",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 4:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ardent-health-offsets-q2-volume-stumble-tightening-costs-renegotiating-contracts\" hreflang=\"en\">Ardent Health offsets Q2 volume stumble by tightening costs, renegotiating contracts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ardent-health-offsets-q2-volume-stumble-tightening-costs-renegotiating-contracts",
+        "summary": "The for-profit health system missed analysts' earnings and revenue targets, but reaffirmed its full-year guidance on the back of fast-moving margin improvement initiatives.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 1:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show\" hreflang=\"en\">Insurers propose a median ACA rate hike of 15% for 2027: KFF</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aca-plans-set-another-year-premium-spikes-preliminary-filings-show",
+        "summary": "Plans on the Affordable Care Act's exchanges are set for further premium increases next year, a new report shows.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 12:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens\" hreflang=\"en\">PacBio CEO steps down as Q2 loss widens</a>",
+        "url": "https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens",
+        "summary": "PacBio has promoted an internal veteran to CEO after Christian Henry stepped down, tasking the new leader with improving sales, expanding the DNA sequencing company’s clinical reach and cutting costs.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 10:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/double-shot-vistagens-anxiety-nasal-spray-cant-beat-placebo-ph-2-trial\" hreflang=\"en\">Double shot of Vistagen’s anxiety nasal spray can’t beat placebo in ph. 2 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/double-shot-vistagens-anxiety-nasal-spray-cant-beat-placebo-ph-2-trial",
+        "summary": "Following a string of clinical setbacks, Vistagen’s nasal spray for social anxiety has now failed to top placebo even when given as a double dose. But just like with prior disappointing readouts, the biotech has set its sights on a subpopulation it says may provide a path to FDA approval.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 10:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tarsus-stakes-450m-alkeus-phase-3-retinal-disease-drug\" hreflang=\"en\">Tarsus pays $450M for Alkeus and its phase 3-stage retinal disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tarsus-stakes-450m-alkeus-phase-3-retinal-disease-drug",
+        "summary": "Tarsus Pharmaceuticals is fronting $450 million to acquire Alkeus Pharmaceuticals for its phase 3-stage retinal disease therapy that's being touted as a potential blockbuster.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 10:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biovie-uses-composite-endpoint-make-case-parkinsons-program\" hreflang=\"en\">BioVie’s stock sinks 50% as company uses composite endpoint to make case for Parkinson’s program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biovie-uses-composite-endpoint-make-case-parkinsons-program",
+        "summary": "BioVie has hailed phase 2 data as evidence that bezisterim could represent a “meaningful advance” in the treatment of Parkinson’s disease. But the biotech focused on a new composite measure, rather than its stated primary endpoint, and emphasized outcomes in a subpopulation of patients.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 9:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: LifeMine raises $188M; Expedition encounters $115M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/braveheart-charges-past-expectations-3825m-ipo-fund-cardio-drug-hengrui\" hreflang=\"en\">Braveheart charges past expectations with $382.5M IPO to fund cardio drug from Hengrui</a>",
+        "url": "https://www.fiercebiotech.com/biotech/braveheart-charges-past-expectations-3825m-ipo-fund-cardio-drug-hengrui",
+        "summary": "Braveheart Bio has overcome its own IPO expectations, rallying $382.5 million in an upsized listing to fund its cardiovascular ambitions.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 4:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/actimed-gets-back-rights-wasting-disease-drug-ending-126m-deal-faraday\" hreflang=\"en\">Actimed gets back rights to wasting disease drug, ending $126M deal with Faraday</a>",
+        "url": "https://www.fiercebiotech.com/biotech/actimed-gets-back-rights-wasting-disease-drug-ending-126m-deal-faraday",
+        "summary": "Actimed Therapeutics has brought the full rights to its wasting disease drug back in-house, securing “strategic control” over the asset but losing out on a shot at over $120 million in biobucks.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 5:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lifemines-frozen-platform-thawed-263m-fundraise-backed-gates-and-bezos\" hreflang=\"en\">‘Greg, you’ve got to bring back this platform’: How LifeMine won over Gates and Bezos for $188M series E</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lifemines-frozen-platform-thawed-263m-fundraise-backed-gates-and-bezos",
+        "summary": "A little over a year ago, LifeMine Therapeutics laid off staff and put its fungus-based platform on ice to focus its dwindling resources on its lead asset. Now, the Massachusetts biotech is shaking off the cobwebs thanks in part to substantial investments from billionaires Bill Gates and Jeff Bezos.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 5:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/context-scraps-bispecific-program-extend-cash-runway-deeper-2027\" hreflang=\"en\">Context scraps bispecific T-cell engager program to extend cash runway deeper into 2027</a>",
+        "url": "https://www.fiercebiotech.com/biotech/context-scraps-bispecific-program-extend-cash-runway-deeper-2027",
+        "summary": "Context Therapeutics has stopped development of the bispecific T-cell engager CT-95, freeing up cash to extend its runway beyond readouts on its two priority clinical programs.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 5:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/narcan-maker-emergent-biosolutions-eliminates-top-rd-role-sweeping-restructuring\" hreflang=\"en\">Narcan maker Emergent BioSolutions eliminates top R&amp;D role in sweeping restructuring</a>",
+        "url": "https://www.fiercebiotech.com/pharma/narcan-maker-emergent-biosolutions-eliminates-top-rd-role-sweeping-restructuring",
+        "summary": "Two and a half years into his tenure as Emergent BioSolutions CEO, Joseph Papa is executing another round of restructuring to align the business with “current business realities.”",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 6:13pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-suspends-chronic-lung-disease-phase-2-study-tied-strategic-business-reasons\" hreflang=\"en\">Sanofi suspends chronic lung disease phase 2 study, tied to ‘strategic business reasons’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-suspends-chronic-lung-disease-phase-2-study-tied-strategic-business-reasons",
+        "summary": "Sanofi halted a phase 2 trial testing a monoclonal antibody, SAR445399, in non-cystic fibrosis bronchiectasis, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 2:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fecal-transplant-increases-peanut-sensitivity-six-times-small-phase-1-trial\" hreflang=\"en\">Fecal transplant increases tolerance to peanuts sixfold in small food allergy trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fecal-transplant-increases-peanut-sensitivity-six-times-small-phase-1-trial",
+        "summary": "Fecal transplants can increase tolerance to peanuts sixfold in people with food allergies, new research out of Boston Children’s Hospital has suggested.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 10:35am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "NOLLI: A Difficulty-Calibrated Puzzle Benchmark for Diagnosing the English-Korean Performance Gap",
+        "url": "https://huggingface.co/papers/2608.04397",
+        "summary": "We introduce NOLLI, a procedurally generated English-Korean puzzle benchmark designed to diagnose where Korean performance gaps arise. It comprises 15 puzzle types (25 tasks; 7,500 items), with every instance seed-regenerable, verified to have a unique solution, and scored deterministically. Rather than equating harder with bigger, we calibrate difficulty behaviorally, tuning each generator until a fixed reference model lands in target accuracy bands. Its three-level design combines matched direct translations, script adaptations over Hangul jamo (sub-syllabic letters), and Korean-only tasks g",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-04T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induced Ternary Complex",
+        "url": "https://huggingface.co/papers/2607.22143",
+        "summary": "Molecular glue degraders have emerged as a promising strategy for targeted protein degradation by inducing ternary complex formation between an E3 ubiquitin ligase and a target protein. Despite their therapeutic potential, computational design of molecular glues remains largely unexplored. Unlike conventional structure-based drug design, molecular glue design is governed by the unknown protein-protein interface and requires the simultaneous modeling of ligand generation, protein-protein docking, and ternary complex assembly. In this work, we formulate molecular glue design as a ternary complex",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-03T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

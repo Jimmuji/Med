@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T11:07:45.415228+08:00",
+  "counts": {
+    "news": 27,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
+        "url": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/",
+        "summary": "Sanofi is experiencing shortages of two medicines for Pompe disease, alarming patient groups.",
+        "source": "STAT News",
+        "published": "Sun, 09 Aug 2026 23:16:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-novo-nordisk-h1-partner-ai-driven-clinical-development-hackensack\" hreflang=\"en\">Weekly Rundown: Hers rolls out new AI-native app; Novo Nordisk, H1 partner on AI-driven clinical development</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-novo-nordisk-h1-partner-ai-driven-clinical-development-hackensack",
+        "summary": "The latest news from Hims &amp; Hers, Atropos Health, Signal 1, NewYork-Presbyterian, Sharecare, Novo Nordisk, H1, Strida, Hackensack Meridian Health and ModMed.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 1:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/payer-2026-q2-earnings-unitedhealth-cvs-cigna-elevance-health\" hreflang=\"en\">Insurers see positive results in managing health costs in Q2</a>",
+        "url": "https://www.fiercehealthcare.com/payers/payer-2026-q2-earnings-unitedhealth-cvs-cigna-elevance-health",
+        "summary": "The health insurance industry weathered a rough 2025, and the turnaround for some companies through the midpoint has surprised even Wall Street analysts.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 11:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-wont-fix-nurse-burnout-nurses-will\" hreflang=\"en\">Industry Voices—AI won’t fix nurse burnout. Nurses will</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-wont-fix-nurse-burnout-nurses-will",
+        "summary": "If AI rollouts follow the path of the technologies that came before them—designed for the system, not the people inside it—they could deepen the very burnout they’re trying to relieve.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 1:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/upmc-klas-research-study-examines-ai-adoption-trends-governance-barriers\" hreflang=\"en\">UPMC, KLAS Research study examines AI adoption trends, governance barriers</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/upmc-klas-research-study-examines-ai-adoption-trends-governance-barriers",
+        "summary": "More than 90% of respondents reported deploying AI tools, but only 44% said they have a dedicated data platform for testing.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 10:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-boom-could-strengthen-epics-position-health-system-execs-say-heres-where\" hreflang=\"en\">The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-boom-could-strengthen-epics-position-health-system-execs-say-heres-where",
+        "summary": "Clinician-facing AI, imaging AI, patient AI assistants, discharge and care transitions and revenue cycle AI are the categories in which health systems are most willing to look beyond Epic, executives said.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 10:27am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/new-bipartisan-340b-reform-bill-curbs-hhs-rebate-pilot\" hreflang=\"en\">New bipartisan 340B reform bill curbs HHS' rebate pilot</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/new-bipartisan-340b-reform-bill-curbs-hhs-rebate-pilot",
+        "summary": "The SUSTAIN 340B Act introduced Wednesday would bring hospital-backed changes, like a clearinghouse to handle improper discounts and codify longstanding grey areas in the contentious subsidy program.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 4:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/omada-health-ceo-appoints-wei-li-shao-new-ceo-company-ramps-glp-1-strategy\" hreflang=\"en\">Omada Health appoints Wei-Li Shao as new CEO as company ramps up GLP-1 strategy</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/omada-health-ceo-appoints-wei-li-shao-new-ceo-company-ramps-glp-1-strategy",
+        "summary": "Omada Health reported strong Q2 growth driven by demand for its integrated approach to managing chronic conditions such as diabetes, hypertension, obesity and musculoskeletal disorders.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 4:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ccbhc-model-continues-expand-faces-some-funding-constraints\" hreflang=\"en\">CCBHC model continues to expand, but faces some funding constraints</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ccbhc-model-continues-expand-faces-some-funding-constraints",
+        "summary": "More uninsured people due to OBBBA Medicaid cuts, predicted to lead to millions losing Medicaid coverage, could increase uncompensated care costs and strain CCBHCs.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 2:51pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-data-breach-tracker-2026-lifespan-physician-group-breach-affects-over\" hreflang=\"en\">Fierce Healthcare Data Breach Tracker: Record-breaking data breach at Unlimited Technology Systems</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-data-breach-tracker-2026-lifespan-physician-group-breach-affects-over",
+        "summary": "Stay up-to-date with healthcare organization data breaches with this tracker.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 1:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—UCare cuts 102 jobs; MaineHealth reorgs hit 83</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-committee-advances-fauci-contempt-referral-schwartz-confirmed-new-cdc-director\" hreflang=\"en\">Senate committee advances Fauci contempt referral; Schwartz confirmed as new CDC director</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-committee-advances-fauci-contempt-referral-schwartz-confirmed-new-cdc-director",
+        "summary": "Senators green-lighted two votes in the past 24 hours centered on the country’s past and future public health leadership.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 12:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/oscar-health-boosts-2026-earnings-outlook-after-record-profitability-during-first-half-year\" hreflang=\"en\">Oscar Health hikes 2026 outlook after record profitability during first half of the year</a>",
+        "url": "https://www.fiercehealthcare.com/finance/oscar-health-boosts-2026-earnings-outlook-after-record-profitability-during-first-half-year",
+        "summary": "CEO Mark Bertolini said during Thursday’s earnings call that the company brought in $1.1 billion in earnings and $1 billion in net income for the first half of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 10:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ensoma-sheds-more-staff-pauses-preclinical-programs-home-lead-gene-therapy\" hreflang=\"en\">Ensoma sheds more staff, pauses preclinical programs to home in on lead gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ensoma-sheds-more-staff-pauses-preclinical-programs-home-lead-gene-therapy",
+        "summary": "Boston biotech Ensoma is doubling down on its lead gene therapy for a rare immune disease, laying off another round of employees after previously halving its workforce last November.",
+        "source": "Fierce Biotech",
+        "published": "Aug 7, 2026 10:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/blossomhill-latigo-outshine-ipo-expectations-oversubscribed-debuts\" hreflang=\"en\">BlossomHill, Latigo outshine IPO expectations with oversubscribed debuts</a>",
+        "url": "https://www.fiercebiotech.com/biotech/blossomhill-latigo-outshine-ipo-expectations-oversubscribed-debuts",
+        "summary": "Two growing biotechs blasted through their IPO expectations Friday, with Blossom Hill Therapeutics and Latigo Biotherapeutics each raising at least 30% more than expected in their stock market debuts.",
+        "source": "Fierce Biotech",
+        "published": "Aug 7, 2026 10:39am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint\" hreflang=\"en\">BioMarin axes $270M rare disease asset after missing phase 3 endpoint</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint",
+        "summary": "BioMarin Pharmaceutical has ended development of BMN 401 in all indications months after reporting mixed phase 3 data on the rare disease prospect.",
+        "source": "Fierce Biotech",
+        "published": "Aug 7, 2026 8:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth\" hreflang=\"en\">‘It’s been a roller coaster’: Novo Nordisk’s CFO reflects on ‘pressure’ to drive growth</a>",
+        "url": "https://www.fiercebiotech.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth",
+        "summary": "Novo Nordisk CFO Karsten Munk Knudsen spoke to Fierce the morning the company unveiled its second-quarter earnings, reflecting on Novo’s “roller coaster” financial journey, the pressure of navigating its shifting fortunes and why he remains optimistic about CagriSema.",
+        "source": "Fierce Biotech",
+        "published": "Aug 5, 2026 9:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Ensoma sheds more staff; Emergent lays off 93 employees</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond\" hreflang=\"en\">Novo Nordisk’s CFO on the oral Wegovy rollout and beyond</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond",
+        "summary": "Novo Nordisk CFO Karsten Munk Knudsen joins “The Top Line” to discuss oral Wegovy’s rollout, the company’s raised outlook, why he’s still optimistic about CagriSema and more.",
+        "source": "Fierce Biotech",
+        "published": "Aug 7, 2026 8:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-brings-sobi-ceo\" hreflang=\"en\">Chutes &amp; Ladders—BioNTech brings in Sobi CEO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-brings-sobi-ceo",
+        "summary": "After a six-month wait, BioNTech has finally filled its vacant CEO spot with Guido Oelkers, Ph.D. Oelkers hails from his tenure as CEO of Swedish pharma Sobi, where he oversaw the licensing of the respiratory syncytial virus therapy Synagis from AstraZeneca, the $915 million acquisition of Dova Pharmaceuticals for the thrombocytopenia medicine Doptelet and the launch of another bleeding disorder drug, Altuviiio, in partnership with Sanofi.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 4:47pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us\" hreflang=\"en\">Roche adds cyclospora PCR tests as outbreak widens</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us",
+        "summary": "Roche is launching new tests for cyclospora as an outbreak linked to iceberg lettuce from Mexico continues to spread across U.S. states.",
+        "source": "Fierce Biotech",
+        "published": "Aug 7, 2026 6:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens\" hreflang=\"en\">PacBio CEO steps down amid layoffs, widening Q2 loss</a>",
+        "url": "https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens",
+        "summary": "PacBio has promoted an internal veteran to CEO after Christian Henry stepped down, tasking the new leader with improving sales, expanding the DNA sequencing company’s clinical reach and cutting costs.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 10:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/double-shot-vistagens-anxiety-nasal-spray-cant-beat-placebo-ph-2-trial\" hreflang=\"en\">Double shot of Vistagen’s anxiety nasal spray can’t beat placebo in ph. 2 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/double-shot-vistagens-anxiety-nasal-spray-cant-beat-placebo-ph-2-trial",
+        "summary": "Following a string of clinical setbacks, Vistagen’s nasal spray for social anxiety has now failed to top placebo even when given as a double dose. But just like with prior disappointing readouts, the biotech has set its sights on a subpopulation it says may provide a path to FDA approval.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 10:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tarsus-stakes-450m-alkeus-phase-3-retinal-disease-drug\" hreflang=\"en\">Tarsus pays $450M for Alkeus and its phase 3-stage retinal disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tarsus-stakes-450m-alkeus-phase-3-retinal-disease-drug",
+        "summary": "Tarsus Pharmaceuticals is fronting $450 million to acquire Alkeus Pharmaceuticals for its phase 3-stage retinal disease therapy that's being touted as a potential blockbuster.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 10:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biovie-uses-composite-endpoint-make-case-parkinsons-program\" hreflang=\"en\">BioVie’s stock sinks 50% as company uses composite endpoint to make case for Parkinson’s program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biovie-uses-composite-endpoint-make-case-parkinsons-program",
+        "summary": "BioVie has hailed phase 2 data as evidence that bezisterim could represent a “meaningful advance” in the treatment of Parkinson’s disease. But the biotech focused on a new composite measure, rather than its stated primary endpoint, and emphasized outcomes in a subpopulation of patients.",
+        "source": "Fierce Biotech",
+        "published": "Aug 6, 2026 9:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "全球医疗健康力量共议，2026全球医疗峰会在香港召开",
+        "url": "https://www.36kr.com/p/3930387520175241",
+        "summary": "围绕AI技术发展、前沿科研、临床转化、资本支持与科技赋能等多个维度，探讨医疗健康领域的突破性创新如何真正走向临床、走向患者、走向全球。",
+        "source": "36Kr 医疗AI",
+        "published": "Sat, 08 Aug 2026 04:37:08 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "谷歌AI，杯酒释兵权",
+        "url": "https://www.36kr.com/p/3930290495510401",
+        "summary": "一场没有输家的清洗，天才退场，经理人登顶。",
+        "source": "36Kr 医疗AI",
+        "published": "Sat, 08 Aug 2026 03:23:57 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+        "url": "https://huggingface.co/papers/2608.06714",
+        "summary": "Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamentally different question: how much of this search policy can be internalized by a single tool-using agent? We present ReASearch, a unified framework for reasoning-driven optimization in which the agent autonomously decides what to evaluate, how to diagnose failures, which edits to make, and when to verify or restart. Rather than serving only as a proposal generator guided by hand-designed heuristi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+        "url": "https://huggingface.co/papers/2608.05138",
+        "summary": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, financial, and medical applications. We present an end-to-end adaptation of the Nemotron retrieval stack for Modern Greek, including corpus mining, synthetic supervision, retrieval model training, reranker adaptation, reader fine-tuning, and a new benchmark called HERA. Our study shows that a parameter-free BM25 baseline outperforms several off-the-shelf multilingual dense retrieval models on speciali",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-04T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

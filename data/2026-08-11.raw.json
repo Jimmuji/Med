@@ -1,0 +1,334 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T11:00:33.281779+08:00",
+  "counts": {
+    "news": 38,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
+        "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/",
+        "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 19:29:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
+        "url": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/",
+        "summary": "The FDA has rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 15:11:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FDA to require notice of additives in food supply for the first time",
+        "url": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/",
+        "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Ban prior auth? And hospitals cut jobs",
+        "url": "https://www.statnews.com/2026/08/10/advocate-ban-prior-authorization-340b-limits-impact-on-hospitals/",
+        "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 14:52:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA panel to weigh Grail’s Galleri test",
+        "url": "https://www.statnews.com/2026/08/10/biotech-news-fda-panel-to-weigh-grail-galleri-test/",
+        "summary": "China reins in its biotech innovation engine, radiopharma boom meets unexpected hurdles, and more news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 14:48:07 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Sanofi drug shortage, a Jazz Pharma deal, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/",
+        "summary": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease after the FDA warned the company over manufacturing issues",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 13:24:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sionna’s experimental cystic fibrosis pill falls flat in mid-stage trial",
+        "url": "https://www.statnews.com/2026/08/10/sionna-cystic-fibrosis-trial-failures-sion719-vertex-trikaft/",
+        "summary": "A pill from Sionna Therapeutics provided no added benefit when combined with Vertex's cystic fibrosis blockbuster Trikafta, a blow to the biotech.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 12:03:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Heart failure drug from Tenax Therapeutics fails in pivotal study",
+        "url": "https://www.statnews.com/2026/08/10/tenax-heart-failure-drug-trail-failure-levosimendan-ph-hfpef/",
+        "summary": "A Tenax Therapeutics drug designed to treat a type of heart failure associated with high blood pressure in the lungs failed in a closely watched study.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 11:38:20 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Silence Therapeutics aims at Takeda with new data in rare blood cancer",
+        "url": "https://www.statnews.com/2026/08/10/silence-polycythemia-vera-trial-results-divesiran-takeda-rusfertide/",
+        "summary": "A rare blood cancer drug from Silence Therapeutics showed strong results in a trial, potentially setting it up to compete with a Takeda medicine.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 11:31:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: China tightens the reins on clinical trials, even as the U.S. looks for ways to replicate its rival’s speed",
+        "url": "https://www.statnews.com/2026/08/10/china-biotech-new-scrutiny-investigator-initiated-trials/",
+        "summary": "China has tightened regulations on investigator-initiated trials, with consequences not just for Chinese researchers but some Americans, too.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: We prepared for Ebola — but not this Ebola",
+        "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/",
+        "summary": "“Preparedness cannot mean optimizing every investment for yesterday's epidemic,” write Krutika Kuppalli and Placide Mbala.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The promise of radiopharmaceuticals smacks into safety concerns",
+        "url": "https://www.statnews.com/2026/08/10/radiopharmaceuticals-clinical-trials-progress-setbacks/",
+        "summary": "Despite excitement over the potential of radiopharmaceuticals as cancer treatments, drug developers are hitting new hurdles.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How should states reach out to Medicaid enrollees affected by changes? Our research gives a hint",
+        "url": "https://www.statnews.com/2026/08/10/medicaid-work-requirement-changes-states-contact/",
+        "summary": "Experts ask: How can we better reach out to people facing Medicaid renewal deadlines and support them through the paperwork requirements?",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
+        "url": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/",
+        "summary": "Sanofi is experiencing shortages of two medicines for Pompe disease, alarming patient groups.",
+        "source": "STAT News",
+        "published": "Sun, 09 Aug 2026 23:16:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-signs-executive-order-overhaul-pediatric-vaccine-recommendations\" hreflang=\"en\">Trump signs executive order to overhaul pediatric vaccine recommendations</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-signs-executive-order-overhaul-pediatric-vaccine-recommendations",
+        "summary": "President Donald Trump signed an executive order Monday that calls for reducing the number of required vaccinations for children in a move that backs a revised immunization schedule pushed by the Department of Health and Human Services.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 5:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/w-group-releases-1st-global-womens-health-investment-report-tracking-record\" hreflang=\"en\">Women’s health equity funding hits new high, drawing $1.55B in 2025</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/w-group-releases-1st-global-womens-health-investment-report-tracking-record",
+        "summary": "Women’s health companies raised a record $1.55 billion in disclosed equity in 2025, up 41% year over year. Funding became less concentrated, suggesting capital spread across more companies and categories, according to a new report from W Group.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 1:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/number-health-plans-reporting-operating-losses-growing-report\" hreflang=\"en\">The number of health plans reporting operating losses is growing: report</a>",
+        "url": "https://www.fiercehealthcare.com/payers/number-health-plans-reporting-operating-losses-growing-report",
+        "summary": "Health insurers are under significant financial pressure, and the gap between the organizations that are adapting and those that are not is growing, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 3:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/sanders-cassidy-request-doj-update-contempt-status-former-steward-health-care-ceo\" hreflang=\"en\">Sanders, Cassidy request DOJ update on contempt status of former Steward Health Care CEO</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/sanders-cassidy-request-doj-update-contempt-status-former-steward-health-care-ceo",
+        "summary": "The Senators requested Attorney General Todd Blanche provide an update on the criminal contempt referral against Ralph de la Torre, M.D., by Aug. 20.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 10:26am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment\" hreflang=\"en\">Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment",
+        "summary": "Doximity's push to be the leading AI digital assistant for docs",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 8:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/deep-dive-doctronics-ai-prescription-refill-pilot-program-utah\" hreflang=\"en\">Inside Doctronic’s AI prescription refill pilot program in Utah</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/deep-dive-doctronics-ai-prescription-refill-pilot-program-utah",
+        "summary": "The company was “very conservative” with the initial formulary, and there are plans to add new medications once it is proven safe to do so, Matt Pavelle, Doctronic co-founder and co-CEO, said.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 4:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-novo-nordisk-h1-partner-ai-driven-clinical-development-hackensack\" hreflang=\"en\">Weekly Rundown: Hers rolls out new AI-native app; Novo Nordisk, H1 partner on AI-driven clinical development</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-novo-nordisk-h1-partner-ai-driven-clinical-development-hackensack",
+        "summary": "The latest news from Hims &amp; Hers, Atropos Health, Signal 1, NewYork-Presbyterian, Sharecare, Novo Nordisk, H1, Strida, Hackensack Meridian Health and ModMed.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 1:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders— Tufts Medicine CEO, CFO to exit; Jaewon Ryu steps down from Risant</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/payer-2026-q2-earnings-unitedhealth-cvs-cigna-elevance-health\" hreflang=\"en\">Insurers see positive results in managing health costs in Q2</a>",
+        "url": "https://www.fiercehealthcare.com/payers/payer-2026-q2-earnings-unitedhealth-cvs-cigna-elevance-health",
+        "summary": "The health insurance industry weathered a rough 2025, and the turnaround for some companies through the midpoint has surprised even Wall Street analysts.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 11:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-wont-fix-nurse-burnout-nurses-will\" hreflang=\"en\">Industry Voices—AI won’t fix nurse burnout. Nurses will</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-wont-fix-nurse-burnout-nurses-will",
+        "summary": "If AI rollouts follow the path of the technologies that came before them—designed for the system, not the people inside it—they could deepen the very burnout they’re trying to relieve.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 1:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-boom-could-strengthen-epics-position-health-system-execs-say-heres-where\" hreflang=\"en\">The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-boom-could-strengthen-epics-position-health-system-execs-say-heres-where",
+        "summary": "Clinician-facing AI, imaging AI, patient AI assistants, discharge and care transitions and revenue cycle AI are the categories in which health systems are most willing to look beyond Epic, executives said.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 10:27am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/upmc-klas-research-study-examines-ai-adoption-trends-governance-barriers\" hreflang=\"en\">UPMC, KLAS Research study examines AI adoption trends, governance barriers</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/upmc-klas-research-study-examines-ai-adoption-trends-governance-barriers",
+        "summary": "More than 90% of respondents reported deploying AI tools, but only 44% said they have a dedicated data platform for testing.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 7, 2026 10:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms\" hreflang=\"en\">ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms</a>",
+        "url": "https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms",
+        "summary": "The FDA has denied ITM Isotopes Technologies’ lead pipeline candidate for a rare group of tumors due to qualms over the drug’s manufacturing.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 11:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis\" hreflang=\"en\">MoonLake’s nanobody boosts all clinical endpoints in phase 3 psoriatic arthritis trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis",
+        "summary": "MoonLake Immunotherapeutics announced positive phase 3 data for patients with psoriatic arthritis treated with its lead nanobody candidate, sonelokimab.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 10:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jazz-plays-epilepsy-intentions-132b-acquisition-actio-biosciences\" hreflang=\"en\">Jazz pays $820M to buy Actio, adding clinical-stage asset to orchestra of epilepsy therapies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jazz-plays-epilepsy-intentions-132b-acquisition-actio-biosciences",
+        "summary": "Jazz Pharmaceuticals is adding to its orchestra of epilepsy treatments with the acquisition of Actio Biosciences for $820 million upfront.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 9:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug\" hreflang=\"en\">Scholar Rock ditches Novo’s legacy Catalent plant in FDA refiling of SMA drug</a>",
+        "url": "https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug",
+        "summary": "Scholar Rock has dropped Novo Nordisk’s troubled Catalent facility as a contract manufacturer in its FDA refiling for apitegromab, a spinal muscular atrophy candidate, after a recent inspection of the plant was classified as “Official Action Indicated.”",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex\" hreflang=\"en\">Sionna’s cystic fibrosis flop sends stock down 90%, but a ‘significant positive’ for Vertex</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex",
+        "summary": "Sionna Therapeutics has axed a cystic fibrosis add-on program after flunking a phase 2 trial, eliminating a would-be challenger to Vertex Pharmaceuticals’ empire. The biotech plans to “take actions to preserve capital while evaluating next steps.”",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 9:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic\" hreflang=\"en\">Labcorp nabs FDA green light for BRAF melanoma diagnostic </a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic",
+        "summary": "The FDA has signed off on Labcorp’s companion diagnostic for patients with advanced melanoma carrying certain BRAF variants.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 8:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice\" hreflang=\"en\">AbCellera women’s health data top ‘most aggressive upside scenario,’ putting Astellas and Bayer on notice</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice",
+        "summary": "AbCellera has reported phase 2 results “beyond even the most aggressive upside scenario” that its CEO dared to consider, boosting the biotech’s chances of challenging Astellas and Bayer for a women’s health market.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 8:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths\" hreflang=\"en\">FDA issues alert in wake of BD recall of faulty needle sets that caused 4 deaths</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths",
+        "summary": "The FDA’s Center for Devices and Radiological Health issued an early alert for Becton Dickinson’s Intraosseous Vascular Access system needle sets&nbsp;in the wake of four deaths and 45 serious injuries related to the product.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 8:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub\" hreflang=\"en\">Novo Nordisk and Amazon sign AI drug discovery pact, launch London innovation hub</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub",
+        "summary": "Novo Nordisk and Amazon Web Services will partner to leverage AI and accelerate drug discovery.",
+        "source": "Fierce Biotech",
+        "published": "Aug 9, 2026 10:33pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win\" hreflang=\"en\">Silence brings the noise to Takeda with phase 2 blood cancer win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win",
+        "summary": "A phase 2 trial of Silence Therapeutics’ divesiran has hit its primary endpoint, emboldening the biotech to gear up for late-phase development of a potential challenger to Takeda and Protagonist Therapeutics’ rusfertide.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 4:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sobi-pens-580m-deal-innates-skin-cancer-drug-ahead-phase-3-push\" hreflang=\"en\">Sobi pens $580M deal for Innate’s skin cancer drug ahead of phase 3 push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sobi-pens-580m-deal-innates-skin-cancer-drug-ahead-phase-3-push",
+        "summary": "Sobi has bought into Innate Pharma’s vision for lacutamab, handing the French biotech $75 million upfront for the rights to market the anti-KIR3DL2 antibody for an aggressive skin cancer.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 7:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arpeggio-plays-final-chord-biotech-disbands-poor-prospects-nrf2-program\" hreflang=\"en\">Arpeggio plays final chord as biotech disbands on poor prospects for Nrf2 program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arpeggio-plays-final-chord-biotech-disbands-poor-prospects-nrf2-program",
+        "summary": "Arpeggio Biosciences’ eight-year song has come to an end, as the transcriptome biotech’s CEO admitted the that company’s Nrf2 program had begun to “unravel.”",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 5:06am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Towards Interpretable Foundation Models for Retinal Fundus Images",
+        "url": "https://huggingface.co/papers/2603.18846",
+        "summary": "Foundation models are used to extract transferable representations from large amounts of unlabeled data, typically via self-supervised learning (SSL). However, many of these models rely on architectures that offer limited interpretability, a critical issue in high-stakes domains such as medical imaging. We propose DualIFM, a foundation model that is interpretable-by-design via a BagNet backbone whose small receptive fields generate class evidence maps that are faithful to the model's decision-making process. Additionally, DualIFM incorporates a 2D projection layer during pretraining that enabl",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-03T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows",
+        "url": "https://huggingface.co/papers/2608.06714",
+        "summary": "Recent systems for optimizing prompts, programs, and ML workflows typically rely on explicit outer-loop controllers such as evolutionary search, bandits, or textual-gradient methods. We ask a fundamentally different question: how much of this search policy can be internalized by a single tool-using agent? We present ReASearch, a unified framework for reasoning-driven optimization in which the agent autonomously decides what to evaluate, how to diagnose failures, which edits to make, and when to verify or restart. Rather than serving only as a proposal generator guided by hand-designed heuristi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-06T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

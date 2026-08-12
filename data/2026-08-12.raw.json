@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T11:19:21.191364+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
+        "url": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/",
+        "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 22:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Medicaid will stop paying for some gender-affirming care for transgender minors",
+        "url": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/",
+        "summary": "The Trump administration plans to end federal funding for some care for transgender minors.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 22:18:55 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
+        "url": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/",
+        "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 16:57:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Trump says his executive order should restore trust in vaccines. It does the exact opposite",
+        "url": "https://www.statnews.com/2026/08/11/trump-executive-order-vaccines-undecided-parents-trust/",
+        "summary": "The White House says Trump’s recent executive order is aimed at restoring trust in vaccines. It will do the opposite, writes an epidemiologist.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 16:46:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How we know that splitting up the MMR vaccine could be dangerous",
+        "url": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/",
+        "summary": "It's no mystery. History tells us that President Trump’s executive order calling for the MMR to be split into separate shots could do real harm.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 14:28:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s vaccine pivot overshadows food rule",
+        "url": "https://www.statnews.com/2026/08/11/trump-vaccine-policy-pivot-overshadows-fda-gras-food-rule-dc-diagnosis/",
+        "summary": "Trump is turning the focus back to controversial vaccine policy, overshadowing a new move on food additives.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 14:19:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an FDA rejection, 340B court battles, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/11/fda-rejects-radiopharmaceutical-340b-court-battles/",
+        "summary": "The FDA rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 13:27:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A RAPID proposal for breakthrough coverage, and nurses push back on AI",
+        "url": "https://www.statnews.com/2026/08/11/cms-rapid-breakthrough-device-coverage-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Details from CMS and FDA on the RAPID pathway for breakthrough devices, and nurses push back on AI.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 13:15:49 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Skylark Bio kicks off new gene therapy trial for deafness",
+        "url": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/",
+        "summary": "Biotech startups in the U.S., France, and China are racing to bring new gene therapies for deafness by targeting different genetic mutations.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why is MoonLake Immunotherapeutics scared of releasing data on its drug candidate?",
+        "url": "https://www.statnews.com/2026/08/11/why-is-moonlake-immunotherapeutics-scared-of-releasing-data/",
+        "summary": "Biotech companies don’t hide or obfuscate strong data.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nurses seek a seat at the table as they fight expanding clinical AI",
+        "url": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/",
+        "summary": "Nurses, who make up the largest part of the health care workforce, say clinical artificial intelligence poses a threat to their jobs, and patients.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
+        "url": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/",
+        "summary": "Medicare’s new weight loss drug program “risks creating barriers at precisely the moment when confidence in broader GLP‑1 coverage is most needed,” writes Jeffrey Millstein.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The new geography of abortion care",
+        "url": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/",
+        "summary": "Even before Dobbs, patients had “begun reorganizing abortion care outside traditional health care settings,” writes Jennifer Karlin.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "IRBs have a problem. Can North Star’s nonprofit model save it?",
+        "url": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/",
+        "summary": "As institutional review boards face pressure from companies and ethicists, North Star Review Board offers a nonprofit model as more independent.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
+        "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/",
+        "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
+        "source": "STAT News",
+        "published": "Mon, 10 Aug 2026 19:29:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-ends-medicaid-chip-funding-gender-affirming-care-minors\" hreflang=\"en\">CMS ends Medicaid, CHIP funding for gender-affirming care for minors</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-ends-medicaid-chip-funding-gender-affirming-care-minors",
+        "summary": "The Trump administration has finalized a rule that would pull funding for gender-affirming care for minors from Medicaid and the Children's Health Insurance Program.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 5:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hims-hers-posts-753m-q3-revenue-it-preps-push-peptide-market\" hreflang=\"en\">Hims &amp; Hers posts $753M in Q2 revenue as it preps for push into peptide market  </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-posts-753m-q3-revenue-it-preps-push-peptide-market",
+        "summary": "Digital health and wellness company Hims &amp; Hers is ready to tap into a multi-billion peptide market if U.S. regulators loosen restrictions on manufacturing.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 3:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cms-mandatory-vbc-programs-brought-substantial-administrative-costs-hospitals-study\" hreflang=\"en\">CMS' mandatory VBC programs brought substantial administrative costs for hospitals: study</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cms-mandatory-vbc-programs-brought-substantial-administrative-costs-hospitals-study",
+        "summary": "Four mandatory value-based payment programs were associated with more than $3 billion in aggregated administrative costs compared to non-participating hospitals, researchers' analysis of Medicare cost reports found.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 12:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders— Humana names new Medicaid chief; Tufts Medicine CEO, CFO to exit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/flagler-health-secures-50m-series-b-ai-native-msk-care-platform-expansion\" hreflang=\"en\">Flagler Health secures $50M series B for AI-native MSK care platform expansion</a>",
+        "url": "https://www.fiercehealthcare.com/finance/flagler-health-secures-50m-series-b-ai-native-msk-care-platform-expansion",
+        "summary": "The company says its platform is built on one of the largest MSK patient datasets and integrates directly into existing EMRs and workflows.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 11:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-signs-executive-order-overhaul-pediatric-vaccine-recommendations\" hreflang=\"en\">Trump signs executive order to overhaul pediatric vaccine recommendations</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-signs-executive-order-overhaul-pediatric-vaccine-recommendations",
+        "summary": "President Donald Trump signed an executive order Monday that calls for reducing the number of required vaccinations for children in a move that backs a revised immunization schedule pushed by the Department of Health and Human Services.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 5:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/w-group-releases-1st-global-womens-health-investment-report-tracking-record\" hreflang=\"en\">Women’s health equity funding hits new high, drawing $1.55B in 2025</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/w-group-releases-1st-global-womens-health-investment-report-tracking-record",
+        "summary": "Women’s health companies raised a record $1.55 billion in disclosed equity in 2025, up 41% year over year. Funding became less concentrated, suggesting capital spread across more companies and categories, according to a new report from W Group.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 15, 2026 1:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/number-health-plans-reporting-operating-losses-growing-report\" hreflang=\"en\">The number of health plans reporting operating losses is growing: report</a>",
+        "url": "https://www.fiercehealthcare.com/payers/number-health-plans-reporting-operating-losses-growing-report",
+        "summary": "Health insurers are under significant financial pressure, and the gap between the organizations that are adapting and those that are not is growing, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 3:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/sanders-cassidy-request-doj-update-contempt-status-former-steward-health-care-ceo\" hreflang=\"en\">Sanders, Cassidy request DOJ update on contempt status of former Steward Health Care CEO</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/sanders-cassidy-request-doj-update-contempt-status-former-steward-health-care-ceo",
+        "summary": "The Senators requested Attorney General Todd Blanche provide an update on the criminal contempt referral against Ralph de la Torre, M.D., by Aug. 20.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 10:26am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment\" hreflang=\"en\">Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment",
+        "summary": "Doximity's push to be the leading AI digital assistant for docs",
+        "source": "Fierce Healthcare",
+        "published": "Aug 10, 2026 8:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/deep-dive-doctronics-ai-prescription-refill-pilot-program-utah\" hreflang=\"en\">Inside Doctronic’s AI prescription refill pilot program in Utah</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/deep-dive-doctronics-ai-prescription-refill-pilot-program-utah",
+        "summary": "The company was “very conservative” with the initial formulary, and there are plans to add new medications once it is proven safe to do so, Matt Pavelle, Doctronic co-founder and co-CEO, said.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 4, 2026 4:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-novo-nordisk-h1-partner-ai-driven-clinical-development-hackensack\" hreflang=\"en\">Weekly Rundown: Hers rolls out new AI-native app; Novo Nordisk, H1 partner on AI-driven clinical development</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-novo-nordisk-h1-partner-ai-driven-clinical-development-hackensack",
+        "summary": "The latest news from Hims &amp; Hers, Atropos Health, Signal 1, NewYork-Presbyterian, Sharecare, Novo Nordisk, H1, Strida, Hackensack Meridian Health and ModMed.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 6, 2026 1:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad\" hreflang=\"en\">Amgen lays groundwork for new R&amp;D center in Hyderabad</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad",
+        "summary": "Amgen is expanding its footprint in India with an R&amp;D center in Hyderabad, the latest by from the California company to boost its research facilities.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 1:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease\" hreflang=\"en\">Epicrispr raises $90M to rewrite treatment of rare muscle disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease",
+        "summary": "Epicrispr Biotechnologies has raised $90 million in a series C round backed by investors including Sanofi Ventures, positioning the biotech to advance a pipeline of epigenetic medicines led by an early-phase facioscapulohumeral muscular dystrophy prospect.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 9:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mereo-springs-475m-biobucks-sentynl-phase-3-ready-rare-genetic-lung-disease-drug\" hreflang=\"en\">Zydus’ Sentynl pens $475M deal for Mereo’s phase 3-ready rare genetic lung disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mereo-springs-475m-biobucks-sentynl-phase-3-ready-rare-genetic-lung-disease-drug",
+        "summary": "Sentynl Therapeutics has penned a deal potentially worth $475 million for the option to market Mereo BioPharma's phase 3-ready rare genetic respiratory disease drug in the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 9:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Aura loses 20% of staffers; aTyr shrinks by 60%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Vaderis nets $152M series B; Epicrispr adds $90M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app\" hreflang=\"en\">Abbott teams with Google Health on AI-powered health insights app</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app",
+        "summary": "Two giants of their respective fields, Abbott and Google, are joining forces for a first-of-its-kind team-up that aims to build out a digital picture of people’s health.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 3:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aura-lays-20-staff-rejigs-c-suite-amid-rd-refocusing\" hreflang=\"en\">Aura lays off 20% of workforce, rejigs C-suite amid R&amp;D refocus on eye cancer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aura-lays-20-staff-rejigs-c-suite-amid-rd-refocusing",
+        "summary": "Aura Biosciences is refocusing under its recently installed CEO, laying off 20% of its employees and overhauling its C-suite as it narrows its focus on ocular oncology.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 8:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-backs-75m-series-antibody-upstart-infinimmune\" hreflang=\"en\">Regeneron backs $75M series A for antibody upstart Infinimmune</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-backs-75m-series-antibody-upstart-infinimmune",
+        "summary": "Infinimmune has amassed further fuel to power its antibody discovery engine, netting a $75 million series A headlined by Regeneron’s venture arm.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 4:31pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vaderis-lands-152m-squeeze-akt-inhibitor-through-phase-3-and-regulatory-approval\" hreflang=\"en\">‘We are proud to be in the lead’: Vaderis lands $152M for phase 3 study in rare blood vessel disorder</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vaderis-lands-152m-squeeze-akt-inhibitor-through-phase-3-and-regulatory-approval",
+        "summary": "Vaderis Therapeutics has secured an oversubscribed $152 million series B financing to propel the Swiss biotech's AKT inhibitor through phase 3 with the aim of bringing the first treatment for a rare blood vessel disorder to market.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 1:45pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms\" hreflang=\"en\">ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms</a>",
+        "url": "https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms",
+        "summary": "The FDA has denied ITM Isotopes Technologies’ lead pipeline candidate for a rare group of tumors due to qualms over the drug’s manufacturing.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 11:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis\" hreflang=\"en\">MoonLake’s nanobody boosts all clinical endpoints in phase 3 psoriatic arthritis trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis",
+        "summary": "MoonLake Immunotherapeutics announced positive phase 3 data for patients with psoriatic arthritis treated with its lead nanobody candidate, sonelokimab.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 10:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jazz-plays-epilepsy-intentions-132b-acquisition-actio-biosciences\" hreflang=\"en\">Jazz pays $820M to buy Actio, adding clinical-stage asset to orchestra of epilepsy therapies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jazz-plays-epilepsy-intentions-132b-acquisition-actio-biosciences",
+        "summary": "Jazz Pharmaceuticals is adding to its orchestra of epilepsy treatments with the acquisition of Actio Biosciences for $820 million upfront.",
+        "source": "Fierce Biotech",
+        "published": "Aug 10, 2026 9:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "GE医疗考虑出售的百亿核心业务，为何亏钱？",
+        "url": "https://www.36kr.com/p/3935783308836232",
+        "summary": "PCS所处领域存在什么问题？",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 12 Aug 2026 02:02:30 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "“X-Day”西丽湖路演社清华校友电子信息专场成功举办",
+        "url": "https://www.36kr.com/p/3933182020156801",
+        "summary": "2026南国清华公益路演周年电子信息专场在深落幕",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 10 Aug 2026 04:05:41 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "SymDiag: Explainable Diagnosis for LLM Reasoning via Neuro-Symbolic Verification",
+        "url": "https://huggingface.co/papers/2608.08786",
+        "summary": "Large language models (LLMs) increasingly serve as data-driven reasoners, yet their chains-of-thought (CoT) can be unfaithful even when final answers are correct. Most existing ``verification'' signals are not diagnostic: answer matching observes only the outcome, LLM-as-judge provides subjective and non-verifiable critiques, and scalar rewards (e.g., PRMs/RMs) offer little insight into where a multi-step derivation fails.We propose SymDiag, a neuro-symbolic framework that reframes reasoning verification as structured failure diagnosis. SymDiag translates natural-language CoT into symbolic con",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-08T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

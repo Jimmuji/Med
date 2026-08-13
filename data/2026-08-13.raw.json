@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T11:23:17.252673+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
+        "url": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/",
+        "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 20:46:29 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Vaping and cannabis hit record highs among young adults in 2025: Survey",
+        "url": "https://www.statnews.com/2026/08/12/vaping-cannabis-use-rates-young-adults/",
+        "summary": "Young adults’ use of vapes and cannabis hit all-time highs last year, according to a new survey.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 20:30:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Providers notch No Surprises Act legal win that could boost their pay",
+        "url": "https://www.statnews.com/2026/08/12/texas-medical-association-no-surprises-act-lawsuit-qpa/",
+        "summary": "The change could boost how much health insurers, and patients, pay for some care.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 20:29:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration’s new ‘treatment first’ addiction toolkit emphasizes faith, abstinence",
+        "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/",
+        "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 19:43:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "WHO says Trump’s latest vaccine policy order is misguided",
+        "url": "https://www.statnews.com/2026/08/12/trump-vaccine-executive-order-critiqued-by-tedros-who/",
+        "summary": "The White House's order attempting to overhaul the vaccine schedule could subject children to more needles and more disease risk, world health leaders say.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 18:03:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cancer patients face longer wait times to begin treatment, according to new study",
+        "url": "https://www.statnews.com/2026/08/12/cancer-patients-face-longer-wait-times-for-treatment/",
+        "summary": "“Across every cancer we studied, patients are waiting longer today than they were a decade ago.”",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: The Lindsay Clancy case shows the limits of postpartum psychiatry",
+        "url": "https://www.statnews.com/2026/08/12/lindsay-clancy-postpartum-psychosis-diagnosis-treatment-limits/",
+        "summary": "“Our understanding and treatment of postpartum psychiatric illnesses remain profoundly inadequate,” experts write.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 14:51:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Lilly ‘black market’ lawsuits, pushback over Trump vaccine plan, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/12/lilly-black-market-lawsuits-trump-vaccine-plan-pushback/",
+        "summary": "Eli Lilly filed six lawsuits against U.S. companies it accuses of illegally selling black-market versions of its experimental obesity drug retatrutide",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 13:22:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The secret AI-startup project I’ve been working on the last six months",
+        "url": "https://www.statnews.com/2026/08/12/the-secret-startup-project-ive-been-working-on-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis: The messy reality of hastily developing and selling AI tools to clinics, and other health AI news.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 12:09:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Definium Therapeutics says its LSD therapy eased anxiety in late-stage trial",
+        "url": "https://www.statnews.com/2026/08/12/definium-lsd-treatment-anxiety-study/",
+        "summary": "Definium Therapeutics said that its LSD therapy significantly helped patients with generalized anxiety disorder in the first of two large trials.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 12:01:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech company co-founded by top autoimmune researcher lays out plans with antibody therapies",
+        "url": "https://www.statnews.com/2026/08/12/boulevard-bio-georg-schett-antibody-therapies/",
+        "summary": "German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment. Now he's co-founding his own company.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Neurocrine Biosciences rare disease drug possibly tied to safety issues, experts say",
+        "url": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/",
+        "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Climate change is making people with chronic illness even sicker",
+        "url": "https://www.statnews.com/2026/08/12/climate-change-chronic-disease-heat-smoke-arthritis-lupus-pots/",
+        "summary": "“What research can definitively tell us is that climate change is here, and it’s already making people sick,” writes Lorraine Boissoneault.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Inside a $7 billion Silicon Valley startup’s mad dash to automate the business of health care",
+        "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/",
+        "summary": "Commure wants to automate health care's administrative tasks with AI. An inside look at the messy realities of the startup's ambitious quest.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
+        "url": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/",
+        "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds.",
+        "source": "STAT News",
+        "published": "Tue, 11 Aug 2026 22:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/uc-san-diego-health-west-health-launch-40m-accelerator-tech-forward-coordinated-care\" hreflang=\"en\">UC San Diego Health, West Health launch $40M accelerator for 'tech-forward' coordinated care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/uc-san-diego-health-west-health-launch-40m-accelerator-tech-forward-coordinated-care",
+        "summary": "The academic system and the nonprofit plan to develop a scalable model for timely, personalized care delivery, with an emphasis on care navigation and digital health tools.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 4:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/appeals-court-tosses-methodology-calculating-nsa-qualifying-payment-amounts\" hreflang=\"en\">Appeals court tosses methodology for calculating NSA qualifying payment amounts</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/appeals-court-tosses-methodology-calculating-nsa-qualifying-payment-amounts",
+        "summary": "A federal appeals court has tossed key methodology used to resolve out-of-network claims under the No Surprises Act.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 4:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/antelope-recovery-gets-colorado-opioid-settlement-funds-expand-spanish-services\" hreflang=\"en\">Antelope Recovery, offering SUD care for teens, to expand Spanish services in Colorado</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/antelope-recovery-gets-colorado-opioid-settlement-funds-expand-spanish-services",
+        "summary": "Antelope Recovery offers mental health treatment for criminal justice-involved teens. The latest funding will also be used to develop additional programming specific to the challenges these youth face.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 2:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/sharp-healthcare-announces-another-reorganization-affecting-260-workers\" hreflang=\"en\">Sharp HealthCare announces another reorganization affecting 260 workers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/sharp-healthcare-announces-another-reorganization-affecting-260-workers",
+        "summary": "The workforce reduction will reduce the San Diego nonprofit's headcount by just under 1%, but follows last summer's elimination of 315 roles. Leadership attributed the decision to heightened expenses and policy changes at both the federal and state levels.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 12:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/suvi-health-launches-ambient-ai-solution-patients-and-caregivers-support\" hreflang=\"en\">Suvi Health launches ambient AI solution for patients to reduce hospital stays and support care transitions</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suvi-health-launches-ambient-ai-solution-patients-and-caregivers-support",
+        "summary": "Startup Suvi Health developed an ambient AI platform for patients to close gaps at critical transition points and support the handoff between hospital care teams and patients and their families.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 9:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/biggest-payer-and-provider-trends-q2\" hreflang=\"en\">The biggest payer and provider trends from Q2</a>",
+        "url": "https://www.fiercehealthcare.com/payers/biggest-payer-and-provider-trends-q2",
+        "summary": "Fierce Healthcare's Paige Minemyer and Dave Muoio break down the biggest trends shaping payer and provider performance in the second quarter and what to watch next.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 9:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-debuts-revamped-ai-powered-patient-portal\" hreflang=\"en\">Oracle Health debuts revamped patient portal with an AI upgrade</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-debuts-revamped-ai-powered-patient-portal",
+        "summary": "Oracle Health debuted a revamped digital platform for patients with an artificial intelligence assistant that can explain medical records in plain language and assist with scheduling appointments.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 7:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-rolls-out-ai-agent-dedicated-referrals\" hreflang=\"en\">Assort Health rolls out AI agent to automate referrals for specialty practices and health systems</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/assort-health-rolls-out-ai-agent-dedicated-referrals",
+        "summary": "The tool can process inbound referrals, confirm eligibility and match patients to best-suited providers, the startup says.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 4:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthcare-cfos-face-growing-decision-making-expectations-many-say-they-arent-ready\" hreflang=\"en\">Healthcare CFOs face growing decision-making expectations. Many say they aren't ready</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthcare-cfos-face-growing-decision-making-expectations-many-say-they-arent-ready",
+        "summary": "Healthcare chief financial officers often say they are expected to be substantially involved in a broad range of enterprise decision-making, though many don’t believe they are appropriately equipped to contribute.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/claims-data-transparency-empowers-employers-act-affordability-survey\" hreflang=\"en\">Claims data transparency empowers employers to act on affordability: survey</a>",
+        "url": "https://www.fiercehealthcare.com/payers/claims-data-transparency-empowers-employers-act-affordability-survey",
+        "summary": "Employers that have access to key data on their healthcare spending and costs are more likely to take steps to address affordability and pharmacy benefit transparency, a new survey shows.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 4:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-ends-medicaid-chip-funding-gender-affirming-care-minors\" hreflang=\"en\">CMS ends Medicaid, CHIP funding for gender-affirming care for minors</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-ends-medicaid-chip-funding-gender-affirming-care-minors",
+        "summary": "The Trump administration has finalized a rule that would pull funding for gender-affirming care for minors from Medicaid and the Children's Health Insurance Program.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 5:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hims-hers-posts-753m-q3-revenue-it-preps-push-peptide-market\" hreflang=\"en\">Hims &amp; Hers posts $753M in Q2 revenue as it preps for push into peptide market  </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-posts-753m-q3-revenue-it-preps-push-peptide-market",
+        "summary": "Digital health and wellness company Hims &amp; Hers is ready to tap into a multi-billion peptide market if U.S. regulators loosen restrictions on manufacturing.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 11, 2026 3:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report\" hreflang=\"en\">AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report</a>",
+        "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
+        "summary": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver an estimated 82-fold return on investment in phase 3 oncology trials.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 1:56pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: InduPro assembles $77M; Vaderis nets $152M series B</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags\" hreflang=\"en\">After slimming down workforce, Aardvark scraps phase 3 trials as wait for next steps drags on</a>",
+        "url": "https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags",
+        "summary": "Aardvark Therapeutics has confirmed it is walking away from recently terminated phase 3 trials, telling investors it has no plans to resume the studies “as previously designed” as it works to find a path forward for its stalled pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 9:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/samsung-hearing-aid-features-its-ear-buds-garner-fda-clearance\" hreflang=\"en\">Samsung hearing aid features for its ear buds garner FDA clearance</a>",
+        "url": "https://www.fiercebiotech.com/medtech/samsung-hearing-aid-features-its-ear-buds-garner-fda-clearance",
+        "summary": "The FDA gave Samsung Electronics the go-ahead for the latest software features that allow its Galaxy Buds earphones to act as an OTC hearing aid that also allows users to diagnose their hearing.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 8:06am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety\" hreflang=\"en\">Definium hits another phase 3 homerun with psychedelic ‘sea change’ for anxiety</a>",
+        "url": "https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety",
+        "summary": "Definium Therapeutics’ LSD formula has gone two for two in its phase 3 program, notching a win in generalized anxiety disorder months after knocking a depression study out of the park.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 5:27pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/deerfield-backed-boulevard-bio-strolls-65m-launch-and-trio-immunology-candidates\" hreflang=\"en\">Deerfield-backed Boulevard Bio embarks on ‘beautiful path to a cure’ with trio of immunology drugs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/deerfield-backed-boulevard-bio-strolls-65m-launch-and-trio-immunology-candidates",
+        "summary": "Boulevard Bio has strolled out of stealth with $65 million in funding from Deerfield Management and three autoimmune disease candidates.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 1:12pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cytodyns-leronlimab-aims-comeback-it-eradicates-hiv-infant-macaques-combination-hiv\" hreflang=\"en\">CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cytodyns-leronlimab-aims-comeback-it-eradicates-hiv-infant-macaques-combination-hiv",
+        "summary": "CytoDyn's leronlimab may have struggled to secure approval as an HIV treatment, but research in infant primates has offered fresh hope for the CCR5-targeting antibody's ability to treat the virus.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 7:52pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad\" hreflang=\"en\">Amgen lays groundwork for new R&amp;D center in Hyderabad</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad",
+        "summary": "Amgen is expanding its footprint in India with an R&amp;D center in Hyderabad, the latest by from the California company to boost its research facilities.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 1:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease\" hreflang=\"en\">Epicrispr raises $90M to rewrite treatment of rare muscle disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease",
+        "summary": "Epicrispr Biotechnologies has raised $90 million in a series C round backed by investors including Sanofi Ventures, positioning the biotech to advance a pipeline of epigenetic medicines led by an early-phase facioscapulohumeral muscular dystrophy prospect.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 9:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mereo-springs-475m-biobucks-sentynl-phase-3-ready-rare-genetic-lung-disease-drug\" hreflang=\"en\">Zydus’ Sentynl pens $475M deal for Mereo’s phase 3-ready rare genetic lung disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mereo-springs-475m-biobucks-sentynl-phase-3-ready-rare-genetic-lung-disease-drug",
+        "summary": "Sentynl Therapeutics has penned a deal potentially worth $475 million for the option to market Mereo BioPharma's phase 3-ready rare genetic respiratory disease drug in the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 9:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Aura loses 20% of staffers; aTyr shrinks by 60%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app\" hreflang=\"en\">Abbott teams with Google Health on AI-powered health insights app</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app",
+        "summary": "Two giants of their respective fields, Abbott and Google, are joining forces for a first-of-its-kind team-up that aims to build out a digital picture of people’s health.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 3:19am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+        "url": "https://huggingface.co/papers/2608.09900",
+        "summary": "Large language model evaluations typically focus on performance under nominal conditions, creating an illusion of capability where models comfortably walk a narrow, highly optimized generation corridor. In real-world deployments, however, complex system prompts, safety guardrails, and structural constraints continuously force models off this nominal path, driving a divergence between benchmark scores and deployment performance. To address this issue, we introduce Decoding-Level Taboo, a zero-prompt diagnostic stress test that intervenes directly in logit space at runtime, forcing models out of",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-09T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+        "url": "https://huggingface.co/papers/2608.10915",
+        "summary": "After an older adult misses a medication dose, a software agent can send another reminder and an embodied agent can bring the medication. Yet neither explains whether the person forgot, is confused, has side effects, or deliberately refused, nor what support is appropriate. This reveals a structural gap in Agentic AI: Digital Agents primarily transform software states, while Embodied Agents transform physical states; neither makes a person's evolving state and agency the primary object of modeling, intervention, and evaluation. We introduce Combodied Agents, a human-centered paradigm that perc",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-10T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "SymDiag: Explainable Diagnosis for LLM Reasoning via Neuro-Symbolic Verification",
+        "url": "https://huggingface.co/papers/2608.08786",
+        "summary": "Large language models (LLMs) increasingly serve as data-driven reasoners, yet their chains-of-thought (CoT) can be unfaithful even when final answers are correct. Most existing ``verification'' signals are not diagnostic: answer matching observes only the outcome, LLM-as-judge provides subjective and non-verifiable critiques, and scalar rewards (e.g., PRMs/RMs) offer little insight into where a multi-step derivation fails.We propose SymDiag, a neuro-symbolic framework that reframes reasoning verification as structured failure diagnosis. SymDiag translates natural-language CoT into symbolic con",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-08T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

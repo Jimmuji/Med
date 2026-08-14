@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T11:20:43.074345+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Commure terminates payments under its customer referral programs tied to AI products",
+        "url": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/",
+        "summary": "Commure, which develops and sells AI products to clinics, has terminated a program that paid for referrals to new customers.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 21:49:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly targets booming black market for retatrutide",
+        "url": "https://www.statnews.com/2026/08/13/biotech-news-eli-lilly-targets-booming-retatrutide-black-market/",
+        "summary": "Khartis raises oral immunology funds, Neurocrine drug safety concerns, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 14:46:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kennedy heads west, slams Becerra",
+        "url": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/",
+        "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 14:37:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about California insulin sales, a Moderna patent battle, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/13/california-insulin-sales-moderna-patent-battle/",
+        "summary": "Seven months after the launch of its own low-cost insulin brand, California has distributed more than 120,000 five-pen packs of insulin glargine priced at $55 each",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 13:19:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: An investigation into Commure, and  Medicare’s new-tech incentives for AI devices",
+        "url": "https://www.statnews.com/2026/08/13/commure-investigation-medicare-tech-incentives-health-tech/",
+        "summary": "In this edition of STAT Health Tech: a deep dive into General Catalyst-backed Commure, and Medicare's tech incentives for AI devices.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 12:29:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Neurocrine Biosciences and the delicate balance of benefit and risk",
+        "url": "https://www.statnews.com/2026/08/13/neurocrine-biosciences-vykat-prader-willi-2/",
+        "summary": "When it comes to rare disease treatments, patients often confront a difficult risk-benefit calculus. Such is the case with a therapy from Neurocrine Biosciences.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What patients actually think about ‘minimally invasive’ brain implants",
+        "url": "https://www.statnews.com/2026/08/13/patient-perspectives-on-brain-implants-for-depression/",
+        "summary": "A new study polled people with treatment-resistant depression about what matters to them when it comes to brain implants for mental health.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: What Medicare incentives for AI-based devices mean for tech companies — and hospitals",
+        "url": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/",
+        "summary": "As Medicare pays hospitals when they use newly-authorized AI devices, researchers say those payments could incentivize overuse.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: I’ve seen what life is like without vaccines. Americans need to understand what they save us from",
+        "url": "https://www.statnews.com/2026/08/13/trump-vaccine-executive-order-mmr-separate-shots-policy/",
+        "summary": "“The ability to prevent a deadly infectious disease is an extraordinary privilege,” writes infectious disease physician Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How to disrupt the health misinformation business model",
+        "url": "https://www.statnews.com/2026/08/13/statin-misinformation-medicine-scams-online-regulation-fact-checks/",
+        "summary": "One way to fight medical misinformation: make it easier for people to understand when they are being manipulated, write Paul Martin Jensen and Avi Tuschman.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
+        "url": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/",
+        "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Newsom promotes affordable insulin, but California’s generic label is off to a slow start",
+        "url": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/",
+        "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients.",
+        "source": "STAT News",
+        "published": "Thu, 13 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
+        "url": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/",
+        "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 20:46:29 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Vaping and cannabis hit record highs among young adults in 2025: Survey",
+        "url": "https://www.statnews.com/2026/08/12/vaping-cannabis-use-rates-young-adults/",
+        "summary": "Young adults’ use of vapes and cannabis hit all-time highs last year, according to a new survey.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 20:30:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Providers notch No Surprises Act legal win that could boost their pay",
+        "url": "https://www.statnews.com/2026/08/12/texas-medical-association-no-surprises-act-lawsuit-qpa/",
+        "summary": "The change could boost how much health insurers, and patients, pay for some care.",
+        "source": "STAT News",
+        "published": "Wed, 12 Aug 2026 20:29:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/march-dimes-report-maternity-care-deserts-medicaid-cuts\" hreflang=\"en\">March of Dimes: Maternity care deserts persist, Medicaid cuts threaten to curb access further</a>",
+        "url": "https://www.fiercehealthcare.com/providers/march-dimes-report-maternity-care-deserts-medicaid-cuts",
+        "summary": "A number of factors contribute to access, including the availability of OB clinicians, insurance coverage and access to birthing facilities.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 1:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-where-aetna-seeing-value-based-care-success-medicare-advantage\" hreflang=\"en\">A look at where Aetna is seeing value-based care success in Medicare Advantage</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-where-aetna-seeing-value-based-care-success-medicare-advantage",
+        "summary": "Aetna is seeing its value-based care efforts pay off in both preventive care metrics and cost savings, according to a new analysis from the company.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 3:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-refers-scores-providers-pharmacies-pbms-doj-oig-over-past-billing-pediatric-gender\" hreflang=\"en\">Trump administration refers scores of providers, pharmacies, PBMs to DOJ, OIG over past billing for pediatric gender-affirming care</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-refers-scores-providers-pharmacies-pbms-doj-oig-over-past-billing-pediatric-gender",
+        "summary": "A sweeping list of law enforcement referrals for \"potentially anomalous billing patterns\" related to gender-affirming care for minors stems from a newly commissioned analysis, which accuses healthcare providers and other groups of ideological capture and profiteering.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 1:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cityblock-unveils-partnership-humana-north-carolina\" hreflang=\"en\">Cityblock unveils partnership with Humana in North Carolina</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cityblock-unveils-partnership-humana-north-carolina",
+        "summary": "Cityblock Health is expanding its footprint in North Carolina through a new partnership with Humana.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 2:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/taking-aim-healthcares-cd-problem-epic-releases-care-everywhere-diagnostic-image\" hreflang=\"en\">Epic releases Care Everywhere diagnostic image exchange to tackle healthcare's 'CD problem'</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/taking-aim-healthcares-cd-problem-epic-releases-care-everywhere-diagnostic-image",
+        "summary": "Epic released a new diagnostic image exchange solution that enables healthcare providers at Epic-connected health systems to retrieve and share diagnostic-quality medical images, such as CT scans, X-rays and MRIs, with a single click.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 3:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/cedar-launches-kora-platform-agentic-ai-billing\" hreflang=\"en\">Cedar launches Kora Platform to build out agentic AI for medical billing</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/cedar-launches-kora-platform-agentic-ai-billing",
+        "summary": "Kora has achieved a 20% pickup rate for outbound calls, which the company says is 4x the industry average.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 12:57pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openai-foundation-common-health-coalition-launch-public-health-initiative\" hreflang=\"en\">Common Health Coalition secures $100M from OpenAI Foundation to boost hepatitis C cure rates </a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openai-foundation-common-health-coalition-launch-public-health-initiative",
+        "summary": "Funding will support the deployment of AI-enabled tools to help identify patients who have fallen out of care, reduce administrative burden, strengthen care coordination and improve patient outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 11:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/uc-san-diego-health-west-health-launch-40m-accelerator-tech-forward-coordinated-care\" hreflang=\"en\">UC San Diego Health, West Health launch $40M accelerator for 'tech-forward' coordinated care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/uc-san-diego-health-west-health-launch-40m-accelerator-tech-forward-coordinated-care",
+        "summary": "The academic system and the nonprofit plan to develop a scalable model for timely, personalized care delivery, with an emphasis on care navigation and digital health tools.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 4:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/appeals-court-tosses-methodology-calculating-nsa-qualifying-payment-amounts\" hreflang=\"en\">Appeals court tosses methodology for calculating NSA qualifying payment amounts</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/appeals-court-tosses-methodology-calculating-nsa-qualifying-payment-amounts",
+        "summary": "A federal appeals court has tossed key methodology used to resolve out-of-network claims under the No Surprises Act.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 4:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/antelope-recovery-gets-colorado-opioid-settlement-funds-expand-spanish-services\" hreflang=\"en\">Antelope Recovery, offering SUD care for teens, to expand Spanish services in Colorado</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/antelope-recovery-gets-colorado-opioid-settlement-funds-expand-spanish-services",
+        "summary": "Antelope Recovery offers mental health treatment for criminal justice-involved teens. The latest funding will also be used to develop additional programming specific to the challenges these youth face.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 2:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/sharp-healthcare-announces-another-reorganization-affecting-260-workers\" hreflang=\"en\">Sharp HealthCare announces another reorganization affecting 260 workers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/sharp-healthcare-announces-another-reorganization-affecting-260-workers",
+        "summary": "The workforce reduction will reduce the San Diego nonprofit's headcount by just under 1%, but follows last summer's elimination of 315 roles. Leadership attributed the decision to heightened expenses and policy changes at both the federal and state levels.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 12:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/suvi-health-launches-ambient-ai-solution-patients-and-caregivers-support\" hreflang=\"en\">Suvi Health launches ambient AI solution for patients to reduce hospital stays and support care transitions</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suvi-health-launches-ambient-ai-solution-patients-and-caregivers-support",
+        "summary": "Startup Suvi Health developed an ambient AI platform for patients to close gaps at critical transition points and support the handoff between hospital care teams and patients and their families.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 9:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pds-halts-phase-3-stage-cancer-therapy-focus-colorectal-contender\" hreflang=\"en\">PDS halts work on phase 3 cancer therapy to focus on colorectal contender</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pds-halts-phase-3-stage-cancer-therapy-focus-colorectal-contender",
+        "summary": "PDS Biotechnology has called a halt to its phase 3 head and neck cancer therapy to channel resources to a drug in phase 2 development for metastatic colorectal cancer.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 9:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-ipo-success-hemabs-ceo-seeks-flavor-multi-product-coagulation-company\" hreflang=\"en\">After tasting IPO success, Hemab’s CEO seeks ‘flavor of a multi-product coagulation company’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-ipo-success-hemabs-ceo-seeks-flavor-multi-product-coagulation-company",
+        "summary": "With the post-IPO quiet period having come to an end, CEO Benny Sørensen, M.D., Ph.D., was free to sit down with Fierce to map out Hemab’s future.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 9:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-chemistry-whiz-debuts-khartis-therapeutics-sights-set-thyroid-eye-disease\" hreflang=\"en\">Pfizer’s former chemistry whiz debuts Khartis Therapeutics with $95M for thyroid eye disease pill</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-chemistry-whiz-debuts-khartis-therapeutics-sights-set-thyroid-eye-disease",
+        "summary": "Three years after Robert Hoffman sold XinThera to Gilead, the veteran Pfizer chemist has unveiled his latest venture.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 4:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-veteran-bill-shields-becomes-ceo-valve-disease-startup\" hreflang=\"en\">Medtronic veteran Bill Shields crosses over to become CEO at valve disease startup </a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-veteran-bill-shields-becomes-ceo-valve-disease-startup",
+        "summary": "After 15 years with Medtronic’s structural heart franchise, Bill Shields is leaving the medtech giant to become the chief executive of startup Versa Vascular.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 3:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market\" hreflang=\"en\">PTC’s $211M bid wins Sangamo auction, teeing up ‘special opportunity’ to enter Fabry market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market",
+        "summary": "PTC Therapeutics has struck a deal to buy Sangamo Therapeutics’ Fabry disease program for $111 million upfront, outbidding Astellas and TerSera Therapeutics for the near-approval gene therapy. Sangamo, selling assets as part of its bankruptcy proceedings, also offloaded technology to Eli Lilly for $50 million.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 8:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cullinan-tees-jj-fight-and-100m-payday-taiho-partnered-drug-hits-cancer-goal\" hreflang=\"en\">Cullinan tees up J&amp;J fight—and $100M payday—as Taiho-partnered drug hits phase 3 cancer goal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cullinan-tees-jj-fight-and-100m-payday-taiho-partnered-drug-hits-cancer-goal",
+        "summary": "Taiho Pharmaceutical and Cullinan Therapeutics have celebrated a second phase 3 victory for their small-molecule EGFR inhibitor, teeing up the partners to challenge Johnson &amp; Johnson in a lung cancer niche.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 5:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision\" hreflang=\"en\">Zealand sells its rights to Takeda’s blood cancer drug for $100M ahead of FDA approval decision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision",
+        "summary": "As the FDA mulls whether to approve Takeda and Protagonist Therapeutics’ rusfertide, Zealand Pharma has sold its own rights to the blood cancer drug in return for $100 million.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 5:06am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report\" hreflang=\"en\">AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report</a>",
+        "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
+        "summary": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver an estimated 82-fold return on investment in phase 3 oncology trials.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 1:56pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: InduPro assembles $77M; Vaderis nets $152M series B</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags\" hreflang=\"en\">After slimming down workforce, Aardvark scraps phase 3 trials as wait for next steps drags on</a>",
+        "url": "https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags",
+        "summary": "Aardvark Therapeutics has confirmed it is walking away from recently terminated phase 3 trials, telling investors it has no plans to resume the studies “as previously designed” as it works to find a path forward for its stalled pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 9:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/samsung-hearing-aid-features-its-ear-buds-garner-fda-clearance\" hreflang=\"en\">Samsung hearing aid features for its ear buds garner FDA clearance</a>",
+        "url": "https://www.fiercebiotech.com/medtech/samsung-hearing-aid-features-its-ear-buds-garner-fda-clearance",
+        "summary": "The FDA gave Samsung Electronics the go-ahead for the latest software features that allow its Galaxy Buds earphones to act as an OTC hearing aid that also allows users to diagnose their hearing.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 8:06am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety\" hreflang=\"en\">Definium hits another phase 3 homerun with psychedelic ‘sea change’ for anxiety</a>",
+        "url": "https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety",
+        "summary": "Definium Therapeutics’ LSD formula has gone two for two in its phase 3 program, notching a win in generalized anxiety disorder months after knocking a depression study out of the park.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 5:27pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "云知声U2-RadiMed：让AI真正看懂医学影像",
+        "url": "https://www.36kr.com/p/3937412779244932",
+        "summary": "云知声发布自研医学影像多模态大模型U2-RadiMed",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 13 Aug 2026 06:14:23 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+        "url": "https://huggingface.co/papers/2608.09900",
+        "summary": "Large language model evaluations typically focus on performance under nominal conditions, creating an illusion of capability where models comfortably walk a narrow, highly optimized generation corridor. In real-world deployments, however, complex system prompts, safety guardrails, and structural constraints continuously force models off this nominal path, driving a divergence between benchmark scores and deployment performance. To address this issue, we introduce Decoding-Level Taboo, a zero-prompt diagnostic stress test that intervenes directly in logit space at runtime, forcing models out of",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-09T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+        "url": "https://huggingface.co/papers/2608.10915",
+        "summary": "After an older adult misses a medication dose, a software agent can send another reminder and an embodied agent can bring the medication. Yet neither explains whether the person forgot, is confused, has side effects, or deliberately refused, nor what support is appropriate. This reveals a structural gap in Agentic AI: Digital Agents primarily transform software states, while Embodied Agents transform physical states; neither makes a person's evolving state and agency the primary object of modeling, intervention, and evaluation. We introduce Combodied Agents, a human-centered paradigm that perc",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-10T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

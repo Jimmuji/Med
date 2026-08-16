@@ -1,0 +1,334 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T10:17:48.821689+08:00",
+  "counts": {
+    "news": 37,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
+        "url": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/",
+        "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 21:00:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: AAP president: How pediatricians are navigating federal leaders’ fearmongering on vaccines",
+        "url": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/",
+        "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You’re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 18:34:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO",
+        "url": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/",
+        "summary": "In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 16:30:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 16:20:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: PBMs agree to display TrumpRx drug prices",
+        "url": "https://www.statnews.com/2026/08/14/biotech-news-pbms-agree-to-display-trumprx-drug-prices/",
+        "summary": "Bristol's Zenbexus wins accelerated approval, Novartis wins UK patent fight over Entresto, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 15:55:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a lawsuit over lab tests for meds, a Bristol myeloma drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/14/lab-tests-lawsuit-bristol-multiple-myeloma-drug-approved/",
+        "summary": "The FDA approved a Bristol oral treatment for advanced multiple myeloma, marking the debut of a new class of medicine for the blood cancer",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 14:00:17 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Drug-testing lab that has sparked controversy sues group that develops drug standards over criticism",
+        "url": "https://www.statnews.com/pharmalot/2026/08/14/controversial-lab-sues-usp-for-disparaging-its-testing-methods/",
+        "summary": "A lab that tussled with regulators over impurities found in widely used medicines has accused U.S. Pharmacopeia of making false and misleading remarks about its methods.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 13:23:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves Bristol multiple myeloma treatment, marking debut of novel drug class",
+        "url": "https://www.statnews.com/2026/08/14/fda-approves-bristol-multiple-myeloma-drug-zenbexus/",
+        "summary": "The FDA approved a treatment for advanced multiple myeloma made by Bristol Myers Squibb, marking the debut of a new class of drugs for the blood cancer.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 12:03:41 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "How will legal challenges fare against CMS rule on gender-affirming care?",
+        "url": "https://www.statnews.com/2026/08/14/cms-transgender-care-rule-how-will-legal-challenges-fare/",
+        "summary": "A CMS rule finalized this week may prove more difficult to challenge than previous Trump administration actions to end transgender care for young people.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: MAHA and insurance companies both want to treat human bodies like cars",
+        "url": "https://www.statnews.com/2026/08/14/health-insurance-companies-maha-surveillance/",
+        "summary": "“If the short history of telematics in the auto insurance taught us anything, it’s to be skeptical of any promises attached to shareable surveillance data.”",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Two years after rules overhaul, have methadone clinics really changed?",
+        "url": "https://www.statnews.com/2026/08/14/methadone-clinics-opioid-addiction-new-rules-culture-shift/",
+        "summary": "Methadone clinics don't have to be as rigid in how they dispense opioid addiction medicine. Some, though not all, are changing their ways.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: U.S., U.K. health care systems share a fatal flaw",
+        "url": "https://www.statnews.com/2026/08/14/us-uk-health-care-systems-loneliness-community-prevention/",
+        "summary": "“The default to biomedical responses means that clinics and hospitals are increasingly absorbing the costs of social problems,” writes Kyle Vanelli.",
+        "source": "STAT News",
+        "published": "Fri, 14 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/study-examines-how-ichra-adoption-could-help-stabilize-aca-risk-pools\" hreflang=\"en\">Study examines how ICHRA adoption could help stabilize ACA risk pools</a>",
+        "url": "https://www.fiercehealthcare.com/payers/study-examines-how-ichra-adoption-could-help-stabilize-aca-risk-pools",
+        "summary": "With the instability in the Affordable Care Act's marketplaces, proponents of ICHRA have suggested that these models could help support the risk pools.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 14, 2026 1:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-should-help-cancer-patients-survive-healthcare-system\" hreflang=\"en\">Industry Voices—AI should help cancer patients survive the healthcare system</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-should-help-cancer-patients-survive-healthcare-system",
+        "summary": "Cancer&nbsp;care navigators are an invaluable resource, but there are nowhere near enough navigators to meet the scale of the need. This is where AI can make a meaningful difference, write the Digital Medicine Society's Jennifer Goldsack and former CMS Chief Medical Officer Lee Fleisher, M.D.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 14, 2026 10:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/insurers-denied-between-12-18-prior-auth-requests-2025-kff\" hreflang=\"en\">Insurers denied between 12% to 18% of prior authorization requests in 2025: KFF </a>",
+        "url": "https://www.fiercehealthcare.com/payers/insurers-denied-between-12-18-prior-auth-requests-2025-kff",
+        "summary": "Researchers analyzed data from insurers in Medicare Advantage, Medicaid managed care and ACA Marketplace segments—representing approximately 71 million enrollees.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 14, 2026 10:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hhs-calls-hospitals-sign-make-hospital-food-healthier-pledge\" hreflang=\"en\">AHA backs HHS' voluntary 'Make Hospital Food Healthier Pledge'</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hhs-calls-hospitals-sign-make-hospital-food-healthier-pledge",
+        "summary": "The administration is seeking voluntary commitments from hospitals to serve less processed foods in line with recently updated dietary guidelines, which officials said will boost chronic disease prevention and general long-term wellness.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 1:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/luigi-mangione-will-plead-guilty-federal-case-over-murder-unitedhealthcare-ceo-brian\" hreflang=\"en\">Luigi Mangione pleads guilty in federal case over murder of UnitedHealthcare CEO Brian Thompson</a>",
+        "url": "https://www.fiercehealthcare.com/payers/luigi-mangione-will-plead-guilty-federal-case-over-murder-unitedhealthcare-ceo-brian",
+        "summary": "The man accused of murdering UnitedHealthcare CEO Brian Thompson has pleaded guilty in the federal trial against him, per media reports.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 14, 2026 11:28am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/patient-advocacy-group-sues-ama-open-access-cpt-system\" hreflang=\"en\">Patient advocacy group sues AMA for open access to CPT system</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/patient-advocacy-group-sues-ama-open-access-cpt-system",
+        "summary": "“We are asking the court to affirm a basic principle: No one can charge the public to access standards that are incorporated into state and federal law,\" said PatientRightsAdvocate.org Founder Cynthia Fisher.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 14, 2026 12:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-us-news-world-report-debuts-glp-1-telehealth-platform-rankings-chai\" hreflang=\"en\">Weekly Rundown: US News rates GLP-1 telehealth platforms; CHAI launches AI cybersecurity work group</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-us-news-world-report-debuts-glp-1-telehealth-platform-rankings-chai",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 12:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-agentic-orchestrators-coordinate-voice-ai-teams\" hreflang=\"en\">Hippocratic AI rolls out platform to coordinate teams of conversational voice AI agents</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-rolls-out-agentic-orchestrators-coordinate-voice-ai-teams",
+        "summary": "For health plans, the AI teams support functions such as member onboarding, chronic care management and Star Ratings improvement. Provider-focused offerings target patient onboarding, care gap closure and inpatient and ambulatory workflows.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 4:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/providence-reports-400m-operating-improvement-halfway-through-2026\" hreflang=\"en\">Providence reports $400M operating improvement halfway through 2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/providence-reports-400m-operating-improvement-halfway-through-2026",
+        "summary": "The major nonprofit system has logged its fourth consecutive quarter of operating gains after years in the red—a key milestone for its leaders ahead of OBBBA's expected headwinds.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 3:42pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/march-dimes-report-maternity-care-deserts-medicaid-cuts\" hreflang=\"en\">March of Dimes: Maternity care deserts persist, Medicaid cuts threaten to curb access further</a>",
+        "url": "https://www.fiercehealthcare.com/providers/march-dimes-report-maternity-care-deserts-medicaid-cuts",
+        "summary": "A number of factors contribute to access, including the availability of OB clinicians, insurance coverage and access to birthing facilities.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 1:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/major-pbms-agree-offer-trumprx-pricing-information-members\" hreflang=\"en\">Major PBMs agree to offer TrumpRx pricing information to members</a>",
+        "url": "https://www.fiercehealthcare.com/payers/major-pbms-agree-offer-trumprx-pricing-information-members",
+        "summary": "The Pharmaceutical Care Management Association announced Thursday that its members had reached an agreement with the feds to offer information on cash prices available through TrumpRx.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 4:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-where-aetna-seeing-value-based-care-success-medicare-advantage\" hreflang=\"en\">A look at where Aetna is seeing value-based care success in Medicare Advantage</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-where-aetna-seeing-value-based-care-success-medicare-advantage",
+        "summary": "Aetna is seeing its value-based care efforts pay off in both preventive care metrics and cost savings, according to a new analysis from the company.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 13, 2026 3:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets\" hreflang=\"en\">Skye and Redx form new entity with $125M to advance fibrosis assets </a>",
+        "url": "https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets",
+        "summary": "Skye Bioscience has entered into an agreement to combine with privately held fibrotic disease biotech Redx Pharma in a deal that will net $125 million in financing for the new public company, called Fibrx Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 12:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback\" hreflang=\"en\">Capricor soars on plan to amend DMD filing after adcomm setback</a>",
+        "url": "https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback",
+        "summary": "Capricor Therapeutics has bounced back from a bruising FDA advisory committee meeting by securing a green light to file an amendment to its approval application, raising hopes that the biotech can rescue its Duchenne muscular dystrophy cell therapy. The biotech’s stock soared following the news.",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 9:37am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal\" hreflang=\"en\">‘We’re not afraid of competition’: BioCryst CEO sets out strategy after scrapping internal discovery </a>",
+        "url": "https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal",
+        "summary": "BioCryst CEO Charlie Gayer told Fierce the company is “not getting away from science and R&amp;D” despite shutting down its internal discovery efforts.",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 10:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-former-legend-ceo-lands-role-k2-therapeutics\" hreflang=\"en\">Chutes &amp; Ladders—Former Legend CEO lands at K2</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-former-legend-ceo-lands-role-k2-therapeutics",
+        "summary": "Just weeks after Legend Biotech announced the departure of its CEO, Ying Huang, K2 Therapeutics has announced that Wang will now lead the startup, which was founded in 2024 with a $50 million seed round from MPM BioImpact.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 2:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/maplight-turns-preclinical-tap-channel-resources-phase-3-ready-schizophrenia-drug\" hreflang=\"en\">MapLight dims preclinical programs to make phase 3-ready schizophrenia drug shine brighter </a>",
+        "url": "https://www.fiercebiotech.com/biotech/maplight-turns-preclinical-tap-channel-resources-phase-3-ready-schizophrenia-drug",
+        "summary": "Despite mixed results for its experimental schizophrenia treatment last month, MapLight Therapeutics is going all-in on the asset—at the expense of its preclinical programs.",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 4:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pds-halts-phase-3-stage-cancer-therapy-focus-colorectal-contender\" hreflang=\"en\">PDS halts work on phase 3 cancer therapy to focus on colorectal contender</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pds-halts-phase-3-stage-cancer-therapy-focus-colorectal-contender",
+        "summary": "PDS Biotechnology has called a halt to its phase 3 head and neck cancer therapy to channel resources to a drug in phase 2 development for metastatic colorectal cancer.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 9:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-ipo-success-hemabs-ceo-seeks-flavor-multi-product-coagulation-company\" hreflang=\"en\">After tasting IPO success, Hemab’s CEO seeks ‘flavor of a multi-product coagulation company’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-ipo-success-hemabs-ceo-seeks-flavor-multi-product-coagulation-company",
+        "summary": "With the post-IPO quiet period having come to an end, CEO Benny Sørensen, M.D., Ph.D., was free to sit down with Fierce to map out Hemab’s future.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 9:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-chemistry-whiz-debuts-khartis-therapeutics-sights-set-thyroid-eye-disease\" hreflang=\"en\">Pfizer’s former chemistry whiz debuts Khartis Therapeutics with $95M for thyroid eye disease pill</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-chemistry-whiz-debuts-khartis-therapeutics-sights-set-thyroid-eye-disease",
+        "summary": "Three years after Robert Hoffman sold XinThera to Gilead, the veteran Pfizer chemist has unveiled his latest venture.",
+        "source": "Fierce Biotech",
+        "published": "Aug 12, 2026 4:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-veteran-bill-shields-becomes-ceo-valve-disease-startup\" hreflang=\"en\">Medtronic veteran Bill Shields crosses over to become CEO at valve disease startup </a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-veteran-bill-shields-becomes-ceo-valve-disease-startup",
+        "summary": "After 15 years with Medtronic’s structural heart franchise, Bill Shields is leaving the medtech giant to become the chief executive of startup Versa Vascular.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 3:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market\" hreflang=\"en\">PTC’s $211M bid wins Sangamo auction, teeing up ‘special opportunity’ to enter Fabry market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ptcs-211m-bid-wins-sangamo-auction-teeing-special-opportunity-enter-fabry-market",
+        "summary": "PTC Therapeutics has struck a deal to buy Sangamo Therapeutics’ Fabry disease program for $111 million upfront, outbidding Astellas and TerSera Therapeutics for the near-approval gene therapy. Sangamo, selling assets as part of its bankruptcy proceedings, also offloaded technology to Eli Lilly for $50 million.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 8:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cullinan-tees-jj-fight-and-100m-payday-taiho-partnered-drug-hits-cancer-goal\" hreflang=\"en\">Cullinan tees up J&amp;J fight—and $100M payday—as Taiho-partnered drug hits phase 3 cancer goal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cullinan-tees-jj-fight-and-100m-payday-taiho-partnered-drug-hits-cancer-goal",
+        "summary": "Taiho Pharmaceutical and Cullinan Therapeutics have celebrated a second phase 3 victory for their small-molecule EGFR inhibitor, teeing up the partners to challenge Johnson &amp; Johnson in a lung cancer niche.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 5:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision\" hreflang=\"en\">Zealand sells its rights to Takeda’s blood cancer drug for $100M ahead of FDA approval decision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision",
+        "summary": "As the FDA mulls whether to approve Takeda and Protagonist Therapeutics’ rusfertide, Zealand Pharma has sold its own rights to the blood cancer drug in return for $100 million.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 5:06am",
+        "importance_hint": 5
+      },
+      {
+        "title": "AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI",
+        "url": "https://www.36kr.com/p/3938754784155272",
+        "summary": "AI医疗企业依靠内部交易与“以股代付”等方式堆砌出来的数字游戏，其实际的商业闭环仍有待验证。",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 14 Aug 2026 05:32:09 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+        "url": "https://huggingface.co/papers/2608.06914",
+        "summary": "Rib fractures are common and time-consuming to localize on computed tomography (CT). We ask whether fractures detected independently in two orthogonal CT-derived projections (anteroposterior and lateral) can be paired across views and triangulated into reliable 3D points at a controlled rate of false outputs, and we answer it with a staged diagnostic study. The projection geometry is exact, and given correct correspondence, localization is accurate (median 4.0 mm, 88% within 10 mm, 93.6% rib-exact). On a sealed 55-case cohort, a large share of fractures is in principle recoverable (61.1% dual-",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-09T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "PixSDS: Why Latent SDS Makes Noisy Pixels",
+        "url": "https://huggingface.co/papers/2608.12997",
+        "summary": "Score Distillation Sampling (SDS) enables text-to-3D generation by optimizing rendered images with a pretrained diffusion prior, but latent SDS often produces structured color artifacts and high-frequency texture noise. We identify a failure mode of latent SDS caused by VAE-induced pixel drift: the optimized image can move along pixel-space directions that are weakly constrained by the VAE encoder, so its latent representation remains clean and semantically meaningful while the image itself accumulates visible artifacts. We support this diagnosis with controlled 2D SDS experiments, VAE-only op",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-12T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
+        "url": "https://huggingface.co/papers/2607.29211",
+        "summary": "Large language models generate computationally expensive yet semantically void reasoning on beyond-capability tasks, creating risks where plausible-sounding but incorrect derivations mislead users. We characterize this futile reasoning phenomenon through systematic analysis, revealing universal capability overreach and systematic miscalibration between capability and behavior. The dominant failure mode is specious reasoning, which outputs look superficially valid but contain subtle errors, escalating with task difficulty. To address this, we introduce CaRL (Capability-aligned Reinforcement Lea",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-30T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

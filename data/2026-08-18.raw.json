@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T10:11:11.626203+08:00",
+  "counts": {
+    "news": 38,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
+        "url": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/",
+        "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 19:23:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise",
+        "url": "https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/",
+        "summary": "Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 18:45:42 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: The IRS is probing UnitedHealth, and a private equity slowdown",
+        "url": "https://www.statnews.com/2026/08/17/irs-probe-unitedhealth-group-taxes-private-equity-deals-physician-groups/",
+        "summary": "UnitedHealth faces an investigation over tax payments, and we examine why PE deals for doctor groups are slowing.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 14:40:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Akeso and Summit’s lung cancer drug shows worsening tumor-progression benefit",
+        "url": "https://www.statnews.com/2026/08/17/biotech-news-akeso-summit-ivonescimabs-worsening-tumor-progression-benefit/",
+        "summary": "Europe pulls Tavneos over trial integrity concerns, pricing concerns over AstraZeneca's hypertension drug, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 13:38:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca setback, falling U.S. drug prices, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/17/astrazeneca-lung-cancer-setback-falling-drug-prices/",
+        "summary": "AstraZeneca is discontinuing a late-stage drug trial in patients with metastatic non-small cell lung cancer, extending a run of setbacks",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 13:22:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Everything the Trump administration did on health care last week",
+        "url": "https://www.statnews.com/2026/08/17/health-news-everything-the-trump-administration-did-on-health-care/",
+        "summary": "An executive order remaking the federal vaccine agenda, Epic's antitrust lawsuits, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 12:03:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
+        "url": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/",
+        "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
+        "url": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/",
+        "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Epic confronts unprecedented challenges as it prepares to address customers and unveil road map",
+        "url": "https://www.statnews.com/2026/08/17/ugm-epic-confronts-challenges-succession-ai-strategy-antitrust/",
+        "summary": "Epic, whose software is used by the majority of American hospitals, faces unprecedented challenges ahead of its annual User Group Meeting.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide",
+        "url": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/",
+        "summary": "“North Carolina proved that pragmatism can beat partisanship,” write Mandy Cohen and Kody Kinsley.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Paid paternity leave is pediatric preventive care",
+        "url": "https://www.statnews.com/2026/08/17/paid-paternity-leave-baby-help-pediatricians/",
+        "summary": "“A growing body of evidence shows that fathers make unique, independent contributions to children's health and development,” writes pediatrician Nishant Pandya.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
+        "url": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/",
+        "summary": "Private equity deals for practice management firms are declining sharply.",
+        "source": "STAT News",
+        "published": "Mon, 17 Aug 2026 04:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/docgo-enters-definitive-agreement-acquire-virtual-care-provider-hicuity-health-assumes-52m\" hreflang=\"en\">DocGo agrees to acquire virtual care provider Hicuity Health, assumes $52M debt</a>",
+        "url": "https://www.fiercehealthcare.com/finance/docgo-enters-definitive-agreement-acquire-virtual-care-provider-hicuity-health-assumes-52m",
+        "summary": "DocGo is acquiring the virtual care provider by assuming approximately $52 million in existing debt.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 17, 2026 4:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/providence-mulling-sale-its-health-plan-amid-financial-pressure\" hreflang=\"en\">Providence Health Plan's Medicare Advantage sale falls through</a>",
+        "url": "https://www.fiercehealthcare.com/payers/providence-mulling-sale-its-health-plan-amid-financial-pressure",
+        "summary": "After exploring options for the future, including a sale, Providence Health Plan announced this week that it will cease operations for most of its insurance businesses next year.",
+        "source": "Fierce Healthcare",
+        "published": "Mar 19, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/americans-want-healthcares-financial-burdens-addressed-heres-how-states-could-do-more\" hreflang=\"en\">As healthcare costs weigh on patients, states could play a bigger role, report finds</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/americans-want-healthcares-financial-burdens-addressed-heres-how-states-could-do-more",
+        "summary": "Recent Commonwealth Fund reports outline the nation's grievances with rising healthcare costs and the greater role states could take in protecting those most at risk.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 17, 2026 3:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/innovaccer-mastek-ink-strategic-partnership-accelerate-global-deployment-agentic\" hreflang=\"en\">Innovaccer, Mastek ink strategic partnership to scale agentic AI in healthcare globally</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/innovaccer-mastek-ink-strategic-partnership-accelerate-global-deployment-agentic",
+        "summary": "Mastek will join Innovaccer’s Platinum GSI program as the company works to expand into the U.K. and Europe.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 17, 2026 10:59am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Centene CFO stepping down; Humana names new Medicaid chief</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/kaiser-permanente-notches-46-q2-operating-margin-53b-net-income\" hreflang=\"en\">Kaiser Permanente notches 4.6% Q2 operating margin, $5.3B net income</a>",
+        "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-notches-46-q2-operating-margin-53b-net-income",
+        "summary": "The country's largest nonprofit health system outlined a 10.9% year-over-year increase in operating revenues for the quarter ended June 30.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 17, 2026 12:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-faces-federal-trade-commission-antitrust-investigation-reuters-reports\" hreflang=\"en\">Epic faces Federal Trade Commission antitrust investigation, Reuters reports</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-faces-federal-trade-commission-antitrust-investigation-reuters-reports",
+        "summary": "The U.S. Federal Trade Commission has opened an antitrust investigation into Epic and is looking into its data-sharing practices, Reuters reported on Friday.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 17, 2026 12:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/universal-health-services-closes-835m-talkspace-acquisition\" hreflang=\"en\">Universal Health Services closes $835M Talkspace acquisition</a>",
+        "url": "https://www.fiercehealthcare.com/finance/universal-health-services-closes-835m-talkspace-acquisition",
+        "summary": "Talkspace will retain its brand, structure and broader strategic direction while operating as a wholly owned subsidiary of the brick-and-mortar acute and behavioral care provider. Executives said they expect both businesses to benefit from bidirectional patient referrals.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 15, 2026 11:23pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/beyond-compliance-rethinking-no-surprises-act-strategy-0\" hreflang=\"en\">Beyond Compliance: Rethinking No Surprises Act strategy</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/beyond-compliance-rethinking-no-surprises-act-strategy-0",
+        "summary": "Winning under the No Surprises Act starts before arbitration.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 12, 2026 10:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-ai-decision-support-more-clinicians-bid-become-healthcares\" hreflang=\"en\">Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-ai-decision-support-more-clinicians-bid-become-healthcares",
+        "summary": "Since April, more than 300 enterprise health systems have adopted Abridge's artificial intelligence-based decision support solution, and the company is now making the tool available to every clinician at its partner health systems.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 16, 2026 9:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/study-examines-how-ichra-adoption-could-help-stabilize-aca-risk-pools\" hreflang=\"en\">Study examines how ICHRA adoption could help stabilize ACA risk pools</a>",
+        "url": "https://www.fiercehealthcare.com/payers/study-examines-how-ichra-adoption-could-help-stabilize-aca-risk-pools",
+        "summary": "With the instability in the Affordable Care Act's marketplaces, proponents of ICHRA have suggested that these models could help support the risk pools.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 14, 2026 1:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-should-help-cancer-patients-survive-healthcare-system\" hreflang=\"en\">Industry Voices—AI should help cancer patients survive the healthcare system</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-ai-should-help-cancer-patients-survive-healthcare-system",
+        "summary": "Cancer&nbsp;care navigators are an invaluable resource, but there are nowhere near enough navigators to meet the scale of the need. This is where AI can make a meaningful difference, write the Digital Medicine Society's Jennifer Goldsack and former CMS Chief Medical Officer Lee Fleisher, M.D.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 14, 2026 10:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-ends-eye-disease-trial-anti-cd3-antibody-following-safety-review\" hreflang=\"en\">Regeneron ends eye disease trial for anti-CD3 antibody following safety review</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-ends-eye-disease-trial-anti-cd3-antibody-following-safety-review",
+        "summary": "Regeneron has hit the brakes on the phase 1/2a trial for an experimental eye inflammation treatment, following an adverse event that tilted the drug’s risk/benefit profile in the wrong direction.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 1:55pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-kgaa-lays-20-staffers-latest-blow-us-research-team\" hreflang=\"en\">Merck KGaA lays off 20 staffers in latest blow to US research team</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-kgaa-lays-20-staffers-latest-blow-us-research-team",
+        "summary": "The Massachusetts research site for Merck KGaA’s North American division, EMD Serono, has decided to hand pink slips to 20 staffers, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 1:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/slate-uses-fulcrum-vault-nasdaq-245m-migraine-trials\" hreflang=\"en\">Slate uses Fulcrum to vault onto Nasdaq with $245M financing for migraine trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/slate-uses-fulcrum-vault-nasdaq-245m-migraine-trials",
+        "summary": "Slate Medicines is hurtling toward a Nasdaq listing, securing a reverse merger with Fulcrum Therapeutics six months after exiting stealth and ahead of the publication of clinical data on its lead candidate.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 9:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/evaxion-scraps-solid-tumor-vaccine-focus-duke-partnered-brain-cancer-candidate\" hreflang=\"en\">Evaxion scraps solid tumor vaccine to focus on Duke-partnered brain cancer candidate</a>",
+        "url": "https://www.fiercebiotech.com/biotech/evaxion-scraps-solid-tumor-vaccine-focus-duke-partnered-brain-cancer-candidate",
+        "summary": "Evaxion has scrapped a next-gen solid tumor vaccine in order to channel resources to a candidate specifically targeting brain cancer.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 9:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/baylor-genetics-hit-cybersecurity-attack-personal-information-patients-staff-impacted\" hreflang=\"en\">Baylor Genetics hit by cybersecurity attack targeting patient, staff information</a>",
+        "url": "https://www.fiercebiotech.com/medtech/baylor-genetics-hit-cybersecurity-attack-personal-information-patients-staff-impacted",
+        "summary": "Diagnostic genomics company Baylor Genetics has become the latest victim of a life sciences cybersecurity breach, with both patients and employees affected.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 6:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/building-resilience-future-biopharma-innovation\" hreflang=\"en\">Building Resilience for the Future of Biopharma Innovation</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/building-resilience-future-biopharma-innovation",
+        "summary": "How can industry build resilience as science advances? WuXi AppTec Co-CEO Dr. Steve Yang shares his perspective on the future of biopharma innovation.",
+        "source": "Fierce Biotech",
+        "published": "Aug 11, 2026 3:41pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-lantheus-alzheimers-pet-imaging-agent-tauklarify\" hreflang=\"en\">FDA clears Lantheus’ Alzheimer’s PET imaging agent Tauklarify</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-lantheus-alzheimers-pet-imaging-agent-tauklarify",
+        "summary": "Lantheus, which recently agreed to an $8 billion takeover by fellow radiopharma Curium, garnered FDA clearance for its Alzheimer’s PET imaging agent Tauklarify.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 7:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-pens-370m-deal-omniab-ion-channel-collab-details-remain-vague\" hreflang=\"en\">Lilly pens $370M deal with OmniAb for ion channel collab, but details remain vague </a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-pens-370m-deal-omniab-ion-channel-collab-details-remain-vague",
+        "summary": "Antibody platform business OmniAb continues to rack up Big Pharma partnerships, with Eli Lilly signing off on up to $370 million biobucks tied to an ion channel program.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 7:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-2-undisclosed-gene-therapy-deaths-can-china-iit-alternative-regulatory-path-still-be\" hreflang=\"en\">After 2 undisclosed gene therapy deaths, can China’s alternative regulatory path still be trusted?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/after-2-undisclosed-gene-therapy-deaths-can-china-iit-alternative-regulatory-path-still-be",
+        "summary": "Two recent patient deaths—both involving severe immune reactions to high-dose, viral vector-delivered gene therapies and a lack of disclosure—have drawn international scrutiny to what appear to be systemic gaps in oversight and transparency within China’s IIT framework.",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 11:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-ends-phase-3-lung-cancer-trial-after-bispecific-falls-short-versus-keytruda\" hreflang=\"en\">AstraZeneca ends phase 3 lung cancer trial after bispecific falls short versus Keytruda</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-ends-phase-3-lung-cancer-trial-after-bispecific-falls-short-versus-keytruda",
+        "summary": "AstraZeneca has stopped a phase 3 trial of volrustomig in lung cancer based on interim efficacy data, narrowing the opportunity for a bispecific designed to replace current immune checkpoint inhibitors.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 4:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets\" hreflang=\"en\">Skye and Redx form new entity with $125M to advance fibrosis assets </a>",
+        "url": "https://www.fiercebiotech.com/biotech/skye-and-redx-form-new-entity-125m-advance-fibrosis-assets",
+        "summary": "Skye Bioscience has entered into an agreement to combine with privately held fibrotic disease biotech Redx Pharma in a deal that will net $125 million in financing for the new public company, called Fibrx Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 12:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback\" hreflang=\"en\">Capricor soars on plan to amend DMD filing after adcomm setback</a>",
+        "url": "https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback",
+        "summary": "Capricor Therapeutics has bounced back from a bruising FDA advisory committee meeting by securing a green light to file an amendment to its approval application, raising hopes that the biotech can rescue its Duchenne muscular dystrophy cell therapy. The biotech’s stock soared following the news.",
+        "source": "Fierce Biotech",
+        "published": "Aug 14, 2026 9:37am",
+        "importance_hint": 5
+      },
+      {
+        "title": "融资从30笔降到9笔：手术机器人狂欢结束，谁还能活下来？",
+        "url": "https://www.36kr.com/p/3943157773188231",
+        "summary": "融资从30笔降到9笔：手术机器人狂欢结束，谁还能活下来？",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 17 Aug 2026 11:15:25 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "手术机器人：狂欢与退潮之间，洗牌已至",
+        "url": "https://www.36kr.com/p/3943091588496775",
+        "summary": "国产手术机器人遇冷掀上市潮，洗牌期头部企业寻破局",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 17 Aug 2026 04:26:46 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems",
+        "url": "https://huggingface.co/papers/2608.03744",
+        "summary": "Clinical decision support is moving toward committees of language-model agents deliberating on a shared workspace. We ask whether such committees can be gamed by shortcuts, cues a benchmark rewards but a clinician would ignore. Across seven cohorts on six public datasets spanning text (MedQA-USMLE, MedMCQA, MIMIC-CXR reports), imaging (NIH ChestX-ray14, MIMIC-CXR-JPG, CheXpert) and tabular ICU records (SUPPORT2), Gemini committees resist these cues in isolation (flip 5-16%), yet a socially plausible shortcut spreads: when two peers assert the same wrong answer, the holdout under test adopts it",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-04T10:37:16.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+        "url": "https://huggingface.co/papers/2608.06914",
+        "summary": "Rib fractures are common and time-consuming to localize on computed tomography (CT). We ask whether fractures detected independently in two orthogonal CT-derived projections (anteroposterior and lateral) can be paired across views and triangulated into reliable 3D points at a controlled rate of false outputs, and we answer it with a staged diagnostic study. The projection geometry is exact, and given correct correspondence, localization is accurate (median 4.0 mm, 88% within 10 mm, 93.6% rib-exact). On a sealed 55-case cohort, a large share of fractures is in principle recoverable (61.1% dual-",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-09T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "PixSDS: Why Latent SDS Makes Noisy Pixels",
+        "url": "https://huggingface.co/papers/2608.12997",
+        "summary": "Score Distillation Sampling (SDS) enables text-to-3D generation by optimizing rendered images with a pretrained diffusion prior, but latent SDS often produces structured color artifacts and high-frequency texture noise. We identify a failure mode of latent SDS caused by VAE-induced pixel drift: the optimized image can move along pixel-space directions that are weakly constrained by the VAE encoder, so its latent representation remains clean and semantically meaningful while the image itself accumulates visible artifacts. We support this diagnosis with controlled 2D SDS experiments, VAE-only op",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-12T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning",
+        "url": "https://huggingface.co/papers/2607.29211",
+        "summary": "Large language models generate computationally expensive yet semantically void reasoning on beyond-capability tasks, creating risks where plausible-sounding but incorrect derivations mislead users. We characterize this futile reasoning phenomenon through systematic analysis, revealing universal capability overreach and systematic miscalibration between capability and behavior. The dominant failure mode is specious reasoning, which outputs look superficially valid but contain subtle errors, escalating with task difficulty. To address this, we introduce CaRL (Capability-aligned Reinforcement Lea",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-30T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

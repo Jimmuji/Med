@@ -1,0 +1,390 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T10:14:11.112543+08:00",
+  "counts": {
+    "news": 43,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Trump expected to pick White House adviser Heidi Overton to lead FDA",
+        "url": "https://www.statnews.com/2026/08/18/heidi-overton-fda-commissioner-nominee-white-house-adviser/",
+        "summary": "Heidi Overton, a doctor and White House adviser, is expected to be President Trump's pick to lead the FDA.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 01:18:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
+        "url": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/",
+        "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 21:25:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nonprofit health system raked in $1.1 billion this year from stake in medical billing firm",
+        "url": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/",
+        "summary": "Private equity firms have taken a strong interest in revenue cycle management firms, such as Ensemble.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 20:50:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
+        "url": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/",
+        "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 19:54:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The White House declares ‘promises made, promises kept’ on lowering drug prices. Nice try",
+        "url": "https://www.statnews.com/2026/08/18/white-house-claims-drug-price-drop-examined-ed-silverman-pharmalot/",
+        "summary": "In its effort to lower drug prices, the White House has declared \"promises made, promises kept.\" That's a narrative that doesn't reflect the full story.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 18:42:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Real-world psilocybin data suggest need for close monitoring",
+        "url": "https://www.statnews.com/2026/08/18/biotech-news-real-world-psilocybin-data-suggest-need-for-close-monitoring/",
+        "summary": "Amylyx reports success in a pivotal trial, biopharma A-listers join a pain-blocking device company board, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 18:07:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Leaders of Mass General, Dana-Farber among hospital execs who got big raises in 2024",
+        "url": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/",
+        "summary": "Top executives of major health systems got substantial raises, even as their hospitals grappled with plenty of challenges.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 17:26:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Government workers feel the squeeze on health care",
+        "url": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/",
+        "summary": "Municipalities are struggling with the cost of health insurance for their workers, and states are facing a major decision on Medicaid drug coverage.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 14:36:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a setback for Eyepoint, a win for Amylyx, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/18/eyepoint-blindness-treatment-setback-amylyx-avexitide-win/",
+        "summary": "Eyepoint disclosed that a Phase 3 trial of its experimental treatment for a common cause of age-related blindness fell short of its primary goal",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 13:25:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Kindergarten vaccine exemptions are climbing",
+        "url": "https://www.statnews.com/2026/08/18/health-news-kindergarten-vaccine-exemptions-are-climbing/",
+        "summary": "Doritos as \"real\" \"food,\" public-sector health care in trouble, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 13:02:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Prominent AI startup rolls out virtual cell model in race to speed up science",
+        "url": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/",
+        "summary": "A prominent AI startup has rolled out a virtual cell model, advancing the race to speed up science.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Amylyx endocrine drug succeeds in pivotal study",
+        "url": "https://www.statnews.com/2026/08/18/amylyx-endocrine-drug-succeeds-in-pivotal-study-avexitide-bariatric-surgery-patients/",
+        "summary": "In a Phase 3 trial of people with post-bariatric hypoglycemia, those taking the drug, avexitide, experienced a 55% reduction in the rate of serious low blood sugar events compared with&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 11:01:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: A pill that mimics exercise? Early results on drug designed to maintain both weight loss and muscle mass",
+        "url": "https://www.statnews.com/2026/08/18/enveda-pill-mimics-exercise-phase-one-trial-leptin-weight-loss-maintenance/",
+        "summary": "Colorado biotech Enveda reports preliminary results on a drug to help people maintain weight loss after GLP-1 use. Just don't call it exercise in a pill.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Doritos as farm-to-table snacks? Big Food, under duress, gets creative",
+        "url": "https://www.statnews.com/2026/08/18/farm-to-table-doritos-ultra-processed-food-ad-campaign-healthwashing/",
+        "summary": "Doritos in the classic nacho cheese flavor have 27 ingredients, including not just familiar ones but also a number of additives and preservatives.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: 8 steps to making surrogacy more ethical for everyone involved",
+        "url": "https://www.statnews.com/2026/08/18/mckenna-west-surrogacy-laws-ethics/",
+        "summary": "“Everything about the West case shows how miserably surrogacy has been managed in America,” writes Arthur Caplan.",
+        "source": "STAT News",
+        "published": "Tue, 18 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/carrum-included-health-integrate-specialty-care-health-plan-members\" hreflang=\"en\">Included Health to offer Carrum specialty care for alternative plan members</a>",
+        "url": "https://www.fiercehealthcare.com/providers/carrum-included-health-integrate-specialty-care-health-plan-members",
+        "summary": "Carrum’s Centers of Excellence network for specialty care will be embedded directly into Included Health’s Alternative Health Plan to help connect members to high-quality specialty care with more predictable costs.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 3:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ama-backs-updated-cms-prior-authorization-reporting-guidance\" hreflang=\"en\">AMA applauds updated CMS prior authorization reporting guidance</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ama-backs-updated-cms-prior-authorization-reporting-guidance",
+        "summary": "The organization said the agency responded to its concerns about payers' implementation of the transparency provisions of the 2024 final rule.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 1:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—St. Jude names next CEO; CVS shuffles board of directors</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-performance-improves-june-lags-2025\" hreflang=\"en\">Hospital performance improves in June, but lags 2025</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-performance-improves-june-lags-2025",
+        "summary": "Hospitals' operating margins remain inconsistent across the industry, with rising uncompensated care burden and non-labor expenses increasingly weighing down performance, according to June operating data.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 3:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hipaa-compliant-marketing-platform-ours-privacy-lands-15m\" hreflang=\"en\">HIPAA-compliant marketing platform Ours Privacy lands $15M amid growing pixel concerns</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hipaa-compliant-marketing-platform-ours-privacy-lands-15m",
+        "summary": "The software is a full-stack marketing solution designed with healthcare privacy in mind. It integrates with a slew of data sources—from websites to EHRs to Big Tech platforms—cleans PHI and transmits it to third parties.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 11:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/r1-agrees-acquire-humata-health-enhance-os-ai-powered-prior-auths\" hreflang=\"en\">R1 acquiring Humata Health to bolster AI-powered prior authorizations</a>",
+        "url": "https://www.fiercehealthcare.com/finance/r1-agrees-acquire-humata-health-enhance-os-ai-powered-prior-auths",
+        "summary": "Humata’s AI-powered solution has allowed physicians to achieve a 96% first-pass approval rate while reducing write-offs by 30%, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 10:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ousted-ohsu-healthcare-ceo-files-lawsuit-alleging-wrongful-termination-discrimination\" hreflang=\"en\">Ousted OHSU Healthcare CEO files lawsuit alleging wrongful termination, discrimination</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ousted-ohsu-healthcare-ceo-files-lawsuit-alleging-wrongful-termination-discrimination",
+        "summary": "Tarek Salaway's complaint contests the academic system's publicly shared account of his conduct and seeks $15.5 million in damages.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 1:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/jd-power-member-satisfaction-medicare-advantage-plans-continues-slide\" hreflang=\"en\">JD Power: Member satisfaction with Medicare Advantage plans continues to slide</a>",
+        "url": "https://www.fiercehealthcare.com/payers/jd-power-member-satisfaction-medicare-advantage-plans-continues-slide",
+        "summary": "Satisfaction with Medicare Advantage plans has declined for the second straight year as enrollees expect insurers to be more of a partner in their care, according to a new study from JD Power.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 1:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/former-exec-alleges-alignment-healthcare-leaders-juiced-profits-boost-bonuses\" hreflang=\"en\">Alignment Health seeks to have former exec's whistleblower suit tossed</a>",
+        "url": "https://www.fiercehealthcare.com/payers/former-exec-alleges-alignment-healthcare-leaders-juiced-profits-boost-bonuses",
+        "summary": "Alignment Healthcare and several of its executives have filed a motion to have a whistleblower suit filed by a former exec dismissed.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 12:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rural-primary-care-company-hopscotch-clinches-53m-expand-beyond-nc\" hreflang=\"en\">Rural primary care company Hopscotch clinches $53M to expand beyond NC</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rural-primary-care-company-hopscotch-clinches-53m-expand-beyond-nc",
+        "summary": "As rural healthcare faces access challenges, Hopscotch focuses on a smooth and attentive patient experience while augmenting clinicians with technology.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 8:52am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/whoop-expands-advanced-labs-offering-non-members-adds-grails-multi-cancer-detection\" hreflang=\"en\">Whoop expands Advanced Labs to non-members, adds Grail’s multi-cancer detection test to lineup</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/whoop-expands-advanced-labs-offering-non-members-adds-grails-multi-cancer-detection",
+        "summary": "Advanced Labs includes insights into cardiovascular, metabolic and inflammatory health through comprehensive, clinician-reviewed blood testing.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 17, 2026 1:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/happy-health-secures-75m-ai-driven-home-based-care-platform\" hreflang=\"en\">Happy Health secures $75M to expand AI-powered care in the home starting with sleep apnea</a>",
+        "url": "https://www.fiercehealthcare.com/finance/happy-health-secures-75m-ai-driven-home-based-care-platform",
+        "summary": "The startup’s smart ring—dubbed Happy Ring—was first cleared by the FDA in 2024.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 17, 2026 3:51pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency\" hreflang=\"en\">Merck and Sarah Cannon team up to boost oncology trial efficiency</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
+        "summary": "Oncology R&amp;D organization Sarah Cannon Research Institute (SCRI) announced a collaboration with Merck &amp; Co. to increase patient access to oncology trials at community-based sites in the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 1:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss\" hreflang=\"en\">Kolon TissueGene shrinks workforce after pivotal osteoarthritis trial miss</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss",
+        "summary": "Following a phase 3 knee osteoarthritis failure that its CEO acknowledged caused “great disappointment and concern,” Kolon TissueGene is laying off 37 employees at its Maryland headquarters.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 3:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/craif-raises-33m-boost-work-its-urine-test-cancer\" hreflang=\"en\">Craif raises $33M to boost work on its urine test for cancer </a>",
+        "url": "https://www.fiercebiotech.com/medtech/craif-raises-33m-boost-work-its-urine-test-cancer",
+        "summary": "The AI biopharma Craif has raised $33 million in its series D funding round as it also adds a new exec, bringing its total capital raised to date to $88 million.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 8:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/johnson-johnson-medtech-nabs-monarch-quest-3-update-lung-cancer-detection\" hreflang=\"en\">Johnson &amp; Johnson MedTech nabs Monarch Quest 3 update for lung cancer detection </a>",
+        "url": "https://www.fiercebiotech.com/medtech/johnson-johnson-medtech-nabs-monarch-quest-3-update-lung-cancer-detection",
+        "summary": "Johnson &amp; Johnson MedTech has been handed its fourth major software launch in the past 18 months for its Monarch bronchoscopy robot.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 7:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Kolon cuts workforce after ph. 3 fail; Sanofi sheds 229 staffers</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomarin-bulks-bone-unit-275m-alesta-buyout-challenge-astrazeneca\" hreflang=\"en\">BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biomarin-bulks-bone-unit-275m-alesta-buyout-challenge-astrazeneca",
+        "summary": "BioMarin Pharmaceutical has agreed to buy Alesta Therapeutics for $275 million upfront, positioning the biopharma to challenge AstraZeneca in the rare bone disease market.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 9:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Abcuro secures $66M; InduPro assembles $77M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amylyx-speeds-toward-approval-glp-1-inhibitor-halves-blood-sugar-crashes-ph-3-win\" hreflang=\"en\">Amylyx readies approval push after GLP-1 inhibitor halves blood sugar crashes in ph. 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amylyx-speeds-toward-approval-glp-1-inhibitor-halves-blood-sugar-crashes-ph-3-win",
+        "summary": "Amylyx Pharmaceuticals’ $35 million bet on the GLP-1 receptor antagonist avexitide appears to have paid off, with the molecule cutting the number of dangerous blood sugar crashes by more than half in patients with a rare endocrine disease.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 6:37pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/leo-bets-435m-tanabes-regulatory-approval-ready-rare-dermatology-drug\" hreflang=\"en\">Leo ‘really strengthening’ pipeline with $435M deal for Tanabe rare skin disease drug awaiting FDA nod</a>",
+        "url": "https://www.fiercebiotech.com/biotech/leo-bets-435m-tanabes-regulatory-approval-ready-rare-dermatology-drug",
+        "summary": "Leo Pharma is sticking to its mission of strengthening its pipeline in 2026, penning a $435 million deal for a rare skin disease drug from Tanabe Pharma that's awaiting an approval decision by the FDA.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 8:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-ends-eye-disease-trial-anti-cd3-antibody-following-safety-review\" hreflang=\"en\">Regeneron ends eye disease trial for anti-CD3 antibody following safety review</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-ends-eye-disease-trial-anti-cd3-antibody-following-safety-review",
+        "summary": "Regeneron has hit the brakes on the phase 1/2a trial for an experimental eye inflammation treatment, following an adverse event that tilted the drug’s risk/benefit profile in the wrong direction.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 1:55pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-kgaa-lays-20-staffers-latest-blow-us-research-team\" hreflang=\"en\">Merck KGaA lays off 20 staffers in latest blow to US research team</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-kgaa-lays-20-staffers-latest-blow-us-research-team",
+        "summary": "The Massachusetts research site for Merck KGaA’s North American division, EMD Serono, has decided to hand pink slips to 20 staffers, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 1:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/slate-uses-fulcrum-vault-nasdaq-245m-migraine-trials\" hreflang=\"en\">Slate uses Fulcrum to vault onto Nasdaq with $245M financing for migraine trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/slate-uses-fulcrum-vault-nasdaq-245m-migraine-trials",
+        "summary": "Slate Medicines is hurtling toward a Nasdaq listing, securing a reverse merger with Fulcrum Therapeutics six months after exiting stealth and ahead of the publication of clinical data on its lead candidate.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 9:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "平安好医生：企业健管稳健增长，AI业务兑现业绩",
+        "url": "https://www.36kr.com/p/3945024705657988",
+        "summary": "持续夯实\"四到\"服务网络底座，AI赋能助力毛利提升",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 18 Aug 2026 12:54:35 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "曹曦又要募美元了，这次5个亿",
+        "url": "https://www.36kr.com/p/3944869067865481",
+        "summary": "钱的注意力回来了。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 18 Aug 2026 10:27:56 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "融资从30笔降到9笔：手术机器人狂欢结束，谁还能活下来？",
+        "url": "https://www.36kr.com/p/3943157773188231",
+        "summary": "融资从30笔降到9笔：手术机器人狂欢结束，谁还能活下来？",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 17 Aug 2026 11:15:25 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "手术机器人：狂欢与退潮之间，洗牌已至",
+        "url": "https://www.36kr.com/p/3943091588496775",
+        "summary": "国产手术机器人遇冷掀上市潮，洗牌期头部企业寻破局",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 17 Aug 2026 04:26:46 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Valid Per-Field Selective Risk Control for Document Extraction: Three Failure Modes, a Validity Ladder, and When Conditioning Pays",
+        "url": "https://huggingface.co/papers/2608.14639",
+        "summary": "Per-field accept/review with selective risk at most alpha -- accept a field only if the error rate among accepted fields is controlled -- is the trust contract document-extraction systems need, and the natural procedure silently violates it on real documents. On 13,859 genuine claude-sonnet-5 fields from 800 CORD receipts (49.0% correct) we diagnose three failure modes: document clustering (design effect 1.84-2.45), score-refit leakage (coverage 0.416 at risk 0.127, violating alpha=0.10 in 95% of splits), and a tie-mass pathology (a degenerate score collapses the threshold grid, 0.030 to 0.001",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
+        "url": "https://huggingface.co/papers/2608.14905",
+        "summary": "AI has long assisted scientific research, but the rapid advance of LLMs and agentic scaffolds is reshaping the landscape; a single system can now carry whole-stage research from an initial hypothesis all the way to final published paper, which is a paradigm now referred to as AutoResearch. Existing evaluations reveal little about how these agents operate or where they break down. Tasks are narrowly-scoped, evaluation measures performance but not process, and failure diagnoses lack systematic coverage or artifact-level visibility. To address this gap, we introduce AutoResearchEval, featuring 10",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-13T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search",
+        "url": "https://huggingface.co/papers/2608.15669",
+        "summary": "Scientific discovery often involves optimising expensive-to-evaluate objectives over vast, structured, and open-ended hypothesis spaces, such as molecules, protein sequences, and computer programs. Generative models such as large language models (LLMs) provide expressive priors over such spaces, but their likelihoods and self-assessments are unreliable proxies for the objectives and calibrated epistemic uncertainty, especially for novel candidates outside the observed data distribution. We introduce the Large Discovery Model (LDM), an empirically grounded recurrent architecture that couples a ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-15T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation",
+        "url": "https://huggingface.co/papers/2608.16765",
+        "summary": "Despite recent advances in unified multimodal models for multi-reference image generation, existing benchmarks remain organized around predefined task types (e.g., \"subject composition\"), which are ill-suited to this combinatorial setting and lead to fragmented coverage, uncontrolled complexity, and little diagnostic value. Recognizing that diverse multi-reference tasks share a common set of atomic operations, we adopt a capability-oriented perspective and formalize four operators: Anchor (f), Disentangle (g), Apply (oplus), and Compose (C). Any multi-reference prompt can then be represented a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-16T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

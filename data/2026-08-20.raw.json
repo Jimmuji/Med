@@ -1,0 +1,382 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T10:12:44.410746+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
+        "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/",
+        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 20:03:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New CDC director tells staff she is prepared to speak ‘truth to power’",
+        "url": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/",
+        "summary": "Then new CDC director told staff she is “very comfortable and very confident ... [in] speaking truth to power.”",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 19:31:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trust in science: A new STAT initiative",
+        "url": "https://www.statnews.com/2026/08/19/trust-in-science-a-new-stat-initiative/",
+        "summary": "Dear Readers, When we launched STAT more than a decade ago, our mission statement promised that we would deliver \"trusted, tough-minded journalism.'' Little did we know that trust would be&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 17:19:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Experts scrutinize Huidagene’s disclosures after patient death",
+        "url": "https://www.statnews.com/2026/08/19/biotech-news-experts-scrutinize-huidagene-disclosures-after-patient-death/",
+        "summary": "Merck and Moderna's mRNA cancer vaccine, an expected nominee to lead the FDA, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 17:09:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Regeneron drug for disease that causes dangerous bone growth earns FDA approval",
+        "url": "https://www.statnews.com/2026/08/19/regeneron-fop-garetosmab-fda-approval-pasatru/",
+        "summary": "A Regeneron drug that treats an ultra-rare disease that causes bone to form where it's not meant to be has won approval.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 17:02:11 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: American Cancer Society cancels alcohol industry fundraiser",
+        "url": "https://www.statnews.com/2026/08/19/cancer-society-cancels-alcohol-industry-gala-fundraiser-deadliest-drug-series/",
+        "summary": "The American Cancer Society had an optics problem: its annual Wine and Spirits Industry's Gala. It decided to do something about it.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 15:18:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Brain organoids, kept alive more than five years, matured like human brains",
+        "url": "https://www.statnews.com/2026/08/19/brain-organoids-alive-5-years-neuroscience-research-harvard/",
+        "summary": "Brain organoids kept alive more than five years continued to develop and mature, and showed molecular and genetic signatures like those of human brains.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an FDA commish nominee, mRNA cancer vaccine results, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/19/fda-commissioner-nominee-overton-merck-moderna-cancer-vaccine/",
+        "summary": "President Trump is expected to nominate Heidi Overton, White House deputy director of domestic policy, to serve as the next FDA commissioner",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 13:23:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Dissecting Chinese trial strategy in wake of deaths",
+        "url": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/",
+        "summary": "Cancer \"vaccine\" successfully slowed melanoma, dissecting Chinese trial strategy in wake of deaths, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 11:47:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What Epic did — and didn’t — say about AI at its annual meeting",
+        "url": "https://www.statnews.com/2026/08/19/ai-prognosis-what-epic-did-and-didnt-say-about-ai-at-its-annual-meeting/",
+        "summary": "At Epic's annual meeting, the prevailing question behind closed doors is “What the heck is going on with Epic?”",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 11:25:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
+        "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/",
+        "summary": "A personalized mRNA cancer vaccine succeeded in a late-stage melanoma study, results that could herald a new, powerful approach in oncology.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 10:45:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
+        "url": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/",
+        "summary": "The accrediting group for schools of public health is weighing the removal of language that specifically requires programs to teach about structural bias and racism.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In wake of boy’s death, gene editing experts dissect Huidagene’s decisions",
+        "url": "https://www.statnews.com/2026/08/19/huidagene-clinical-trial-deaths-experts-dissect-study-design/",
+        "summary": "Experts question technical improvements Huidagene tried when using a Duchenne muscular dystrophy treatment strategy largely abandoned by U.S. companies.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m a pediatrician. AI chatbots are grooming my patients",
+        "url": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/",
+        "summary": "“At present, the law does not recognize that child abuse is child abuse when it’s perpetrated by an algorithm operated by a corporation,” writes a pediatrician.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "She grew up unvaccinated. Now she’s a leading voice for science — and empathy",
+        "url": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/",
+        "summary": "Immunologist Liz Marnik, who grew up unvaccinated, says shaming people who distrust science will do nothing to improve vaccine acceptance.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/many-medicare-beneficiaries-are-confident-they-understand-program-theyre-wrong-new-study\" hreflang=\"en\">Many Medicare beneficiaries are confident they understand the program. The data says otherwise</a>",
+        "url": "https://www.fiercehealthcare.com/payers/many-medicare-beneficiaries-are-confident-they-understand-program-theyre-wrong-new-study",
+        "summary": "While many individuals believe they have a firm grasp on their Medicare benefits, the reality is far different, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 3:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-announces-967m-grants-behavioral-health-services\" hreflang=\"en\">HHS announces $96.7M in grants for behavioral health services</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-967m-grants-behavioral-health-services",
+        "summary": "Services provided include support for homeless individuals with serious mental illness, suicide prevention and early intervention, SUD treatment, peer support and more.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 9:48am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/projected-healthcare-services-deal-count-be-lowest-2017-pitchbook-finds\" hreflang=\"en\">Projected healthcare services deal count to be lowest since 2017, PitchBook finds</a>",
+        "url": "https://www.fiercehealthcare.com/finance/projected-healthcare-services-deal-count-be-lowest-2017-pitchbook-finds",
+        "summary": "Three of four segments, except ancillary and outsourced services, face weakness amid macroeconomic headwinds like looming interest rate hikes and low healthcare services utilization.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 2:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-announces-expansion-clinical-ai-agent-capabilities\" hreflang=\"en\">Oracle Health builds out clinical AI agent with coding, chart review tools</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-announces-expansion-clinical-ai-agent-capabilities",
+        "summary": "New capabilities for the clinical AI agent include automated coding, dictation and chart review.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 1:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/bringing-preventive-care-home\" hreflang=\"en\">Bringing preventive care into the home</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/bringing-preventive-care-home",
+        "summary": "Reperio Health co-founder and CEO Travis Rush joins \"Podnosis\" to discuss how at-home screenings and virtual care could make preventive care more convenient and help patients turn health data into action.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 12:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow\" hreflang=\"en\">Epic expands AI ambitions with agent platform, Cosmos-powered predictions and workflow automation</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow",
+        "summary": "As healthcare organizations rapidly adopt artificial intelligence technologies, electronic health record giant Epic aims to be the foundational layer, embedding AI and automation into clinical, operational and administrative workflows.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 6:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/carrum-included-health-integrate-specialty-care-health-plan-members\" hreflang=\"en\">Included Health to offer Carrum specialty care for alternative plan members</a>",
+        "url": "https://www.fiercehealthcare.com/providers/carrum-included-health-integrate-specialty-care-health-plan-members",
+        "summary": "Carrum’s Centers of Excellence network for specialty care will be embedded directly into Included Health’s Alternative Health Plan to help connect members to high-quality specialty care with more predictable costs.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 3:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Aligned Marketplace lands $20M; Happy Health buoyed by $75M round </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ama-backs-updated-cms-prior-authorization-reporting-guidance\" hreflang=\"en\">AMA applauds updated CMS prior authorization reporting guidance</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ama-backs-updated-cms-prior-authorization-reporting-guidance",
+        "summary": "The organization said the agency responded to its concerns about payers' implementation of the transparency provisions of the 2024 final rule.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 1:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—St. Jude names next CEO; CVS shuffles board of directors</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-performance-improves-june-lags-2025\" hreflang=\"en\">Hospital performance improves in June, but lags 2025</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-performance-improves-june-lags-2025",
+        "summary": "Hospitals' operating margins remain inconsistent across the industry, with rising uncompensated care burden and non-labor expenses increasingly weighing down performance, according to June operating data.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 3:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hipaa-compliant-marketing-platform-ours-privacy-lands-15m\" hreflang=\"en\">HIPAA-compliant marketing platform Ours Privacy lands $15M amid growing pixel concerns</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hipaa-compliant-marketing-platform-ours-privacy-lands-15m",
+        "summary": "The software is a full-stack marketing solution designed with healthcare privacy in mind. It integrates with a slew of data sources—from websites to EHRs to Big Tech platforms—cleans PHI and transmits it to third parties.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 11:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/renaissance-biomedicine-human-brain-organoids-model-development-5-years\" hreflang=\"en\">A ‘renaissance for biomedicine’: human brain organoids model development for 5 years</a>",
+        "url": "https://www.fiercebiotech.com/research/renaissance-biomedicine-human-brain-organoids-model-development-5-years",
+        "summary": "Scientists’ ability to recapitulate the human brain in a dish has always been hindered by the inability to model the full capacity of the brain and its development through time.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 1:35pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner\" hreflang=\"en\">Trump taps White House aide Heidi Overton as nominee for next FDA commissioner</a>",
+        "url": "https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner",
+        "summary": "After three months without a permanent leader in place, President Donald Trump has named his pick for the new commissioner of the FDA. Heidi Overton, M.D., Ph.D., currently a White House aide, will go before the Senate in an effort to secure the job of the country’s top drug regulator.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 10:21am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tolerance-bio-jumps-phase-2-260m-deal-thymus-targeting-fusion-protein\" hreflang=\"en\">Tolerance Bio jumps into phase 2 with $260M deal for thymus-targeting fusion protein</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tolerance-bio-jumps-phase-2-260m-deal-thymus-targeting-fusion-protein",
+        "summary": "Tolerance Bio has vaulted into the clinic by agreeing to pay NeoImmuneTech up to $260 million for rights to a fusion protein in certain thymus-related indications in the Americas and Europe.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/new-biotech-academia-partnership-approaches-empower-drug-development-ecosystem\" hreflang=\"en\">New Biotech-Academia Partnership Approaches to Empower the Drug Development Ecosystem</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/new-biotech-academia-partnership-approaches-empower-drug-development-ecosystem",
+        "summary": "Addressing shifts in the global clinical development ecosystem and how academia and biotech can better partner to develop new therapies for patients.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/developing-global-clinical-trial-strategy-emerging-biotechs\" hreflang=\"en\">Developing a Global Clinical Trial Strategy for Emerging Biotechs</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/developing-global-clinical-trial-strategy-emerging-biotechs",
+        "summary": "Discussing how small biotechs can accelerate clinical development with fit-for-purpose global clinical trial strategies.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions\" hreflang=\"en\">How Pharma Teams Evaluate Biotech Companies for Partnerships and Acquisitions</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions",
+        "summary": "Addressing how interactions around partnerships or acquisitions differ from those of investment from biotech companies and how CMOs can support those conversations.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial\" hreflang=\"en\">Merck, Moderna’s personalized cancer vaccine slows recurrence in phase 3, setting up approval push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial",
+        "summary": "Merck &amp; Co. and Moderna's personalized mRNA cancer vaccine has successfully lengthened recurrence-free survival when paired with Keytruda for patients with high-risk skin cancer. The phase 3 win sets the partners up to potentially seek accelerated approval.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 11:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency\" hreflang=\"en\">Merck and Sarah Cannon team up to boost oncology trial efficiency</a>",
+        "url": "https://www.fiercebiotech.com/cro/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
+        "summary": "Oncology R&amp;D organization Sarah Cannon Research Institute (SCRI) announced a collaboration with Merck &amp; Co. to increase patient access to oncology trials at community-based sites in the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 11:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss\" hreflang=\"en\">Kolon TissueGene shrinks workforce after pivotal osteoarthritis trial miss</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss",
+        "summary": "Following a phase 3 knee osteoarthritis failure that its CEO acknowledged caused “great disappointment and concern,” Kolon TissueGene is laying off 37 employees at its Maryland headquarters.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 3:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/craif-raises-33m-boost-work-its-urine-test-cancer\" hreflang=\"en\">Craif raises $33M to boost work on its urine test for cancer </a>",
+        "url": "https://www.fiercebiotech.com/medtech/craif-raises-33m-boost-work-its-urine-test-cancer",
+        "summary": "The AI biopharma Craif has raised $33 million in its series D funding round as it also adds a new exec, bringing its total capital raised to date to $88 million.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 8:14am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/johnson-johnson-medtech-nabs-monarch-quest-3-update-lung-cancer-detection\" hreflang=\"en\">Johnson &amp; Johnson MedTech nabs Monarch Quest 3 update for lung cancer detection </a>",
+        "url": "https://www.fiercebiotech.com/medtech/johnson-johnson-medtech-nabs-monarch-quest-3-update-lung-cancer-detection",
+        "summary": "Johnson &amp; Johnson MedTech has been handed its fourth major software launch in the past 18 months for its Monarch bronchoscopy robot.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 7:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Kolon cuts workforce after ph. 3 fail; Sanofi sheds 229 staffers</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "医疗数据交易爆发，交易所开始蜂拥圈地",
+        "url": "https://www.36kr.com/p/3947106777971841",
+        "summary": "医疗数据交易加速增长，仍需多方协力推进千亿市场发展。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 20 Aug 2026 01:25:56 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "平安好医生：企业健管稳健增长，AI业务兑现业绩",
+        "url": "https://www.36kr.com/p/3945024705657988",
+        "summary": "持续夯实\"四到\"服务网络底座，AI赋能助力毛利提升",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 18 Aug 2026 12:54:35 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation",
+        "url": "https://huggingface.co/papers/2608.12944",
+        "summary": "Electrocardiography (ECG), photoplethysmography (PPG), and phonocardiography (PCG) provide complementary views of the same cardiac cycle, yet existing cardiac foundation models are trained for a single sensing modality, leaving the shared physiology across sensors unexploited. We introduce CardioState-JEPA, a cardiac foundation model to learn a single shared representation jointly across ECG, PPG, and PCG, built on a physiology-aware joint-embedding predictive architecture. The model maps heterogeneous waveforms into a common token space, processes them with a single shared Transformer encoder",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-12T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Valid Per-Field Selective Risk Control for Document Extraction: Three Failure Modes, a Validity Ladder, and When Conditioning Pays",
+        "url": "https://huggingface.co/papers/2608.14639",
+        "summary": "Per-field accept/review with selective risk at most alpha -- accept a field only if the error rate among accepted fields is controlled -- is the trust contract document-extraction systems need, and the natural procedure silently violates it on real documents. On 13,859 genuine claude-sonnet-5 fields from 800 CORD receipts (49.0% correct) we diagnose three failure modes: document clustering (design effect 1.84-2.45), score-refit leakage (coverage 0.416 at risk 0.127, violating alpha=0.10 in 95% of splits), and a tie-mass pathology (a degenerate score collapses the threshold grid, 0.030 to 0.001",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-07-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks",
+        "url": "https://huggingface.co/papers/2608.14905",
+        "summary": "AI has long assisted scientific research, but the rapid advance of LLMs and agentic scaffolds is reshaping the landscape; a single system can now carry whole-stage research from an initial hypothesis all the way to final published paper, which is a paradigm now referred to as AutoResearch. Existing evaluations reveal little about how these agents operate or where they break down. Tasks are narrowly-scoped, evaluation measures performance but not process, and failure diagnoses lack systematic coverage or artifact-level visibility. To address this gap, we introduce AutoResearchEval, featuring 10",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-13T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search",
+        "url": "https://huggingface.co/papers/2608.15669",
+        "summary": "Scientific discovery often involves optimising expensive-to-evaluate objectives over vast, structured, and open-ended hypothesis spaces, such as molecules, protein sequences, and computer programs. Generative models such as large language models (LLMs) provide expressive priors over such spaces, but their likelihoods and self-assessments are unreliable proxies for the objectives and calibrated epistemic uncertainty, especially for novel candidates outside the observed data distribution. We introduce the Large Discovery Model (LDM), an empirically grounded recurrent architecture that couples a ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-15T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation",
+        "url": "https://huggingface.co/papers/2608.16765",
+        "summary": "Despite recent advances in unified multimodal models for multi-reference image generation, existing benchmarks remain organized around predefined task types (e.g., \"subject composition\"), which are ill-suited to this combinatorial setting and lead to fragmented coverage, uncontrolled complexity, and little diagnostic value. Recognizing that diverse multi-reference tasks share a common set of atomic operations, we adopt a capability-oriented perspective and formalize four operators: Anchor (f), Disentangle (g), Apply (oplus), and Compose (C). Any multi-reference prompt can then be represented a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-16T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

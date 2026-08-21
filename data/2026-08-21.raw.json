@@ -1,0 +1,358 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T10:19:52.559063+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: How a Trump loyalist got the FDA nomination",
+        "url": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/",
+        "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff.",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 14:38:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves Ultragenyx gene therapy",
+        "url": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/",
+        "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 13:38:04 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Contrasting legal decisions on gender-affirming care",
+        "url": "https://www.statnews.com/2026/08/20/health-news-contrasting-legal-decisions-on-gender-affirming-care/",
+        "summary": "Heidi Overton's rise under Trump, inside a 5-year-old brain organoid, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 13:29:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Regeneron rare disease drug, an Ultragenyx gene therapy, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/",
+        "summary": "A Regeneron drug for an ultra-rare disease that causes bone to grow where it shouldn't won U.S. regulatory approval, capping a three-decade effort",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 13:01:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: One of the most consequential years for cancer treatment, ever",
+        "url": "https://www.statnews.com/2026/08/20/cancer-vaccine-merck-moderna-biotech-observations/",
+        "summary": "Between success with a pancreatic cancer drug and now success with an mRNA neoantigen vaccine, it has been a banner year for developing cancer therapies.",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Capricor Therapeutics’ Duchenne treatment is heading for an FDA rejection",
+        "url": "https://www.statnews.com/2026/08/20/capricor-therapeutics-duchenne-treatment-fda/",
+        "summary": "Capricor Therapeutics is trying to stave off FDA rejection of its cell therapy for Duchenne muscular dystrophy.",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How health systems are embracing chatbots to query and summarize patient records",
+        "url": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/",
+        "summary": "Several large health systems are rolling out AI chatbots to query patient records, because they can save time and increase diagnostic accuracy.",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study",
+        "url": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/",
+        "summary": "“Regulatory flexibility can be exercised in rare disease without sacrificing rigor,” writes Mindy Leffler, whose son has Duchenne muscular dystrophy.",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Reduce protein to increase longevity? Nutrition experts say that’s a bad idea",
+        "url": "https://www.statnews.com/2026/08/20/reduce-protein-increase-longevity-bad-idea-nutrition-experts/",
+        "summary": "Reducing protein intake could increase human longevity, researchers recently suggested. That's a bad idea, for several reasons, experts say.",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Can reclassifying muscle dysmorphia unlock better care for boys and men?",
+        "url": "https://www.statnews.com/2026/08/20/reclassify-muscle-dysmorphia-eating-disorder-uscf-expert-jason-nagata/",
+        "summary": "Males make up about a third of the population struggling with eating disorders in the United States. While these conditions often start during the teen years, by some estimates, as&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The global health aid architecture is collapsing. The faith economy isn’t",
+        "url": "https://www.statnews.com/2026/08/20/global-health-humanitarian-relief-faith-based-organizations-trump/",
+        "summary": "“Washington has rediscovered faith as a delivery mechanism. The bigger opportunity is faith as a source of capital,” writes Dr. Alaa Murabit.",
+        "source": "STAT News",
+        "published": "Thu, 20 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
+        "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/",
+        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 20:03:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New CDC director tells staff she is prepared to speak ‘truth to power’",
+        "url": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/",
+        "summary": "Then new CDC director told staff she is “very comfortable and very confident ... [in] speaking truth to power.”",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 19:31:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trust in science: A new STAT initiative",
+        "url": "https://www.statnews.com/2026/08/19/trust-in-science-a-new-stat-initiative/",
+        "summary": "Dear Readers, When we launched STAT more than a decade ago, our mission statement promised that we would deliver \"trusted, tough-minded journalism.'' Little did we know that trust would be&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 17:19:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Experts scrutinize Huidagene’s disclosures after patient death",
+        "url": "https://www.statnews.com/2026/08/19/biotech-news-experts-scrutinize-huidagene-disclosures-after-patient-death/",
+        "summary": "Merck and Moderna's mRNA cancer vaccine, an expected nominee to lead the FDA, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 19 Aug 2026 17:09:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: MaxQ Medical lands $31.5M; Happy Health buoyed by $75M round </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-behavioral-coaching-program-youths\" hreflang=\"en\">UnitedHealthcare expands behavioral coaching program for youths</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-behavioral-coaching-program-youths",
+        "summary": "UnitedHealthcare is expanding access to its child and family behavioral coaching program, making it available to 13 million commercial members.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 4:42pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/radial-acquires-tms-health-partners-mso-behind-network-brain-medicine-clinics\" hreflang=\"en\">Radial acquires TMS Health Partners, MSO behind network of brain medicine clinics</a>",
+        "url": "https://www.fiercehealthcare.com/providers/radial-acquires-tms-health-partners-mso-behind-network-brain-medicine-clinics",
+        "summary": "Radial is acquiring the non-clinical assets of a leading interventional psychiatry group with 20 brain medicine clinics. These clinics offer cutting-edge brain medicine treatments, including Spravato and TMS.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 11:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cityblock-acquires-homeward-health-move-rural-healthcare-lands-116m-funding-round\" hreflang=\"en\">Cityblock inks deal to acquire Homeward Health to move into rural healthcare, lands $116M funding round </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cityblock-acquires-homeward-health-move-rural-healthcare-lands-116m-funding-round",
+        "summary": "Combined, the two companies will serve nearly 250,000 people and are positioned to reach the 120 million people receiving government-funded healthcare in the U.S., Toyin Ajayi, Cityblock Health CEO and co-founder, wrote in a blog post.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 2:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Providence names new CFO; Humana taps new CMO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/glp-1s-forcing-strategic-reset-across-healthcare-well-fargo-report\" hreflang=\"en\">GLP-1s are forcing a strategic reset across healthcare: Wells Fargo report</a>",
+        "url": "https://www.fiercehealthcare.com/providers/glp-1s-forcing-strategic-reset-across-healthcare-well-fargo-report",
+        "summary": "GLP-1s are disrupting a healthcare system built around treating obesity-related complications, forcing providers, insurers and investors to rethink where future revenue and growth will come from, according to a new report from Wells Fargo.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 7:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-announces-967m-grants-behavioral-health-services\" hreflang=\"en\">HHS announces $96.7M in grants for behavioral health services</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-967m-grants-behavioral-health-services",
+        "summary": "Services provided include support for homeless individuals with serious mental illness, suicide prevention and early intervention, SUD treatment, peer support and more.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 9:48am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/many-medicare-beneficiaries-are-confident-they-understand-program-theyre-wrong-new-study\" hreflang=\"en\">Many Medicare beneficiaries are confident they understand the program. The data says otherwise</a>",
+        "url": "https://www.fiercehealthcare.com/payers/many-medicare-beneficiaries-are-confident-they-understand-program-theyre-wrong-new-study",
+        "summary": "While many individuals believe they have a firm grasp on their Medicare benefits, the reality is far different, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 3:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/projected-healthcare-services-deal-count-be-lowest-2017-pitchbook-finds\" hreflang=\"en\">Projected healthcare services deal count to be lowest since 2017, PitchBook finds</a>",
+        "url": "https://www.fiercehealthcare.com/finance/projected-healthcare-services-deal-count-be-lowest-2017-pitchbook-finds",
+        "summary": "Three of four segments, except ancillary and outsourced services, face weakness amid macroeconomic headwinds like looming interest rate hikes and low healthcare services utilization.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 2:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/coalition-organizations-file-lawsuit-against-trump-administration-over-teen-pregnancy\" hreflang=\"en\">Federal judge temporarily blocks Trump administration from Teen Pregnancy Prevention Program funding cuts</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/coalition-organizations-file-lawsuit-against-trump-administration-over-teen-pregnancy",
+        "summary": "The lawsuit comes after two new Notice of Funding Opportunities were issued—and then revoked—imposing new criteria for funding awards for the program.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 17, 2026 10:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-announces-expansion-clinical-ai-agent-capabilities\" hreflang=\"en\">Oracle Health builds out clinical AI agent with coding, chart review tools</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-announces-expansion-clinical-ai-agent-capabilities",
+        "summary": "New capabilities for the clinical AI agent include automated coding, dictation and chart review.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 19, 2026 1:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/bringing-preventive-care-home\" hreflang=\"en\">Bringing preventive care into the home</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/bringing-preventive-care-home",
+        "summary": "Reperio Health co-founder and CEO Travis Rush joins \"Podnosis\" to discuss how at-home screenings and virtual care could make preventive care more convenient and help patients turn health data into action.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 12:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal\" hreflang=\"en\">Chai tees up Bristol Myers Squibb AI antibody discovery collab</a>",
+        "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
+        "summary": "A month after Chai Discovery tied up a major $400 million series C funding round, the AI drug discovery firm has teamed up with Bristol Myers Squibb.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:59am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease\" hreflang=\"en\">Lilly pens deal with Gateway Labs alumni Amplitude for RNA vaccine platform for infectious disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
+        "summary": "Eli Lilly has turned to one of its Gateway Labs residents to help the Big Pharma develop trans-amplifying RNA (taRNA) vaccines for infectious diseases.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device\" hreflang=\"en\">Meet Aletta: The first FDA approved robotic blood draw device </a>",
+        "url": "https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device",
+        "summary": "The FDA has approved Vitestro’s Aletta as the first standalone robotic device in the U.S. designed to draw blood without the need for hands-on human help.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 7:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact\" hreflang=\"en\">Merck-Moderna cancer vaccine win spurs stock jump, speculation of Keytruda-like impact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact",
+        "summary": "As the dust settles on phase 3 data that added $45 billion to Moderna’s market cap, analysts have begun to ask a question that could define cancer care in the coming years: Can use of the vaccine be as broad as Keytruda?",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/money-has-spoken-why-chinese-biotech-ceos-are-unphased-about-rising-us-tensions\" hreflang=\"en\">‘Money has spoken’: Why Chinese biotech CEOs tell Fierce they’re unfazed about rising US tensions</a>",
+        "url": "https://www.fiercebiotech.com/biotech/money-has-spoken-why-chinese-biotech-ceos-are-unphased-about-rising-us-tensions",
+        "summary": "You might assume Chinese biotechs are enduring sleepless nights worrying about whether the ramping up of rhetoric in the U.S. is putting their new financial gains in peril. But the companies Fierce spoke to remained unconcerned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 5:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-abandons-500m-inflammation-team-tscan-therapeutics\" hreflang=\"en\">Amgen abandoning $500M+ Crohn’s collab won’t derail TScan’s pipeline strategy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-500m-inflammation-team-tscan-therapeutics",
+        "summary": "TScan has told Fierce that its pipeline strategy remains unchanged despite Amgen walking away from a Crohn’s disease collaboration that had the potential for a windfall of half a billion dollars.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 5:32pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/renaissance-biomedicine-human-brain-organoids-model-development-5-years\" hreflang=\"en\">A ‘renaissance for biomedicine’: human brain organoids model development for 5 years</a>",
+        "url": "https://www.fiercebiotech.com/research/renaissance-biomedicine-human-brain-organoids-model-development-5-years",
+        "summary": "Scientists’ ability to recapitulate the human brain in a dish has always been hindered by the inability to model the full capacity of the brain and its development through time.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 1:35pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner\" hreflang=\"en\">Trump taps White House aide Heidi Overton as nominee for next FDA commissioner</a>",
+        "url": "https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner",
+        "summary": "After three months without a permanent leader in place, President Donald Trump has named his pick for the new commissioner of the FDA. Heidi Overton, M.D., Ph.D., currently a White House aide, will go before the Senate in an effort to secure the job of the country’s top drug regulator.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 10:21am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tolerance-bio-jumps-phase-2-260m-deal-thymus-targeting-fusion-protein\" hreflang=\"en\">Tolerance Bio jumps into phase 2 with $260M deal for thymus-targeting fusion protein</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tolerance-bio-jumps-phase-2-260m-deal-thymus-targeting-fusion-protein",
+        "summary": "Tolerance Bio has vaulted into the clinic by agreeing to pay NeoImmuneTech up to $260 million for rights to a fusion protein in certain thymus-related indications in the Americas and Europe.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/new-biotech-academia-partnership-approaches-empower-drug-development-ecosystem\" hreflang=\"en\">New Biotech-Academia Partnership Approaches to Empower the Drug Development Ecosystem</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/new-biotech-academia-partnership-approaches-empower-drug-development-ecosystem",
+        "summary": "Addressing shifts in the global clinical development ecosystem and how academia and biotech can better partner to develop new therapies for patients.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/developing-global-clinical-trial-strategy-emerging-biotechs\" hreflang=\"en\">Developing a Global Clinical Trial Strategy for Emerging Biotechs</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/developing-global-clinical-trial-strategy-emerging-biotechs",
+        "summary": "Discussing how small biotechs can accelerate clinical development with fit-for-purpose global clinical trial strategies.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions\" hreflang=\"en\">How Pharma Teams Evaluate Biotech Companies for Partnerships and Acquisitions</a>",
+        "url": "https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions",
+        "summary": "Addressing how interactions around partnerships or acquisitions differ from those of investment from biotech companies and how CMOs can support those conversations.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 9:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "医疗数据交易爆发，交易所开始蜂拥圈地",
+        "url": "https://www.36kr.com/p/3947106777971841",
+        "summary": "医疗数据交易加速增长，仍需多方协力推进千亿市场发展。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 20 Aug 2026 01:25:56 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "Moderna的里程碑，昆仑资本的先手棋：mRNA肿瘤疫苗浪潮下中国力量崛起",
+        "url": "https://www.36kr.com/p/3947854123318661",
+        "summary": "Moderna mRNA肿瘤疫苗突破，昆仑领投新合生物。",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 20 Aug 2026 12:47:05 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning",
+        "url": "https://huggingface.co/papers/2608.18746",
+        "summary": "JEPA-style latent world models can use Euclidean distance to a goal latent as the cost for model-predictive control (MPC). Strong decoding of task variables, however, does not guarantee that this particular cost ranks candidate action sequences by real task progress. We call the latter property decision-metric alignment. We introduce Plan-Real Spearman, which measures latent--real rank agreement on random plans, and CEM-stage Spearman, which measures the same agreement as cross-entropy-method (CEM) search concentrates its proposal. We analyze sufficient conditions under which latent distance p",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-18T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation",
+        "url": "https://huggingface.co/papers/2608.12944",
+        "summary": "Electrocardiography (ECG), photoplethysmography (PPG), and phonocardiography (PCG) provide complementary views of the same cardiac cycle, yet existing cardiac foundation models are trained for a single sensing modality, leaving the shared physiology across sensors unexploited. We introduce CardioState-JEPA, a cardiac foundation model to learn a single shared representation jointly across ECG, PPG, and PCG, built on a physiology-aware joint-embedding predictive architecture. The model maps heterogeneous waveforms into a common token space, processes them with a single shared Transformer encoder",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-12T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

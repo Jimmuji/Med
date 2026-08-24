@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T10:18:45.878201+08:00",
+  "counts": {
+    "news": 25,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/employers-brace-another-year-healthcare-cost-increases\" hreflang=\"en\">Employers brace for another year of healthcare cost increases</a>",
+        "url": "https://www.fiercehealthcare.com/payers/employers-brace-another-year-healthcare-cost-increases",
+        "summary": "Employers' healthcare costs are set to climb yet again in 2027, with analysts at Aon projecting an increase of 9.5%.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 11:59am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-inside-expanded-partnership-between-scan-and-costco\" hreflang=\"en\">A look inside the expanded partnership between SCAN and Costco</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-inside-expanded-partnership-between-scan-and-costco",
+        "summary": "SCAN Group and retailer Costco are expanding their partnership with the launch of new cobranded Medicare products.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 1:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians\" hreflang=\"en\">As AI advances, a debate grows over the future role of physicians</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians",
+        "summary": "A new AMA framework assumes a physician remains in the loop as AI advances, while a provocative opinion piece explicitly questions whether physician-AI hybrids are actually the optimal model.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 7:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-hospital-ai-committees-are-asking-wrong-privacy-question\" hreflang=\"en\">Industry Voices—Hospital AI committees are asking the wrong privacy question</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-hospital-ai-committees-are-asking-wrong-privacy-question",
+        "summary": "One-size-fits-all review can under-govern high-risk generative AI models while blocking narrow AI models designed to reduce privacy exposure, write Peter Grantcharov and David Knobel.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 11:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-ambience-healthcare-rolls-out-healthcare-ai-partnership-model-function\" hreflang=\"en\">Weekly Rundown: Expressable joins Amazon's health conditions program; Function launches data connector for AI platforms</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-ambience-healthcare-rolls-out-healthcare-ai-partnership-model-function",
+        "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 10:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epics-seth-howard-leadership-shifts-and-companys-strategy-power-ai-across-health-system\" hreflang=\"en\">Epic's Seth Howard on leadership changes and the company's vision to power AI across the health system</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epics-seth-howard-leadership-shifts-and-companys-strategy-power-ai-across-health-system",
+        "summary": "Seth Howard views Epic's AI strategy as a continuation of a long-term roadmap, not a sudden shift, even as agile healthcare AI startups jump into the market to offer specialized tools.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 1:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: MaxQ Medical lands $31.5M; Happy Health buoyed by $75M round </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-behavioral-coaching-program-youths\" hreflang=\"en\">UnitedHealthcare expands behavioral coaching program for youths</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-behavioral-coaching-program-youths",
+        "summary": "UnitedHealthcare is expanding access to its child and family behavioral coaching program, making it available to 13 million commercial members.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 4:42pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/radial-acquires-tms-health-partners-mso-behind-network-brain-medicine-clinics\" hreflang=\"en\">Radial acquires TMS Health Partners, MSO behind network of brain medicine clinics</a>",
+        "url": "https://www.fiercehealthcare.com/providers/radial-acquires-tms-health-partners-mso-behind-network-brain-medicine-clinics",
+        "summary": "Radial is acquiring the non-clinical assets of a leading interventional psychiatry group with 20 brain medicine clinics. These clinics offer cutting-edge brain medicine treatments, including Spravato and TMS.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 11:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/cityblock-acquires-homeward-health-move-rural-healthcare-lands-116m-funding-round\" hreflang=\"en\">Cityblock inks deal to acquire Homeward Health to move into rural healthcare, lands $116M funding round </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/cityblock-acquires-homeward-health-move-rural-healthcare-lands-116m-funding-round",
+        "summary": "Combined, the two companies will serve nearly 250,000 people and are positioned to reach the 120 million people receiving government-funded healthcare in the U.S., Toyin Ajayi, Cityblock Health CEO and co-founder, wrote in a blog post.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 2:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Providence names new CFO; Humana taps new CMO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/glp-1s-forcing-strategic-reset-across-healthcare-well-fargo-report\" hreflang=\"en\">GLP-1s are forcing a strategic reset across healthcare: Wells Fargo report</a>",
+        "url": "https://www.fiercehealthcare.com/providers/glp-1s-forcing-strategic-reset-across-healthcare-well-fargo-report",
+        "summary": "GLP-1s are disrupting a healthcare system built around treating obesity-related complications, forcing providers, insurers and investors to rethink where future revenue and growth will come from, according to a new report from Wells Fargo.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 20, 2026 7:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push\" hreflang=\"en\">Werewolf transforms into Ambros via reverse merger to support phase 3 push for rare disease drug </a>",
+        "url": "https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push",
+        "summary": "Werewolf Therapeutics’ hunt for strategic alternatives has ended. Ambros Therapeutics has agreed to merge with Werewolf in an all-stock deal and has raised $150 million, positioning the biotech to take its lead rare disease drug candidate through to a filing for approval.",
+        "source": "Fierce Biotech",
+        "published": "Aug 21, 2026 9:15am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind\" hreflang=\"en\">Chutes &amp; Ladders—Neumora shuffles leadership ahead of IND</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind",
+        "summary": "Joshua Pinto, Ph.D., has been appointed chief executive officer of Neumora Therapeutics, a clinical-stage biotech with obesity and neuro assets.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 3:03pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling\" hreflang=\"en\">Why Pheast’s CEO has no regrets about transparent approach to R&amp;D despite competitors circling</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling",
+        "summary": "Pheast Therapeutics may have learned the hard way about the risks of competitors getting a glimpse of your heard-earned discoveries, but the immuno-oncology startup is so far sticking to its transparent approach.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event\" hreflang=\"en\">Boehringer places phase 1 study of investigational drug on hold to examine ‘safety event’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event",
+        "summary": "Boehringer Ingelheim has suspended a phase 1 trial of an investigational small molecule drug while it seeks to understand a “safety event,” although the German pharma isn't shedding light on the nature of the incident for now.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 3:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal\" hreflang=\"en\">Chai tees up Bristol Myers Squibb AI antibody discovery collab</a>",
+        "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
+        "summary": "A month after Chai Discovery tied up a major $400 million series C funding round, the AI drug discovery firm has teamed up with Bristol Myers Squibb.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:59am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease\" hreflang=\"en\">Lilly pens deal with Gateway Labs resident Amplitude for RNA vaccine platform for infectious disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
+        "summary": "Eli Lilly has turned to one of its Gateway Labs residents to help the Big Pharma develop trans-amplifying RNA (taRNA) vaccines for infectious diseases.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device\" hreflang=\"en\">Meet Aletta: The first FDA approved robotic blood draw device </a>",
+        "url": "https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device",
+        "summary": "The FDA has approved Vitestro’s Aletta as the first standalone robotic device in the U.S. designed to draw blood without the need for hands-on human help.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 7:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact\" hreflang=\"en\">Merck-Moderna cancer vaccine win spurs stock jump, speculation of Keytruda-like impact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact",
+        "summary": "As the dust settles on phase 3 data that added $45 billion to Moderna’s market cap, analysts have begun to ask a question that could define cancer care in the coming years: Can use of the vaccine be as broad as Keytruda?",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/money-has-spoken-why-chinese-biotech-ceos-are-unphased-about-rising-us-tensions\" hreflang=\"en\">‘Money has spoken’: Why Chinese biotech CEOs tell Fierce they’re unfazed about rising US tensions</a>",
+        "url": "https://www.fiercebiotech.com/biotech/money-has-spoken-why-chinese-biotech-ceos-are-unphased-about-rising-us-tensions",
+        "summary": "You might assume Chinese biotechs are enduring sleepless nights worrying about whether the ramping up of rhetoric in the U.S. is putting their new financial gains in peril. But the companies Fierce spoke to remained unconcerned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 17, 2026 5:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-abandons-500m-inflammation-team-tscan-therapeutics\" hreflang=\"en\">Amgen abandoning $500M+ Crohn’s collab won’t derail TScan’s pipeline strategy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-500m-inflammation-team-tscan-therapeutics",
+        "summary": "TScan has told Fierce that its pipeline strategy remains unchanged despite Amgen walking away from a Crohn’s disease collaboration that had the potential for a windfall of half a billion dollars.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 5:32pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/renaissance-biomedicine-human-brain-organoids-model-development-5-years\" hreflang=\"en\">A ‘renaissance for biomedicine’: human brain organoids model development for 5 years</a>",
+        "url": "https://www.fiercebiotech.com/research/renaissance-biomedicine-human-brain-organoids-model-development-5-years",
+        "summary": "Scientists’ ability to recapitulate the human brain in a dish has always been hindered by the inability to model the full capacity of the brain and its development through time.",
+        "source": "Fierce Biotech",
+        "published": "Aug 18, 2026 1:35pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner\" hreflang=\"en\">Trump taps White House aide Heidi Overton as nominee for next FDA commissioner</a>",
+        "url": "https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner",
+        "summary": "After three months without a permanent leader in place, President Donald Trump has named his pick for the new commissioner of the FDA. Heidi Overton, M.D., Ph.D., currently a White House aide, will go before the Senate in an effort to secure the job of the country’s top drug regulator.",
+        "source": "Fierce Biotech",
+        "published": "Aug 19, 2026 10:21am",
+        "importance_hint": 5
+      },
+      {
+        "title": "AI医疗：千亿赛道，谁在领跑？",
+        "url": "https://www.36kr.com/p/3952802534161793",
+        "summary": "热钱涌入、赛道扎堆，三类玩家疯抢。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 24 Aug 2026 01:46:41 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning",
+        "url": "https://huggingface.co/papers/2608.18746",
+        "summary": "JEPA-style latent world models can use Euclidean distance to a goal latent as the cost for model-predictive control (MPC). Strong decoding of task variables, however, does not guarantee that this particular cost ranks candidate action sequences by real task progress. We call the latter property decision-metric alignment. We introduce Plan-Real Spearman, which measures latent--real rank agreement on random plans, and CEM-stage Spearman, which measures the same agreement as cross-entropy-method (CEM) search concentrates its proposal. We analyze sufficient conditions under which latent distance p",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-18T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

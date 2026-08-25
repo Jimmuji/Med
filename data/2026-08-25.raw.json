@@ -1,0 +1,325 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T10:14:23.716520+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 0
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Lady Gaga and her fiancé launch a biotech startup",
+        "url": "https://www.statnews.com/2026/08/24/biotech-news-lady-gaga-and-her-fiance-launch-biotech-startup/",
+        "summary": "FTC challenges Amgen's Enbrel patent strategy, the long, winding path for the Moderna-Merck cancer vaccine, and more biotech news",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 14:57:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
+        "url": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/",
+        "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 14:23:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Medicaid obesity-drug coverage, a Regenxbio gene therapy, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/24/state-medicaid-obesity-drugs-regenxbio-gene-therapy/",
+        "summary": "President Trump’s pledge to make pricey weight loss drugs widely available for low-income Americans through Medicaid is not panning out",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 13:36:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FDA plans to regulate generative AI",
+        "url": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/",
+        "summary": "New clues to RFK Jr.'s vaccine plans, a bottleneck for nurse practitioners, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 12:45:56 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA pauses Regenxbio gene therapy trial again due to safety concerns",
+        "url": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/",
+        "summary": "The FDA put a hold on a Regenxbio gene therapy trial again after new safety concerns emerged.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 11:59:48 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Inside Moderna and Merck’s cancer vaccine triumph",
+        "url": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/",
+        "summary": "Moderna and Merck's wild gambit on a cancer vaccine appears to have worked, despite big doubts, logistical challenges, and pandemic-era complications.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicaid transgender care rule sets precedent that could restrict coverage of other drugs",
+        "url": "https://www.statnews.com/2026/08/24/transgender-care-ban-precedent-could-be-broadly-applied-medicaid-states/",
+        "summary": "The legal theory used to restrict gender-affirming care for minors could be applied broadly, experts say.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA digital health leader promises generative AI regulatory guidance is coming",
+        "url": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/",
+        "summary": "FDA expects to issue guidance on policies regarding generative AI devices, according to Rick Abramson, the agency’s head of digital health policy.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Nurse practitioner trainees find themselves stymied by shortage of clinical mentors",
+        "url": "https://www.statnews.com/2026/08/24/nurse-practitioner-preceptor-shortage-clinical-placement-challenges/",
+        "summary": "Nurse practitioner students face a preceptor shortage, often paying thousands to secure clinical supervision.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Medicine stopped shaking hands. We should start again",
+        "url": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/",
+        "summary": "A handshake takes only a few seconds but can make a major difference to a patient, an emergency physician writes.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education",
+        "url": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/",
+        "summary": "“It was only after retiring from mainstream medicine when I fully comprehended the callous limitations of our health care system,” writes Benjamin I. Lee.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
+        "url": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/",
+        "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said.",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 05:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/highmark-touts-health-plan-turnaround-first-half-2026\" hreflang=\"en\">Highmark touts health plan turnaround in first half of 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/highmark-touts-health-plan-turnaround-first-half-2026",
+        "summary": "Highmark Health closed the first half of the year with $17.5 billion in revenue and $2 billion in net income, bolstered by a significant turnaround at its insurance unit.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/alabama-awards-138-rhtp-grants-totaling-over-144m\" hreflang=\"en\">Alabama awards 138 RHTP grants totaling over $144M</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/alabama-awards-138-rhtp-grants-totaling-over-144m",
+        "summary": "Grants cover five of 11 planned initiatives from the state’s RHTP, including rural health, rural workforce and collaborative EHR, IT and cybersecurity.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 1:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/california-weighs-penalties-healthcare-providers-dont-rein-costs\" hreflang=\"en\">California weighs penalties for healthcare providers that don't rein in costs</a>",
+        "url": "https://www.fiercehealthcare.com/providers/california-weighs-penalties-healthcare-providers-dont-rein-costs",
+        "summary": "California is weighing stiff penalties for hospitals and other healthcare entities that don’t stay under state spending limits, potentially levying hundreds of millions of dollars in fines if these providers don’t take steps to rein in rising healthcare costs.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 1:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/rfk-jr-seeks-public-input-how-us-formulates-childhood-vaccine-recommendations\" hreflang=\"en\">After Trump order, RFK Jr. seeks input on US pediatric vaccine recommendations</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/rfk-jr-seeks-public-input-how-us-formulates-childhood-vaccine-recommendations",
+        "summary": "HHS Secretary Robert F. Kennedy Jr. has joined President Donald Trump in a renewed effort to challenge how the United States formulates its childhood vaccine recommendations. In a Request for Information, Kennedy has asked for public comment over the next 30 days on whether vaccine classifications should be adjusted.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 11:00am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/berry-street-merges-india-based-healthify-form-insurance-covered-ai-metabolic-health\" hreflang=\"en\">Berry Street merges with India-based Healthify to expand AI metabolic care</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/berry-street-merges-india-based-healthify-form-insurance-covered-ai-metabolic-health",
+        "summary": "The merger combines Healthify’s AI technology, including its nutrition and metabolic health assistant Ria, with Berry Street’s nationwide network of more than 2,000 clinicians and insurance-covered nutrition and GLP-1 care.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 2:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/why-early-car-t-conversations-matter-multiple-myeloma\" hreflang=\"en\">Why Earlier CAR-T Conversations Matter in Multiple Myeloma: Perspectives from a Patient and Community Oncologist</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/why-early-car-t-conversations-matter-multiple-myeloma",
+        "summary": "A patient and community oncologist share how trust, partnership and shared decision-making shaped a CAR-T journey in multiple myeloma.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 5, 2026 1:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/more-tidbits-epic-ugm-anthropics-project-glasswing-and-deeper-partnership-uptodate\" hreflang=\"en\">More tidbits from Epic UGM: Anthropic's Project Glasswing and a deeper partnership with UpToDate</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/more-tidbits-epic-ugm-anthropics-project-glasswing-and-deeper-partnership-uptodate",
+        "summary": "Epic is participating in Anthropic's Project Glasswing, using the Claude Mythos model to find software vulnerabilities.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 22, 2026 10:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/employers-brace-another-year-healthcare-cost-increases\" hreflang=\"en\">Employers brace for another year of healthcare cost increases</a>",
+        "url": "https://www.fiercehealthcare.com/payers/employers-brace-another-year-healthcare-cost-increases",
+        "summary": "Employers' healthcare costs are set to climb yet again in 2027, with analysts at Aon projecting an increase of 9.5%.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 11:59am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians\" hreflang=\"en\">As AI advances, a debate grows over the future role of physicians</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-advances-debate-grows-over-future-role-physicians",
+        "summary": "A new AMA framework assumes a physician remains in the loop as AI advances, while a provocative opinion piece explicitly questions whether physician-AI hybrids are actually the optimal model.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 7:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-inside-expanded-partnership-between-scan-and-costco\" hreflang=\"en\">A look inside the expanded partnership between SCAN and Costco</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-inside-expanded-partnership-between-scan-and-costco",
+        "summary": "SCAN Group and retailer Costco are expanding their partnership with the launch of new cobranded Medicare products.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 1:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-hospital-ai-committees-are-asking-wrong-privacy-question\" hreflang=\"en\">Industry Voices—Hospital AI committees are asking the wrong privacy question</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-hospital-ai-committees-are-asking-wrong-privacy-question",
+        "summary": "One-size-fits-all review can under-govern high-risk generative AI models while blocking narrow AI models designed to reduce privacy exposure, write Peter Grantcharov and David Knobel.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 18, 2026 11:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/qiagen-appoints-new-chief-executive-after-9-month-search\" hreflang=\"en\">Qiagen appoints new chief executive after 9-month search</a>",
+        "url": "https://www.fiercebiotech.com/medtech/qiagen-appoints-new-chief-executive-after-9-month-search",
+        "summary": "Molecular diagnostics specialist Qiagen has a new CEO as Jonathan M. Pratt takes the reins.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 10:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tme-holds-1b-dream-brain-cancer-drug-search-partners-nears-conclusion\" hreflang=\"en\">TME holds onto $1B dream for brain cancer drug as search for partners nears conclusion</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tme-holds-1b-dream-brain-cancer-drug-search-partners-nears-conclusion",
+        "summary": "TME Pharma’s hunt for a partner for its brain cancer drug is closer to bearing fruit as the German biotech clings to its hope of generating $1 billion in peak sales from the asset.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 10:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spruces-successful-fda-talks-plant-seeds-q4-filing-ultra-rare-disease-drug\" hreflang=\"en\">Spruce’s successful FDA talks plant seeds for Q4 filing of ultra-rare disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spruces-successful-fda-talks-plant-seeds-q4-filing-ultra-rare-disease-drug",
+        "summary": "Spruce Biosciences has taken another step toward filing for FDA approval of its ultra-rare disease drug candidate, ticking off some of the manufacturing tasks needed to submit the long-awaited application.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 9:58am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test\" hreflang=\"en\">Roche, Eli Lilly net FDA approval for first-of-its-kind Alzheimer’s biomarker blood test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test",
+        "summary": "Roche and Eli Lilly have won FDA clearance for their latest Alzheimer’s disease diagnostic.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 7:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-clinical-hold-derails-regenxbio-gene-therapy-refiling-plan\" hreflang=\"en\">Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-clinical-hold-derails-regenxbio-gene-therapy-refiling-plan",
+        "summary": "The FDA has put a clinical hold on Regenxbio’s RGX-121 over asymptomatic spine MRI findings, derailing the biotech’s plans to refile for approval of the once-rejected gene therapy candidate.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 7:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism\" hreflang=\"en\">Roche pens $2.5B pact for Hanmi’s clinical-stage obesity drug targeting less-explored mechanism</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism",
+        "summary": "Roche has taken its obesity strategy into uncharted territory via a $190 million upfront payment for a clinical-stage urocortin-2 analog from South Korea’s Hanmi Pharm.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 4:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push\" hreflang=\"en\">Werewolf transforms into Ambros via reverse merger to support phase 3 push for rare disease drug </a>",
+        "url": "https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push",
+        "summary": "Werewolf Therapeutics’ hunt for strategic alternatives has ended. Ambros Therapeutics has agreed to merge with Werewolf in an all-stock deal and has raised $150 million, positioning the biotech to take its lead rare disease drug candidate through to a filing for approval.",
+        "source": "Fierce Biotech",
+        "published": "Aug 21, 2026 9:15am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind\" hreflang=\"en\">Chutes &amp; Ladders—Neumora shuffles leadership ahead of IND</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind",
+        "summary": "Joshua Pinto, Ph.D., has been appointed chief executive officer of Neumora Therapeutics, a clinical-stage biotech with obesity and neuro assets.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 3:03pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling\" hreflang=\"en\">Why Pheast’s CEO has no regrets about transparent approach to R&amp;D despite competitors circling</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling",
+        "summary": "Pheast Therapeutics may have learned the hard way about the risks of competitors getting a glimpse of your heard-earned discoveries, but the immuno-oncology startup is so far sticking to its transparent approach.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event\" hreflang=\"en\">Boehringer places phase 1 study of investigational drug on hold to examine ‘safety event’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event",
+        "summary": "Boehringer Ingelheim has suspended a phase 1 trial of an investigational small molecule drug while it seeks to understand a “safety event,” although the German pharma isn't shedding light on the nature of the incident for now.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 3:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal\" hreflang=\"en\">Chai tees up Bristol Myers Squibb AI antibody discovery collab</a>",
+        "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
+        "summary": "A month after Chai Discovery tied up a major $400 million series C funding round, the AI drug discovery firm has teamed up with Bristol Myers Squibb.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:59am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease\" hreflang=\"en\">Lilly pens deal with Gateway Labs resident Amplitude for RNA vaccine platform for infectious disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
+        "summary": "Eli Lilly has turned to one of its Gateway Labs residents to help the Big Pharma develop trans-amplifying RNA (taRNA) vaccines for infectious diseases.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 9:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "通用大模型进儿科诊室“水土不服”，小儿方健康科技用15万条专家思维链重写规则",
+        "url": "https://www.36kr.com/p/3953394140528006",
+        "summary": "小儿方AI补基层儿科缺口，落地出海铺开增长版图",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 24 Aug 2026 11:06:17 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "AI医疗：千亿赛道，谁在领跑？",
+        "url": "https://www.36kr.com/p/3952802534161793",
+        "summary": "热钱涌入、赛道扎堆，三类玩家疯抢。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 24 Aug 2026 01:46:41 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "增长的新方程式 —— 2026年《财富》世界500强峰会将于广州盛大启幕",
+        "url": "https://www.36kr.com/p/3952945854807433",
+        "summary": "与全球领先企业的领军者共同推演全新商业变量，求解新的增长函数，探索大公司穿越周期、实现可持续增长与高质量发展的最优路径。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 24 Aug 2026 06:48:26 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": []
+  }
+}

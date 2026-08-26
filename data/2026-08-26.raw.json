@@ -1,0 +1,366 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T10:21:01.002761+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Sword Health to acquire Headspace, according to filing",
+        "url": "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/",
+        "summary": "Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 20:46:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
+        "url": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/",
+        "summary": "Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 16:02:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
+        "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/",
+        "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 14:51:28 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: After a years-long slump, Massachusetts biopharma sector has come roaring back in 2026",
+        "url": "https://www.statnews.com/2026/08/25/massachusetts-biotech-slump-then-turnaround/",
+        "summary": "The number of people working in Massachusetts’ biotech sector fell last year, for the first time since at least 2002. But 2026 is looking up.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 13:58:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA promises new AI guidance, and what happened at Epic’s UGM",
+        "url": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/",
+        "summary": "In this edition of STAT Health Tech: FDA's plans for regulating generative AI-powered devices, and updates from EPIC's UGM.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 13:44:43 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Turkish antitrust authorities probe Teva for allegedly gaming the patent system, disparaging rival drugs",
+        "url": "https://www.statnews.com/pharmalot/2026/08/25/turkish-authorities-probe-teva-gaming-patent-system-disparaging-rivals/",
+        "summary": "Turkish regulators are investigating Teva Pharmaceutical for allegedly manipulating the patent system and disparaging rival drugs.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 13:43:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/",
+        "summary": "Democratic senators said RFK Jr.'s recent explanation of how he disposed of a financial stake in Gardasil litigation conflicts with his earlier answers",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 13:23:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "CDC releases latest life expectancy data",
+        "url": "https://www.statnews.com/2026/08/25/health-news-cdc-releases-latest-life-expectancy-data/",
+        "summary": "Deleted public comments on White House proposals, how Trump cuts are reshaping rural health care, and more Morning Rounds news",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 12:04:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Comments on OMB research rule mysteriously removed from federal website",
+        "url": "https://www.statnews.com/2026/08/25/russell-vought-omb-funding-comments-daughter-benefited-nih-research/",
+        "summary": "Some comments on a proposed OMB research rule have been mysteriously removed from a public-facing government webpage.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AI is good at catching drug theft at hospitals, but only when humans do their part",
+        "url": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/",
+        "summary": "New AI technology can help hospitals prevent controlled substances from being stolen, or abused by staff, but those tools aren't foolproof.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Whale songs: the sounds of love and loss as heard by an OB-GYN",
+        "url": "https://www.statnews.com/2026/08/25/human-whale-songs-of-grief-essay-dr-caroline-cherston/",
+        "summary": "“I have developed a trained ear for many kinds of ‘humanized’ whale songs especially the types sung by women,” writes physician Caroline Cherston.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Cancer screening guidelines need to address long-term care facilities",
+        "url": "https://www.statnews.com/2026/08/25/cancer-screening-guidelines-long-term-care-facilities/",
+        "summary": "After her aunt died, cancer epidemiologist Kim Johnson looked into screening guidelines for long-term care residents — and found almost nothing.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How Trump’s cuts are reshaping America’s health system",
+        "url": "https://www.statnews.com/2026/08/25/rural-hospitals-response-medicaid-cuts-part-1-unraveled-series/",
+        "summary": "A scramble to prepare for massive federal cuts across the health care system is hitting rural states like Maine particularly hard.",
+        "source": "STAT News",
+        "published": "Tue, 25 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lady Gaga and her fiancé launch a biotech startup",
+        "url": "https://www.statnews.com/2026/08/24/biotech-news-lady-gaga-and-her-fiance-launch-biotech-startup/",
+        "summary": "FTC challenges Amgen's Enbrel patent strategy, the long, winding path for the Moderna-Merck cancer vaccine, and more biotech news",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 14:57:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
+        "url": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/",
+        "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 24 Aug 2026 14:23:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/pennsylvania-reports-first-measles-associated-deaths-2026\" hreflang=\"en\">Pennsylvania reports US' first measles-associated deaths of 2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/pennsylvania-reports-first-measles-associated-deaths-2026",
+        "summary": "Two unidentified but unvaccinated individuals are the state's first deaths related to the vaccine-preventable disease in 35 years. Pennsylvania hosts 393 of the country's 2,777 confirmed cases in 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 4:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/costs-rise-c-suite-getting-more-involved-healthcare-employer-survey\" hreflang=\"en\">As costs rise, C-suite is getting more involved in healthcare: Employer survey</a>",
+        "url": "https://www.fiercehealthcare.com/payers/costs-rise-c-suite-getting-more-involved-healthcare-employer-survey",
+        "summary": "Sustained cost pressure is forcing employers to reassess their approach to healthcare, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 1:52pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/switchboard-health-acquires-livara-health-value-based-msk-care-secures-5m-funding\" hreflang=\"en\">Switchboard Health acquires Livara Health for value-based MSK care, secures $5M funding round</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/switchboard-health-acquires-livara-health-value-based-msk-care-secures-5m-funding",
+        "summary": "Switchboard will embed Livara’s MSK program in its automation platform for referral management and care navigation.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 11:25am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-103k-h-1b-visa-fee\" hreflang=\"en\">Trump administration proposes new $103K H-1B visa fee</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-103k-h-1b-visa-fee",
+        "summary": "The Department of Homeland Security has proposed a new H-1B petition fee months after its prior attempt to raise the bar for visa employment was frozen by the courts.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 1:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system\" hreflang=\"en\">Samaritan Health Services, MultiCare Health System merger approved by Oregon regulator</a>",
+        "url": "https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system",
+        "summary": "The affiliation approved by the nonprofits' boards would create an 18-hospital system with more than $7.5 billion in revenue—and give MultiCare an acute-care foothold in Oregon.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2025 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ai-scribe-suki-rolls-out-ai-driven-clinical-dictation-tool\" hreflang=\"en\">AI scribe Suki rolls out AI-driven clinical dictation tool</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-scribe-suki-rolls-out-ai-driven-clinical-dictation-tool",
+        "summary": "The tool—dubbed Suki Dictation—is natively built inside Epic and Meditech electronic health records (EHRs) and can be deployed either independently or alongside Suki for Clinicians.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 12:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-healths-conversational-ai-agent-has-racked-11-million-views-june\" hreflang=\"en\">Fullspan Health’s AI agent sees strong early traction with 1.1M views since June launch</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/fullspan-healths-conversational-ai-agent-has-racked-11-million-views-june",
+        "summary": "The conversational AI tool—dubbed Healthline AI—is sourced directly from the publisher’s medically reviewed properties.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 9:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/moodys-look-payers-diverging-paths-ma-aca-markets\" hreflang=\"en\">Moody's: A look at payers' 'diverging' paths for MA, ACA markets</a>",
+        "url": "https://www.fiercehealthcare.com/payers/moodys-look-payers-diverging-paths-ma-aca-markets",
+        "summary": "Major health insurers saw positive signs in the second quarter, but the pressures they've faced over the past year haven't evaporated, according to a new report from analysts at Moody's.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 4:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/highmark-touts-health-plan-turnaround-first-half-2026\" hreflang=\"en\">Highmark touts health plan turnaround in first half of 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/highmark-touts-health-plan-turnaround-first-half-2026",
+        "summary": "Highmark Health closed the first half of the year with $17.5 billion in revenue and $2 billion in net income, bolstered by a significant turnaround at its insurance unit.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/alabama-awards-138-rhtp-grants-totaling-over-144m\" hreflang=\"en\">Alabama awards 138 RHTP grants totaling over $144M</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/alabama-awards-138-rhtp-grants-totaling-over-144m",
+        "summary": "Grants cover five of 11 planned initiatives from the state’s RHTP, including rural health, rural workforce and collaborative EHR, IT and cybersecurity.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 1:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/california-weighs-penalties-healthcare-providers-dont-rein-costs\" hreflang=\"en\">California weighs penalties for healthcare providers that don't rein in costs</a>",
+        "url": "https://www.fiercehealthcare.com/providers/california-weighs-penalties-healthcare-providers-dont-rein-costs",
+        "summary": "California is weighing stiff penalties for hospitals and other healthcare entities that don’t stay under state spending limits, potentially levying hundreds of millions of dollars in fines if these providers don’t take steps to rein in rising healthcare costs.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 24, 2026 1:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus\" hreflang=\"en\">Labcorp launches new hepatitis D test to find patients with most severe form of virus </a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus",
+        "summary": "Labcorp is looking to plug the gap in hepatitis D monitoring with a new reflex testing solution to help find more patients with this form of the virus earlier.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 11:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/texas-congressman-tells-fierce-why-chinese-biotechs-are-beating-us-our-ground-game\" hreflang=\"en\">Why a Texas congressman believes Chinese biotechs are 'beating us on our ground game'</a>",
+        "url": "https://www.fiercebiotech.com/biotech/texas-congressman-tells-fierce-why-chinese-biotechs-are-beating-us-our-ground-game",
+        "summary": "The “knowledge base is going to start shifting quickly to China,” Rep. Nathaniel Moran, R-Texas, a member of the House Select Committee on China, told Fierce.",
+        "source": "Fierce Biotech",
+        "published": "Aug 23, 2026 11:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/founded-metsera-backers-sentivera-emerges-15b-inflammatory-disease-deal\" hreflang=\"en\">Founded by Metsera backers, Sentivera emerges with $1.5B inflammatory disease deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/founded-metsera-backers-sentivera-emerges-15b-inflammatory-disease-deal",
+        "summary": "Having set Metsera on its journey to a $10 billion takeover, Arch Venture Partners and Population Health Partners have powered their new startup—Sentivera—to a licensing deal worth up to $1.5 billion.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 9:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/implantica-finally-nabs-fda-approval-8-years-after-european-green-light-reflux-implant\" hreflang=\"en\">Implantica finally nabs FDA approval 8 years after EU green light for reflux implant </a>",
+        "url": "https://www.fiercebiotech.com/medtech/implantica-finally-nabs-fda-approval-8-years-after-european-green-light-reflux-implant",
+        "summary": "The FDA has signed off on Implantica’s gastroesophageal reflux disease (GERD) implant as the medtech eyes a lucrative U.S. market.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 5:32am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/despite-massachusetts-vc-growth-and-ipo-boost-lack-early-stage-funding-casts-doubt-future\" hreflang=\"en\">Vacant lab space, shrinking workforce put Mass. in ‘unique position’ for biotech bounceback</a>",
+        "url": "https://www.fiercebiotech.com/biotech/despite-massachusetts-vc-growth-and-ipo-boost-lack-early-stage-funding-casts-doubt-future",
+        "summary": "A new report on the health of the Massachusetts biotech scene has painted a mixed picture of how drug developers are faring in the Bay State.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 9:20pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-secures-reprieve-fda-extends-dmd-cell-therapy-review\" hreflang=\"en\">Capricor secures reprieve as FDA extends DMD cell therapy review</a>",
+        "url": "https://www.fiercebiotech.com/biotech/capricor-secures-reprieve-fda-extends-dmd-cell-therapy-review",
+        "summary": "The FDA has extended its review of Capricor Therapeutics’ Duchenne muscular dystrophy drug candidate, deferring the decision to review information the biotech submitted after a negative advisory committee vote.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 3:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/qiagen-appoints-new-chief-executive-after-9-month-search\" hreflang=\"en\">Qiagen appoints new chief executive after 9-month search</a>",
+        "url": "https://www.fiercebiotech.com/medtech/qiagen-appoints-new-chief-executive-after-9-month-search",
+        "summary": "Molecular diagnostics specialist Qiagen has a new CEO as Jonathan M. Pratt takes the reins.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 10:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tme-holds-1b-dream-brain-cancer-drug-search-partners-nears-conclusion\" hreflang=\"en\">TME holds onto $1B dream for brain cancer drug as search for partners nears conclusion</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tme-holds-1b-dream-brain-cancer-drug-search-partners-nears-conclusion",
+        "summary": "TME Pharma’s hunt for a partner for its brain cancer drug is closer to bearing fruit as the German biotech clings to its hope of generating $1 billion in peak sales from the asset.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 10:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spruces-successful-fda-talks-plant-seeds-q4-filing-ultra-rare-disease-drug\" hreflang=\"en\">Spruce’s successful FDA talks plant seeds for Q4 filing of ultra-rare disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spruces-successful-fda-talks-plant-seeds-q4-filing-ultra-rare-disease-drug",
+        "summary": "Spruce Biosciences has taken another step toward filing for FDA approval of its ultra-rare disease drug candidate, ticking off some of the manufacturing tasks needed to submit the long-awaited application.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 9:58am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test\" hreflang=\"en\">Roche, Eli Lilly net FDA approval for first-of-its-kind Alzheimer’s biomarker blood test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-eli-lilly-see-fda-approval-first-its-kind-alzheimers-biomarker-blood-test",
+        "summary": "Roche and Eli Lilly have won FDA clearance for their latest Alzheimer’s disease diagnostic.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 7:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-clinical-hold-derails-regenxbio-gene-therapy-refiling-plan\" hreflang=\"en\">Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-clinical-hold-derails-regenxbio-gene-therapy-refiling-plan",
+        "summary": "The FDA has put a clinical hold on Regenxbio’s RGX-121 over asymptomatic spine MRI findings, derailing the biotech’s plans to refile for approval of the once-rejected gene therapy candidate.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 7:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism\" hreflang=\"en\">Roche pens $2.5B pact for Hanmi’s clinical-stage obesity drug targeting less-explored mechanism</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-pens-25b-pact-hanmis-clinical-stage-obesity-drug-targeting-less-used-mechanism",
+        "summary": "Roche has taken its obesity strategy into uncharted territory via a $190 million upfront payment for a clinical-stage urocortin-2 analog from South Korea’s Hanmi Pharm.",
+        "source": "Fierce Biotech",
+        "published": "Aug 24, 2026 4:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "通用大模型进儿科诊室“水土不服”，小儿方健康科技用15万条专家思维链重写规则",
+        "url": "https://www.36kr.com/p/3953394140528006",
+        "summary": "小儿方AI补基层儿科缺口，落地出海铺开增长版图",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 24 Aug 2026 11:06:17 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "增长的新方程式 —— 2026年《财富》世界500强峰会将于广州盛大启幕",
+        "url": "https://www.36kr.com/p/3952945854807433",
+        "summary": "与全球领先企业的领军者共同推演全新商业变量，求解新的增长函数，探索大公司穿越周期、实现可持续增长与高质量发展的最优路径。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 24 Aug 2026 06:48:26 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "LongRCA Bench: Diagnosing Responsible Roles and Root Causes in Long-Horizon Agent Failures",
+        "url": "https://huggingface.co/papers/2608.15242",
+        "summary": "When a long-horizon agent execution fails, outcome-level evaluation reveals the unsuccessful result but not where the decisive error entered the trajectory. Developers must then inspect the full execution to identify the responsible role and localize the earliest decisive root-cause step. Existing failure-attribution benchmarks largely focus on shorter traces, leaving diagnosis across hundreds of recorded steps underexplored. We introduce LongRCA Bench, comprising 1,140 failed trajectories across five domains without injected errors. It provides independently scored human labels for the respon",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-14T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search",
+        "url": "https://huggingface.co/papers/2608.23252",
+        "summary": "As Retrieval-Augmented Generation (RAG) shifts toward diverse portfolio generation, it is stymied by two critical bottlenecks: flawed measurement of evidence utilization, and suboptimal context budget allocation. We resolve both sequentially.\n  To resolve measurement, we expose a pervasive ``diagnostic illusion'': standard relevance proxies fail catastrophically on hard negatives. We replace them with an efficient causal leave-one-out probe that accurately isolates generative reliance and formally calibrates the structural dilution of LLM attention.\n  To resolve allocation, we deploy this caus",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-23T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning",
+        "url": "https://huggingface.co/papers/2608.13914",
+        "summary": "Electrocardiogram (ECG) recordings are sensitive biomedical data, limiting the ability of hospitals and wearable devices to share raw signals for centralized model training. Federated learning addresses this practical privacy constraint by enabling collaborative model training while keeping raw biosignal data at their respective sources. However, federated ECG classification remains challenging due to limited client-side samples, imbalanced arrhythmia labels, and non-independent and identically distributed (non-IID) data across clients. These constraints require classifiers that are both commu",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-13T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

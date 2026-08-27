@@ -1,0 +1,350 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:48:59.960303+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Alnylam’s heart drug troubles take center stage at a cardiology conference",
+        "url": "https://www.statnews.com/2026/08/27/alnylam-amvuttra-nucresiran-heart-drugs-esc/",
+        "summary": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The mystery of Moderna’s magic algorithm",
+        "url": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/",
+        "summary": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
+        "url": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/",
+        "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
+        "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/",
+        "summary": "Inside health systems' efforts to mitigate massive funding cuts.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
+        "url": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/",
+        "summary": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I studied Reddit forums on menopause — and found what doctors are missing",
+        "url": "https://www.statnews.com/2026/08/27/menopause-perimenopause-symptoms-reddit-clinical-data-study/",
+        "summary": "“The menopause symptoms women are discussing online should become the questions researchers ask next,” writes researcher Yulin Hswen.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
+        "url": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/",
+        "summary": "Kennedy has blamed others for declining vaccination rates, and downplayed the dangers of measles.",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 18:17:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "On the fence about a statin? In borderline cases, calcium scans could be a tiebreaker",
+        "url": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/",
+        "summary": "The increasingly popular coronary artery calcium scan is helpful in guiding statin use in only a small share of cases, new studies find.",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 15:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
+        "url": "https://www.statnews.com/2026/08/26/pancreatic-cancer-drug-rasonque-approved/",
+        "summary": "The FDA has approved a life-extending treatment for advanced pancreatic cancer — the first such therapy to attack a genetic cause of the highly lethal malignancy.",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 14:56:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Key data on a new class of cardio drugs are coming",
+        "url": "https://www.statnews.com/2026/08/26/biotech-news-key-data-on-new-class-of-cardio-drugs-coming/",
+        "summary": "GSK's shingles vaccine, new financial investment in women's health, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 14:32:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AI biotech Insitro’s Daphne Koller on how to speed up clinical trials",
+        "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis: A conversation with Insitro CEO Daphne Koller on artificial intelligence in drug discovery, and other health AI news.",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 13:46:40 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Even at big companies, health care costs are increasing",
+        "url": "https://www.statnews.com/2026/08/26/health-news-even-at-big-companies-health-care-costs-increasing/",
+        "summary": "Two U.S. measles deaths, the profit motive for women's health, and more Morning Rounds news today",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 13:29:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a GSK shingles shot, U.S. employers dropping GLP-1 coverage, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/26/gsk-shingles-shot-us-employers-dropping-glp1-coverage/",
+        "summary": "About 14% of employers in the U.S. have already or plan to drop coverage of GLP-1 drugs in 2027, as companies see ​rising health care costs",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 13:09:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Newer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows",
+        "url": "https://www.statnews.com/2026/08/26/shingles-vaccine-shingrix-reduces-heart-disease-dementia-risk-oxford-study/",
+        "summary": "Oxford researchers call shingles shot first vaccine protecting both heart and brain. Lower heart disease risk follows study showing reduced dementia risk.",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: New treatments for common cardiovascular risk factor near the market, with billions at stake",
+        "url": "https://www.statnews.com/2026/08/26/lp-a-drugs-novartis-amgen-lilly-potential-heart-disease-blockbuster/",
+        "summary": "High cholesterol can be managed with medicine, but high Lp(a) levels, another common cardiovascular risk, cannot. Drugmakers are hoping to change that.",
+        "source": "STAT News",
+        "published": "Wed, 26 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement\" hreflang=\"en\">US Attorney's Office scandal yields favorable deal for ex-hospital CEO charged with embezzlement</a>",
+        "url": "https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement",
+        "summary": "\"You got lucky here,\" a federal judge told George Miller, who was CEO of Loretto Hospital from 2017 to 2022.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 5:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-unveils-new-plan-aims-bring-together-medical-supplemental-benefits\" hreflang=\"en\">Cigna unveils new plan to bring together medical, supplemental benefits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-plan-aims-bring-together-medical-supplemental-benefits",
+        "summary": "Cigna is looking to better link medical and supplemental benefits for its members and has unveiled a new employer benefit that aims to further that goal.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 3:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/53-us-adults-feel-they-dont-have-say-when-ai-used-their-healthcare-pew\" hreflang=\"en\">53% of US adults feel they have no say when AI is used in care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/53-us-adults-feel-they-dont-have-say-when-ai-used-their-healthcare-pew",
+        "summary": "Alongside wanting more input on AI usage in healthcare, nearly half of respondents (46%) report being unsure whether the technology was even used in their care.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 2:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/university-houston-launches-interdisciplinary-housing-institute-inform-policy\" hreflang=\"en\">University of Houston launches interdisciplinary institute to guide local housing interventions</a>",
+        "url": "https://www.fiercehealthcare.com/providers/university-houston-launches-interdisciplinary-housing-institute-inform-policy",
+        "summary": "The Institute for Housing, Homelessness and Health (IH3) will work alongside community orgs, hospitals, local government and housing providers to help the group scale successful approaches. Its focus will be on data integration.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 1:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal\" hreflang=\"en\">Sword Health to acquire Headspace in all-cash deal</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal",
+        "summary": "The virtual physical therapy and mental health platforms are targeting a September close, per a regulatory filing. A price tag was not disclosed, but is being reported to land between $200 million and $300 million.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 12:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/transcarent-launches-bundled-payment-model-cancer-therapies\" hreflang=\"en\">Transcarent launches bundled payment model for cancer therapies</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/transcarent-launches-bundled-payment-model-cancer-therapies",
+        "summary": "The model offers members potential savings of up to $150,000, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 10:09am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/arintra-banks-25m-series-b-funding-round-ai-driven-revenue-assurance-platform\" hreflang=\"en\">Arintra banks $25M series B funding round for AI-driven revenue assurance platform</a>",
+        "url": "https://www.fiercehealthcare.com/finance/arintra-banks-25m-series-b-funding-round-ai-driven-revenue-assurance-platform",
+        "summary": "Arintra co-founder and CEO Nitesh Shroff told Fierce that it plans to use the capital to broaden its platform, expand across more enterprise health systems and expand clinical and specialty coverage.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 4:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/new-consortium-forms-improve-rural-health-states-deploy-50b-federal-funds\" hreflang=\"en\">WebMD Ignite, partners launch new rural health network amid $50B federal investment </a>",
+        "url": "https://www.fiercehealthcare.com/providers/new-consortium-forms-improve-rural-health-states-deploy-50b-federal-funds",
+        "summary": "WebMD Ignite, a Johns Hopkins initiative and CCS Health, a care coordination software company, have launched a new initiative to improve rural healthcare by connecting existing resources in local communities.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 21, 2026 6:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/limbic-selected-fda-tempo-track-outcomes-ai-therapy-medicare\" hreflang=\"en\">Limbic selected to FDA pilot, will test voice AI therapy with Medicare enrollees </a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/limbic-selected-fda-tempo-track-outcomes-ai-therapy-medicare",
+        "summary": "Through TEMPO, Limbic will gather real-world data on outcomes, safety and how patients use the service, which will eventually support its application when it is ready to seek FDA approval.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 4:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/primary-cares-ai-opportunity-depends-new-payment-models\" hreflang=\"en\">Primary care’s AI opportunity depends on new payment models</a>",
+        "url": "https://www.fiercehealthcare.com/providers/primary-cares-ai-opportunity-depends-new-payment-models",
+        "summary": "Lumeris’ David Carmouche, M.D., explains how AI could help primary care reach more patients and why new payment models may be needed to support that shift.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 8:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/costs-tied-no-surprises-acts-idr-process-hit-22b-2025-study-finds\" hreflang=\"en\">Costs tied to No Surprises Act's IDR process hit $22B in 2025, study finds</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/costs-tied-no-surprises-acts-idr-process-hit-22b-2025-study-finds",
+        "summary": "Costs associated with the No Surprises Act's dispute resolution process reached $22.4 billion at the end of 2025, according to a new analysis.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 4:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/pennsylvania-reports-first-measles-associated-deaths-2026\" hreflang=\"en\">Pennsylvania reports US' first measles-associated deaths of 2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/pennsylvania-reports-first-measles-associated-deaths-2026",
+        "summary": "Two unidentified but unvaccinated individuals are the state's first deaths related to the vaccine-preventable disease in 35 years. Pennsylvania hosts 393 of the country's 2,777 confirmed cases in 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 4:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/flagships-profound-partners-gates-foundation-35m-preeclampsia-target-discovery-pact\" hreflang=\"en\">Flagship’s ProFound partners with Gates Foundation in $35M preeclampsia target discovery pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/flagships-profound-partners-gates-foundation-35m-preeclampsia-target-discovery-pact",
+        "summary": "Flagship Pioneering’s ProFound Therapeutics is keeping its string of high-profile partnerships going, forging a new pact with the Gates Foundation worth up to $35 million to find new drug targets for a dangerous pregnancy complication.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 4:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global\" hreflang=\"en\">Medigen links up with Charles River in push to take enterovirus vaccine global</a>",
+        "url": "https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global",
+        "summary": "Charles River Laboratories and Taiwan-based Medigen Vaccine Biologics are teaming up to advance Medigen’s multivalent enterovirus vaccine.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger\" hreflang=\"en\">FDA greenlights Revolution Medicines' pancreatic cancer gamechanger</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
+        "summary": "Following dynamite data that earned a standing ovation at the American Society of Clinical Oncology meeting in May, Revolution Medicines’ Ras inhibitor daraxonrasib has been approved by the FDA for the treatment of metastatic pancreatic cancer.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 11:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/akeso-ceo-looks-beyond-lung-cancer-phase-3-biliary-tract-win-counters-ivonescimab-debate\" hreflang=\"en\">Akeso CEO looks beyond lung cancer with biliary tract win, counters ivonescimab debate</a>",
+        "url": "https://www.fiercebiotech.com/pharma/akeso-ceo-looks-beyond-lung-cancer-phase-3-biliary-tract-win-counters-ivonescimab-debate",
+        "summary": "Fresh off a phase 3 win in biliary tract cancer, Akeso CEO Michelle Xia, Ph.D., is touting the PD-1xVEGF bispecific antibody ivonescimab’s ability beyond non-small cell lung cancer, even as she continues to defend the drug’s data against skepticism.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 10:48am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jatt-mastermind-launches-latest-biotech-focused-spac-60m-ipo\" hreflang=\"en\">JATT mastermind launches latest biotech-focused SPAC via $60M IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jatt-mastermind-launches-latest-biotech-focused-spac-60m-ipo",
+        "summary": "Just two months after Someit Sidhu, M.D., succeeded in pairing off his second special purpose acquisition company (SPAC) with Talawar Therapeutics, the biotech entrepreneur is back at it again.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 9:33am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/china-moving-follower-frontrunner-pharma-hansoh\" hreflang=\"en\">Hansoh heralds China’s move from ‘follower’ to ‘frontrunner’ in biopharma race</a>",
+        "url": "https://www.fiercebiotech.com/biotech/china-moving-follower-frontrunner-pharma-hansoh",
+        "summary": "Hansoh Pharmaceutical has given a bullish assessment of China’s innovative pharma sector, arguing that the industry is “fully transitioning from the ‘follower’ to the ‘frontrunner’ phase.”",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 9:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-green-lights-abbotts-wearable-sensor-capturing-diabetic-ketoacidosis\" hreflang=\"en\">FDA greenlights Abbott’s wearable sensor for capturing diabetic ketoacidosis</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-green-lights-abbotts-wearable-sensor-capturing-diabetic-ketoacidosis",
+        "summary": "The FDA has approved Abbott’s first-of-its-kind bio-wearable sensor that can warn diabetics of increased ketones that can lead to diabetic ketoacidosis.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 8:28am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-hit-cyberattack-causing-disruptions-parts-its-business\" hreflang=\"en\">Boston Scientific hit by cyberattack causing ‘disruptions’ to parts of its business</a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-hit-cyberattack-causing-disruptions-parts-its-business",
+        "summary": "This year has seen a growing number of medtechs hit by cyberattacks, and now Boston Scientific has become the latest victim.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 7:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spyres-rheumatoid-arthritis-plan-toppled-subpar-tl1a-data\" hreflang=\"en\">Spyre’s rheumatoid arthritis plan toppled by subpar TL1A data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spyres-rheumatoid-arthritis-plan-toppled-subpar-tl1a-data",
+        "summary": "Phase 2 data on Spyre Therapeutics’ anti-TL1A antibody SPY072 in rheumatoid arthritis have fallen short of expectations, prompting the biotech to deprioritize monotherapy development in the indication.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 5:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sk-biopharma-pens-795m-deal-usher-biohavens-epilepsy-therapy-towards-fda\" hreflang=\"en\">SK Biopharma pens $795M deal to usher Biohaven’s epilepsy therapy towards hoped-for 2029 launch</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sk-biopharma-pens-795m-deal-usher-biohavens-epilepsy-therapy-towards-fda",
+        "summary": "SK Biopharmaceuticals has strengthened its epilepsy offering by paying $350 million upfront to help speed Biohaven’s Kv7 ion channel activator on its way to market.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 4:48am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus\" hreflang=\"en\">Labcorp launches new hepatitis D test to find patients with most severe form of virus </a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus",
+        "summary": "Labcorp is looking to plug the gap in hepatitis D monitoring with a new reflex testing solution to help find more patients with this form of the virus earlier.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 11:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/mckesson-strikes-225-billion-deal-precision-medicine-group\" hreflang=\"en\">McKesson strikes $2.25B deal to snap up Precision Medicine Group</a>",
+        "url": "https://www.fiercebiotech.com/pharma/mckesson-strikes-225-billion-deal-precision-medicine-group",
+        "summary": "The healthcare conglomerate, which ranks eighth on the Fortune 500 list, is set to envelop privately held Precision Medicine Group into its oncology branch as part of an ongoing effort to grow its high-margin cancer and biopharma businesses.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 10:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "血制品行业承压，“中国血王”也难逃下滑",
+        "url": "https://www.36kr.com/p/3955842546498690",
+        "summary": "营收、净利双降。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 26 Aug 2026 08:21:45 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+        "url": "https://huggingface.co/papers/2608.21140",
+        "summary": "Reliable spatial understanding is an important prerequisite for future medical vision-language systems that aim to support radiological report generation and structured image understanding. While modern vision-language models (VLMs) show promising performance on many medical imaging tasks, recent evidence suggests they remain weak in controlled spatial reasoning and often fail to reliably ground spatial relations in image evidence. Given that radiological reasoning hinges on understanding the relative positions of anatomical structures and findings, this spatial weakness poses risks to diagnos",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2608.19098",
+        "summary": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense, token-level reward supervision. Despite its practical success, the optimization dynamics governing multi-teacher capability integration remain poorly understood, and open, rigorously reproducible recipes are conspicuously lacking. In this work, we establish a controlled M-OPD benchmark on SmolLM3-3B-Base with oracle routing, isolating capability integration from routing ambiguity. Our investigation ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-18T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

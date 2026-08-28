@@ -1,0 +1,358 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T20:25:03.061627+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Cytokinetics details trial win for what could be its next approval",
+        "url": "https://www.statnews.com/2026/08/28/cytokinetics-myqorzo-aficamten-nhcm-acacia-trial-success/",
+        "summary": "It took Cytokinetics 27 years to win its first drug approval. With the results of a new trial, its second could come much faster.",
+        "source": "STAT News",
+        "published": "Fri, 28 Aug 2026 10:15:29 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
+        "url": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/",
+        "summary": "AstraZeneca detailed the surprise failure of a closely watched heart disease trial, a study with ripple effects for a competitive billion-dollar market.",
+        "source": "STAT News",
+        "published": "Fri, 28 Aug 2026 09:23:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Vaccines take center stage at federal autism advisory committee",
+        "url": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/",
+        "summary": "Comments about vaccines overshadowed an advisory committee meeting to discuss a plan for boosting federal funding for autism research.",
+        "source": "STAT News",
+        "published": "Fri, 28 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: A billing code was supposed to incentivize relationship-based primary care for Medicare patients. It may not be working as hoped",
+        "url": "https://www.statnews.com/2026/08/28/medicare-g2211-code-billing-research-primary-care/",
+        "summary": "Primary care is much more than what happens during an office visit, writes physician Ishani Ganguli.",
+        "source": "STAT News",
+        "published": "Fri, 28 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: We quit the CDC last year. The problems we protested remain",
+        "url": "https://www.statnews.com/2026/08/28/cdc-protest-resignations-one-year-later-houry-jernigan-daskalakis/",
+        "summary": "How disease spreads and the risks and benefits of interventions are questions for science, not for ideology.",
+        "source": "STAT News",
+        "published": "Fri, 28 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves Roivant therapy for rare autoimmune disease",
+        "url": "https://www.statnews.com/2026/08/27/fda-approves-roivant-therapy-for-rare-autoimmune-disease/",
+        "summary": "The FDA approved a new medicine from Roivant and its subsidiary Priovant for the treatment of dermatomyositis, a rare autoimmune disease.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 19:47:01 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Former Stanford president releases emails to rebut fraud and cover-up allegations in new book",
+        "url": "https://www.statnews.com/2026/08/27/marc-tessier-lavigne-responds-theo-baker-book-misconduct-stanford-genentech/",
+        "summary": "Marc Tessier-Lavigne released new details from his research and travel in an attempt to refute allegations in a new book that he published fraudulent results.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 17:27:49 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: CMS plans launch event for ACCESS, the Medicare chronic care pilot",
+        "url": "https://www.statnews.com/2026/08/27/cms-plans-launch-event-access-medicare-pilot-health-tech/",
+        "summary": "In this edition of STAT Health Tech: CMS plans a launch event for Medicare chronic care pilot, and what the Meta settlement means for health AI.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 17:21:14 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Hospitals plot their response to funding cuts",
+        "url": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/",
+        "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 15:26:50 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "What’s in Merck and Moderna’s cancer vaccine algorithm?",
+        "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/",
+        "summary": "A heart drug failure, RevMed's pancreatic cancer drug approved, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 14:49:21 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/",
+        "summary": "The FDA approved a life-extending treatment for advanced pancreatic cancer from Revolution Medicines that is the first to attack a genetic cause",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 13:20:27 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that",
+        "url": "https://www.statnews.com/2026/08/27/kennedy-samoa-trip-mmr-vaccine-new-documents/",
+        "summary": "Health secretary Robert F. Kennedy Jr. said a Samoa trip had nothing to do with vaccines. New documents obtained by The Associated Press and The Guardian refute that testimony.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 13:16:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Decoding DEA action on kratom-related substances",
+        "url": "https://www.statnews.com/2026/08/27/health-news-decoding-dea-action-on-kratom-related-substance/",
+        "summary": "RFK Jr. downplays measles threat, FDA approves pancreatic drug, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 13:01:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cassidy criticizes FDA oversight of abortion pill manufacturers in new report",
+        "url": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/",
+        "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 13:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Alnylam’s heart drug troubles take center stage at a cardiology conference",
+        "url": "https://www.statnews.com/2026/08/27/alnylam-amvuttra-nucresiran-heart-drugs-esc/",
+        "summary": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals.",
+        "source": "STAT News",
+        "published": "Thu, 27 Aug 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/corewell-health-unveils-17b-plan-build-2-new-hospital-towers\" hreflang=\"en\">Corewell Health unveils $1.7B plan to build 2 new hospital towers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/corewell-health-unveils-17b-plan-build-2-new-hospital-towers",
+        "summary": "The Michigan nonprofit system is targeting 2030 for new builds at its Grand Rapids and Troy hospital campuses.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 27, 2026 2:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/eli-lilly-study-aims-bolster-case-long-term-zepbound-benefits\" hreflang=\"en\">Eli Lilly study aims to bolster case for long-term Zepbound benefits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/eli-lilly-study-aims-bolster-case-long-term-zepbound-benefits",
+        "summary": "As Medicare's GLP-1 Bridge program gets underway in earnest and questions remain about the long-term use of these drugs, Eli Lilly is offering a new look at how older adults fare on its medication, Zepbound.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 27, 2026 2:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/villages-health-reaches-541m-false-claims-act-settlement-doj\" hreflang=\"en\">The Villages Health reaches $541M False Claims Act settlement with DOJ</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/villages-health-reaches-541m-false-claims-act-settlement-doj",
+        "summary": "The Villages Health System has agreed to a $541.5 million settlement to resolve allegations that it submitted false diagnosis codes to secure higher payouts in Medicare Advantage.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 27, 2026 1:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/phrmas-medicare-price-negotiation-suit-rebuffed-latest-blow-industry-ira-challenge\" hreflang=\"en\">PhRMA's Medicare price negotiation suit rebuffed in latest blow to industry IRA challenge</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/phrmas-medicare-price-negotiation-suit-rebuffed-latest-blow-industry-ira-challenge",
+        "summary": "In the latest in a string of setbacks in biopharma’s efforts to fight Medicare drug price negotiations, a lawsuit from the industry’s top lobbying group has been rejected at the appeals level.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 27, 2026 10:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/maven-finds-its-high-risk-pregnancies-had-lower-nicu-c-section-rates-national\" hreflang=\"en\">Maven finds its high-risk pregnancies had lower NICU, C-section rates than national benchmarks</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/maven-finds-its-high-risk-pregnancies-had-lower-nicu-c-section-rates-national",
+        "summary": "The study looked at high-risk Maven members with hypertension or diabetes, compared to CDC data.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 27, 2026 10:28am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Arintra lands $25M; Happy Health buoyed by $75M round </a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement\" hreflang=\"en\">US Attorney's Office scandal yields favorable deal for ex-hospital CEO charged with embezzlement</a>",
+        "url": "https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement",
+        "summary": "\"You got lucky here,\" a federal judge told George Miller, who was CEO of Loretto Hospital from 2017 to 2022.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 5:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-unveils-new-plan-aims-bring-together-medical-supplemental-benefits\" hreflang=\"en\">Cigna unveils new plan to bring together medical, supplemental benefits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-plan-aims-bring-together-medical-supplemental-benefits",
+        "summary": "Cigna is looking to better link medical and supplemental benefits for its members and has unveiled a new employer benefit that aims to further that goal.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 3:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/53-us-adults-feel-they-dont-have-say-when-ai-used-their-healthcare-pew\" hreflang=\"en\">53% of US adults feel they have no say when AI is used in care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/53-us-adults-feel-they-dont-have-say-when-ai-used-their-healthcare-pew",
+        "summary": "Alongside wanting more input on AI usage in healthcare, nearly half of respondents (46%) report being unsure whether the technology was even used in their care.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 2:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/university-houston-launches-interdisciplinary-housing-institute-inform-policy\" hreflang=\"en\">University of Houston launches interdisciplinary institute to guide local housing interventions</a>",
+        "url": "https://www.fiercehealthcare.com/providers/university-houston-launches-interdisciplinary-housing-institute-inform-policy",
+        "summary": "The Institute for Housing, Homelessness and Health (IH3) will work alongside community orgs, hospitals, local government and housing providers to help the group scale successful approaches. Its focus will be on data integration.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 1:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal\" hreflang=\"en\">Sword Health to acquire Headspace in all-cash deal</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal",
+        "summary": "The virtual physical therapy and mental health platforms are targeting a September close, per a regulatory filing. A price tag was not disclosed, but is being reported to land between $200 million and $300 million.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 12:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/transcarent-launches-bundled-payment-model-cancer-therapies\" hreflang=\"en\">Transcarent launches bundled payment model for cancer therapies</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/transcarent-launches-bundled-payment-model-cancer-therapies",
+        "summary": "The model offers members potential savings of up to $150,000, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 10:09am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-doubles-down-adc-resistant-cancers-1b-dualitybio-pact\" hreflang=\"en\">Genentech doubles down on ADC-resistant cancers with $1B DualityBio pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-doubles-down-adc-resistant-cancers-1b-dualitybio-pact",
+        "summary": "Roche’s Genentech is paying DualityBio $45 million upfront for rights to antibody-drug conjugates (ADCs) designed for the growing pool of patients who progress after treatment with the modality. The deal is worth more than $1 billion in potential milestones.",
+        "source": "Fierce Biotech",
+        "published": "Aug 28, 2026 3:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens\" hreflang=\"en\">Research into protein interactions sheds new light on causes of autism</a>",
+        "url": "https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens",
+        "summary": "Studying protein-protein interactions might hold the key to identifying druggable targets for autism, a group of scientists at the University of California, San Francisco has suggested.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 2:42pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise\" hreflang=\"en\">With mRNA back in the spotlight, tRNA shows potential to treat genetic disease</a>",
+        "url": "https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise",
+        "summary": "New research coming out of the University of Toronto has shown that transfer RNA may offer a promising therapeutic avenue for treating genetic diseases.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 1:56pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cepi-backs-push-bring-ebola-vaccine-clinic-curb-fast-growing-outbreak\" hreflang=\"en\">CEPI backs push to bring Egyptian biotech's Ebola vaccine into clinic to curb fast-growing outbreak </a>",
+        "url": "https://www.fiercebiotech.com/biotech/cepi-backs-push-bring-ebola-vaccine-clinic-curb-fast-growing-outbreak",
+        "summary": "The Coalition for Epidemic Preparedness Innovations has committed up to $16.5 million to push Minapharm’s Bundibugyo vaccine candidate into the clinic, furthering its response to the Ebola outbreak.",
+        "source": "Fierce Biotech",
+        "published": "Aug 27, 2026 10:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/osivax-bags-flu-vaccine-rights-pursue-combination-shot-vision\" hreflang=\"en\">Osivax bags flu vaccine rights to pursue combination shot vision</a>",
+        "url": "https://www.fiercebiotech.com/biotech/osivax-bags-flu-vaccine-rights-pursue-combination-shot-vision",
+        "summary": "Osivax has licensed an influenza vaccine from GC Biopharma, positioning the biotech to build on early evidence that its midphase candidate complements traditional flu shots.",
+        "source": "Fierce Biotech",
+        "published": "Aug 27, 2026 9:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-frontier-medicines-plans-drug-undruggable-ai-and-chemical-library\" hreflang=\"en\">After some ‘tough years,’ Frontier’s CEO is ramping up ambitions for precision med platform</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-frontier-medicines-plans-drug-undruggable-ai-and-chemical-library",
+        "summary": "After announcing the “tough but necessary” decision to lay off some employees last year, Frontier Medicines is looking to the future by advancing more cancer drugs into the clinic while continuing to find partners to leverage its AI proteomic platform.",
+        "source": "Fierce Biotech",
+        "published": "Aug 25, 2026 4:03pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug\" hreflang=\"en\">Roche nabs expanded FDA approval for diagnostic tied to Jazz’s cancer drug</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug",
+        "summary": "Roche has been given an extended clearance by the FDA for its tests that can find patients eligible to use Jazz Pharmaceuticals’ oncology med Ziihera.",
+        "source": "Fierce Biotech",
+        "published": "Aug 27, 2026 3:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/flagships-profound-partners-gates-foundation-35m-preeclampsia-target-discovery-pact\" hreflang=\"en\">Flagship’s ProFound partners with Gates Foundation in $35M preeclampsia target discovery pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/flagships-profound-partners-gates-foundation-35m-preeclampsia-target-discovery-pact",
+        "summary": "Flagship Pioneering’s ProFound Therapeutics is keeping its string of high-profile partnerships going, forging a new pact with the Gates Foundation worth up to $35 million to find new drug targets for a dangerous pregnancy complication.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 4:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global\" hreflang=\"en\">Medigen links up with Charles River in push to take enterovirus vaccine global</a>",
+        "url": "https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global",
+        "summary": "Charles River Laboratories and Taiwan-based Medigen Vaccine Biologics are teaming up to advance Medigen’s multivalent enterovirus vaccine.",
+        "source": "Fierce Biotech",
+        "published": "Aug 20, 2026 10:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger\" hreflang=\"en\">FDA greenlights Revolution Medicines' pancreatic cancer gamechanger</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
+        "summary": "Following dynamite data that earned a standing ovation at the American Society of Clinical Oncology meeting in May, Revolution Medicines’ Ras inhibitor daraxonrasib has been approved by the FDA for the treatment of metastatic pancreatic cancer.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 11:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/akeso-ceo-looks-beyond-lung-cancer-phase-3-biliary-tract-win-counters-ivonescimab-debate\" hreflang=\"en\">Akeso CEO looks beyond lung cancer with biliary tract win, counters ivonescimab debate</a>",
+        "url": "https://www.fiercebiotech.com/pharma/akeso-ceo-looks-beyond-lung-cancer-phase-3-biliary-tract-win-counters-ivonescimab-debate",
+        "summary": "Fresh off a phase 3 win in biliary tract cancer, Akeso CEO Michelle Xia, Ph.D., is touting the PD-1xVEGF bispecific antibody ivonescimab’s ability beyond non-small cell lung cancer, even as she continues to defend the drug’s data against skepticism.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 10:48am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jatt-mastermind-launches-latest-biotech-focused-spac-60m-ipo\" hreflang=\"en\">JATT mastermind launches latest biotech-focused SPAC via $60M IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jatt-mastermind-launches-latest-biotech-focused-spac-60m-ipo",
+        "summary": "Just two months after Someit Sidhu, M.D., succeeded in pairing off his second special purpose acquisition company (SPAC) with Talawar Therapeutics, the biotech entrepreneur is back at it again.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 9:33am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning",
+        "url": "https://huggingface.co/papers/2608.26993",
+        "summary": "Explicit visual intermediates can help multimodal large language models (MLLMs) externalize spatial evidence and updated visual states, but their utility depends on whether an image editor can faithfully realize the required transformation. We introduce Aphanta, an automated task-discovery and closed-loop diagnostic framework for the MLLM -> image editor -> MLLM pipeline. Aphanta evaluates three conditions---direct reasoning, reasoning with an editor-generated intermediate, and reasoning with an idealized reference intermediate---to separate potential visual headroom from the practical utility",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-26T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding",
+        "url": "https://huggingface.co/papers/2608.21832",
+        "summary": "Computer-use agents ground natural-language instructions in screenshots to locate interface elements, yet existing benchmarks do not isolate whether models bind relational language to the correct element. We introduce GUI-Primitives, a 994-item benchmark of contrastive instruction pairs over seven spatial relations in graphical user interfaces (left/right, above/below, containment, alignment, proximity, list ordinal, occlusion). Each pair holds the screenshot and anchor fixed while changing the relation expression, so the correct target moves between two designated candidates. Five annotators ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+        "url": "https://huggingface.co/papers/2608.21140",
+        "summary": "Reliable spatial understanding is an important prerequisite for future medical vision-language systems that aim to support radiological report generation and structured image understanding. While modern vision-language models (VLMs) show promising performance on many medical imaging tasks, recent evidence suggests they remain weak in controlled spatial reasoning and often fail to reliably ground spatial relations in image evidence. Given that radiological reasoning hinges on understanding the relative positions of anatomical structures and findings, this spatial weakness poses risks to diagnos",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2608.19098",
+        "summary": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense, token-level reward supervision. Despite its practical success, the optimization dynamics governing multi-teacher capability integration remain poorly understood, and open, rigorously reproducible recipes are conspicuously lacking. In this work, we establish a controlled M-OPD benchmark on SmolLM3-3B-Base with oracle routing, isolating capability integration from routing ambiguity. Our investigation ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-18T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

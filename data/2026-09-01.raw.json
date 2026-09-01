@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:56:11.687146+08:00",
+  "counts": {
+    "news": 37,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "New guidelines on migraine prevention reflect increasing options for patients",
+        "url": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/",
+        "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 20:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump strikes nine more deals with drugmakers to lower prices",
+        "url": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/",
+        "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 19:48:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Can buying a drug patent application be seen as a bid to prolong a monopoly?",
+        "url": "https://www.statnews.com/pharmalot/2026/08/31/pending-drug-patent-applications-amgen-carefirst/",
+        "summary": "A drug patent case involving Amgen is being closely watched given its potential implications for pharmaceutical patent deals broadly.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 15:56:53 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GLP-1 drugs are almost single-handedly forcing employers to reconsider workers’ health care",
+        "url": "https://www.statnews.com/2026/08/31/health-care-inc-glp-1s-are-breaking-employers-and-340-battles/",
+        "summary": "Another hospital system sues CVS Health, how Medicaid cuts will change everything, and more",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 15:27:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: We’re reading about drug pricing deals, a new cancer therapy approval, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/08/31/drug-pricing-deals-polycythemia-vera-mimrylo-pharmalittle-newsletter/",
+        "summary": "In today's Pharmalittle newsletter, drug pricing deals, a new cancer therapy approval, and more of the latest pharma headlines.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 13:03:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Can a pregnancy hormone steer a cardiovascular treatment?",
+        "url": "https://www.statnews.com/2026/08/31/biotech-news-can-a-pregnancy-hormone-steer-a-cardiovascular-treatment/",
+        "summary": "Caution and survival in radiopharmaceuticals, mRNA skepticism, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 12:48:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A winner, a loser, and a mid-stage signal from a major cardiology research conference",
+        "url": "https://www.statnews.com/2026/08/31/health-news-mid-stage-results-from-esc-2026-cardiology/",
+        "summary": "The mental health system after Lindsay Clancy, pushing boundaries for new radiopharmaceuticals, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 12:25:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The most shocking thing about the latest statistics on CTE in football is that we find them so shocking",
+        "url": "https://www.statnews.com/2026/08/31/cte-nfl-boston-university-study-football-concussion-history/",
+        "summary": "The latest study on CTE in football players “quantifies but does not reveal a problem,” writes Emily Harrison, a historian who studies brain injury in football.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: After a rough stretch, mRNA gets a boost — at least for now",
+        "url": "https://www.statnews.com/2026/08/31/mrna-cancer-vaccine-intersects-politics-medicine/",
+        "summary": "With clinical success on a personalized mRNA vaccine for melanoma, experts are hoping for a more stable future for the technology in other areas.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
+        "url": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/",
+        "summary": "Researchers believe radiopharmaceuticals have great promise as cancer treatments. But are they using them too timidly?",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
+        "url": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/",
+        "summary": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera.",
+        "source": "STAT News",
+        "published": "Sun, 30 Aug 2026 18:30:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
+        "url": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/",
+        "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines.",
+        "source": "STAT News",
+        "published": "Sun, 30 Aug 2026 17:29:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/20-medicaid-eligible-adults-risk-losing-coverage-due-inconsistent-work-hours\" hreflang=\"en\">10M expansion state adults risk losing Medicaid coverage over inconsistent work hours</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/20-medicaid-eligible-adults-risk-losing-coverage-due-inconsistent-work-hours",
+        "summary": "About 20% of adults living in Medicaid expansion states will have their eligibility threatened because their work hours may be insufficient or inconsistent under incoming national work requirements, a new study suggests.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/white-house-unveils-next-round-mfn-pricing-deals-9-midsized-drugmakers\" hreflang=\"en\">White House unveils next round of MFN pricing deals with 9 midsized drugmakers</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/white-house-unveils-next-round-mfn-pricing-deals-9-midsized-drugmakers",
+        "summary": "Some four months after the White House inked the last of its expected drug pricing deals with 17 of the industry’s top players, the U.S. government is back for round 2, this time lining up agreements with a host of medium-sized biopharmas under President Trump’s ‘most favored nation’ agenda.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 4:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen\" hreflang=\"en\">McKesson confirms cybersecurity incident as hackers claim millions of patient records stolen</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen",
+        "summary": "Healthcare giant McKesson Corporation confirmed on Friday that it was investigating a cybersecurity incident tied to third-party applications that led to unauthorized access and theft of data.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 5:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Centene names new CIO; Elevance Health taps new behavioral health leader</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/revenues-grow-margins-slow-advocate-health-h1-2026\" hreflang=\"en\">Revenues grow, margins slow at Advocate Health in H1 2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/revenues-grow-margins-slow-advocate-health-h1-2026",
+        "summary": "The major nonprofit system reported an 8.6% year-over-year increase in operating revenues, though its operating margin dipped from 4.4% to 3.8%.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 12:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/docs-seeing-more-patients-influenced-misinformation-impacting-care\" hreflang=\"en\">Docs are seeing more patients influenced by mis- and disinformation. What can they do about it?</a>",
+        "url": "https://www.fiercehealthcare.com/providers/docs-seeing-more-patients-influenced-misinformation-impacting-care",
+        "summary": "More docs surveyed in March said their patients were influenced by inaccurate info than in 2025, and that it is affecting their care.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 2:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m\" hreflang=\"en\">Sanford Health, North Memorial Health deal to move forward under oversight agreement with Minnesota AG</a>",
+        "url": "https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m",
+        "summary": "The deal, expected to close later this year, is another attempt from the major rural nonprofit system to enter the Minneapolis market. To do so, it plans a $600 million investment into the two-hospital North Memorial Health, which will help stabilize one financially strained safety-net facility and double the size of the other.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/how-shared-clinical-decision-making-can-shape-metastatic-prostate-cancer-journey\" hreflang=\"en\">How Shared Clinical Decision-Making Can Shape the Metastatic Prostate Cancer Journey</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/how-shared-clinical-decision-making-can-shape-metastatic-prostate-cancer-journey",
+        "summary": "When a patient learns they have metastatic castration-sensitive prostate cancer (mCSPC), it often marks the beginning of a long and uncertain journey. The first conversations that follow can shape how that patient feels about their treatment and their role in it. In those early moments, how we respond matters.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 1:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/next-phase-sustainability-uci-health-kaiser-permanente-turn-electric-hospitals\" hreflang=\"en\">In next phase of sustainability, UCI Health, Kaiser Permanente, and others turn to electric hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/next-phase-sustainability-uci-health-kaiser-permanente-turn-electric-hospitals",
+        "summary": "The U.S. healthcare sector is responsible for about 9% of the country’s greenhouse gas emissions. A growing number of providers have implemented sustainability agendas, with electrification being the next frontier.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 12:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/maryland-sues-optum-over-defective-computer-system\" hreflang=\"en\">Maryland sues Optum over 'defective' computer system</a>",
+        "url": "https://www.fiercehealthcare.com/payers/maryland-sues-optum-over-defective-computer-system",
+        "summary": "Maryland has filed a lawsuit against UnitedHealth Group, alleging that its Optum unit defrauded the state's Medicaid program by providing a faulty computer system.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 1:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/florida-ag-sues-prime-therapeutics-express-scripts-alleged-price-fixing\" hreflang=\"en\">Florida AG sues Prime Therapeutics, Express Scripts for alleged price-fixing</a>",
+        "url": "https://www.fiercehealthcare.com/payers/florida-ag-sues-prime-therapeutics-express-scripts-alleged-price-fixing",
+        "summary": "Florida Attorney General James Uthmeier is suing Express Scripts and Prime Therapeutics, alleging that a partnership between the two pharmacy benefit managers allows them to illegally fix prices.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 12:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia\" hreflang=\"en\">Rural Health Transformation Program funding tracker: CMS awards Virginia $122M; Georgia receives $93.3M</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia",
+        "summary": "Stay up-to-date with this tracker for the latest RHTP funding announcements and disclosures.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 11:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events\" hreflang=\"en\">UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
+        "summary": "Three deaths have forced Novartis to pause development of its CD19 CAR-T candidate in autoimmune diseases, just as Bristol Myers Squibb has halted a similar program due to immune-related adverse events, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 4:20pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool\" hreflang=\"en\">Natera teams with Angiex on cancer drug trial monitoring</a>",
+        "url": "https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool",
+        "summary": "Natera inked a collaboration deal with biotech Angiex to assess the use of its Signatera blood test, which looks for small traces of cancer DNA in patients who have been diagnosed and treated for the disease.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 7:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/electra-sets-plans-light-nasdaq-ipo-fuel-phase-23-trial-ii-asset\" hreflang=\"en\">Electra aims to light up Nasdaq with IPO for phase 2/3 I&amp;I push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/electra-sets-plans-light-nasdaq-ipo-fuel-phase-23-trial-ii-asset",
+        "summary": "The 2026 IPO streak continues as Electra Therapeutics has filed to go public to support its immunology and cancer pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 11:28am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/neuroscience-revolution-glp-race-keep-us-awake-and-make-billions-doing-it\" hreflang=\"en\">‘A neuroscience revolution’: The GLP-like race to keep us awake and make billions doing it</a>",
+        "url": "https://www.fiercebiotech.com/biotech/neuroscience-revolution-glp-race-keep-us-awake-and-make-billions-doing-it",
+        "summary": "As the hype around the vast medical potential of GLP-1 drugs continues unabated, another peptide is starting to make its own mark.",
+        "source": "Fierce Biotech",
+        "published": "Aug 21, 2026 12:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial\" hreflang=\"en\">ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial",
+        "summary": "AstraZeneca’s oral relaxin agonist delivered encouraging phase 2b results in chronic heart failure, improving measures of cardiac function across two patient groups.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 10:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies\" hreflang=\"en\">Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies",
+        "summary": "Eli Lilly has struck a deal to acquire Merida Biosciences for up to $2.875 billion, establishing a beachhead in efforts to treat disease through the selective degradation of pathogenic autoantibodies.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 8:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/beyond-bandwidth-ceiling-redesigning-advanced-therapy-operating-models-digital-staff-era\" hreflang=\"en\">Beyond the Bandwidth Ceiling: Redesigning Advanced Therapy Operating Models for the Digital Staff Era</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/beyond-bandwidth-ceiling-redesigning-advanced-therapy-operating-models-digital-staff-era",
+        "summary": "Advanced therapy manufacturers are hitting a bandwidth ceiling. Deloitte makes the case for redesigning ops around AI 'digital staff.'",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 9:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/china-global-clinical-development-why-early-inclusion-matters\" hreflang=\"en\">China in Global Clinical Development: Why Early Inclusion Matters</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/china-global-clinical-development-why-early-inclusion-matters",
+        "summary": "Leading biotechs are rethinking China’s role in global clinical development. Early inclusion can unlock significant value.",
+        "source": "Fierce Biotech",
+        "published": "Aug 26, 2026 4:32pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2\" hreflang=\"en\">BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
+        "summary": "Following Merck and Moderna’s phase 3 triumph with a Keytruda-paired personalized mRNA cancer vaccine, a similar shot from BioNTech and Genentech has faltered in a reminder of the approach’s struggles as a standalone therapy.",
+        "source": "Fierce Biotech",
+        "published": "Aug 28, 2026 1:27pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: AusperBio adds $120M; Abcuro secures $66M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ausperbio-adds-120m-advance-hepatitis-b-therapy-through-ph3-and-commercialization\" hreflang=\"en\">AusperBio adds $120M series C to advance hep B oligo therapy through phase 3 and beyond</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ausperbio-adds-120m-advance-hepatitis-b-therapy-through-ph3-and-commercialization",
+        "summary": "AusperBio Therapeutics has raised $120 million in series C funds to advance its oligonucleotide therapy for chronic hepatitis B through phase 3 testing and hopefully on to commercialization.",
+        "source": "Fierce Biotech",
+        "published": "Aug 28, 2026 10:30am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-saddles-stalking-horse-bidder-bankrupt-bioxcels-neuroscience-portfolio\" hreflang=\"en\">Teva saddles up as stalking horse bidder for bankrupt BioXcel’s neuroscience portfolio</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-saddles-stalking-horse-bidder-bankrupt-bioxcels-neuroscience-portfolio",
+        "summary": "BioXcel Therapeutics has filed for bankruptcy and lined up a deal for Teva Pharmaceutical to acquire its assets for $57.5 million upfront.",
+        "source": "Fierce Biotech",
+        "published": "Aug 28, 2026 9:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "达芬奇全新手术机器人获批，杀入奥林巴斯腹地",
+        "url": "https://www.36kr.com/p/3961263917644929",
+        "summary": "直观外科获批胃肠道柔性机器人，入局迎战奥林巴斯等玩家",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 31 Aug 2026 01:54:20 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
+        "url": "https://huggingface.co/papers/2608.28458",
+        "summary": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that many failures are not only broad knowledge failures but also local decision failures: repeated guesses, malformed actions, and violations of feedback that the model has just seen. These diagnostics motivate a training recipe organized around three steps: acquire broad game participation through supe",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-27T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses",
+        "url": "https://huggingface.co/papers/2608.28363",
+        "summary": "LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave persistent effects that cannot be safely reversed in states different from the one in which it was created. We introduce EvoUndo, a framework for representing, synthesizing, diagnosing, and independently verifying recoverability of model-generated self-modifications across counterfactual states. Across 600 unseen one-shot self-evolution tasks, we identify 197 capability-improving mutations that fail r",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-27T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

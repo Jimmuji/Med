@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T13:19:02.118367+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+        "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/",
+        "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 23:06:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Diabetes association CEO: What an independent review says happened at the ADA’s controversial June conference",
+        "url": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/",
+        "summary": "“This is not a moment our community can afford to spend fighting itself,” writes American Diabetes Association CEO Charles “Chuck” Henderson.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 23:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
+        "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/",
+        "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 18:09:57 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
+        "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/",
+        "summary": "“The whole of my field has been flattened into a single lazy question: Did the health care system fail her?” writes Jennifer Okwerekwu.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 17:28:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
+        "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/",
+        "summary": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 14:51:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novartis gets multiple sclerosis win with BTK inhibitor",
+        "url": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/",
+        "summary": "More Trump drug pricing deals, GSK speeds up development of mRNA flu vaccine, and other biotech news",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 13:34:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Novartis and Bristol pausing cell therapy trials, a $480K cancer drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/",
+        "summary": "Novartis and Bristol Myers Squibb have paused multiple cell therapy trials, while $480,000 has now become a routine price for a cancer drug. Read the latest pharma headlines in today's&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 13:21:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA clears Stryker’s ‘surgical cockpit’ that uses Apple’s VR headset, Vision Pro",
+        "url": "https://www.statnews.com/2026/09/01/fda-stryker-surgical-cockpit-apple-vr-headset-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Stryker deploys Apple's VR headset Vision Pro for a surgical use case, chatbots for loneliness, and more.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 13:10:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Paxlovid did not help long Covid, study finds",
+        "url": "https://www.statnews.com/2026/09/01/health-news-paxlovid-did-not-help-long-covid-study-finds/",
+        "summary": "New Trump drug pricing deals, weed edibles and driving research, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 13:08:31 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Will House delay Trump plan to politicize NIH grants?",
+        "url": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/",
+        "summary": "The federal spending bill has an important provision for researchers, and Trump announced more MFN deals with pharma firms.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 12:03:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIH proposal to cap research grants draws mixed reception, agency says",
+        "url": "https://www.statnews.com/2026/09/01/nih-grant-cap-proposal-researcher-feedback/",
+        "summary": "An NIH proposal to cap the number of research grants investigators can receive has drawn a mixed reception, the agency says.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The Trump administration is burying science and health care in paperwork",
+        "url": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/",
+        "summary": "This White House has become the paperwork administration, write Brandon Marshall and Abdullah Shihipar.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
+        "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/",
+        "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New guidelines on migraine prevention reflect increasing options for patients",
+        "url": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/",
+        "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 20:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump strikes nine more deals with drugmakers to lower prices",
+        "url": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/",
+        "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements.",
+        "source": "STAT News",
+        "published": "Mon, 31 Aug 2026 19:48:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-groups-rail-against-cms-proposed-340b-changes-site-neutral-payments\" hreflang=\"en\">Hospital groups rail against CMS' proposed 340B changes, site-neutral payments</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-groups-rail-against-cms-proposed-340b-changes-site-neutral-payments",
+        "summary": "Public comments for the latest OPPS proposed rule saw several major hospital groups all but threatening a court showdown over CMS' planned policy changes.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 2:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data\" hreflang=\"en\">ChatGPT for Healthcare unveils new integrations with Epic, public health data sources</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data",
+        "summary": "OpenAI is expanding ChatGPT's healthcare capabilities with new integrations that connect it more directly with clinical workflows and public healthcare sources.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 5:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-prior-auth-1700-services-oct-1\" hreflang=\"en\">UnitedHealthcare to nix prior auth on 1,700 services on Oct. 1</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-prior-auth-1700-services-oct-1",
+        "summary": "UnitedHealthcare said earlier this year that it was aiming to eliminate 30% of prior authorization requirements by the end of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 1:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—ChristianaCare's new CEO begins; Centene names new CIO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-announces-77m-grants-substance-use-prevention-treatment\" hreflang=\"en\">HHS announces $77M in grants for substance use prevention, treatment</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-announces-77m-grants-substance-use-prevention-treatment",
+        "summary": "Projects supported include those to strengthen substance use prevention, treatment and recovery and suicide prevention.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 12:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m\" hreflang=\"en\">Sanford Health, North Memorial Health complete acquisition deal</a>",
+        "url": "https://www.fiercehealthcare.com/providers/sanford-health-unveils-deal-integrate-minnesota-area-north-memorial-health-invest-600m",
+        "summary": "The deal is another attempt from the major rural nonprofit system to enter the Minneapolis market. To do so, it plans a $600 million investment into the two-hospital North Memorial Health, which will help stabilize one financially strained safety-net facility and double the size of the other.",
+        "source": "Fierce Healthcare",
+        "published": "May 8, 2026 3:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/nourish-embeds-generative-ai-assistant-patient-app-247-support\" hreflang=\"en\">Nourish embeds generative AI assistant into patient app for 24/7 support</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/nourish-embeds-generative-ai-assistant-patient-app-247-support",
+        "summary": "The Health Assistant, which has been in beta and is now rolling out widely, gives patients personalized guidance between visits, including meal planning, lab insights and appointment prep support.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 11:04am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia\" hreflang=\"en\">Rural Health Transformation Program funding tracker: CMS awards Arkansas $149.3M; Hawaii receives $58M</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia",
+        "summary": "Stay up-to-date with this tracker for the latest RHTP funding announcements and disclosures.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 11:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/solera-health-adds-noom-weight-management-offerings\" hreflang=\"en\">Solera Health adds Noom to weight management offerings</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/solera-health-adds-noom-weight-management-offerings",
+        "summary": "The partnership will bring Noom Weight, Diabetes Prevention Program and a no-cost GLP-1 companion to Solera Health members.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 11:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/20-medicaid-eligible-adults-risk-losing-coverage-due-inconsistent-work-hours\" hreflang=\"en\">10M expansion state adults risk losing Medicaid coverage over inconsistent work hours</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/20-medicaid-eligible-adults-risk-losing-coverage-due-inconsistent-work-hours",
+        "summary": "About 20% of adults living in Medicaid expansion states will have their eligibility threatened because their work hours may be insufficient or inconsistent under incoming national work requirements, a new study suggests.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 4:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/white-house-unveils-next-round-mfn-pricing-deals-9-midsized-drugmakers\" hreflang=\"en\">White House unveils next round of MFN pricing deals with 9 midsized drugmakers</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/white-house-unveils-next-round-mfn-pricing-deals-9-midsized-drugmakers",
+        "summary": "Some four months after the White House inked the last of its expected drug pricing deals with 17 of the industry’s top players, the U.S. government is back for round 2, this time lining up agreements with a host of medium-sized biopharmas under President Trump’s ‘most favored nation’ agenda.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 4:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen\" hreflang=\"en\">McKesson confirms cybersecurity incident as hackers claim millions of patient records stolen</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen",
+        "summary": "Healthcare giant McKesson Corporation confirmed on Friday that it was investigating a cybersecurity incident tied to third-party applications that led to unauthorized access and theft of data.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 31, 2026 5:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr\" hreflang=\"en\">ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
+        "summary": "As AstraZeneca appears to close the book on a combo approach following the phase 3 failure of its Ionis-partnered Wainua, several analysts contend it’s too early to count out Alnylam’s silencing drugs in ATTR-CM patients also taking standard-of-care stabilizers.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 2:48pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody\" hreflang=\"en\">Roche inks $1.53B deal for Simcere’s B-cell-targeting antibody</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody",
+        "summary": "Roche is paying oncology-focused Simcere Zaiming $75 million upfront for global rights to a preclinical trispecific antibody targeting B-cell-mediated diseases.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 10:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arsenalbio-sheds-most-staff-pivot-vivo-car-t\" hreflang=\"en\">ArsenalBio sheds most of staff in pivot to in vivo CAR-T</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arsenalbio-sheds-most-staff-pivot-vivo-car-t",
+        "summary": "About a year after halving its staff in a clinical push, Arsenal Biosciences is now making a hard pivot that involves laying off most of its employees and seeking out new homes for its assets.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 9:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-recalls-reflux-monitoring-device-184-serious-injuries-linked-capsule\" hreflang=\"en\">Medtronic recalls reflux monitoring device as 184 serious injuries linked to capsule </a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-recalls-reflux-monitoring-device-184-serious-injuries-linked-capsule",
+        "summary": "Medtronic is recalling certain esophageal pH monitoring capsule delivery devices amid risks of them failing whilst deployed.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 3:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor\" hreflang=\"en\">Alumis crushed by midstage lupus flop but plots path to phase 3 for TYK2 inhibitor</a>",
+        "url": "https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor",
+        "summary": "A phase 2b lupus trial of Alumis’ envudeucitinib has missed its primary and secondary endpoints. But the biotech is still moving the TYK2 inhibitor into phase 3 in the autoimmune disease, pointing to evidence of efficacy in a prespecified subgroup of patients to support its decision.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 9:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/novocure-hit-cyberattack-includes-exposure-patient-records-data\" hreflang=\"en\">Novocure hit by cyberattack exposing patient data</a>",
+        "url": "https://www.fiercebiotech.com/medtech/novocure-hit-cyberattack-includes-exposure-patient-records-data",
+        "summary": "Novocure has become the latest medtech company to be hit by a cyberattack, with the oncology specialist revealing that unauthorized access to some of its information systems exposed patient and employee data.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 9:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: ArsenalBio winnows down workforce; Kolon cuts staff</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries\" hreflang=\"en\">Boston Scientific halts sales of angiographic catheters amid 2 serious injuries</a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries",
+        "summary": "Boston Scientific has told its customers to stop using its Imager II angiographic catheters upon learning that a manufacturing issue has impacted the tips of the devices.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 2:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots\" hreflang=\"en\">GSK catches phase 3 fever after mRNA flu vaccine beats standard shots</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots",
+        "summary": "GSK has linked its mRNA seasonal flu vaccine candidate to higher immune responses than conventional jabs in a phase 2 trial, emboldening the company to start a pivotal study this month.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 5:43am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events\" hreflang=\"en\">UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
+        "summary": "Three deaths have forced Novartis to pause development of its CD19 CAR-T candidate in autoimmune diseases, just as Bristol Myers Squibb has halted a similar program due to immune-related adverse events, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 4:20pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool\" hreflang=\"en\">Natera teams with Angiex on cancer drug trial monitoring</a>",
+        "url": "https://www.fiercebiotech.com/medtech/natera-teams-angiex-advance-its-signatera-cancer-dx-tool",
+        "summary": "Natera inked a collaboration deal with biotech Angiex to assess the use of its Signatera blood test, which looks for small traces of cancer DNA in patients who have been diagnosed and treated for the disease.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 7:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/electra-sets-plans-light-nasdaq-ipo-fuel-phase-23-trial-ii-asset\" hreflang=\"en\">Electra aims to light up Nasdaq with IPO for phase 2/3 I&amp;I push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/electra-sets-plans-light-nasdaq-ipo-fuel-phase-23-trial-ii-asset",
+        "summary": "The 2026 IPO streak continues as Electra Therapeutics has filed to go public to support its immunology and cancer pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 11:28am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+        "url": "https://huggingface.co/papers/2609.00768",
+        "summary": "Self-play is an effective paradigm for language-model self-evolution, but without guidance, solver performance can plateau or decline across rounds. Unguided methods steer question generation with signals such as difficulty, learnability, or diversity. These signals keep questions challenging and varied but do not specify which unresolved reasoning weaknesses later rounds should target. Guided methods obtain direction from external task resources, including human examples, document corpora, or specified difficulty targets, and therefore rely on task information supplied outside the self-play l",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-31T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T13:23:39.143477+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Why are drug overdose deaths declining?",
+        "url": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/",
+        "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 04:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
+        "url": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/",
+        "summary": "Ultragenyx said its experimental therapy for Angelman syndrome, a rare disease, showed no benefit compared to a sham treatment in a Phase 3 trial.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 20:37:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
+        "url": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/",
+        "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 14:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ARPA-H funds biotechs working on custom RNA therapies",
+        "url": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/",
+        "summary": "Roche licenses a tri-specific antibody, new Trump deals may undercut its own goals, and other biotech news",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 13:37:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How a former ARPA-H director’s startup is tackling AI’s ‘dumb problems’",
+        "url": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis: A startup tackling the 'dumb problems' at the intersection of AI and bio, accuracy of AI scribes, and more.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 13:29:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Huntington’s gene therapy, Novo’s challenges, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/",
+        "summary": "UniQure has submitted its Huntington’s gene therapy to the FDA, investors remain unenthusiastic on Novo Nordisk, and more of the latest pharma headlines in today's Pharmalittle newsletter.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 13:26:55 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "HHS spins a tale of a would-be content creator child",
+        "url": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/",
+        "summary": "The next DSM and the algorithm, an unexpected discovery on alpha-gal syndrome, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 11:59:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How Trump’s latest pharma deals may undermine efforts to rein in drug costs",
+        "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/",
+        "summary": "Analysts say private deals involve drugmakers agreeing to lower prices in Medicaid, where prices are low, in return for no price cuts in Medicare.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The Ig Nobel Prizes, long held in the U.S., head to Europe due to Trump policies",
+        "url": "https://www.statnews.com/2026/09/02/ig-nobel-prizes-europe-trump-policies/",
+        "summary": "For the first time since they began, the Ig Nobel Prizes, a satirical version of the Nobel prizes, is being held overseas.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The next DSM should address the algorithm’s role in eating disorders",
+        "url": "https://www.statnews.com/2026/09/02/dsm-6-eating-disorders-algorithms-social-media-influence-screening/",
+        "summary": "The new DSM, expected in 2030, should address the digital environments of eating disorders patients, experts write.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+        "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/",
+        "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 23:06:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Diabetes association CEO: What an independent review says happened at the ADA’s controversial June conference",
+        "url": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/",
+        "summary": "“This is not a moment our community can afford to spend fighting itself,” writes American Diabetes Association CEO Charles “Chuck” Henderson.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 23:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
+        "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/",
+        "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 18:09:57 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
+        "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/",
+        "summary": "“The whole of my field has been flattened into a single lazy question: Did the health care system fail her?” writes Jennifer Okwerekwu.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 17:28:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
+        "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/",
+        "summary": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing.",
+        "source": "STAT News",
+        "published": "Tue, 01 Sep 2026 14:51:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/leading-medical-groups-release-flu-covid-vaccine-recommendations-cdc-guidance-lags\" hreflang=\"en\">Leading medical groups release flu, COVID vaccine recommendations as CDC guidance lags</a>",
+        "url": "https://www.fiercehealthcare.com/providers/leading-medical-groups-release-flu-covid-vaccine-recommendations-cdc-guidance-lags",
+        "summary": "Several major medical organizations on Wednesday released vaccine recommendations for the 2026-27 respiratory virus season to fill a gap in immunization guidance left by the federal government.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 11:11am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/scancom-raises-220m-build-largest-medical-imaging-network-us\" hreflang=\"en\">Scan.com raises $220M to expand US medical imaging network</a>",
+        "url": "https://www.fiercehealthcare.com/finance/scancom-raises-220m-build-largest-medical-imaging-network-us",
+        "summary": "The company plans to use the funding to further expand its U.S. network of imaging providers, as well as invest in its API and agentic AI infrastructure.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 1:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Johns Hopkins Health Plans names interim CEO; ChristianaCare's new CEO begins</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oncology-company-thyme-care-raises-125m-backed-morgan-health-humana-and-cvs-health\" hreflang=\"en\">Oncology company Thyme Care raises $125M, backed by Morgan Health, Humana and CVS Health Ventures</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oncology-company-thyme-care-raises-125m-backed-morgan-health-humana-and-cvs-health",
+        "summary": "Thyme Care landed a series E financing round of more than $125 million backed by strategic payers and providers as it aims to expand beyond cancer care navigation.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 11:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—95 layoffs at Stanford Health Care cuts 95; John Muir Health cuts 78</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/employers-health-benefits-costs-could-rise-82-2027-marsh-survey\" hreflang=\"en\">Employers’ health benefits costs could rise 8.2% in 2027: Marsh survey</a>",
+        "url": "https://www.fiercehealthcare.com/payers/employers-health-benefits-costs-could-rise-82-2027-marsh-survey",
+        "summary": "The projected increase is the highest since 2003 and the fifth consecutive year of rising costs, Marsh analysts noted.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 11:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/stories-behind-2026-fierce-50\" hreflang=\"en\">The stories behind the 2026 Fierce 50</a>",
+        "url": "https://www.fiercehealthcare.com/providers/stories-behind-2026-fierce-50",
+        "summary": "A Nobel laureate designing proteins from scratch. A public health expert who put retirement plans aside after the 2024 election to help protect vaccine policy and scientific independence. A physician working to make health information easier to understand and rebuild trust with patients. And a Native physician working to train more doctors who share the backgrounds and experiences of the communities they serve. In this episode of “Podnosis,” we tell the stories behind some of the 2026 Fierce 50 honorees and the work that put them on this year’s list.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 9:40am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-appropriators-unveil-stopgap-funding-bill-blocks-trumps-attempt-change-science\" hreflang=\"en\">Congress passes stopgap funding bill, blocks political approvals for science funding</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-appropriators-unveil-stopgap-funding-bill-blocks-trumps-attempt-change-science",
+        "summary": "The House on Tuesday passed a stopgap funding bill to avert a government shutdown by Oct. 1 and temporarily block a White House proposal that would fundamentally change how the federal government awards and manages grants.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 3, 2026 2:43pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/nourish-embeds-generative-ai-assistant-patient-app-247-support\" hreflang=\"en\">Nourish embeds generative AI assistant into patient app for 24/7 support</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/nourish-embeds-generative-ai-assistant-patient-app-247-support",
+        "summary": "The Health Assistant, which has been in beta and is now rolling out widely, gives patients personalized guidance between visits, including meal planning, lab insights and appointment prep support.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 11:04am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/cureety-acquires-reimagine-care-ai-driven-precision-oncology\" hreflang=\"en\">Cureety acquires Reimagine Care for AI-driven precision oncology</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/cureety-acquires-reimagine-care-ai-driven-precision-oncology",
+        "summary": "The two companies now support more than 250 cancer centers—covering more than 100,000 patients—across five countries, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 2:42pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-groups-rail-against-cms-proposed-340b-changes-site-neutral-payments\" hreflang=\"en\">Hospital groups rail against CMS' proposed 340B changes, site-neutral payments</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-groups-rail-against-cms-proposed-340b-changes-site-neutral-payments",
+        "summary": "Public comments for the latest OPPS proposed rule saw several major hospital groups all but threatening a court showdown over CMS' planned policy changes.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 2:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data\" hreflang=\"en\">ChatGPT for Healthcare unveils new integrations with Epic, public health data sources</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/chatgpt-healthcare-unveils-new-integrations-epic-ehr-public-health-data",
+        "summary": "OpenAI is expanding ChatGPT's healthcare capabilities with new integrations that connect it more directly with clinical workflows and public healthcare sources.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 1, 2026 5:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition\" hreflang=\"en\">Fortrea boosts early-phase CRO platform with $45M acquisition of Worldwide division</a>",
+        "url": "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition",
+        "summary": "Fortrea has agreed to acquire the early-phase services division of fellow CRO Worldwide Clinical Trials for $45 million.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 2:48pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland\" hreflang=\"en\">Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland</a>",
+        "url": "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
+        "summary": "Novartis could cut about 130 jobs in Switzerland as it rethinks its biologics technical development and production footprint in Basel.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 1:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: TScan telegraphs 75% headcount drop; ArsenalBio winnows down workforce</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease\" hreflang=\"en\">Teva autoimmune antibody notches ph. 2 win in celiac disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease",
+        "summary": "Teva Pharmaceutical's dreams of a first-in-class autoimmune blockbuster are being kept alive after the Israeli outfit’s anti-interleukin-15 antibody scored a midstage win in celiac disease.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 10:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tscan-axes-75-workforce-make-room-solid-tumor-programs\" hreflang=\"en\">TScan axes 75% of workforce to make room for solid tumor programs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tscan-axes-75-workforce-make-room-solid-tumor-programs",
+        "summary": "TCR-T specialist TScan Therapeutics will reduce its workforce by 75% following the pause of its hematological and autoimmune programs.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 10:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sec-fda-sign-info-sharing-agreement-signal-market-insider-trading\" hreflang=\"en\">SEC, FDA sign info-sharing agreement as a ‘signal to the market’ on insider trading</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sec-fda-sign-info-sharing-agreement-signal-market-insider-trading",
+        "summary": "The SEC and the FDA have signed a three-year agreement to step up cooperation and information-sharing capabilities, aiming to improve each organization’s regulatory and enforcement missions.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 10:17am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-inks-32b-subcutaneous-drug-delivery-deal-alteogen\" hreflang=\"en\">Novartis inks $3.2B subcutaneous drug delivery deal with Alteogen</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-inks-32b-subcutaneous-drug-delivery-deal-alteogen",
+        "summary": "Novartis has struck a deal worth up to $3.2 billion to work with Alteogen on subcutaneous drug delivery, joining Biogen and GSK on the list of drugmakers to pay to access the technology this year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 7:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/his-parents-basement-your-medicine-cabinet-absci-ceo-endeavors-create-biotechs-apple\" hreflang=\"en\">From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple </a>",
+        "url": "https://www.fiercebiotech.com/biotech/his-parents-basement-your-medicine-cabinet-absci-ceo-endeavors-create-biotechs-apple",
+        "summary": "The overwhelming demand for GLP-1 weight loss drugs has reshaped the drug market, empowering consumers to take charge of their own health and removing barriers between their wallets and their medicine cabinets.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 5:35pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr\" hreflang=\"en\">ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
+        "summary": "As AstraZeneca appears to close the book on a combo approach following the phase 3 failure of its Ionis-partnered Wainua, several analysts contend it’s too early to count out Alnylam’s silencing drugs in ATTR-CM patients also taking standard-of-care stabilizers.",
+        "source": "Fierce Biotech",
+        "published": "Aug 31, 2026 2:48pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody\" hreflang=\"en\">Roche inks $1.53B deal for Simcere’s B-cell-targeting antibody</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody",
+        "summary": "Roche is paying oncology-focused Simcere Zaiming $75 million upfront for global rights to a preclinical trispecific antibody targeting B-cell-mediated diseases.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 10:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arsenalbio-sheds-most-staff-pivot-vivo-car-t\" hreflang=\"en\">ArsenalBio sheds most of staff in pivot to in vivo CAR-T</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arsenalbio-sheds-most-staff-pivot-vivo-car-t",
+        "summary": "About a year after halving its staff in a clinical push, Arsenal Biosciences is now making a hard pivot that involves laying off most of its employees and seeking out new homes for its assets.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 9:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-recalls-reflux-monitoring-device-184-serious-injuries-linked-capsule\" hreflang=\"en\">Medtronic recalls reflux monitoring device as 184 serious injuries linked to capsule </a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-recalls-reflux-monitoring-device-184-serious-injuries-linked-capsule",
+        "summary": "Medtronic is recalling certain esophageal pH monitoring capsule delivery devices amid risks of them failing whilst deployed.",
+        "source": "Fierce Biotech",
+        "published": "Sep 1, 2026 3:18am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+        "url": "https://huggingface.co/papers/2609.00768",
+        "summary": "Self-play is an effective paradigm for language-model self-evolution, but without guidance, solver performance can plateau or decline across rounds. Unguided methods steer question generation with signals such as difficulty, learnability, or diversity. These signals keep questions challenging and varied but do not specify which unresolved reasoning weaknesses later rounds should target. Guided methods obtain direction from external task resources, including human examples, document corpora, or specified difficulty targets, and therefore rely on task information supplied outside the self-play l",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-08-31T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

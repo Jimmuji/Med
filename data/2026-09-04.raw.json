@@ -1,0 +1,341 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T13:18:44.825110+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 0
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
+        "url": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/",
+        "summary": "Two recipients of gene-edited pig kidneys have successfully received human organs, a milestone in the wider effort to advance xenografts.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 22:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder",
+        "url": "https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/",
+        "summary": "Zanvastro is the first disease-modifying treatment for Alexander disease, a rare and fatal disorder.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 20:45:56 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "‘Tactical athletes’ get new guidance for cardiovascular fitness",
+        "url": "https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/",
+        "summary": "Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 18:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
+        "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/",
+        "summary": "Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 14:39:05 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Fauci speaks, and writes",
+        "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/",
+        "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 14:11:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "HHS flip-flops on disability lawsuit",
+        "url": "https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/",
+        "summary": "Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 13:21:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: OpenEvidence launches new family of AI models",
+        "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/",
+        "summary": "In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulation, OpenEvidence launches new AI models, and more.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 13:18:32 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: We’re reading about an Ultragenyx failure, RevMed for lung cancer, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/",
+        "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 13:18:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Abivax has still not been acquired. What’s going on?",
+        "url": "https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/",
+        "summary": "Biotech M&#038;A activity is off the charts, yet the French drugmaker Abivax hasn't been picked up yet. There may be some explanations.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA pilot offers generative AI medical devices a path to patients before they are authorized",
+        "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
+        "summary": "AI products from Cadence and Limbic are among four devices recently accepted into the FDA’s TEMPO pilot that will allow digital health companies to release products without marketing authorization.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells",
+        "url": "https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/",
+        "summary": "“These successes are surprising, worth discussing, and even celebrating a bit,” STAT Lab Dish columnist Paul Knoepfler writes of the FDA and stem cells.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I was a doula before I was an OB-GYN. I wish the two professions understood each other more",
+        "url": "https://www.statnews.com/2026/09/03/doula-turned-ob-gyn-birth-plan-disappointment-urgency/",
+        "summary": "“The longer I practice, the more I think many conflicts in maternity care come from a simple misunderstanding,” writes Debra Eluobaju, a doula turned OB-GYN.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The pediatricians who take in vaccine-skeptical parents others won’t",
+        "url": "https://www.statnews.com/2026/09/03/vaccine-hesitant-parents-how-pediatrician-builds-trust/",
+        "summary": "At a \"practice of last resort,\" pediatricians prioritize allaying parents' vaccine concerns without hardline dismissals.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why are drug overdose deaths declining?",
+        "url": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/",
+        "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
+        "source": "STAT News",
+        "published": "Thu, 03 Sep 2026 04:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
+        "url": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/",
+        "summary": "Ultragenyx said its experimental therapy for Angelman syndrome, a rare disease, showed no benefit compared to a sham treatment in a Phase 3 trial.",
+        "source": "STAT News",
+        "published": "Wed, 02 Sep 2026 20:37:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-claims-ohio-hospitals-acquisition-pivot-antitrust-victory\" hreflang=\"en\">FTC claims Ohio hospital's acquisition pivot as antitrust victory</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-claims-ohio-hospitals-acquisition-pivot-antitrust-victory",
+        "summary": "The regulator said it pushed back on Fairfield Medical Center's proposed combination with OhioHealth, with a subsequent shop process identifying the smaller Adena Health as the hospital's eventual partner.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 3, 2026 2:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/rep-pallone-probing-no-surprises-act-arbiters-amid-concern-about-idr-costs-volume\" hreflang=\"en\">Rep. Pallone probing No Surprises Act arbiters amid concern about IDR costs, volume</a>",
+        "url": "https://www.fiercehealthcare.com/payers/rep-pallone-probing-no-surprises-act-arbiters-amid-concern-about-idr-costs-volume",
+        "summary": "A leading Democrat in the House is probing the behavior of No Surprises Act arbiters.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 3, 2026 3:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/oig-medicare-part-d-plans-spent-millions-ineligible-otc-drugs\" hreflang=\"en\">OIG: Medicare Part D plans spent millions on ineligible OTC drugs</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/oig-medicare-part-d-plans-spent-millions-ineligible-otc-drugs",
+        "summary": "Medicare Part D plans made millions in payments for drugs that were ineligible under the program, according to a new federal audit.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 3, 2026 2:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026\" hreflang=\"en\">WVU Health System, Independence Health System cut deal with PA AG for planned acquisition</a>",
+        "url": "https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026",
+        "summary": "A combination with Independence Health System would grow the West Virginia University Health System to more than $8 billion annual total operating revenue.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2025 2:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/goodrx-expands-subscription-offerings-family-plan\" hreflang=\"en\">GoodRx expands subscription offerings with family plan for prescription meds and healthcare services</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/goodrx-expands-subscription-offerings-family-plan",
+        "summary": "GoodRx Companion Family Plan covers a primary member and up to four members, with no age restrictions and the inclusion of pets.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 3, 2026 11:18am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Teladoc Health taps new CFO; Johns Hopkins Health Plan names interim CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—HCA Healthcare cuts corporate, support staff; Stanford Health Care lays off 95</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care\" hreflang=\"en\">OpenEvidence deepens oncology push to build specialized AI agents, launches new AI model family</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care",
+        "summary": "The partnership builds on OpenEvidence's vision to develop “medical super-intelligence” based on agentic artificial intelligence, or a system of AI agents that can be subspecialists in clinical areas.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 3, 2026 8:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ana-individuals-employers-share-responsibility-tackling-nurse-fatigue\" hreflang=\"en\">ANA: Individuals, employers share responsibility in tackling nurse fatigue</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ana-individuals-employers-share-responsibility-tackling-nurse-fatigue",
+        "summary": "Acute and chronic nurse fatigue is a risk to patients and nurses alike and requires \"collective ethical responsibility\" rather than individual resilience, the American Nurses Association wrote in an updated position statement.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 4:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/judi-health-expands-clinical-partnerships-addition-color-health-welltheory-cylinder\" hreflang=\"en\">Judi Health expands clinical partnerships with addition of Color Health, WellTheory, Cylinder</a>",
+        "url": "https://www.fiercehealthcare.com/payers/judi-health-expands-clinical-partnerships-addition-color-health-welltheory-cylinder",
+        "summary": "Judi Health is expanding its list of clinical partners with the addition of Color Health, WellTheory and Cylinder.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 3:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/leading-medical-groups-release-flu-covid-vaccine-recommendations-cdc-guidance-lags\" hreflang=\"en\">Leading medical groups release flu, COVID vaccine recommendations as CDC guidance lags</a>",
+        "url": "https://www.fiercehealthcare.com/providers/leading-medical-groups-release-flu-covid-vaccine-recommendations-cdc-guidance-lags",
+        "summary": "Several major medical organizations on Wednesday released vaccine recommendations for the 2026-27 respiratory virus season to fill a gap in immunization guidance left by the federal government.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 11:11am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/scancom-raises-220m-build-largest-medical-imaging-network-us\" hreflang=\"en\">Scan.com raises $220M to expand US medical imaging network</a>",
+        "url": "https://www.fiercehealthcare.com/finance/scancom-raises-220m-build-largest-medical-imaging-network-us",
+        "summary": "The company plans to use the funding to further expand its U.S. network of imaging providers, as well as invest in its API and agentic AI infrastructure.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 2, 2026 1:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice\" hreflang=\"en\">Psilocybin proves promising in neuropathic pain mouse study</a>",
+        "url": "https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice",
+        "summary": "Amid the rise of psychedelics in the mental health space, researchers have begun to explore psilocybin as a treatment for chemotherapy-induced peripheral neuropathy.",
+        "source": "Fierce Biotech",
+        "published": "Sep 3, 2026 11:58am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal\" hreflang=\"en\">Pfizer offloads scrapped Seagen ADC to Medicus Pharma in up to $1B+ deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal",
+        "summary": "Pfizer has found a new home for an antibody-drug conjugate it acquired in its $43 billion Seagen buyout and dropped earlier this year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 3, 2026 11:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data\" hreflang=\"en\">Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data",
+        "summary": "Roche has decided to pay $190 million upfront for an unusual obesity mechanism after viewing preclinical data that “clearly suggests” the modality can reduce weight while preserving lean muscle, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Aug 28, 2026 4:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Superluminal snags $60M; AusperBio adds $120M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial\" hreflang=\"en\">AbbVie’s bispecific T-cell engager shows promise in ph. 3 multiple myeloma trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial",
+        "summary": "AbbVie released positive phase 3 data Thursday showing that its bispecific T-cell engager etentamig improved response rates and progression-free survival in patients with relapsed/refractory multiple myeloma.",
+        "source": "Fierce Biotech",
+        "published": "Sep 3, 2026 8:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset\" hreflang=\"en\">GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset </a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
+        "summary": "GSK is handing over $110 million upfront to Hutchmed in a deal worth up to $1.295 billion to get its hands on a first-in-class oncology candidate.",
+        "source": "Fierce Biotech",
+        "published": "Sep 3, 2026 5:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction\" hreflang=\"en\">Ultragenyx fails phase 3 Angelman test, plots ‘significant expense reductions’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction",
+        "summary": "Ultragenyx had been flying high after its recent FDA approval for Genglycos—but the company has been brought back down to earth with a damaging phase 3 flop.",
+        "source": "Fierce Biotech",
+        "published": "Sep 3, 2026 2:40am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition\" hreflang=\"en\">Fortrea boosts early-phase CRO platform with $45M acquisition of Worldwide division</a>",
+        "url": "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition",
+        "summary": "Fortrea has agreed to acquire the early-phase services division of fellow CRO Worldwide Clinical Trials for $45 million.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 2:48pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland\" hreflang=\"en\">Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland</a>",
+        "url": "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
+        "summary": "Novartis could cut about 130 jobs in Switzerland as it rethinks its biologics technical development and production footprint in Basel.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 1:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease\" hreflang=\"en\">Teva autoimmune antibody notches ph. 2 win in celiac disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease",
+        "summary": "Teva Pharmaceutical's dreams of a first-in-class autoimmune blockbuster are being kept alive after the Israeli outfit’s anti-interleukin-15 antibody scored a midstage win in celiac disease.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 10:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tscan-axes-75-workforce-make-room-solid-tumor-programs\" hreflang=\"en\">TScan axes 75% of workforce to make room for solid tumor programs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tscan-axes-75-workforce-make-room-solid-tumor-programs",
+        "summary": "TCR-T specialist TScan Therapeutics will reduce its workforce by 75% following the pause of its hematological and autoimmune programs.",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 10:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "健康160、智云、方舟、熙康：四家互联网医疗企业吃到第一波“AI红利”",
+        "url": "https://www.36kr.com/p/3966413532583556",
+        "summary": "2026年AI降本增效，四家互联网医疗公司财报值得研究",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 03 Sep 2026 03:52:01 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "豪威集团上半年净利骤降39%，昔日芯片首富“急寻”第二曲线",
+        "url": "https://www.36kr.com/p/3966052082572545",
+        "summary": "增收不增利，核心主业收入承压",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 02 Sep 2026 11:54:36 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": []
+  }
+}

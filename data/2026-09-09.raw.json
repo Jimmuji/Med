@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T13:37:44.523251+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
+        "url": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/",
+        "summary": "The moves bring stability to an agency that's been rocked by the exits of top leadership.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 21:15:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
+        "url": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/",
+        "summary": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 17:38:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: UnitedHealth’s Democrat investment, and surprise billing bloat debate",
+        "url": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/",
+        "summary": "UnitedHealth execs shower a top Democrats with cash, and the No Surprises Act debate heats up.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 14:51:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Health care features prominently in Democrats’ agenda",
+        "url": "https://www.statnews.com/2026/09/08/democrats-agenda-midterms-health-care-medicaid-cuts-aca-subsidies/",
+        "summary": "Democrats are sharpening their health care plans as the midterm elections near.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 14:22:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Oura files to goes public, reported $1.2B in earnings",
+        "url": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/",
+        "summary": "In health tech news today, Oura reports a profit, the FDA loses another key digital health leader, and more",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 14:18:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves AstraZeneca breast cancer drug",
+        "url": "https://www.statnews.com/2026/09/08/biotech-news-fda-approves-astrazeneca-breast-cancer-drug/",
+        "summary": "Roivant drug delivers mid-stage results, Moonwalk raises funds to develop longer-lasting obesity drugs, and more biotech news",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 14:09:31 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about another Novartis trial failure, a Novo Nordisk setback, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/08/novartis-reports-second-trial-failure-novo-nordisk-setback/",
+        "summary": "An experimental Novartis drug for a rare neuromuscular condition failed to improve muscle function in a pivotal study",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 13:26:51 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: AstraZeneca’s experimental COPD treatment posts strong results in late-stage studies",
+        "url": "https://www.statnews.com/2026/09/08/astrazeneca-tozorakimab-copd-exacerbations-titania-oberon/",
+        "summary": "An experimental COPD drug from AstraZeneca could prove competitive with existing treatments, and have a slice of the market to itself.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 11:45:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "An administrative gap delays access to new pancreatic cancer treatment",
+        "url": "https://www.statnews.com/2026/09/08/health-news-administrative-gap-delays-access-to-revmed-pancreatic-cancer-drug/",
+        "summary": "A new wave of illegal fruity vapes, more and more kids on GLP-1s, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 11:32:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Inhibrx claims first win for long-sought immunotherapy target",
+        "url": "https://www.statnews.com/2026/09/08/inhibrx-inbrx-106-ox40-immunotherapy-head-and-neck-cancer-hpv-positive/",
+        "summary": "“Pushing this is like a rock up a hill, because there’s been so much failure in the space,” said Inhibrx CEO Mark Lappe.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 11:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roivant lung disease drug hits mid-stage study goals",
+        "url": "https://www.statnews.com/2026/09/08/roivant-mosliciguat-pulmonary-hypertension-interstitial-lung-disease-results/",
+        "summary": "These positive results could open up a new way to treat serious lung disease.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Reynolds is selling fruity new vapes unauthorized by FDA",
+        "url": "https://www.statnews.com/2026/09/08/fda-guidance-reynolds-selling-fruity-new-vapes-unauthorized/",
+        "summary": "The decision to move ahead with new products in the absence of FDA authorization could spur other big manufacturers to do the same, one tobacco-nicotine expert said.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "A breakthrough pancreatic cancer drug won approval. They still struggle to access it",
+        "url": "https://www.statnews.com/2026/09/08/pancreatic-cancer-patients-caught-beween-fda-drug-approval-insurance-coverage/",
+        "summary": "When the FDA approved a new pancreatic cancer drug called Rasonque, researchers celebrated. But some patients hoping for quick access have been stymied.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: UnitedHealth executives shower high-ranking Democrat with donations ahead of midterms",
+        "url": "https://www.statnews.com/2026/09/08/uhg-political-donations-katherine-clark-democratic-whip-medicare-for-all/",
+        "summary": "Katherine Clark, a top House Democrat, received more than $100,000 in campaign donations from people linked to UnitedHealth Group.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: It’s time to take the gloves off during vaccination",
+        "url": "https://www.statnews.com/2026/09/08/flu-vaccination-season-gloves-waste-climate-changes/",
+        "summary": "Most of the time, it’s unnecessary to use gloves to administer a flu shot, write Cassandra Thiel and Preeti Jaggi.",
+        "source": "STAT News",
+        "published": "Tue, 08 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/hospitals-need-better-sud-care-heres-how-few-are-leading-way\" hreflang=\"en\">Hospitals need better SUD care. Team-based approaches are bringing results</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/hospitals-need-better-sud-care-heres-how-few-are-leading-way",
+        "summary": "Amid new implementation guidelines from the American Society of Addiction Medicine on improving substance use disorder care, some successful hospital addiction medicine programs have leaned on multidisciplinary consult teams.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 8, 2026 11:31am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-puts-more-pressure-dme-suppliers-part-anti-fraud-push\" hreflang=\"en\">CMS puts more pressure on DME suppliers as part of anti-fraud push</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-puts-more-pressure-dme-suppliers-part-anti-fraud-push",
+        "summary": "The Trump administration is cracking down further on durable medical equipment suppliers as part of its broader push to root out fraud.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 8, 2026 4:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/independent-kansas-health-systems-launch-shared-services-organization\" hreflang=\"en\">Independent Kansas health systems launch shared services organization</a>",
+        "url": "https://www.fiercehealthcare.com/providers/independent-kansas-health-systems-launch-shared-services-organization",
+        "summary": "Astra Health's five founding members, who serve more than half a million patients annually, hope to improve quality and trim costs at scale while maintaining their independence.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 8, 2026 3:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Health Catalyst appoints new CEO; AMA taps Jennifer Goldsack to lead Center for Digital Health and AI</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/forus-secures-150m-series-c-3b-valuation\" hreflang=\"en\">Forus secures $150M series C to grow AI-powered medication access platform</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/forus-secures-150m-series-c-3b-valuation",
+        "summary": "Health tech startup Forus banked $150 million in series C funding as it aims to expand its artificial intelligence-powered network to more medical specialties and care settings.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 8, 2026 12:08pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Trinity Health's IT outsourcing hits 557 staff; HCA Healthcare cuts corporate, support workers</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cambia-health-solutions-arkansas-blue-cross-affiliation-set-october-closure\" hreflang=\"en\">Cambia Health Solutions, Arkansas Blue Cross affiliation set for October closure</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cambia-health-solutions-arkansas-blue-cross-affiliation-set-october-closure",
+        "summary": "The planned affiliation between Cambia Health Solutions and Arkansas Blue Cross Blue Shield has taken another step forward.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 8, 2026 1:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/quel-health-launches-telehealth-platform-addiction-treatment-using-glp-1s\" hreflang=\"en\">Quel Health launches telehealth platform for addiction treatment using GLP-1s</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/quel-health-launches-telehealth-platform-addiction-treatment-using-glp-1s",
+        "summary": "The platform is currently available in 41 states and Washington, D.C., with plans to expand nationally by the end of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 8, 2026 10:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/parakeet-health-lands-major-ai-partnership-national-dermatology-group\" hreflang=\"en\">Parakeet Health lands major AI partnership with national dermatology group Qualderm</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/parakeet-health-lands-major-ai-partnership-national-dermatology-group",
+        "summary": "Parakeet Health landed a major partnership with Qualderm, one of the nation's largest dermatology organizations, as the company looks to apply agentic artificial intelligence to a growing specialty care access problem.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 8, 2026 8:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/genhealthai-secures-165m-series-back-office-ai-agents\" hreflang=\"en\">GenHealth.ai secures $16.5M in series A for back-office AI agents</a>",
+        "url": "https://www.fiercehealthcare.com/finance/genhealthai-secures-165m-series-back-office-ai-agents",
+        "summary": "GenHealth.ai’s agents automate revenue cycle workflows end-to-end across EHRs, payer portals and more.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 3, 2026 3:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-how-amcs-can-prevent-healthcare-deserts-through-strategic-ma\" hreflang=\"en\">Industry Voices—How AMCs can prevent healthcare deserts through strategic M&amp;A</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-how-amcs-can-prevent-healthcare-deserts-through-strategic-ma",
+        "summary": "Academic medical centers have an opportunity to stabilize local access—if they can become disciplined buyers, fast integrators and credible stewards of community hospitals.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 4, 2026 9:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/mark-cubans-recipe-affordable-healthcare-includes-these-5-policy-changes\" hreflang=\"en\">Mark Cuban's recipe for affordable healthcare includes these 5 policy changes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/mark-cubans-recipe-affordable-healthcare-includes-these-5-policy-changes",
+        "summary": "This week, lawmakers in the Texas state House brought in more than a dozen expert speakers to discuss how to make healthcare more affordable. One of those experts was entrepreneur and billionaire Mark Cuban.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 4, 2026 12:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-making-strong-progress-restoring-its-operations-post-cyberattack\" hreflang=\"en\">Boston Scientific cyberattack likely to have ‘material impact’ on financial results</a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-making-strong-progress-restoring-its-operations-post-cyberattack",
+        "summary": "The recent cyberattack on Boston Scientific is looking more serious than the medtech major first thought, with the company predicting a possible hit to its third-quarter and full-year results.",
+        "source": "Fierce Biotech",
+        "published": "Sep 7, 2026 3:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing\" hreflang=\"en\">AZ's R&amp;D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD</a>",
+        "url": "https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing",
+        "summary": "With a detailed data drop that AstraZeneca’s R&amp;D chief describes as an internal “science success story,” the British Big Pharma has secured an FDA priority review for what it believes could become a flagship biologic in chronic obstructive pulmonary disease.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 10:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer\" hreflang=\"en\">FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
+        "summary": "In a rare divergence from its own expert panel, the FDA has granted accelerated approval to AstraZeneca’s camizestrant, turning a contentious regulatory review into a landmark win that opens a new treatment paradigm for molecular-guided cancer care.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 9:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spyre-snags-phase-2-win-il-23-antibody-round-ulcerative-colitis-program\" hreflang=\"en\">Spyre's 3-pronged IBD strategy on track as IL-23 antibody rounds off trio of phase 2 wins</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spyre-snags-phase-2-win-il-23-antibody-round-ulcerative-colitis-program",
+        "summary": "Spyre's three-pronged approach to inflammatory bowel disease continues to pay off, with the biotech's anti-IL-23 antibody notching a phase 2 win.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 9:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/inhibrxs-profound-dataset-boosts-hopes-accelerated-approval-ox40-agonist\" hreflang=\"en\">Inhibrx CEO says progression-free survival data leave ‘no question’ about OX40 agonist’s durability</a>",
+        "url": "https://www.fiercebiotech.com/biotech/inhibrxs-profound-dataset-boosts-hopes-accelerated-approval-ox40-agonist",
+        "summary": "Inhibrx Biosciences’ CEO has argued that the 9.6 months of progression-free survival demonstrated by its OX40 agonist in a phase 2 study has proven the therapy’s durability in treating head and neck cancer.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 12:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pharvaris-builds-case-hae-drug-awaiting-fda-verdict-another-phase-3-win\" hreflang=\"en\">Pharvaris' latest phase 3 win builds case for HAE drug with FDA verdict pending</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pharvaris-builds-case-hae-drug-awaiting-fda-verdict-another-phase-3-win",
+        "summary": "Pharvaris’ deucrictibant has tasted success in a second phase 3 study, strengthening the case for the therapy to treat hereditary angioedema patients as the Swiss biotech awaits an FDA approval decision.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 9:29am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bristol-myers-pivotal-car-t-multiple-myeloma-trial-hits-primary-endpoint\" hreflang=\"en\">Bristol Myers’ pivotal CAR-T multiple myeloma trial hits primary endpoint</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bristol-myers-pivotal-car-t-multiple-myeloma-trial-hits-primary-endpoint",
+        "summary": "A pivotal trial of Bristol Myers Squibb’s GPRC5D-directed CAR-T cell therapy has hit its primary endpoint, furthering the drugmaker’s efforts to challenge Johnson &amp; Johnson for the post-BCMA multiple myeloma market.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 9:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-recalls-spinal-cord-implant-wake-more-1k-serious-injuries\" hreflang=\"en\">Boston Scientific recalls spinal cord implant in wake of more than 1k serious injuries</a>",
+        "url": "https://www.fiercebiotech.com/medtech/boston-scientific-recalls-spinal-cord-implant-wake-more-1k-serious-injuries",
+        "summary": "Boston Scientific has issued another recall, this time for its spinal cord implant used to treat pain.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 8:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/building-data-foundation-ai-driven-clinical-development\" hreflang=\"en\">Building the Data Foundation for AI-Driven Clinical Development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/building-data-foundation-ai-driven-clinical-development",
+        "summary": "H1 is transforming clinical development with connected intelligence that improves study design, accelerates execution, and reduces cost and patient burden",
+        "source": "Fierce Biotech",
+        "published": "Sep 2, 2026 3:27pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/brainchild-bio-masterminds-116m-series-pivotal-push-pediatric-brain-cancer\" hreflang=\"en\">BrainChild Bio masterminds $116M series A for CAR-T's pivotal push in pediatric brain cancer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/brainchild-bio-masterminds-116m-series-pivotal-push-pediatric-brain-cancer",
+        "summary": "A startup spawned from Seattle Children’s Hospital has raised a $116 million series A to advance cell therapies for devastating childhood brain tumors.",
+        "source": "Fierce Biotech",
+        "published": "Sep 7, 2026 2:07pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roivants-14m-bet-bayers-inhaled-hypertension-med-pays-phase-2-win\" hreflang=\"en\">Roivant’s $14M bet on Bayer’s inhaled hypertension med pays off with phase 2 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roivants-14m-bet-bayers-inhaled-hypertension-med-pays-phase-2-win",
+        "summary": "Roivant’s $14 million bet on a pulmonary hypertension drug from Bayer appears to have paid off as the inhaled med aced a phase 2 lung disease study.",
+        "source": "Fierce Biotech",
+        "published": "Sep 6, 2026 4:12am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test\" hreflang=\"en\">Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test </a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test",
+        "summary": "The phase 3 Harbor trial of Novartis’ del-desiran has missed its primary endpoint, dealing a major blow to an asset that the Swiss drugmaker acquired in the $12 billion takeover of Avidity Biosciences. The flop leaves Novartis with one win and two failures from a rapid-fire run of key clinical readouts.",
+        "source": "Fierce Biotech",
+        "published": "Sep 8, 2026 3:35am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Causal Foundation Models",
+        "url": "https://huggingface.co/papers/2609.03003",
+        "summary": "Causal inference is the practice of estimating the effect of a treatment or intervention from data. It traditionally requires a bespoke pipeline for every new problem: first proposing a causal mechanism, selecting a compatible estimator, and finally training it. Meanwhile, across diverse settings and modalities, much of machine learning has shifted to the paradigm of foundation models: networks pretrained once at scale and applied to new tasks without fine-tuning. Causal foundation models (CFMs) bring this paradigm to causal inference. CFMs are pretrained neural networks that estimate causal q",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-01T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

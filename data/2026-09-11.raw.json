@@ -1,0 +1,358 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T13:30:01.957622+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
+        "url": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/",
+        "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 19:57:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
+        "url": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/",
+        "summary": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 18:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why two promising heart drugs flopped and what’s next",
+        "url": "https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/",
+        "summary": "This week on \"The Readout LOUD\" podcast: Two experimental drugs were heralded as the next era in heart disease treatment — why did they fail?",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 17:29:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The gifts from pharma companies that keep on giving",
+        "url": "https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/",
+        "summary": "There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 16:47:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Can AI save rural health care?",
+        "url": "https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/",
+        "summary": "Nominees for top federal health roles to face Congress, and Trump officials are betting on AI to help save rural health care.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 14:53:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA expands Bayer lung cancer drug approval",
+        "url": "https://www.statnews.com/2026/09/10/biotech-news-fda-expands-bayer-lung-cancer-drug-approval/",
+        "summary": "UniQure readout tests durability of benefits, an AI effort to manage heart failure, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 13:36:56 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/",
+        "summary": "A major Novartis shareholder has called for a shake-up of the drugmaker's board after its shares suffered a record fall following trial setbacks",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 13:09:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cancer medicines remain in short supply across the U.S., survey finds",
+        "url": "https://www.statnews.com/pharmalot/2026/09/10/cancer-medicines-remain-in-short-supply-across-the-united-states/",
+        "summary": "An ongoing shortage of cancer medications continues to force leading cancer centers around the U.S. to seek work-around strategies to treat patients and a majority also report that clinical trials&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 13:01:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Oz says ‘AI-based avatars’ can help rural communities. Some leaders disagree",
+        "url": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/",
+        "summary": "Feds invest in AI for heart failure, vaccines and this year's midterms, and more health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 11:34:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What to expect from UniQure’s upcoming Huntington’s gene therapy readout",
+        "url": "https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/",
+        "summary": "Before the end of September, UniQure is expected to report four-year results from the closely tracked clinical trial of its gene therapy for Huntington’s disease.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roivant is one of the savviest dealmakers in biotech. It also has a secret weapon",
+        "url": "https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/",
+        "summary": "A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s origins are another fascinating aspect to the story.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: John Fetterman’s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill",
+        "url": "https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/",
+        "summary": "“Nothing in the recent reporting about John Fetterman is medically surprising,” write Michael P.H. Stanley and Isaiah Kletenik.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump officials say AI will help save rural health care. Some leaders in the field don’t believe it",
+        "url": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/",
+        "summary": "Rural health care providers have struggled for years. The Trump administration is pointing to a cutting-edge, if unproven way to save them: artificial intelligence.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Five midterm races to watch that could be crucial for vaccine policy",
+        "url": "https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/",
+        "summary": "GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democrats in Michigan and South Carolina are ready for a fight.",
+        "source": "STAT News",
+        "published": "Thu, 10 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
+        "url": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/",
+        "summary": "A U.K. commission has unveiled its recommendations for how the country should regulate artificial intelligence in medicine.",
+        "source": "STAT News",
+        "published": "Wed, 09 Sep 2026 23:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ascension-plans-acquire-independent-system-williamson-health-nearly-1b\" hreflang=\"en\">Williamson Health moves closer to Ascension sale with county board vote</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ascension-plans-acquire-independent-system-williamson-health-nearly-1b",
+        "summary": "Ascension's offer for the Tennessee system includes a $700 million price tag and $250 million of capital support over 10 years.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 7, 2026 11:38am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tenet-laying-1000-conifer-employees-amid-commonspirit-contract-breakup\" hreflang=\"en\">Tenet laying off 1,000+ Conifer employees amid CommonSpirit contract breakup</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tenet-laying-1000-conifer-employees-amid-commonspirit-contract-breakup",
+        "summary": "The for-profit healthcare company's revenue cycle subsidiary is in the midst of a pivot with the early conclusion of a long-term outsourcing contract.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 10, 2026 2:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/ctas-dc-healthcare-event-federal-officials-outline-ai-ambitions-clinicians-debate-risks\" hreflang=\"en\">At CTA event, federal health officials outline AI ambitions as clinicians debate risks</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/ctas-dc-healthcare-event-federal-officials-outline-ai-ambitions-clinicians-debate-risks",
+        "summary": "Federal healthcare agencies are accelerating efforts to expand artificial intelligence's role in healthcare, with clinical AI emerging as a top strategic priority for the Centers for Medicare &amp; Medicaid Services.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 10, 2026 11:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/white-house-plans-500-refunds-nearly-1m-aca-enrollees\" hreflang=\"en\">White House plans $500 refunds for nearly 1M ACA enrollees</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/white-house-plans-500-refunds-nearly-1m-aca-enrollees",
+        "summary": "The White House announced Thursday that it plans to issue $500 refunds to close to a million people enrolled in Affordable Care Act plans.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 10, 2026 12:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/university-iowa-health-care-calls-2b-patient-tower-build\" hreflang=\"en\">University of Iowa Health Care calls off $2B+ patient tower build</a>",
+        "url": "https://www.fiercehealthcare.com/providers/university-iowa-health-care-calls-2b-patient-tower-build",
+        "summary": "\"Significant financial challenges” facing the healthcare industry at large have limited Iowa Health Care’s ability to “responsibly” deploy capital toward the five-year build. It is now proposing a $380 million capital plan focused on updating and expanding existing facilities.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 10, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/optum-health-ceo-pulls-back-curtain-turnaround\" hreflang=\"en\">Optum Health CEO pulls back curtain on turnaround</a>",
+        "url": "https://www.fiercehealthcare.com/payers/optum-health-ceo-pulls-back-curtain-turnaround",
+        "summary": "As UnitedHealth Group continues to chart a turnaround from a challenging 2025, the company's top brass is pulling back the curtain on those efforts at its healthcare services unit, Optum Health.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 10, 2026 11:23am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia\" hreflang=\"en\">Rural Health Transformation Program funding tracker: CMS awards New York $76M; Indiana receives $120M</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia",
+        "summary": "Stay up-to-date with this tracker for the latest RHTP funding announcements and disclosures.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 11:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/anomaly-insights-inova-health-announce-collaboration-ai-powered-rcm\" hreflang=\"en\">Anomaly Insights, Inova Health partner on AI-powered RCM</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/anomaly-insights-inova-health-announce-collaboration-ai-powered-rcm",
+        "summary": "Through the partnership, Anomaly will provide Inova with additional data and analytics to evaluate payer behavior and payment outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 9, 2026 12:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/interra-health-now-supports-cms-glp-1-bridge-program\" hreflang=\"en\">Interra Health now supports CMS’ GLP-1 Bridge Program</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/interra-health-now-supports-cms-glp-1-bridge-program",
+        "summary": "Interra Health’s platform alerts providers when patients may be eligible to enroll in the program, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 9, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/elective-surgical-volumes-drag-2026-health-system-execs-say-solid-demand-still-sight\" hreflang=\"en\">As elective surgical volumes drag in 2026, health system execs say solid demand is still in sight</a>",
+        "url": "https://www.fiercehealthcare.com/providers/elective-surgical-volumes-drag-2026-health-system-execs-say-solid-demand-still-sight",
+        "summary": "In fireside chats this week, leaders of the country's largest for-profit systems acknowledged a slowdown in demand that will generally continue through 2026. They also affirmed continued investments to meet future anticipated demand, particularly in ambulatory settings.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 9, 2026 5:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/obbbas-state-directed-payment-caps-will-trim-some-states-medicaid-spend-quarter-study\" hreflang=\"en\">OBBBA's state-directed payment caps will trim some states' Medicaid spend by a quarter: study</a>",
+        "url": "https://www.fiercehealthcare.com/providers/obbbas-state-directed-payment-caps-will-trim-some-states-medicaid-spend-quarter-study",
+        "summary": "Upcoming statutory limits on providers’ state-directed payments (SDPs) are expected to trim tens of billions of dollars from states’ Medicaid spending, and for 17 hard-hit states could range from 10% to 25% of their total annual Medicaid spending.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 9, 2026 2:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/increases-healthcare-spending-largest-driver-behind-premium-growth-yale-study\" hreflang=\"en\">Increases in healthcare spending the largest driver behind premium growth: Yale study</a>",
+        "url": "https://www.fiercehealthcare.com/payers/increases-healthcare-spending-largest-driver-behind-premium-growth-yale-study",
+        "summary": "As insurance premiums continue to rise, a new study finds that escalating healthcare spending is the leading factor behind the trend.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 9, 2026 12:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters\" hreflang=\"en\">Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters</a>",
+        "url": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
+        "summary": "Novartis’ recent dual clinical setbacks have prompted questions from a major shareholder about the board’s oversight of dealmaking.",
+        "source": "Fierce Biotech",
+        "published": "Sep 10, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/massachusetts-biotech-its-all-about-access-capital-governor-healey\" hreflang=\"en\">Mass. governor makes pre-election pitch to biotechs amid warning early-stage start-ups are 'dying'</a>",
+        "url": "https://www.fiercebiotech.com/biotech/massachusetts-biotech-its-all-about-access-capital-governor-healey",
+        "summary": "It may have seemed like an ordinary Wednesday afternoon at MassBio’s headquarters in Technology Square, but the black SUV parked outside was a telltale sign that the Cambridge, Massachusetts-based biotech trade group was playing host to a government official.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 10:20pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biohaven-drug-suffers-fda-hold-days-after-attracting-350m-deal\" hreflang=\"en\">Biohaven epilepsy drug suffers FDA hold days after attracting $350M deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biohaven-drug-suffers-fda-hold-days-after-attracting-350m-deal",
+        "summary": "The FDA has put enrollment in trials of Biohaven’s epilepsy drug candidate BHV-7000 on hold in response to findings from rodent tests, dealing a blow to an asset covered by a pending $350 million deal.",
+        "source": "Fierce Biotech",
+        "published": "Sep 10, 2026 10:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs\" hreflang=\"en\">Frazier Life Sciences nets $1.1B in long-running fund aimed at small, midsize biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs",
+        "summary": "Frazier Life Sciences (FLS) has stacked up another sizable biotech-focused capital commitment, netting more than $1.1 billion for its long-running public fund.",
+        "source": "Fierce Biotech",
+        "published": "Sep 10, 2026 9:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/takedas-long-serving-rd-chief-andy-plump-retire-wake-pipeline-successes\" hreflang=\"en\">Takeda’s long-serving R&amp;D chief Andy Plump to retire in wake of pipeline successes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/takedas-long-serving-rd-chief-andy-plump-retire-wake-pipeline-successes",
+        "summary": "Andy Plump, M.D., Ph.D., president of research and development at Takeda, is set to leave the company in June.",
+        "source": "Fierce Biotech",
+        "published": "Sep 10, 2026 9:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/nphase-launches-clinical-data-management-platform-improve-sponsor-trial-design\" hreflang=\"en\">nPhase launches AI clinical data management platform to soup up sponsor trial design</a>",
+        "url": "https://www.fiercebiotech.com/cro/nphase-launches-clinical-data-management-platform-improve-sponsor-trial-design",
+        "summary": "Clinical research company nPhase has launched an end-to-end clinical data management platform designed to help trial sponsors leverage trial results with AI.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 1:52pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kura-creates-lilly-backed-spinout-take-forward-next-gen-diabetes-therapy\" hreflang=\"en\">Kura creates Lilly-backed spinout armed with $50M to advance next-gen diabetes therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kura-creates-lilly-backed-spinout-take-forward-next-gen-diabetes-therapy",
+        "summary": "Kura Oncology has spun out a biotech armed with $50 million in fresh funding to take forward a next-generation diabetes treatment.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 8:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/luma-closes-410m-fund-life-sciences-biotechs-over-15-years\" hreflang=\"en\">Luma locks down 15-year, $410M fund for life science investments</a>",
+        "url": "https://www.fiercebiotech.com/biotech/luma-closes-410m-fund-life-sciences-biotechs-over-15-years",
+        "summary": "Luma Group announced the final close of its inaugural life sciences venture capital fund totaling $410 million.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 9:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/encoded-executes-275m-raise-advance-dravet-syndrome-asset-and-scale-manufacturing\" hreflang=\"en\">GV-backed Encoded gains $275M to advance Dravet drug, scale genetic med manufacturing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/encoded-executes-275m-raise-advance-dravet-syndrome-asset-and-scale-manufacturing",
+        "summary": "Neuro-focused Encoded Therapeutics has bagged a $275 million series F round to support its Dravet syndrome asset and scale up its internal manufacturing capabilities.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 9:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tyra-rolls-toward-pivotal-bladder-cancer-study-even-midphase-data-deflates-stock\" hreflang=\"en\">Tyra rolls toward pivotal bladder cancer study even as midphase data deflates stock </a>",
+        "url": "https://www.fiercebiotech.com/biotech/tyra-rolls-toward-pivotal-bladder-cancer-study-even-midphase-data-deflates-stock",
+        "summary": "Tyra Biosciences has reported initial phase 2 data on dabogratinib in bladder cancer, putting the biotech on course to start a registrational study next year. But the biotech’s stock fell in premarket trading after the complete response rate fell short of the level targeted by analysts.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 9:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-snaps-mlm-medical-labs-boost-laboratory-footprint\" hreflang=\"en\">Labcorp snaps up MLM Medical Labs to boost laboratory footprint</a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-snaps-mlm-medical-labs-boost-laboratory-footprint",
+        "summary": "Medtech and testing giant Labcorp has bought out MLM Medical Labs to help grow its geographic footprint for laboratory services.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 2:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-solidifies-cder-cber-leadership-posts-commissioner-confirmation-awaits\" hreflang=\"en\">FDA solidifies CDER, CBER leadership posts as commissioner confirmation awaits</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fda-solidifies-cder-cber-leadership-posts-commissioner-confirmation-awaits",
+        "summary": "In a stabilizing move, the Department of Health and Human Services announced Tuesday afternoon that it has tapped Michael Davis, M.D., Ph.D., and Karim Mikhail—who’ve been serving as acting directors of CDER and CBER, respectively—to occupy their posts on a permanent basis.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 9:01am",
+        "importance_hint": 5
+      },
+      {
+        "title": "医研产投大咖阵容揭晓， 第四届香港具身智能医疗科技论坛议程正式发布",
+        "url": "https://www.36kr.com/p/3976932561236482",
+        "summary": "深入探讨人工智能与机器人技术的临床落地路径，推动全球医疗科技的进步与产业化发展。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 10 Sep 2026 01:45:10 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
+        "url": "https://huggingface.co/papers/2609.06931",
+        "summary": "Invasive coronary angiography (CAG) is the gold standard for diagnosing coronary artery disease, but interpretation varies substantially among observers. Existing AI systems can improve consistency but lack auditable decision processes and are limited in comprehensive open-ended assessment, undermining clinician trust and clinical adoption readiness. We developed CARDEA, a unified large vision-language model that serves as the inference core of a CAG pipeline. It was trained solely on public datasets and closed-ended tasks in three stages: visual feature alignment, a self-distilled Chain-of-Bo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+        "url": "https://huggingface.co/papers/2609.05405",
+        "summary": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable record. We introduce WearableQA, a benchmark comprising 4,084 10-option multiple-choice questions constructed from the wearable time series, blood biomarkers, and demographics of 200 real users, each with up to 500 days of daily measurements. WearableQA preserves authentic wearable distributions that include device noise and inter-individual variability. To evaluate distinct reaso",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-03T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+        "url": "https://huggingface.co/papers/2609.09140",
+        "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular temporal dynamics and inherent stochasticity of real-world multimodal patient data. Existing AI approaches for modeling longitudinal patient records are predominantly discriminative, limited to a few modalities, constrained by closed categorical vocabularies, treating time as a monotonic inductive bias, o",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-07T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

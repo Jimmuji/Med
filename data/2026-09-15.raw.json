@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:38:31.837482+08:00",
+  "counts": {
+    "news": 38,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Judge blocks Trump administration plans to limit visa length for grad students, postdocs",
+        "url": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/",
+        "summary": "A federal judge halted a Trump administration plan to place a four-year cap on the kinds of visas used by graduate students and postdocs",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 21:20:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Abbott agrees to settlement over closure of largest baby formula plant in the U.S.",
+        "url": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/",
+        "summary": "Abbott has agreed to a $385 million settlement over the closure of the largest baby formula plant in the U.S., which led to the supply shortages in 2022.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 19:18:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Kennedy to deliver keynote for anti-vaccine group he once led",
+        "url": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/",
+        "summary": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 17:37:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How $500 explains Republican health policy, and the GLP-1 Rx wave",
+        "url": "https://www.statnews.com/2026/09/14/trump-cash-obamacare-plans-rural-hospitals-artificial-intelligence/",
+        "summary": "The one health care policy Republicans agree on, and a look at how rural providers are approaching AI.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 16:02:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Pennsylvania officials report state’s third death involving measles",
+        "url": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/",
+        "summary": "A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 14:34:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GSK touts lung cancer data from two drugs",
+        "url": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/",
+        "summary": "Late-stage results for Definium's LSD treatment, AstraZeneca breast cancer drug fails key trial, and more biotech news from The Readout",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 13:34:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about another AstraZeneca trial failure, a Novo name change, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/14/another-astrazeneca-trial-failure-novo-name-change/",
+        "summary": "AstraZeneca disclosed that a breast cancer pill failed in a pivotal trial testing it as a first-line therapy in advanced tumors",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 13:07:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Pennsylvania records third measles-related death amid outbreak",
+        "url": "https://www.statnews.com/2026/09/14/health-enws-pennsylvania-records-third-measles-related-death-amid-outbreak/",
+        "summary": "RSV season approaches, a federal judge pauses AAP challenge of RFK J.r vaccine charges, and more health news",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 11:49:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Definium’s LSD therapy eased anxiety in second large trial",
+        "url": "https://www.statnews.com/2026/09/14/definiums-lsd-therapy-eased-anxiety-large-trial-psychedelic/",
+        "summary": "The first wave of biotechs is nearing regulatory approval for psychedelic therapies, a class of treatments that appear to exert rapid benefits.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What’s in a name? Novo looks to a rebrand",
+        "url": "https://www.statnews.com/2026/09/14/novo-nordisk-company-rebrand-obesity-diabetes/",
+        "summary": "Novo Nordisk is now going by Novo, part of a rebrand that the company hopes can signal a more focused, competitive future.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 08:58:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Am I a hypocrite for loving football despite CTE?",
+        "url": "https://www.statnews.com/2026/09/14/football-cte-risk-should-we-feel-guilty-for-watching-nfl/",
+        "summary": "Sportswriter and football fan Michael Arkush has known about CTE for years. But he increasingly feels uneasy about watching the game he loves.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Restoring public trust in science doesn’t have a simple solution. That’s OK",
+        "url": "https://www.statnews.com/2026/09/14/trust-in-science-academia-research-communication-listening/",
+        "summary": "“Messaging can’t substitute for the relational infrastructure needed for building and sustaining trust,” write Michelle Groman and Caroline Montojo.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The GOP’s $50 billion rural health fund is coming up short, hospital leaders say",
+        "url": "https://www.statnews.com/2026/09/14/rural-health-transformation-fund-skepticism-shortcomings-part-5-unraveled-series/",
+        "summary": "Hospital leaders were excited about the Rural Health Transformation Fund until they saw the fine print.",
+        "source": "STAT News",
+        "published": "Mon, 14 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s secretive pharma deals may undermine ‘most-favored nation’ pricing, an analysis suggests",
+        "url": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/",
+        "summary": "The projected savings from Trump's \"most-favored nation\" pricing policy might be drastically reduced by secretive deals with pharma companies, a new analysis finds.",
+        "source": "STAT News",
+        "published": "Sun, 13 Sep 2026 22:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/us-news-best-childrens-hospitals-lurie-childrens-upmc-join-honor-roll-boston-childrens\" hreflang=\"en\">US News' Best Children's Hospitals: Lurie Children's, UPMC join honor roll, Boston Children's tops specialty ranks</a>",
+        "url": "https://www.fiercehealthcare.com/providers/us-news-best-childrens-hospitals-lurie-childrens-upmc-join-honor-roll-boston-childrens",
+        "summary": "The highly watched annual ranking judges children's hospitals on their structural measures and processes, outcomes and expert opinion.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 14, 2026 2:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-administration-decouples-visa-duration-training-program-length\" hreflang=\"en\">Judge blocks DHS rule ending 'duration of status' for international students</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-administration-decouples-visa-duration-training-program-length",
+        "summary": "About one in 10 physicians in a residency or fellowship program are sponsored under a J visa. The policy had been finalized in July and was set to go into effect on Sept. 15.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 20, 2026 5:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety\" hreflang=\"en\">As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety</a>",
+        "url": "https://www.fiercehealthcare.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety",
+        "summary": "As the FDA marches toward the likely first approval of a psychedelic medicine, the agency today convened a hearing seeking public input on how these drugs should be used, monitored and continuously studied in the real world.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 14, 2026 5:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/states-are-betting-millions-remote-patient-monitoring-providers-tech-groups-say\" hreflang=\"en\">States are betting millions on remote monitoring. Providers, tech groups say proposed Medicare policy could undercut it</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/states-are-betting-millions-remote-patient-monitoring-providers-tech-groups-say",
+        "summary": "States are pouring billions into remote monitoring and virtual care infrastructure to address rural access gaps, but federal reimbursement changes could undermine the financial model many providers use to deliver those services.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 14, 2026 12:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/how-medicaid-work-requirements-could-impact-young-adults\" hreflang=\"en\">How Medicaid work requirements could impact young adults</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/how-medicaid-work-requirements-could-impact-young-adults",
+        "summary": "New research from the Urban Institute finds that millions of young adults could lose Medicaid coverage when work requirements are implemented next year.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 11, 2026 3:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Leadership shuffle at Keck Medicine; BCBSA taps new CFO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/payment-integrity-leaders-are-stuck-reaction-mode-programs-built-scale-reverse-trend\" hreflang=\"en\">Payment Integrity leaders are stuck in reaction mode. Programs built to scale reverse that trend.</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/payment-integrity-leaders-are-stuck-reaction-mode-programs-built-scale-reverse-trend",
+        "summary": "Your Payment Integrity program may be reacting to cost pressure, not solving it. Here's what separates the two.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 9, 2026 4:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/aha-regulators-look-beyond-commercial-prices-when-weighing-hospital-mergers\" hreflang=\"en\">AHA to regulators: Look beyond commercial prices when weighing hospital mergers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/aha-regulators-look-beyond-commercial-prices-when-weighing-hospital-mergers",
+        "summary": "The country's biggest hospital lobby, armed with a commissioned analysis, underscored the stakes vulnerable patients and facilities face when a hospital merger proposal faces antitrust scrutiny.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 11, 2026 2:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-revenue-cycle-ai-powered-pre-bill-claim-review\" hreflang=\"en\">Abridge expands into revenue cycle with AI-powered pre-bill claim review</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-revenue-cycle-ai-powered-pre-bill-claim-review",
+        "summary": "Abridge is moving into mid-revenue cycle workflows. The company launched a pre-bill review capability designed specifically for clinical documentation integrity, coding and revenue cycle teams.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 13, 2026 7:22pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/scan-ceo-sachin-jain-publishing-book-ethical-healthcare-leadership-heres-why\" hreflang=\"en\">SCAN CEO Sachin Jain is publishing a book on ethical healthcare leadership. Here's why</a>",
+        "url": "https://www.fiercehealthcare.com/payers/scan-ceo-sachin-jain-publishing-book-ethical-healthcare-leadership-heres-why",
+        "summary": "Through the book, Sachin Jain, M.D., aims to call on healthcare leaders to acknowledge their role in normalizing what shouldn't be and take a more ethical approach to their positions.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 11, 2026 5:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/arpa-h-launches-63m-cardiovascular-ai-initiative-naming-updoc-tempus-ai\" hreflang=\"en\">ARPA-H launches $63M effort to build FDA-authorized AI agents for heart failure care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/arpa-h-launches-63m-cardiovascular-ai-initiative-naming-updoc-tempus-ai",
+        "summary": "A key aspect of the initiative is close collaboration with the FDA to establish a regulatory framework for a new class of autonomous clinical AI.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 11, 2026 11:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Epsilon Health nabs $27.6M; Implicity secures $40M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety\" hreflang=\"en\">As ‘cultural weight’ of a psychedelic approval looms, FDA hearing focuses on access and safety</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cultural-weight-psychedelic-approval-looms-fda-hearing-focuses-access-and-safety",
+        "summary": "As the FDA marches toward the likely first approval of a psychedelic medicine, the agency today convened a hearing seeking public input on how these drugs should be used, monitored and continuously studied in the real world.",
+        "source": "Fierce Biotech",
+        "published": "Sep 14, 2026 5:48pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-cans-early-experimental-obesity-drug-after-high-bar-not-met\" hreflang=\"en\">Lilly cans early experimental obesity drug after ‘high bar’ not met</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-cans-early-experimental-obesity-drug-after-high-bar-not-met",
+        "summary": "Eli Lilly has put the kibosh on an early-stage obesity drug after the candidate didn’t meet the pharma giant’s lofty expectations.",
+        "source": "Fierce Biotech",
+        "published": "Sep 14, 2026 12:38pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/corbus-posts-phase-1-obesity-data-area-where-novo-and-sanofi-stumbled\" hreflang=\"en\">Corbus posts phase 1 obesity data for drug mechanism that defeated Novo, Sanofi</a>",
+        "url": "https://www.fiercebiotech.com/biotech/corbus-posts-phase-1-obesity-data-area-where-novo-and-sanofi-stumbled",
+        "summary": "Corbus Pharmaceuticals’ phase 1b obesity trial has generated evidence that its CB1 inverse agonist may be less prone to the neuropsychiatric side effects that affected Novo Nordisk and Sanofi. The biotech plans to enter phase 2.",
+        "source": "Fierce Biotech",
+        "published": "Sep 14, 2026 10:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/electra-aims-342m-ipo-power-inflammatory-drugs-push-through-phase-3\" hreflang=\"en\">Electra aims for $342M IPO to power inflammatory drug’s push through phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/electra-aims-342m-ipo-power-inflammatory-drugs-push-through-phase-3",
+        "summary": "Electra Therapeutics is hoping to raise up to $341.9 million from an IPO in order to power the clinical development of its inflammatory disorder drug, ipsoprubart.",
+        "source": "Fierce Biotech",
+        "published": "Sep 14, 2026 8:55am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/jj-looking-offload-orthopedics-unit-20b-deal-apollo-bloomberg\" hreflang=\"en\">J&amp;J looking to offload orthopedics unit in $20B deal to Apollo: Bloomberg</a>",
+        "url": "https://www.fiercebiotech.com/medtech/jj-looking-offload-orthopedics-unit-20b-deal-apollo-bloomberg",
+        "summary": "Johnson &amp; Johnson is nearing a $20 billion deal to sell off its unwanted hips-and-knees business, DePuy Synthes, to private equity firm Apollo Equity Management.",
+        "source": "Fierce Biotech",
+        "published": "Sep 13, 2026 11:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/moving-nams-progress-practice-building-foundation-broader-adoption\" hreflang=\"en\">Moving NAMs from Progress to Practice: Building the Foundation for Broader Adoption</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/moving-nams-progress-practice-building-foundation-broader-adoption",
+        "summary": "The future of NAMs depends on more than innovation. Learn how sourcing, standards and evidence can accelerate adoption.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 10:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/signal-changes-everything-understanding-mrd-oncology-drug-development-0\" hreflang=\"en\">The signal that changes everything: understanding MRD in oncology drug development</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/signal-changes-everything-understanding-mrd-oncology-drug-development-0",
+        "summary": "Is the cancer truly gone?",
+        "source": "Fierce Biotech",
+        "published": "Sep 10, 2026 4:55pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/definium-lsd-drug-goes-3-3-another-pivotal-anxiety-trial-win\" hreflang=\"en\">Definium LSD drug goes 3 for 3 with another pivotal anxiety trial win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/definium-lsd-drug-goes-3-3-another-pivotal-anxiety-trial-win",
+        "summary": "Definium Therapeutics has scored a third straight phase 3 win for its LSD formula, with the psychedelic significantly alleviating anxiety symptoms and setting up an FDA filing next year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 11, 2026 3:07pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push\" hreflang=\"en\">No more Nordisk as Novo goes it alone amid rebranding push</a>",
+        "url": "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
+        "summary": "As Novo Nordisk continues its epic battle with Eli Lilly for market share in the increasingly competitive obesity and diabetes space, Novo is launching a major rebrand of its business, logo and name.",
+        "source": "Fierce Biotech",
+        "published": "Sep 14, 2026 6:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival\" hreflang=\"en\">Roche, MediLink notch phase 3 lung cancer win but trail GSK on cross-trial survival</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival",
+        "summary": "MediLink has reported phase 3 results on a Roche-partnered antibody-drug conjugate. The small-cell lung cancer trial hit its primary endpoint, although the B7-H3-directed ADC’s median overall survival fell short of the bar set by GSK’s rival asset.",
+        "source": "Fierce Biotech",
+        "published": "Sep 14, 2026 5:11am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cellectis-cans-allogeneic-car-ts-hop-aboard-vivo-bandwagon\" hreflang=\"en\">Cellectis cans allogeneic CAR-Ts to hop aboard in vivo bandwagon</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cellectis-cans-allogeneic-car-ts-hop-aboard-vivo-bandwagon",
+        "summary": "Cellectis may have kicked off the year promising “huge momentum” in the allogeneic CAR-T space, but even the French biotech has been unable to resist the dominance of in vivo options.",
+        "source": "Fierce Biotech",
+        "published": "Sep 14, 2026 5:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-sets-survival-standard-hard-treat-cancer-ahead-pivotal-readout\" hreflang=\"en\">BioNTech sets survival standard in hard-to-treat cancer ahead of pivotal readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biontech-sets-survival-standard-hard-treat-cancer-ahead-pivotal-readout",
+        "summary": "BioNTech has linked gotistobart to a median overall survival of 18.5 months in relapsed lung cancer patients, adding to evidence that the anti-CTLA-4 antibody is better than the standard of care.",
+        "source": "Fierce Biotech",
+        "published": "Sep 11, 2026 9:30am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+        "url": "https://huggingface.co/papers/2609.10728",
+        "summary": "Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each calculator as a validated function, one at a time. We test an alternative: the model does not calculate. Instead, it writes case-specific Python that a restricted local executor runs as a deterministic solver, and the model's task reduces to deciding how to use it. We evaluate this Program-Solve interface on MedCalc-Bench Verified (1,100 cases, 55 calculators) against direct model arithmetic and a ha",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-08T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision",
+        "url": "https://huggingface.co/papers/2609.07099",
+        "summary": "We present our submission to the EgoProactive track of the ECCV 2026 Wearable AI Challenge, which ranked first in the large-model division and second in the <=2B division. The task requires a wearable assistant to decide after each eight-second segment of egocentric video whether to intervene or remain silent.\n  Our approach has two main components. First, we reformulate intervention timing as single-token classification. Rather than generating either interrupt<utterance> or silent, the model predicts yes or no, and we derive the decision from the renormalised probabilities of these two tokens",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-09T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model",
+        "url": "https://huggingface.co/papers/2609.07154",
+        "summary": "We describe our entry to the EgoLongQA track of the Wearable-AI Challenge in ECCV 2026, which placed first in the <=2B parameter division with 0.8279 on the held-out test set. Our system is a single 2B vision-language model that answers multiple-choice questions about ten-minute egocentric videos in one greedy forward pass; It is obtained by distilling the junior perception module of a tool-using agentic pipeline, not the agent itself into a small student, using teacher traces filtered to those that answered correctly. it reaches 89% of the accuracy of the large agentic pipeline using 1.1% of ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-09T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

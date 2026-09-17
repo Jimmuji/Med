@@ -1,0 +1,374 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:38:18.958367+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
+        "url": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/",
+        "summary": "The lawsuit seeks to halt the process of searching grant applications for specific terms to determine if they should be rejected.",
+        "source": "STAT News",
+        "published": "Thu, 17 Sep 2026 00:39:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GOP aims to change Medicare adviser’s math so it’s more favorable to health insurers",
+        "url": "https://www.statnews.com/2026/09/16/medicare-advantage-overpayments-analysis-medpac-change-apples-to-apples-act/",
+        "summary": "The GOP bill directs MedPAC to study the topic of overpayments to Medicare Advantage plans in a manner that’s more favorable to insurers.",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 20:20:15 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Senators highlight the power Chris Klomp wields at confirmation hearings",
+        "url": "https://www.statnews.com/2026/09/16/senators-highlight-chris-klomp-power-rfk-jr-second-in-command/",
+        "summary": "Chris Klomp has already played a major role in the Trump administration and its Make America Healthy Again agenda.",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 19:17:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "WHO expresses cautious optimism about bid to control Ebola outbreak in DRC",
+        "url": "https://www.statnews.com/2026/09/16/ebola-outbreak-drc-who-cautious-optimism/",
+        "summary": "There is reason to be cautiously optimistic about the trajectory of the current Ebola outbreak in the Democratic Republic of the Congo, the WHO says.",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 16:29:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Scientists made mice with half a brain. Then they filled them with human organoids",
+        "url": "https://www.statnews.com/2026/09/16/human-brain-organoids-neuro-chimeric-mice-study-published-nature/",
+        "summary": "Scientists have made mice with half a brain, then filled them with human organoids — possibly opening new avenues for research but also raising ethical issues.",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 15:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Sen. Warren demands to see Trump drug-pricing pharma contracts, accuses RFK Jr. of hiding them",
+        "url": "https://www.statnews.com/2026/09/16/biotech-news-sen-warren-demands-to-see-trump-drug-pricing-contracts/",
+        "summary": "An FDA pilot program to speed up drug development, Democrats plan health care probes after midterms, and more biotech news",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 13:34:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about faster FDA approvals, access to experimental drugs in Montana, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/16/fda-plans-to-speed-approvals-experimental-drugs-in-montana/",
+        "summary": "The FDA is opening applications for a pilot program designed to shorten the time it takes for drugmakers to begin testing their products in humans",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 13:29:12 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "U.S. reaches highest number of measles deaths in decades",
+        "url": "https://www.statnews.com/2026/09/16/health-news-us-reaches-measles-death-high-in-decades/",
+        "summary": "How the midterms could change health care, the sedative contaminating the fentanyl black market, and other health news from Morning Rounds",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 11:56:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: House Democrats may use oversight powers to plan for health care overhaul",
+        "url": "https://www.statnews.com/2026/09/16/healthcare-reform-house-democrats-oversight-targets-after-midterms/",
+        "summary": "Democrats are mapping out their post-election strategy, and see health care probes as a winning issue.",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How my cancer diagnosis changed the way I train physicians",
+        "url": "https://www.statnews.com/2026/09/16/medical-school-cancer-structure-pathology-professor-personal-experience/",
+        "summary": "“The tumors, test results, and treatments I present to future physicians? Mine,” writes David Elkowitz, a professor of pathology and laboratory medicine and science education.",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Dementia should be a campaign issue — not an insult",
+        "url": "https://www.statnews.com/2026/09/16/dementia-november-2026-midterm-elections-policy-privacy-caregivers-economy/",
+        "summary": "STAT’s Neurotransmissions columnist Jason Karlawish asks: What are the harms of the way politicians talk about dementia? What should they say instead?",
+        "source": "STAT News",
+        "published": "Wed, 16 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A fourth measles death is reported in Pennsylvania",
+        "url": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/",
+        "summary": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old.",
+        "source": "STAT News",
+        "published": "Tue, 15 Sep 2026 18:43:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: RFK Jr. returns to his roots",
+        "url": "https://www.statnews.com/2026/09/15/rfk-childrens-health-defense-chris-klomp-hearings-dc-diagnosis/",
+        "summary": "Kennedy will keynote a Children's Health Defense event, and hospitals are disappointed by GOP's rural health fund.",
+        "source": "STAT News",
+        "published": "Tue, 15 Sep 2026 14:55:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare to expand its pilot that pays for technology to manage chronic diseases",
+        "url": "https://www.statnews.com/2026/09/15/medicare-access-chronic-care-management-tech-pilot-expanding/",
+        "summary": "A recently launched Medicare experiment that pays for technology to help people manage chronic conditions is expanding.",
+        "source": "STAT News",
+        "published": "Tue, 15 Sep 2026 14:28:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA takes applications for new program to shorten drug approval times",
+        "url": "https://www.statnews.com/2026/09/15/fda-launches-program-to-shorten-drug-approval-times/",
+        "summary": "The FDA is opening applications for a pilot program designed to shorten drug approval timelines and help the U.S. compete with countries like China and Australia.",
+        "source": "STAT News",
+        "published": "Tue, 15 Sep 2026 14:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/scan-health-plan-walmart-partner-medicare-advantage-plans\" hreflang=\"en\">SCAN Health Plan, Walmart partner on Medicare Advantage plans</a>",
+        "url": "https://www.fiercehealthcare.com/payers/scan-health-plan-walmart-partner-medicare-advantage-plans",
+        "summary": "The collaboration could offer customers pharmacy and vision services, food and over-the-counter benefits, pending regulatory review and approvals",
+        "source": "Fierce Healthcare",
+        "published": "Sep 16, 2026 3:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/virtual-ckd-management-solutions-dont-slow-disease-progression-or-lower-costs-phti\" hreflang=\"en\">PHTI report finds limited impact from virtual kidney care solutions, prompting industry pushback</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/virtual-ckd-management-solutions-dont-slow-disease-progression-or-lower-costs-phti",
+        "summary": "Kidney care companies challenged PHTI's analysis, arguing that it overlooks broader clinical outcomes and value-based care results.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 11, 2026 10:56am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/3-trump-administration-public-health-nominees-go-senate-help\" hreflang=\"en\">Measles outbreak, vaccine policy dominate Trump health nominees' Senate hearing</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/3-trump-administration-public-health-nominees-go-senate-help",
+        "summary": "The nominees grilled Wednesday by the committe were Nicole Saphier, M.D., for surgeon general; Chris Klomp for deputy secretary of HHS; and Timothy Westlake, M.D., as assistant secretary for mental health and substance use.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 16, 2026 1:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/zocdoc-power-bookings-payer-tech-platforms-enterprise-offering\" hreflang=\"en\">Zocdoc to power bookings on payer, tech platforms with enterprise offering</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/zocdoc-power-bookings-payer-tech-platforms-enterprise-offering",
+        "summary": "The new enterprise offering, Care Access Network, invites payers and tech or consumer platforms to deliver seamless booking directly on their websites. The news coincides with an Amazon Health AI partnership announcement.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 16, 2026 1:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-extends-clinical-ai-agent-inpatient-nurses\" hreflang=\"en\">Oracle Health extends clinical AI agent to inpatient nurses</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-extends-clinical-ai-agent-inpatient-nurses",
+        "summary": "The clinical AI agent, embedded directly within the Oracle Health Foundation EHR, combines voice-driven chart navigation and search, acute nursing summaries and voice-enabled discrete charting.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 16, 2026 12:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—AAMC CEO announces retirement plans; Cotiviti appoints COO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Dartmouth Health cuts 124; University of Vermont Health restructures 199</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal\" hreflang=\"en\">Sword Health confirms Headspace acquisition, targets Q4</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal",
+        "summary": "The virtual physical therapy and mental health platforms still did not disclose a price tag, though previous filings and reports described an all-cash deal landing between $200 million and $300 million.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 26, 2026 12:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/thatch-secures-108m-series-c-backed-general-catalyst-and-index-ventures-reach-unicorn\" hreflang=\"en\">Thatch secures $108M series C, backed by General Catalyst and Index Ventures, to reach unicorn status</a>",
+        "url": "https://www.fiercehealthcare.com/finance/thatch-secures-108m-series-c-backed-general-catalyst-and-index-ventures-reach-unicorn",
+        "summary": "Executives say the startup’s annual recurring revenue has “surged almost 7x over the last twelve months,” as the company powers benefits for more than 5,000 employers.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 15, 2026 4:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/ayble-health-banks-16m-series-expand-ai-drive-precision-digestive-autoimmune-healthcare\" hreflang=\"en\">Ayble Health banks $16M series A to expand AI-driven precision digestive, autoimmune healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/finance/ayble-health-banks-16m-series-expand-ai-drive-precision-digestive-autoimmune-healthcare",
+        "summary": "Ayble Health says it is currently in-network with most commercial health plans, covering more than 80 million patients through its various partnerships.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 15, 2026 12:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/how-connected-data-can-help-patients-navigate-healthcare\" hreflang=\"en\">How connected data can help patients navigate healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/how-connected-data-can-help-patients-navigate-healthcare",
+        "summary": "In this episode of “Podnosis,” we look at how connected data can help patients navigate a fragmented healthcare system.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 16, 2026 9:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-extends-access-model-more-chronic-conditions-cms-officials-eye-expansion-medicaid\" hreflang=\"en\">CMS extends ACCESS model to more chronic conditions as agency officials eye cross-payer alignment</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-extends-access-model-more-chronic-conditions-cms-officials-eye-expansion-medicaid",
+        "summary": "The Trump administration is rapidly expanding its 10-year ACCESS Model, a value-based payment program that reimburses digital health companies based on patient outcomes rather than services delivered.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 15, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes\" hreflang=\"en\">Novartis ends ALS program after phase 2 flop, adding to R&amp;D woes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
+        "summary": "Novartis has extended its losing streak, stopping an amyotrophic lateral sclerosis program after flunking a phase 2 trial.",
+        "source": "Fierce Biotech",
+        "published": "Sep 16, 2026 10:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier\" hreflang=\"en\">Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier",
+        "summary": "Novartis is paying Sironax $125 million to take up its option on a brain delivery platform, gaining control of technology for getting large molecules to targets in the central nervous system.",
+        "source": "Fierce Biotech",
+        "published": "Sep 16, 2026 8:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter\" hreflang=\"en\">CEO O’Day tells Fierce how Gilead’s cancer, inflammation expansion has reached ‘critical mass’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
+        "summary": "Following a steady stream of acquisitions that culminated in three biotech buyouts earlier this year, Gilead has now reached “critical mass” in its efforts to diversify into oncology and inflammation, CEO Daniel O’Day told Fierce.",
+        "source": "Fierce Biotech",
+        "published": "Sep 9, 2026 5:09pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sling-reels-123m-series-c-funding-its-oral-tepezza-rival-eye-disease\" hreflang=\"en\">Sling reels in $123M series C to fund oral Tepezza rival through phase 3 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sling-reels-123m-series-c-funding-its-oral-tepezza-rival-eye-disease",
+        "summary": "Sling Therapeutics has closed a $123 million series C round to advance its oral therapy for thyroid eye disease through a phase 3 trial and hopefully on to commercialization.",
+        "source": "Fierce Biotech",
+        "published": "Sep 15, 2026 4:12pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-launches-pilot-program-speed-sluggish-phase-1-trials\" hreflang=\"en\">FDA launches pilot program to speed up sluggish phase 1 trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-launches-pilot-program-speed-sluggish-phase-1-trials",
+        "summary": "After teasing a new initiative to speed up early-stage clinical trials over the summer, the FDA today opened a pilot program for an expedited investigational new drug (IND) application process that the agency hopes will put U.S. phase 1 trials on par with those in China and Australia.",
+        "source": "Fierce Biotech",
+        "published": "Sep 15, 2026 1:42pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/mayo-clinic-teams-thermo-fisher-form-biomedical-data-group-precure\" hreflang=\"en\">Mayo Clinic teams with Thermo Fisher to form biomedical data group Precure</a>",
+        "url": "https://www.fiercebiotech.com/medtech/mayo-clinic-teams-thermo-fisher-form-biomedical-data-group-precure",
+        "summary": "The Mayo Clinic has partnered with Thermo Fisher Scientific to launch a new group focused on reaping large-scale data that could lead to the understanding and development of new treatments, devices and diagnostics.",
+        "source": "Fierce Biotech",
+        "published": "Sep 15, 2026 8:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/newly-formed-jaguar-acquires-afib-device-assets-jj\" hreflang=\"en\">Newly formed Jaguar acquires Afib device assets from J&amp;J</a>",
+        "url": "https://www.fiercebiotech.com/medtech/newly-formed-jaguar-acquires-afib-device-assets-jj",
+        "summary": "Jaguar LAA, a newly formed medtech, has acquired assets that are part of Johnson &amp; Johnson’s AFib device Laminar program for an undisclosed price.",
+        "source": "Fierce Biotech",
+        "published": "Sep 15, 2026 8:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Sionna halves staff; Merck trims more NJ jobs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/connect-biopharma-missing-asthma-primary-endpoint-sends-investors-spiraling-about-copd\" hreflang=\"en\">Connect's Dupixent rival flunks phase 2 asthma trial, but biotech sees reasons for hope</a>",
+        "url": "https://www.fiercebiotech.com/biotech/connect-biopharma-missing-asthma-primary-endpoint-sends-investors-spiraling-about-copd",
+        "summary": "Connect Biopharma’s hopes of dethroning Dupixent took a knock as its IL-4/IL-13 blocker missed the primary endpoint of a phase 2 asthma study.",
+        "source": "Fierce Biotech",
+        "published": "Sep 15, 2026 10:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Sling reels in $123M; Circle gathers $92.5M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-pledges-237m-program-cns-genetic-med-collab-canadian-biotech\" hreflang=\"en\">Lilly pledges up to $237M per program in CNS genetic med collab with Canadian biotech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-pledges-237m-program-cns-genetic-med-collab-canadian-biotech",
+        "summary": "Eli Lilly’s ongoing attempt to strengthen its genetic medicine offering has seen the company pledge up to $237 million in biobucks per program as part of a collaboration with QurCan Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Sep 15, 2026 8:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/after-rejection-fda-approves-telixs-pixclara-first-fet-pet-imaging-drug-brain-cancer\" hreflang=\"en\">After rejection, FDA approves Telix’s Pixclara, the first FET-PET imaging drug for brain cancer</a>",
+        "url": "https://www.fiercebiotech.com/medtech/after-rejection-fda-approves-telixs-pixclara-first-fet-pet-imaging-drug-brain-cancer",
+        "summary": "The FDA has signed off on the first-ever glioma drug imaging diagnostic more than a year after it initially rejected the med.",
+        "source": "Fierce Biotech",
+        "published": "Sep 15, 2026 4:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "IPO前夜，中国医疗器械公司爆款产品被索赔近千万",
+        "url": "https://www.36kr.com/p/3986139956450948",
+        "summary": "博迈医疗IPO上会前夕遭同行专利诉讼，存不确定性",
+        "source": "36Kr 医疗科技",
+        "published": "Thu, 17 Sep 2026 05:13:12 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "大健康三驾马车跑不动 海尔寻求精准突围",
+        "url": "https://www.36kr.com/p/3985836437240840",
+        "summary": "140亿押注“血王”浮亏64亿",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 16 Sep 2026 13:03:39 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "国内尚无介入二尖瓣/三尖瓣产品获批，鑫依医疗用“一瓣双位四用”技术切入空白，完成天使轮",
+        "url": "https://www.36kr.com/p/3984141449935872",
+        "summary": "鑫依医疗完成天使轮融资，主攻介入二/三尖瓣器械研发",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 16 Sep 2026 03:50:29 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Convergent Emergence of In-Context Learning Across Modalities",
+        "url": "https://huggingface.co/papers/2609.14011",
+        "summary": "Few-shot in-context learning (ICL), the capacity of a model to infer abstract patterns from input-output examples provided in its prompt and apply them to new inputs, has been extensively studied in large language models trained for next-token prediction on human text. Recently, few-shot ICL has been demonstrated in autoregressive genomic models as well. This raises a question: does ICL emerge broadly across domains, and if so, what common structure is shared?\n  To address both, we develop a controlled cross-modality framework that instantiates the same task suite in a variety of modalities to",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-11T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+        "url": "https://huggingface.co/papers/2609.13463",
+        "summary": "The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions. The sheer scale of the data renders human review impractical, driving the need for automated root-cause attribution (RCA). However, automated RCA methods using LLMs suffer from low diagnostic accuracy, especially as execution traces grow larger. They struggle because relevant information is often sparse, distributed across distant actions, and disconnected from the v",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-10T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs",
+        "url": "https://huggingface.co/papers/2609.15635",
+        "summary": "A radiology report can already answer a clinical question, so it is hard to tell whether a vision-language model also uses the image. ModaLens, a paired image-swap audit, measures how report availability changes image sensitivity: MedGemma-27B on 3,199 paired MIMIC-CXR cases from 293 patients, all 14 questions per case (13 finding-specific and one composite), each image replaced by one from another study, usually of the same patient, with question and report fixed. Under an explicit answer instruction, the model's generated answer changes on 4.26 percent of trials with the report and 20.94 per",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-13T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

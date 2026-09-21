@@ -1,0 +1,246 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T13:44:50.862690+08:00",
+  "counts": {
+    "news": 26,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Radiopharma companies merge after one receives surprise FDA rejection",
+        "url": "https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/",
+        "summary": "ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading companies in the burgeoning radiopharmaceuticals field, are merging.",
+        "source": "STAT News",
+        "published": "Sun, 20 Sep 2026 23:25:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
+        "url": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/",
+        "summary": "The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.",
+        "source": "STAT News",
+        "published": "Sat, 19 Sep 2026 14:13:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/ncqa-reports-number-5-star-health-plans-jumps-64-2026-ratings\" hreflang=\"en\">NCQA reports number of 5-star health plans jumps 64% in latest ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/ncqa-reports-number-5-star-health-plans-jumps-64-2026-ratings",
+        "summary": "The National Committee for Quality Assurance (NCQA) released its annual health plan ratings, highlighting that 18 plans earned top marks, up 64% from 2025.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 20, 2026 7:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/how-summa-healths-new-ceo-approaching-her-very-unique-task-leading-vc-owned-health-system\" hreflang=\"en\">How Summa Health's new CEO is approaching her 'very unique' task of leading a VC-owned health system</a>",
+        "url": "https://www.fiercehealthcare.com/providers/how-summa-healths-new-ceo-approaching-her-very-unique-task-leading-vc-owned-health-system",
+        "summary": "Jennifer Eslinger is joining a $2.2 billion integrated system that was recently acquired and taken for-profit by General Catalyst. Technology rollouts, workflow efficiencies and novel approaches to care delivery are all on the roadmap, she said.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 18, 2026 12:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/arkansas-pharmacies-sue-express-scripts-over-alleged-underpayments\" hreflang=\"en\">Arkansas pharmacies sue Express Scripts over alleged underpayments</a>",
+        "url": "https://www.fiercehealthcare.com/payers/arkansas-pharmacies-sue-express-scripts-over-alleged-underpayments",
+        "summary": "Twelve independent pharmacies in Arkansas are suing Express Scripts alleging the pharmacy benefit manager repeatedly underpaid them on tends of thousands of drug prescriptions, in violation of state law.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 17, 2026 4:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/cms-restores-12b-frozen-supplemental-medicaid-funds\" hreflang=\"en\">CMS restores $12B in frozen supplemental Medicaid funds</a>",
+        "url": "https://www.fiercehealthcare.com/providers/cms-restores-12b-frozen-supplemental-medicaid-funds",
+        "summary": "The pause that began Sept. 1 had triggered alarm bells from provider groups and prompted an appeal from Texas Governor Greg Abbott.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 18, 2026 3:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-rutgers-university-rwjbarnabas-health-aws-partner-innovation-hub-luma\" hreflang=\"en\">Weekly Rundown: Rutgers, RWJBarnabas Health tap AWS for new innovation hub; Luma Health launches new agentic outreach workflows</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-rutgers-university-rwjbarnabas-health-aws-partner-innovation-hub-luma",
+        "summary": "The latest news from Rutgers University, Hello Patient, RWJBarnabas Health, Amazon Web Services, Luma Health, Vitality and more.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 18, 2026 2:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/angle-health-snags-600m-it-continues-expanding-affordable-healthcare-small-businesses\" hreflang=\"en\">Angle Health snags $600M in equity financing to grow small-business healthcare benefits</a>",
+        "url": "https://www.fiercehealthcare.com/finance/angle-health-snags-600m-it-continues-expanding-affordable-healthcare-small-businesses",
+        "summary": "The company currently serves more than 5,000 employers with customizable plans in 47 states. It sees nearly $1 billion in annualized premium-equivalents and boasts 120% year-over-year growth, according to executives.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 18, 2026 10:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-health-ai-moving-fast-america-needs-rules-keep\" hreflang=\"en\">Op-ed: Health AI is moving fast. America needs rules that keep up</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-health-ai-moving-fast-america-needs-rules-keep",
+        "summary": "Without a consistent national framework for AI regulation, a growing patchwork of state bills will slow the development and deployment of solutions that can expand access, diagnose diseases earlier and save lives, writes Consumer Technology Association President and CEO Kinsey Fabrizio.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 18, 2026 10:39am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/intermountain-health-acquiring-interests-2-idaho-hospitals-795m\" hreflang=\"en\">Intermountain Health closes deal for interests, real estate of 2 Idaho hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/providers/intermountain-health-acquiring-interests-2-idaho-hospitals-795m",
+        "summary": "The nonprofit paid $797 million and $413 million for the ownership interest and real estate in 88-bed Idaho Falls Community Hospital and 38-bed Mountain View Hospital. It has been a minority investor in both since 2023.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 27, 2026 11:44am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative\" hreflang=\"en\">ARPA-H launches SPECTRA program, new autism research initiative</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative",
+        "summary": "Researchers will create an end-to-end system to identify ASD risk factors, connect patients to appropriate interventions and accelerate clinical research for new therapies.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 17, 2026 3:55pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ascension-trims-operating-losses-491m-120m-fy2026\" hreflang=\"en\">Ascension trims operating losses from $491M to $120M in FY2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ascension-trims-operating-losses-491m-120m-fy2026",
+        "summary": "The major nonprofit system's leadership credited its operating improvement to a tighter acute footprint, targeted capacity investments and increased efficiency.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 17, 2026 2:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/retail/walmart-launch-six-month-health-ambassador-pilot-program-rural-us-stores\" hreflang=\"en\">Walmart launches rural health ambassador pilot, tapping pharmacists for expanded support</a>",
+        "url": "https://www.fiercehealthcare.com/retail/walmart-launch-six-month-health-ambassador-pilot-program-rural-us-stores",
+        "summary": "Walmart’s Health Ambassador Associate roles will be given to trained pharmacists at each store participating in the program.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 17, 2026 1:25pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/kennedy-appoints-8-new-us-preventive-services-task-force-members\" hreflang=\"en\">Kennedy appoints 8 new US Preventive Services Task Force members</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/kennedy-appoints-8-new-us-preventive-services-task-force-members",
+        "summary": "The new appointments come nearly four months after Kennedy dismissed the task force’s two vice chairs.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 17, 2026 11:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice\" hreflang=\"en\">Artelo’s ex-AstraZeneca cannabinoid agonist holds its own against GLP-1 drug semaglutide in obese mice</a>",
+        "url": "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice",
+        "summary": "Artelo Biosciences’ oral dual cannabinoid agonist showed weight loss comparable to the GLP-1 semaglutide in obese mice.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 2:24pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/refreshed-novo-corrals-three-new-early-stage-obesity-drugs-kallyope\" hreflang=\"en\">Refreshed Novo corrals 3 new early-stage obesity drugs from Kallyope</a>",
+        "url": "https://www.fiercebiotech.com/biotech/refreshed-novo-corrals-three-new-early-stage-obesity-drugs-kallyope",
+        "summary": "New-look Novo is digging deeper into its metabolic roots with three new obesity programs purchased from New York biotech Kallyope.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 11:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/inside-growing-world-biopharma-prediction-markets\" hreflang=\"en\">Inside the growing world of biopharma prediction markets</a>",
+        "url": "https://www.fiercebiotech.com/biotech/inside-growing-world-biopharma-prediction-markets",
+        "summary": "In this episode of “The Top Line,” we explore the growing space of biopharma prediction markets, how they work and the risks they create around insider information and clinical trial integrity.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-earns-fda-clearance-liagsure-use-its-hugo-robotic-system\" hreflang=\"en\">Medtronic earns FDA clearance for LigaSure use with its Hugo robotic system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-earns-fda-clearance-liagsure-use-its-hugo-robotic-system",
+        "summary": "The FDA has cleared Medtronic’s LigaSure RAS Maryland jaw vessel sealer-divider to be used in combination with the device maker’s Hugo robotic-assisted surgery system.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 9:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-aptitudes-latest-matrix-molecular-dx-test-covid\" hreflang=\"en\">FDA clears Aptitude’s latest Metrix molecular dx to test for COVID</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-aptitudes-latest-matrix-molecular-dx-test-covid",
+        "summary": "The FDA granted Aptitude its first 510(k) clearance for the next-generation Metrix COVID diagnostic that features three-times greater sensitivity with 30% faster results that its original emergency use authorized test.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 8:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential\" hreflang=\"en\">Chutes &amp; Ladders—Legend poaches Novartis vet to boost commercial potential</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential",
+        "summary": "After former Legend Biotech CEO Ying Huang, Ph.D., left the company suddenly in July, Legend has found its permanent CEO, poaching Novartis veteran Ingrid Zhang as the CAR-T specialist eyes its next phase of growth.",
+        "source": "Fierce Biotech",
+        "published": "Sep 17, 2026 3:18pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events\" hreflang=\"en\">Xenon pauses phase 3 depression trials after psychosis events</a>",
+        "url": "https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events",
+        "summary": "The company has voluntarily stopped enrolling new patients in the studies in response to reports of mostly mild or moderate adverse events.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 5:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look\" hreflang=\"en\">BMS dumps $100M Orum degrader-antibody conjugate after glimpsing phase 1 data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look",
+        "summary": "Bristol Myers Squibb has axed the degrader-antibody conjugate it bought from Orum Therapeutics for $100 million, walking away from the asset after seeing phase 1 data.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 3:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/electra-rides-biotech-ipo-surge-charge-350m-upsized-listing\" hreflang=\"en\">Inflammation biotech Electra charges up with $350M from upsized IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/electra-rides-biotech-ipo-surge-charge-350m-upsized-listing",
+        "summary": "Electra Therapeutics is the latest biotech to overshoot its own IPO expectations this year, with the inflammation-focused company bringing in $350 million from this morning’s Nasdaq listing.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 3:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative\" hreflang=\"en\">ARPA-H launches SPECTRA program, new autism research initiative</a>",
+        "url": "https://www.fiercebiotech.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative",
+        "summary": "Researchers will create an end-to-end system to identify ASD risk factors, connect patients to appropriate interventions and accelerate clinical research for new therapies.",
+        "source": "Fierce Biotech",
+        "published": "Sep 17, 2026 3:55pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/goa-therapeutics-launches-immeasurably-huge-vision-creating-narcan-alcohol\" hreflang=\"en\">Goa Therapeutics launches with ‘immeasurably huge’ vision of creating Narcan for alcohol</a>",
+        "url": "https://www.fiercebiotech.com/biotech/goa-therapeutics-launches-immeasurably-huge-vision-creating-narcan-alcohol",
+        "summary": "A new biotech has sprung out of stealth with a bold vision to develop the “greatest therapeutic of all time”—a drug that can quickly sober up people who have had too much to drink.",
+        "source": "Fierce Biotech",
+        "published": "Sep 17, 2026 12:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/rare-egfr-mutation-increases-lung-cancer-risk-25-times-62-times-never-smokers\" hreflang=\"en\">Rare EGFR mutation increases lung cancer risk 62 times in never smokers</a>",
+        "url": "https://www.fiercebiotech.com/research/rare-egfr-mutation-increases-lung-cancer-risk-25-times-62-times-never-smokers",
+        "summary": "A rare inherited germline mutation was found to increase risk for lung cancer by 25 times, while smoking only increased risk by 4 times.",
+        "source": "Fierce Biotech",
+        "published": "Sep 17, 2026 9:44am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Self-Evolving Search Index",
+        "url": "https://huggingface.co/papers/2609.19656",
+        "summary": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index keys, retrieval quality depends heavily on how effectively these keys expose the knowledge contained in each document. However, effective index representations vary across retrieval environments, making it difficult for any fixed optimization strategy to perform consistently. Yet evolving an index to its retrieval environment remains largely human-driven, requiring humans to diagnose retrieval fa",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Region-Level Policy Optimization for Fine-grained MLLM Perception",
+        "url": "https://huggingface.co/papers/2609.19745",
+        "summary": "Fine-grained visual perception in MLLMs is commonly improved by raising the resolution, but the added visual tokens inflate vision-encoding and language-model prefilling costs. We show that the two operations underlying fine-grained perception, localizing the region of interest (RoI) and recognizing its content, have different resolution requirements. In a controlled diagnostic, localization tolerates roughly 3 to 4 times stronger token compression than recognition, which motivates localizing from a coarse view and concentrating resolution on the selected evidence. Decoding coordinates with th",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-16T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Assessing nnU-Net Generalization across Brain Tumor Populations in BraTS-GoAT 2026",
+        "url": "https://huggingface.co/papers/2609.15524",
+        "summary": "BraTS-GoAT evaluates tumor segmentation across heterogeneous populations. We trained a conventional 3D nnU-Net on 1,351 labeled cases using five-fold cross-validation and 1,000 epochs per fold. The final predictor averaged all folds and applied test-time mirroring. On pooled official validation, global DSC values were 0.7805, 0.8288, and 0.8854 for enhancing tumor (ET), tumor core (TC), and whole tumor (WT). Under matched fold-0 inference, mean regional Dice decreased from 0.9058 on source out-of-fold (OOF) cases to 0.8310 on pooled validation (difference--0.0747). Mirroring gave small single-",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-13T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

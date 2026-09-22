@@ -1,0 +1,366 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:42:09.921592+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
+        "url": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/",
+        "summary": "Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 22:17:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
+        "url": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/",
+        "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 17:58:51 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Lilly’s breast cancer combo wins approval",
+        "url": "https://www.statnews.com/2026/09/21/biotech-news-lilly-breast-cancer-combo-wins-approval/",
+        "summary": "The FDA just approved a new combination drug treatment for patients with an advanced form of breast cancer.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 15:08:38 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/",
+        "summary": "Novo Nodisk outlined plans to expand its pipeline and find new products that it could sell more like consumer goods than traditional medicines",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 13:31:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "President Trump’s newest vaccine ‘demands’ repeat old misinformation",
+        "url": "https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/",
+        "summary": "A day after health secretary Robert F. Kennedy Jr. promised that parents concerned about vaccines had a “friend” in the White House, President Trump said he’ll be “demanding” that drug&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 12:03:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Alkermes’ orexin agonist shows potential to treat ADHD in early-stage trial",
+        "url": "https://www.statnews.com/2026/09/21/alkermes-orexin-agonist-adhd-study/",
+        "summary": "The drugmaker Alkermes said a therapy called an orexin agonist for the first time showed potential to treat people with ADHD in an early-stage study.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 11:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: With new strategy, Novo outlines plans for obesity, direct-to-consumer work",
+        "url": "https://www.statnews.com/2026/09/21/novo-nordisk-capital-markets-day-obesity-strategy/",
+        "summary": "Under investor pressure, Novo presented its strategy to both grow its obesity franchise and diversify its pipeline.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 09:33:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: The NIH budget should be $100 billion per year",
+        "url": "https://www.statnews.com/2026/09/21/nih-budget-double-100-billion-reed-jobs/",
+        "summary": "“We should be strengthening our investment in the NIH, not dismantling it,” writes Reed Jobs.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Can RFK Jr. help GOP win the midterms? Iowa is a test",
+        "url": "https://www.statnews.com/2026/09/21/rfk-jr-maha-movement-gop-midterm-candidates/",
+        "summary": "How one state's governor's race is a test of whether Robert F. Kennedy Jr.'s MAHA movement has an enduring political draw.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why is trust in science important?",
+        "url": "https://www.statnews.com/2026/09/21/trust-in-science-reporter-nick-florko-interview-status-report-alex-hogan/",
+        "summary": "STAT's Alex Hogan sits down for an in-depth conversation with our new trust-in-science reporter, Nicholas Florko, on the latest episode of STATus Report.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Skeptical about modern medicine? I know the feeling — and want to listen",
+        "url": "https://www.statnews.com/2026/09/21/trust-in-science-nick-florko-on-understanding-growing-scientific-mistrust/",
+        "summary": "\"I know what it means to be searching for an explanation to what ails you, and a way to fix it,\" writes STAT's new trust-in-science reporter, Nicholas Florko.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Addiction clinics see rising cases of kratom and 7-OH withdrawal",
+        "url": "https://www.statnews.com/2026/09/21/kratom-withdrawal-addiction-centers-report-surge/",
+        "summary": "Addiction clinics are seeing a surge in patients dependent on potent kratom and 7-OH products.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox",
+        "url": "https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/",
+        "summary": "It’s hard to identify which clinical trials pregnant and lactating patients can join. Here’s one fix, experts write.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Radiopharma companies merge after one receives surprise FDA rejection",
+        "url": "https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/",
+        "summary": "ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading companies in the burgeoning radiopharmaceuticals field, are merging.",
+        "source": "STAT News",
+        "published": "Sun, 20 Sep 2026 23:25:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medical-groups-city-columbus-sue-challenge-final-medicaid-work-requirements-rule\" hreflang=\"en\">Medical groups, city of Columbus sue to challenge final Medicaid work requirements rule</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medical-groups-city-columbus-sue-challenge-final-medicaid-work-requirements-rule",
+        "summary": "A coalition of physician groups, individual Medicaid enrollees and the city of Columbus are joining forces to sue the feds over regulations governing the rollout of work requirements at the beginning of next year.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 21, 2026 5:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/democratic-senators-reintroduce-bill-outlining-stiffer-cybersecurity-standards-13b\" hreflang=\"en\">Democratic senators reintroduce bill outlining stiffer cybersecurity standards, $1.3B hospital implementation assistance</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/democratic-senators-reintroduce-bill-outlining-stiffer-cybersecurity-standards-13b",
+        "summary": "Legislation reintroduced by Sens. Warner and Wyden set aside voluntary cybersecurity standards for tighter enforcement, but would also give hospitals $1.3 billion to make it happen.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 21, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/one-third-privately-insured-have-medical-debt-commonwealth-fund-survey-finds\" hreflang=\"en\">One-third of privately insured have medical debt, Commonwealth Fund survey finds</a>",
+        "url": "https://www.fiercehealthcare.com/payers/one-third-privately-insured-have-medical-debt-commonwealth-fund-survey-finds",
+        "summary": "Nearly two thirds said their debt stemmed from hospital care, though many pointed to several accumulating bills rather than a single high-cost procedure for their burdens. Additionally, focus group participants described provider-recommended services that were unexpectedly denied by an insurer.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 21, 2026 2:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aetna-expands-bundled-prior-auths-cancer-care\" hreflang=\"en\">Aetna expands bundled prior auths for cancer care</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aetna-expands-bundled-prior-auths-cancer-care",
+        "summary": "Aetna is expanding bundled prior authorizations across all types of cancer for enrollees in its Medicaid plans across eight states.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 21, 2026 2:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-omnicare-unit-files-bankruptcy-amid-ongoing-legal-fallout\" hreflang=\"en\">Texas judge signs off on bankruptcy plans for CVS' Omnicare unit</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-omnicare-unit-files-bankruptcy-amid-ongoing-legal-fallout",
+        "summary": "CVS Health's Omnicare unit has started voluntary Chapter 11 bankruptcy proceedings as it navigates a series of legal challenges.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2025 2:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/no-surprises-act-idr-arbitration-driving-high-costs-employers-eric-report\" hreflang=\"en\">No Surprises Act IDR arbitration driving high costs for employers, new report finds</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/no-surprises-act-idr-arbitration-driving-high-costs-employers-eric-report",
+        "summary": "One plan sponsor interviewed for the report saw payments associated with the IDR process increase from approximately $3.5 million in 2025 to more than $6 million during the first half of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 21, 2026 11:04am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Hackensack Meridian Health CEO announces retirement; PCMA taps CVS exec as board chair</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-unveils-new-model-aims-bring-most-favored-nation-pricing-medicaid\" hreflang=\"en\">All 50 states apply to participate in new Medicaid drug pricing model, White House says</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-unveils-new-model-aims-bring-most-favored-nation-pricing-medicaid",
+        "summary": "The Trump administration is rolling out a new model that aims to bring most-favored nation pricing to the Medicaid space.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 6, 2025 5:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/research/white-house-plans-put-nih-grants-under-political-control-reports\" hreflang=\"en\">White House plans to put NIH grants under political control: reports</a>",
+        "url": "https://www.fiercehealthcare.com/research/white-house-plans-put-nih-grants-under-political-control-reports",
+        "summary": "President Donald Trump is attempting to seize further control of funding decisions made by the National Institutes of Health. According to multiple reports, senior officials met in the Oval Office on Friday to discuss plans for an executive order that would create an external panel with the power to shoot down NIH grants.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 21, 2026 10:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/detection-prevention-better-approach-medicaid-program-integrity\" hreflang=\"en\">From Detection to Prevention: A Better Approach to Medicaid Program Integrity</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/detection-prevention-better-approach-medicaid-program-integrity",
+        "summary": "Real-time data, analytics and collaboration can help Medicaid programs resolve issues earlier—without sacrificing participant choice.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 17, 2026 11:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/business-group-health-taps-bioradar-boost-workforce-readiness-emerging-threats\" hreflang=\"en\">Business Group on Health taps BioRadar to boost workforce readiness for emerging threats</a>",
+        "url": "https://www.fiercehealthcare.com/payers/business-group-health-taps-bioradar-boost-workforce-readiness-emerging-threats",
+        "summary": "Biological threat intelligence is increasingly becoming a workforce and business issue, not just a public health concern. Emerging threats—infectious disease outbreaks, pandemics and potential bioterrorism events—can cause workforce and operational disruptions.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 20, 2026 11:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/idr-problem-payers-actually-have-isnt-volume-problem-its-front-end-problem\" hreflang=\"en\">The IDR Problem Payers Actually Have Isn't a Volume Problem. It's a Front-End Problem.</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/idr-problem-payers-actually-have-isnt-volume-problem-its-front-end-problem",
+        "summary": "For health plans: the real fix for rising IDR disputes starts before arbitration. See how 93% get resolved early.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 11, 2026 10:52am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/white-house-plans-put-nih-grants-under-political-control-reports\" hreflang=\"en\">White House plans to put NIH grants under political control: reports</a>",
+        "url": "https://www.fiercebiotech.com/research/white-house-plans-put-nih-grants-under-political-control-reports",
+        "summary": "President Donald Trump is attempting to seize further control of funding decisions made by the National Institutes of Health. According to multiple reports, senior officials met in the Oval Office on Friday to discuss plans for an executive order that would create an external panel with the power to shoot down NIH grants.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 10:39am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/novo-aims-appease-investors-direct-consumer-plans-blockbuster-ambitions\" hreflang=\"en\">Novo struggles to appease restive investors with consumer plans, blockbuster ambitions</a>",
+        "url": "https://www.fiercebiotech.com/pharma/novo-aims-appease-investors-direct-consumer-plans-blockbuster-ambitions",
+        "summary": "With reports leaking out of&nbsp;investor discontent, CEO Mike Doustdar opened Novo's Capital Markets Day by acknowledging that the company’s leadership “have to convince” the audience that “there is a bright future for Novo.”",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 10:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Novo reveals 4k more employees were laid off; Sionna halves staff</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/china-targets-25-share-global-first-class-drugs-new-5-year-plan\" hreflang=\"en\">China targets 25% share of global first-in-class drugs in new 5-year plan</a>",
+        "url": "https://www.fiercebiotech.com/biotech/china-targets-25-share-global-first-class-drugs-new-5-year-plan",
+        "summary": "China is aiming to account for at least 25% of first-in-class drugs as part of a five-year push to cement its emerging status as a hotbed for innovative R&amp;D.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 9:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/beyond-clinical-endpoints-rethinking-als-drug-development-through-disease-biology\" hreflang=\"en\">Beyond clinical endpoints: Rethinking ALS drug development through disease biology</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/beyond-clinical-endpoints-rethinking-als-drug-development-through-disease-biology",
+        "summary": "After decades of hard-won progress, ALS drug development is entering a new era, building on established efficacy measures like survival and ALSFRS-R with biology-driven science that captures the full heterogeneity of the disease.",
+        "source": "Fierce Biotech",
+        "published": "Sep 11, 2026 11:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer\" hreflang=\"en\">With pioneering ADHD data, Alkermes eyes orexin agonist as potential ‘company changer’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pioneering-adhd-data-alkermes-eyes-orexin-agonist-potential-company-changer",
+        "summary": "Following Takeda’s historic approval of the first orexin agonist with its narcolepsy treatment Orzeyful, Alkermes has followed up with pioneering data that looks to take the hyped drug class out of sleep disorders and into broader patient populations.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 12:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/analysts-extremely-bullish-telix-beams-novartis-territory-165b-itm-acquisition\" hreflang=\"en\">Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/analysts-extremely-bullish-telix-beams-novartis-territory-165b-itm-acquisition",
+        "summary": "Telix has struck a deal to buy ITM Isotope Technologies Munich for $1.65 billion upfront, securing an R&amp;D pipeline led by a rival to Novartis’ Lutathera and a radiopharmaceutical supply network.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 5:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cue-chalks-phase-2-hives-win-xolair-challenger\" hreflang=\"en\">Cue chalks up phase 2 hives win for Xolair challenger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cue-chalks-phase-2-hives-win-xolair-challenger",
+        "summary": "A midstage study of Cue Biopharma’s hives drug candidate has hit its primary endpoint, emboldening the biotech to move the would-be challenger to Xolair into a phase 2b/3 trial.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 3:52am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/retension-and-lilly-backed-trex-bio-both-set-out-plans-join-biotech-ipo-stampede\" hreflang=\"en\">Retension and Lilly-backed TRex Bio both set out plans to join biotech IPO stampede</a>",
+        "url": "https://www.fiercebiotech.com/biotech/retension-and-lilly-backed-trex-bio-both-set-out-plans-join-biotech-ipo-stampede",
+        "summary": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals are the latest biotechs to set out plans to go public this year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 4:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/beacon-lights-path-fda-approval-pivotal-trial-win-rare-vision-loss-gene-therapy\" hreflang=\"en\">Beacon lights path to FDA approval with pivotal trial win for rare vision loss gene therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/beacon-lights-path-fda-approval-pivotal-trial-win-rare-vision-loss-gene-therapy",
+        "summary": "Beacon Therapeutics has found the light in a rare vision loss disease that has left larger companies in the dark. The biotech’s gene therapy for X-linked retinitis pigmentosa (XLRP) successfully improved visual acuity in a pivotal trial, setting up the startup to seek regulatory approval.",
+        "source": "Fierce Biotech",
+        "published": "Sep 20, 2026 1:55pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice\" hreflang=\"en\">Artelo’s ex-AstraZeneca cannabinoid agonist holds its own against GLP-1 drug semaglutide in obese mice</a>",
+        "url": "https://www.fiercebiotech.com/research/artelos-ex-astrazeneca-cannabinoid-agonist-holds-its-own-against-glp1s-obese-mice",
+        "summary": "Artelo Biosciences’ oral dual cannabinoid agonist showed weight loss comparable to the GLP-1 semaglutide in obese mice.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 2:24pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/refreshed-novo-corrals-three-new-early-stage-obesity-drugs-kallyope\" hreflang=\"en\">Refreshed Novo corrals 3 new early-stage obesity drugs from Kallyope</a>",
+        "url": "https://www.fiercebiotech.com/biotech/refreshed-novo-corrals-three-new-early-stage-obesity-drugs-kallyope",
+        "summary": "New-look Novo is digging deeper into its metabolic roots with three new obesity programs purchased from New York biotech Kallyope.",
+        "source": "Fierce Biotech",
+        "published": "Sep 18, 2026 11:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "26亿元，张一鸣在北京又买了一块地",
+        "url": "https://www.36kr.com/p/3993972229012487",
+        "summary": "一年买了四块地，花了90亿。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 22 Sep 2026 02:49:06 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "解码“4S”架构：中国企业级AI服务报告",
+        "url": "https://www.36kr.com/p/3991350973470600",
+        "summary": "企业级AI分四层架构，中国AI企业出海机遇挑战并存",
+        "source": "36Kr 医疗AI",
+        "published": "Sun, 20 Sep 2026 08:36:50 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "OpenAI和Anthropic营收面临威胁：成本压力下，更多AI初创企业转向开源模型",
+        "url": "https://www.36kr.com/p/3993902723201797",
+        "summary": "Harvey的处境最能说明问题。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 22 Sep 2026 01:40:29 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "药二代密集接班，千亿权杖交给95后",
+        "url": "https://www.36kr.com/p/3992406481697800",
+        "summary": "代际交接往往伴随深度的战略调整。二代更倾向于通过资本运作和业务重构来应对行业变局，而非简单延续父辈的经营模式。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 21 Sep 2026 01:10:09 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell Microscopy",
+        "url": "https://huggingface.co/papers/2609.21038",
+        "summary": "Induced pluripotent stem cell (iPSC) culture increasingly relies on segmentation foundation models, yet deployment on laboratory CPUs and edge hardware requires compression schemes that are both efficient and auditable. We present a deployment-oriented evaluation of compressed Cellpose-SAM using a pre-specified retention criterion: the 95% cluster-bootstrap interval of mean change from FP32 must remain above a fixed -0.02 margin for every imaging modality. On a stratified 176-field panel spanning BBBC038 nuclei, BBBC039 U2OS fluorescence, and NIST iPSC images across density regimes, weight-onl",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-16T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Self-Evolving Search Index",
+        "url": "https://huggingface.co/papers/2609.19656",
+        "summary": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index keys, retrieval quality depends heavily on how effectively these keys expose the knowledge contained in each document. However, effective index representations vary across retrieval environments, making it difficult for any fixed optimization strategy to perform consistently. Yet evolving an index to its retrieval environment remains largely human-driven, requiring humans to diagnose retrieval fa",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-16T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

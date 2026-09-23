@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:24:54.003672+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
+        "url": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/",
+        "summary": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 19:28:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+        "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/",
+        "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 17:49:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Did the Trump administration just cut Novo a huge financial win?",
+        "url": "https://www.statnews.com/2026/09/22/dc-diagnosis-did-trump-administration-cut-novo-huge-financial-win/",
+        "summary": "The White House's GENEROUS plan was designed to make drugs more affordable for Medicaid users. There's one glaring potential exception.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 16:23:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novo may be getting a better deal than expected with Medicare’s Bridge program",
+        "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/",
+        "summary": "Eli Lilly and Novo Nordisk were already benefitting a great deal from the Trump administration's pilot program covering obesity drugs for seniors at a price of $245 a month. It&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 14:23:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Epic’s mortality model, and Omada’s future products",
+        "url": "https://www.statnews.com/2026/09/22/epics-mortality-model-omadas-future-products-health-tech/",
+        "summary": "In this edition of STAT Health Tech: What Epic's mortality prediction algorithm tells us about AI in geriatrics, Omada's expansion plans, and more.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 13:15:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about pharma seeking to protect China deals, a Roche obesity drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/22/pharma-seeks-to-protect-china-deals-roche-obesity-drug/",
+        "summary": "Western pharmaceutical companies are urging the Trump administration to allow them to keep doing deals with Chinese companies for drug candidates",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 13:14:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New federal autism committee head has financial ties to leucovorin",
+        "url": "https://www.statnews.com/2026/09/22/health-news-federal-autism-committee-head-has-financial-ties-to-leucovorin/",
+        "summary": "RFK Jr. has installed John Gaitanis, a pediatric neurologist, as the new chair of the Interagency Autism Coordinating Committee, which helps the federal government decide how to allocate roughly $2 billion&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 11:54:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Ohio governor’s race is a battle over Covid, health costs, and trust in science",
+        "url": "https://www.statnews.com/2026/09/22/ohio-governor-election-health-care-policy-acton-ramaswamy/",
+        "summary": "The race between Amy Acton and Vivek Ramaswamy could be the election’s most direct test of where the heartland stands on health care and the pandemic.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why an influential GOP health policy expert still backs the Medicaid cuts — and which policy target is next",
+        "url": "https://www.statnews.com/2026/09/22/brian-blase-paragon-health-institute-gop-aca-medicaid-reforms/",
+        "summary": "Why an influential GOP health policy expert still backs $1 trillion in Medicaid cuts — and which policy target is next.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Social media bans are passing around the world. How will we know if they help teens?",
+        "url": "https://www.statnews.com/2026/09/22/social-media-bans-australia-uk-teen-mental-health/",
+        "summary": "“Researchers must seize this opportunity to examine how social media — and its regulation — impacts teenagers,” writes Wellcome’s Camilla Iannone.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The science on relieving cancer symptoms is clear. Why isn’t insurance paying?",
+        "url": "https://www.statnews.com/2026/09/22/integrative-oncology-cancer-symptoms-insurance-asco-sio-pain-fatigue/",
+        "summary": "Research shows that integrative therapies reduce cancer-related pain, fatigue, anxiety, and nausea. Why won't insurance pay?",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
+        "url": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/",
+        "summary": "Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 22:17:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
+        "url": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/",
+        "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 17:58:51 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Lilly’s breast cancer combo wins approval",
+        "url": "https://www.statnews.com/2026/09/21/biotech-news-lilly-breast-cancer-combo-wins-approval/",
+        "summary": "The FDA just approved a new combination drug treatment for patients with an advanced form of breast cancer.",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 15:08:38 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/",
+        "summary": "Novo Nodisk outlined plans to expand its pipeline and find new products that it could sell more like consumer goods than traditional medicines",
+        "source": "STAT News",
+        "published": "Mon, 21 Sep 2026 13:31:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-lands-340m-build-ai-care-partner-clinicians\" hreflang=\"en\">Heidi lands $340M to build 'AI care partner' for clinicians</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-lands-340m-build-ai-care-partner-clinicians",
+        "summary": "Healthcare startup Heidi landed $340 million to fuel its push beyond clinical documentation into AI-powered workflow automation and agentic capabilities for clinicians.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 8:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-overhauls-provider-tax-policy-hospitals-plead-minimal-administrative-burden\" hreflang=\"en\">As CMS overhauls provider tax policy, hospitals plead for minimal administrative burden, uncertainty</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-overhauls-provider-tax-policy-hospitals-plead-minimal-administrative-burden",
+        "summary": "Public comment letters from hospital associations asked the administration to stick to the status quo where possible, highlighting changes they said offer no benefit and could lead to unnecessary refunds and recoupments.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 4:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/career-advancement-learning-opportunities-important-gen-z-healthcare-workers-harris-poll\" hreflang=\"en\">New survey finds 70% of Gen Z healthcare workers plan to look for a new job within the next year</a>",
+        "url": "https://www.fiercehealthcare.com/providers/career-advancement-learning-opportunities-important-gen-z-healthcare-workers-harris-poll",
+        "summary": "The survey drew insights from 1,514 healthcare employees and 304 employers across the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 10:48am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—UnitedHealth Group names chief commercial officer; Hackensack Meridian Health CEO announces retirement</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia\" hreflang=\"en\">Rural Health Transformation Program funding tracker: CMS awards Missouri over $45M; New Mexico receives $74M</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia",
+        "summary": "Stay up-to-date with this tracker for the latest RHTP funding announcements and disclosures.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 11:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/american-medical-association-urges-cms-stick-2027-electronic-pa-deadline\" hreflang=\"en\">American Medical Association urges CMS to stick to 2027 electronic PA deadline, enforcement</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/american-medical-association-urges-cms-stick-2027-electronic-pa-deadline",
+        "summary": "The organization also encouraged the agency to call on EHR developers to give implementation timelines, testing opportunities and more.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 1:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-cancel-aca-coverage-760k-crack-down-brokers-latest-anti-fraud-push\" hreflang=\"en\">CMS to cancel ACA coverage for 760K, crack down on brokers in latest anti-fraud push</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-cancel-aca-coverage-760k-crack-down-brokers-latest-anti-fraud-push",
+        "summary": "The Trump administration plans to cancel enrollment in Affordable Care Act plans for more than 760,000 people as part of its crackdown on fraud, waste and abuse.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 2:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cotiviti-builds-out-insurer-payment-accuracy-platform\" hreflang=\"en\">Cotiviti builds out insurer payment accuracy platform</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cotiviti-builds-out-insurer-payment-accuracy-platform",
+        "summary": "Health tech company Cotiviti is building out its payment accuracy platform for payers with two new additions that will allow plans to see all inpatient claims in one place.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 12:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/wakemed-healths-plans-join-atrium-health-face-swift-pushback-nc-officials\" hreflang=\"en\">Atrium Health's WakeMed Health acquisition notches key board approval with amended terms</a>",
+        "url": "https://www.fiercehealthcare.com/providers/wakemed-healths-plans-join-atrium-health-face-swift-pushback-nc-officials",
+        "summary": "The contentious deal secured a 5-2 go-ahead vote after several changes to the proposed terms, including a new $150 million community fund.",
+        "source": "Fierce Healthcare",
+        "published": "May 4, 2026 1:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/virtual-sud-support-platform-nosis-launches-address-lifestyle-diet-needs\" hreflang=\"en\">Virtual SUD support platform Nosis launches to address lifestyle, diet needs</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/virtual-sud-support-platform-nosis-launches-address-lifestyle-diet-needs",
+        "summary": "The virtual startup leverages labs with health coaches and dietitians to address the biological and metabolic health needs of individuals in recovery.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 21, 2026 2:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care\" hreflang=\"en\">OpenEvidence, Memorial Sloan Kettering Cancer Center partner to bring precision oncology AI to more doctors</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/openevidence-deepens-oncology-push-expands-ai-decision-support-cancer-care",
+        "summary": "The partnership builds on OpenEvidence's vision to develop “medical super-intelligence” based on agentic artificial intelligence, or a system of AI agents that can be subspecialists in clinical areas.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 3, 2026 8:00am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Blair Health lands CAD $4.24M; Epsilon Health nabs $27.6M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens\" hreflang=\"en\">Novartis secures new radioligand in $900M deal as competition strengthens</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens",
+        "summary": "As an imposing new competitor begins to take shape, radiopharma leader Novartis has beefed up its pipeline by licensing a preclinical radioligand therapy from a specialist Chinese biotech.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 1:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celldex-redeems-monoclonal-antibody-pair-phase-3-wins-chronic-skin-condition\" hreflang=\"en\">Celldex monoclonal antibody rebounds with pair of phase 3 wins for chronic skin condition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/celldex-redeems-monoclonal-antibody-pair-phase-3-wins-chronic-skin-condition",
+        "summary": "Celldex touted a double phase 3 trial win in patients with treatment-refractory chronic spontaneous urticaria.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win\" hreflang=\"en\">Amgen’s Horizon-acquired fusion protein eases Sjögren's severity in ph. 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win",
+        "summary": "An investigational drug for the autoimmune condition Sjögren's disease has scored a phase 3 win for Amgen, marking a positive sign for the Horizon Therapeutics-acquired pipeline that has so far struggled to gain traction.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vertexs-midstage-data-amplify-kidney-disease-market-opportunity\" hreflang=\"en\">Vertex’s midstage data amplify kidney disease market opportunity</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vertexs-midstage-data-amplify-kidney-disease-market-opportunity",
+        "summary": "Vertex has reported positive phase 2b data for its kidney disease prospect inaxaplin, boosting its efforts to expand beyond the population targeted in a pivotal trial.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lexeo-takes-mantle-8m-acquisition-friedreich-ataxia-assets\" hreflang=\"en\">Lexeo takes up the Mantle in $8M acquisition for Friedreich ataxia assets</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lexeo-takes-mantle-8m-acquisition-friedreich-ataxia-assets",
+        "summary": "Lexeo Therapeutics has agreed to acquire Mantle Therapeutics via an upfront payment of $8.3 million, aiming to expand its Friedreich ataxia (FA) portfolio while locking in three strategic collaborations to support its lead asset.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:00am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/otsuka-heads-fda-ionis-partnered-als-drug-hits-primary-phase-3-endpoint\" hreflang=\"en\">Otsuka heads to FDA as Ionis-partnered ALS drug hits primary phase 3 endpoint</a>",
+        "url": "https://www.fiercebiotech.com/biotech/otsuka-heads-fda-ionis-partnered-als-drug-hits-primary-phase-3-endpoint",
+        "summary": "A phase 3 study of Otsuka and Ionis Pharmaceuticals’ amyotrophic lateral sclerosis drug candidate has hit its primary endpoint, positioning the partners to talk to regulators about expedited approvals.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 9:23am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/siemens-healthineers-team-novo-fatty-liver-disease-awareness-blood-testing\" hreflang=\"en\">Siemens Healthineers and Novo team up on fatty liver disease awareness, testing</a>",
+        "url": "https://www.fiercebiotech.com/medtech/siemens-healthineers-team-novo-fatty-liver-disease-awareness-blood-testing",
+        "summary": "Siemens Healthineers is joining forces with Novo to help boost awareness and diagnosis of fatty liver disease.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 9:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/cordis-sirolimus-drug-coated-balloon-earns-fda-approval-breakthrough-device\" hreflang=\"en\">Cordis’ sirolimus drug-coated balloon earns FDA approval as a breakthrough device</a>",
+        "url": "https://www.fiercebiotech.com/medtech/cordis-sirolimus-drug-coated-balloon-earns-fda-approval-breakthrough-device",
+        "summary": "The FDA gave the green light to a first and only sirolimus drug-eluting balloon designed by Cordis to treat coronary in-stent restenosis.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 8:19am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-envisagenics-sign-1b-multi-target-oncology-collaboration\" hreflang=\"en\">Boehringer, Envisagenics sign $1B multi-target oncology collaboration</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-envisagenics-sign-1b-multi-target-oncology-collaboration",
+        "summary": "Boehringer Ingelheim and AI drug discovery company Envisagenics have agreed to a potential $1 billion multi-year pact that will task Boehringer with validating tumor-specific targets.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 4:12pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-glp-1gip-drug-hits-phase-2-diabetes-trial-fueling-best-disease-prediction\" hreflang=\"en\">Roche’s GLP-1/GIP drug hits in phase 2 diabetes trial, fueling best-in-disease hopes</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-glp-1gip-drug-hits-phase-2-diabetes-trial-fueling-best-disease-prediction",
+        "summary": "A phase 2 trial of Roche’s dual GLP-1/GIP receptor agonist has hit its primary endpoints, painting the drug candidate as a potential treatment for people with type 2 diabetes and overweight or obesity.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 4:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/iambic-maintains-momentum-big-pharma-partnerships-planning-ipo\" hreflang=\"en\">Iambic maintains momentum from string of Big Pharma partnerships by aiming for IPO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/iambic-maintains-momentum-big-pharma-partnerships-planning-ipo",
+        "summary": "Iambic Therapeutics is maintaining the momentum generated by its recent mega round and Big Pharma partnerships by gearing up to go public.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 3:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/white-house-plans-put-nih-grants-under-political-control-reports\" hreflang=\"en\">White House plans to put NIH grants under political control: reports</a>",
+        "url": "https://www.fiercebiotech.com/research/white-house-plans-put-nih-grants-under-political-control-reports",
+        "summary": "President Donald Trump is attempting to seize further control of funding decisions made by the National Institutes of Health. According to multiple reports, senior officials met in the Oval Office on Friday to discuss plans for an executive order that would create an external panel with the power to shoot down NIH grants.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 10:39am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+        "url": "https://huggingface.co/papers/2609.23088",
+        "summary": "Educational foundation models must solve problems, understand curriculum structure, diagnose learner difficulties, and provide appropriate instructional support. Existing educational language models often focus on either problem solving or tutoring, with training mixtures organized by source or task rather than capability. We present OmniEdu, an open family of foundation models for K-12 learning and teaching. Its instruction-tuning corpus combines over 100 educational resources and general instruction sources, organized around four capabilities: subject competence, curriculum grounding, diagno",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-18T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

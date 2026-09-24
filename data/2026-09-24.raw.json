@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:43:18.448699+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "White House plan to increase control of NIH grants appears ‘dead’",
+        "url": "https://www.statnews.com/2026/09/23/nih-grants-political-control-executive-order-bipartisan-pushback/",
+        "summary": "A planned EO that would have greatly enhanced White House influence over grants at the NIH is “looking dead,” a source said.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 23:26:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nominee to lead FDA aims to speed up medical research, combat China’s rise",
+        "url": "https://www.statnews.com/2026/09/23/heidi-overton-fda-nominee-opening-statement-senate-hearing-clinical-trials/",
+        "summary": "Exclusive: Heidi Overton plans to tell senators she will speed up biomedical research, working with FDA staff.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 22:14:37 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA advisory panel endorses Grail blood test for cancer, saying benefits outweigh risks",
+        "url": "https://www.statnews.com/2026/09/23/fda-advisory-panel-recommends-approval-grail-galleri-multi-cancer-blood-test/",
+        "summary": "An FDA advisory panel has endorsed Galleri, a blood test designed by the biotech firm Grail to screen for multiple types of cancer.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 21:47:58 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Flagship gets a Pentagon contract",
+        "url": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/",
+        "summary": "Biotech investment firm Flagship Pioneering has been awarded a contract by the Department of Defense to advance countermeasure technologies against biological threats.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 13:37:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AI doomerism: Here’s how to make sense of it",
+        "url": "https://www.statnews.com/2026/09/23/how-to-make-sense-of-ai-doomerism-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis newsletter: Brittany Trang offers a few stories to make sense of the AI doom/slowdown talk, and more.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 13:29:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a closing loophole for importing meds, European competitiveness, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/23/loophole-closing-for-importing-meds-european-competitiveness/",
+        "summary": "As of next month, a loophole that allows Americans to personally import their medications by mail is closing",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 13:20:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The latest in the legal saga for youth gender-affirming care in the U.S.",
+        "url": "https://www.statnews.com/2026/09/23/health-news-legal-saga-for-youth-gender-affirming-care-in-the-us/",
+        "summary": "The chilling effect of the Trump administration's dogged offensive against transgender health care has been swift, with dozens of hospitals across the U.S. ending care, even if they haven't been&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 11:51:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring",
+        "url": "https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/",
+        "summary": "Some health insurers push back on a Medicare proposal that would disrupt how doctors can bill for remotely monitoring patients' health.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Drugmakers, biotech VCs show ‘reinvigorated’ interest in osteoporosis treatments",
+        "url": "https://www.statnews.com/2026/09/23/biotech-vc-investors-new-opportunity-osteoporosis-treatments/",
+        "summary": "Medicines for osteoporosis are grabbing the attention of the pharma industry, which has been incentivized by a long-awaited regulatory change.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Mentally ill women deserve more support to have children",
+        "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/",
+        "summary": "“The maternal mental health needs of women like me have been badly underprioritized in American society,” writes Meg LeDuc.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A private equity-owned hospital chain is becoming a nonprofit. Is it just a bailout for investors?",
+        "url": "https://www.statnews.com/2026/09/23/quorum-hospitals-nonprofit-conversion-increases-debt-load/",
+        "summary": "Other private equity-owned hospital chains have collapsed in recent years, so the stakes are high for Quorum.",
+        "source": "STAT News",
+        "published": "Wed, 23 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
+        "url": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/",
+        "summary": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 19:28:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+        "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/",
+        "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 17:49:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Did the Trump administration just cut Novo a huge financial win?",
+        "url": "https://www.statnews.com/2026/09/22/dc-diagnosis-did-trump-administration-cut-novo-huge-financial-win/",
+        "summary": "The White House's GENEROUS plan was designed to make drugs more affordable for Medicaid users. There's one glaring potential exception.",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 16:23:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novo may be getting a better deal than expected with Medicare’s Bridge program",
+        "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/",
+        "summary": "Eli Lilly and Novo Nordisk were already benefitting a great deal from the Trump administration's pilot program covering obesity drugs for seniors at a price of $245 a month. It&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 22 Sep 2026 14:23:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-care-without-harm-ai-procurement-guide-focuses-environment\" hreflang=\"en\">New procurement guide for hospitals, payers takes aim at AI's environmental impact</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-care-without-harm-ai-procurement-guide-focuses-environment",
+        "summary": "Health Care Without Harm (HCWH) has published its U.S. Artificial Intelligence Procurement Guide to support healthcare organizations in identifying preferred AI vendors and encourage them to become better stewards of the environment.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 11:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/august-ai-chatbot-answering-health-questions-rolls-out-us-telehealth-services\" hreflang=\"en\">August AI, operating global chatbot in stealth mode, rolls out U.S. telehealth services</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/august-ai-chatbot-answering-health-questions-rolls-out-us-telehealth-services",
+        "summary": "The company is on a mission to prevent knowledge and care access gaps. August AI is used by over 9 million people and will continue to be free globally. August Care is available in the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 3:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-cigna-centene-sign-certifyos-new-provider-credentialing-model\" hreflang=\"en\">UnitedHealthcare, Cigna, Centene sign on to CertifyOS' new provider credentialing model</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-cigna-centene-sign-certifyos-new-provider-credentialing-model",
+        "summary": "Health tech company CertifyOS is launching a new national model for provider credentialing, with several major payers already on board as participants.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 3:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—PeaceHealth cuts 150; Elevance Health eliminates 216 in Louisiana</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/florida-ag-sues-pbms-pharmas-over-rise-insulin-prices\" hreflang=\"en\">Florida AG sues PBMs, pharmas over rise in insulin prices</a>",
+        "url": "https://www.fiercehealthcare.com/payers/florida-ag-sues-pbms-pharmas-over-rise-insulin-prices",
+        "summary": "Florida Attorney General James Uthmeier is suing three drug manufacturers as well as three pharmacy benefit managers, alleging that they worked together to drive up the price of insulin and line their own pockets.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 1:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Joint Commission CEO to retire; UnitedHealth Group names chief commercial officer</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-shifts-focus-cybersecurity-while-ai-and-interoperability-agenda-still-track\" hreflang=\"en\">Epic shifts focus to cybersecurity while AI, interoperability agenda still on track, company says</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-shifts-focus-cybersecurity-while-ai-and-interoperability-agenda-still-track",
+        "summary": "Epic Systems is placing greater emphasis on cybersecurity protections as cyber threats continue to escalate. Still, its development roadmap hasn’t changed since it was presented at Epic's August 2026 Users Group Meeting, a spokesperson said.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 10:14am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/breast-cancer-and-black-women-investigating-disparities\" hreflang=\"en\">Breast cancer and Black women: Investigating the disparities</a>",
+        "url": "https://www.fiercehealthcare.com/providers/breast-cancer-and-black-women-investigating-disparities",
+        "summary": "Black women face a far higher breast cancer mortality rate than white women despite having a slightly lower incidence of the disease. In this episode of \"Podnosis,\" we look at what’s driving that disparity and the research aimed at closing the gap.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 10:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/pelago-expands-sud-care-mental-health-behavioral-addictions-employers\" hreflang=\"en\">AI-enabled Pelago expands from SUD care to mental health, behavioral addictions</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/pelago-expands-sud-care-mental-health-behavioral-addictions-employers",
+        "summary": "The new Pelago Behavioral Health Platform means co-occurring conditions can be assessed and treated in a single plan. Behavioral addiction programming includes gambling, gaming and binge eating",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 12:26am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-rolls-out-ai-agents-analytics-tools-advance-life-sciences-research\" hreflang=\"en\">Oracle deepens life sciences push with AI agents, real-world data analytics</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-rolls-out-ai-agents-analytics-tools-advance-life-sciences-research",
+        "summary": "Oracle is expanding the capabilities of its life sciences AI data platform with domain-trained AI agents, enhanced analytics tools and natural-language data exploration aimed at accelerating clinical research.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 10:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-lands-340m-build-ai-care-partner-clinicians\" hreflang=\"en\">Heidi lands $340M to build 'AI care partner' for clinicians</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-lands-340m-build-ai-care-partner-clinicians",
+        "summary": "Healthcare startup Heidi landed $340 million to fuel its push beyond clinical documentation into AI-powered workflow automation and agentic capabilities for clinicians.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 8:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-overhauls-provider-tax-policy-hospitals-plead-minimal-administrative-burden\" hreflang=\"en\">As CMS overhauls provider tax policy, hospitals plead for minimal administrative burden, uncertainty</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-overhauls-provider-tax-policy-hospitals-plead-minimal-administrative-burden",
+        "summary": "Public comment letters from hospital associations asked the administration to stick to the status quo where possible, highlighting changes they said offer no benefit and could lead to unnecessary refunds and recoupments.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 4:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name\" hreflang=\"en\">Enveda reaps $311M series E to feed ambition to become a ‘household name’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name",
+        "summary": "Enveda has raised a $311 million series E round, positioning the nature-derived drug discovery company to pursue its goal of becoming a household name over the next decade.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/department-war-bets-47m-flagship-biotechs-develop-countermeasure-technologies\" hreflang=\"en\">Trump's Department of War bets $47M on Flagship biotechs to develop countermeasures</a>",
+        "url": "https://www.fiercebiotech.com/biotech/department-war-bets-47m-flagship-biotechs-develop-countermeasure-technologies",
+        "summary": "The Department of War has awarded Flagship Pioneering $47 million to develop medical countermeasure technologies against emerging threats.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 9:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/immunovant-ends-cutaneous-lupus-program-after-phase-2-flop\" hreflang=\"en\">Immunovant ends cutaneous lupus program after phase 2 flop</a>",
+        "url": "https://www.fiercebiotech.com/biotech/immunovant-ends-cutaneous-lupus-program-after-phase-2-flop",
+        "summary": "Immunovant has stopped development of IMVT-1402 in cutaneous lupus erythematosus after failing a midphase test, closing off one path to market for the anti-FcRn antibody.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 9:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-adds-250m-value-variant-pact-expanding-cardio-disease\" hreflang=\"en\">Boehringer adds $250M to value of Variant pact by expanding into cardiovascular disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-adds-250m-value-variant-pact-expanding-cardio-disease",
+        "summary": "Boehringer Ingelheim has dived deeper into its collaboration with Variant Bio by expanding the collaboration to cover cardiovascular disease to the tune of $250 million.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 8:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-trying-balance-east-and-west-hansoh-deal-success-showed-chinas-potential\" hreflang=\"en\">GSK aiming to ‘balance West and East’ after Hansoh deal success showed China’s potential</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-trying-balance-east-and-west-hansoh-deal-success-showed-chinas-potential",
+        "summary": "GSK has been operating a strategy of “balancing the West and the East” since the Big Pharma’s eyes were opened to the potential of licensing drugs from China two years ago, according to an executive.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 1:59pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-phase-3-win-tees-fight-novartis-blockbuster-kidney-disease-market\" hreflang=\"en\">Roche’s phase 3 win tees up fight with Novartis for blockbuster kidney disease market</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-phase-3-win-tees-fight-novartis-blockbuster-kidney-disease-market",
+        "summary": "Roche has reported a phase 3 win for sefaxersen in kidney disease, teeing up talks with regulators about the path to approval for the Ionis-partnered, would-be blockbuster candidate.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 3:35am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/anaconda-biomed-takes-56m-funding-endovascular-tech\" hreflang=\"en\">Anaconda Biomed snares $56M in funding for endovascular tech</a>",
+        "url": "https://www.fiercebiotech.com/medtech/anaconda-biomed-takes-56m-funding-endovascular-tech",
+        "summary": "Medtech startup Anaconda Biomed has hauled in $53 million to help finish off work on a pivotal trial for its endovascular project.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 4:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens\" hreflang=\"en\">Novartis secures new radioligand in $900M deal as competition strengthens</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens",
+        "summary": "As an imposing new competitor begins to take shape, radiopharma leader Novartis has beefed up its pipeline by licensing a preclinical radioligand therapy from a specialist Chinese biotech.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 1:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celldex-redeems-monoclonal-antibody-pair-phase-3-wins-chronic-skin-condition\" hreflang=\"en\">Celldex monoclonal antibody rebounds with pair of phase 3 wins for chronic skin condition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/celldex-redeems-monoclonal-antibody-pair-phase-3-wins-chronic-skin-condition",
+        "summary": "Celldex touted a double phase 3 trial win in patients with treatment-refractory chronic spontaneous urticaria.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win\" hreflang=\"en\">Amgen’s Horizon-acquired fusion protein eases Sjögren's severity in ph. 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgens-horizon-acquired-fusion-protein-eases-sjogrens-severity-ph-3-win",
+        "summary": "An investigational drug for the autoimmune condition Sjögren's disease has scored a phase 3 win for Amgen, marking a positive sign for the Horizon Therapeutics-acquired pipeline that has so far struggled to gain traction.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vertexs-midstage-data-amplify-kidney-disease-market-opportunity\" hreflang=\"en\">Vertex’s midstage data amplify kidney disease market opportunity</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vertexs-midstage-data-amplify-kidney-disease-market-opportunity",
+        "summary": "Vertex has reported positive phase 2b data for its kidney disease prospect inaxaplin, boosting its efforts to expand beyond the population targeted in a pivotal trial.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lexeo-takes-mantle-8m-acquisition-friedreich-ataxia-assets\" hreflang=\"en\">Lexeo takes up the Mantle in $8M acquisition for Friedreich ataxia assets</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lexeo-takes-mantle-8m-acquisition-friedreich-ataxia-assets",
+        "summary": "Lexeo Therapeutics has agreed to acquire Mantle Therapeutics via an upfront payment of $8.3 million, aiming to expand its Friedreich ataxia (FA) portfolio while locking in three strategic collaborations to support its lead asset.",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 10:00am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents",
+        "url": "https://huggingface.co/papers/2609.25636",
+        "summary": "Modern embodied agents achieve impressive success rates, yet their actual instruction-following ability is far weaker than these numbers suggest. We trace this illusion to a structural property we term low scene entropy: when a visual scene admits only one valid task, language becomes redundant and a policy can score highly while barely using it. We introduce RoboFollow, a diagnostic benchmark with three principles: (1) High Scene Entropy: each training scene supports multiple kinematically distinct task branches, making vision alone insufficient and forcing reliance on language. (2) Hierarchi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-21T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:40:16.421936+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA commissioner nominee Heidi Overton keeps opinions to herself in Senate hearing",
+        "url": "https://www.statnews.com/2026/09/24/fda-commissioner-nominee-heidi-overton-senate-hearing-dodges-questions/",
+        "summary": "Senators focused on asking Overton about vaccines, abortion, and vapes.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 20:21:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The FDA’s Overton era, and dispatches from Shanghai",
+        "url": "https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/",
+        "summary": "The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 19:30:38 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Senate finance committee backs Chris Klomp, advancing him to full Senate vote",
+        "url": "https://www.statnews.com/2026/09/24/chris-klomp-vote-senate-finance-committee-hhs-deputy-secretary/",
+        "summary": "Klomp, a behind-the-scenes HHS power player, is likely to be confirmed as second-in-command to RFK Jr.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 16:38:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Indonesian ruling against ‘patent evergreening’ by pharma industry sends critical message, patient advocates say",
+        "url": "https://www.statnews.com/pharmalot/2026/09/24/indonesian-court-rules-against-patent-evergreening-boosting-access-medicines/",
+        "summary": "A recent court decision in Indonesia sends an important message to other countries to challenge the pharma industry's use of \"patent evergreening,\" patient advocates say.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 14:57:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kyverna’s cell therapy shows lasting autoimmune benefit",
+        "url": "https://www.statnews.com/2026/09/24/biotech-news-kyverna-cell-therapy-shows-lasting-autoimmune-benefit/",
+        "summary": "Kyverna Therapeutics is one step closer to launching the first cell therapy for an autoimmune disease, with new data in hand showing many patients remained off of other therapies a&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 13:52:10 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about the FDA commissioner nominee, a Lilly partnership in China, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/24/fda-commissioner-nominee-heidi-overton-lilly-china-partnership/",
+        "summary": "During a Senate hearing today, Heidi Overton, the nominee to lead the FDA, plans to emphasize the need for speed and efficiency to compete with China",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 13:21:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The rise of the AI-native radiology practice",
+        "url": "https://www.statnews.com/2026/09/24/the-rise-of-the-ai-native-radiology-practice-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Radiology startups say owning a practice makes it easier to develop AI tools, and insurers oppose RPM changes.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 13:21:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "One of the most contagious diseases on the planet is having its worst U.S. outbreak since 1991",
+        "url": "https://www.statnews.com/2026/09/24/health-news-measles-contagious-outbreak-u-s-deaths-1991/",
+        "summary": "The CDC has added a single measles death to its online counter. In the last few weeks, four unvaccinated people have died from measles in Pennsylvania, according to state officials.&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 11:52:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why Gilead can’t stop talking about its ambitions in immunology",
+        "url": "https://www.statnews.com/2026/09/24/gilead-immunology-inflammation-biotech-moderna-merck/",
+        "summary": "Gilead Sciences’ top executives have been emphatically bullish about the biotech’s years-long push to develop drugs for inflammatory and autoimmune diseases.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How a young doctor rose from rural New Mexico to FDA commissioner nominee",
+        "url": "https://www.statnews.com/2026/09/24/heidi-overton-profile-fda-commissioner-nominee/",
+        "summary": "What to know about Dr. Heidi Overton, Trump's pick to run the FDA, including her medical background and career trajectory.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In radiology, AI is blurring the line between technology development and clinical practice",
+        "url": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/",
+        "summary": "A new wave of radiology practices are aggressively embracing AI: developing and deploying it in-house, and marketing themselves as 'AI-native.'",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Momentum is building for a big change to how doctors get paid",
+        "url": "https://www.statnews.com/2026/09/24/patients-first-act-congress-moves-on-doctor-pay-medicare-reform/",
+        "summary": "Congress is considering linking doctor payment rates to medical inflation under the proposed Patients First Act.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump boast on drug pricing policy overstated state-level interest in federal program",
+        "url": "https://www.statnews.com/2026/09/24/trump-medicaid-generous-model-state-interest/",
+        "summary": "President Trump and his aides boasted that every U.S. state wanted to participate in a drug pricing initiative through Medicaid. Several states said they weren't sure yet.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Heidi Overton, Trump’s pick for FDA head, faced questions at Senate hearing",
+        "url": "https://www.statnews.com/2026/09/24/heidi-overton-fda-commissioner-confirmation-hearing-2/",
+        "summary": "Heidi Overton, Trump's pick for FDA head, will face questions at a Senate hearing. Follow along with our live blog.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Measles almost killed me. Now I’m a doctor — and I’m scared of what’s happening",
+        "url": "https://www.statnews.com/2026/09/24/measles-outbreak-experience-child-doctor-1961/",
+        "summary": "Jewel Mullen was in kindergarten in 1961 when she almost died from measles. Now a physician, measles’ return frightens her.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions\" hreflang=\"en\">Cigna Group, OpenAI team up to support patients with complex conditions</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions",
+        "summary": "Cigna is teaming up with OpenAI to build out more personalized supports for individuals with complex conditions, starting with a focus on cancer patients.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 4:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/maine-governor-urges-prime-healthcare-hospital-reinstate-fired-nurses-ahead-heated-union\" hreflang=\"en\">Maine governor urges Prime Healthcare hospital to reinstate fired nurses ahead of heated union vote</a>",
+        "url": "https://www.fiercehealthcare.com/providers/maine-governor-urges-prime-healthcare-hospital-reinstate-fired-nurses-ahead-heated-union",
+        "summary": "Accusations of retaliatory firings and suspensions have been met with denouncement of an \"increasingly aggressive\" national smear campaign at Central Maine Medical Center, which was acquired by Prime Healthcare's nonprofit wing earlier this year.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 4:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing\" hreflang=\"en\">Trump's FDA pick Heidi Overton calls vaccines, mifepristone safe and effective in confirmation hearing</a>",
+        "url": "https://www.fiercehealthcare.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing",
+        "summary": "The Senate Committee on Health, Education, Labor and Pensions (HELP) today questioned Heidi Overton, M.D., Ph.D., Trump’s pick for FDA commissioner, in a hearing marked by tightrope-walking on issues like vaccines, abortions, flavored vapes and whether or not President Donald Trump is capable of being wrong.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 2:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-group-creates-new-chief-administrative-officer-position\" hreflang=\"en\">UnitedHealth Group creates new chief administrative officer position</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-creates-new-chief-administrative-officer-position",
+        "summary": "UnitedHealth Group has named Jodee Kozlak to the newly-created role of chief administrative officer, the healthcare giant announced Thursday morning.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 2:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-finance-committee-advances-klomps-nomination-hhs-deputy-secretary\" hreflang=\"en\">Senate Finance Committee advances Klomp's nomination as HHS Deputy Secretary</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-finance-committee-advances-klomps-nomination-hhs-deputy-secretary",
+        "summary": "The Senate Finance Committee has advanced the nominees for two key Department of Health and Human Services posts.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 1:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/berry-street-abbott-partner-personalized-nutrition-coaching-through-lingo-glucose\" hreflang=\"en\">Berry Street, Abbott partner to link Lingo CGM with nutrition coaching</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/berry-street-abbott-partner-personalized-nutrition-coaching-through-lingo-glucose",
+        "summary": "Through the partnership, Abbott’s Lingo, an over-the-counter continuous glucose monitor, will now feature live nutrition coaching from Berry Street.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 11:47am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oracle-health-ai-clinical-financial-research\" hreflang=\"en\">Oracle Health rolls out AI solutions for RCM, oncology as part of broader healthcare, life sciences strategy</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-ai-clinical-financial-research",
+        "summary": "Healthcare is entering an AI era, and the industry needs a fundamentally different architecture designed for AI from the start, Oracle Health executives said Wednesday.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 6:57pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis\" hreflang=\"en\">Hospitals' use of AI coding tools cost BCBSA plans $942M more for similar care: analysis</a>",
+        "url": "https://www.fiercehealthcare.com/finance/hospitals-use-ai-coding-tools-cost-bcbsa-plans-942m-more-similar-care-analysis",
+        "summary": "“The question that is worth asking is [with] two similarly situated hospitals, treating similar patients, why would one hospital diverge?” Razia Hashmi, BCBSA’s vice president of clinical affairs, told reporters. “There may be an element of correct coding there, but the likelihood that this is technology-enabled upcoding is higher, in my view.”",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 2:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—PeaceHealth cuts 150; Elevance Health eliminates 216 in Louisiana</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-care-without-harm-ai-procurement-guide-focuses-environment\" hreflang=\"en\">New procurement guide for hospitals, payers takes aim at AI's environmental impact</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-care-without-harm-ai-procurement-guide-focuses-environment",
+        "summary": "Health Care Without Harm (HCWH) has published its U.S. Artificial Intelligence Procurement Guide to support healthcare organizations in identifying preferred AI vendors and encourage them to become better stewards of the environment.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 22, 2026 11:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/august-ai-chatbot-answering-health-questions-rolls-out-us-telehealth-services\" hreflang=\"en\">August AI, operating global chatbot in stealth mode, rolls out U.S. telehealth services</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/august-ai-chatbot-answering-health-questions-rolls-out-us-telehealth-services",
+        "summary": "The company is on a mission to prevent knowledge and care access gaps. August AI is used by over 9 million people and will continue to be free globally. August Care is available in the U.S.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 3:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-cigna-centene-sign-certifyos-new-provider-credentialing-model\" hreflang=\"en\">UnitedHealthcare, Cigna, Centene sign on to CertifyOS' new provider credentialing model</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-cigna-centene-sign-certifyos-new-provider-credentialing-model",
+        "summary": "Health tech company CertifyOS is launching a new national model for provider credentialing, with several major payers already on board as participants.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 3:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing\" hreflang=\"en\">Trump's FDA pick Heidi Overton calls vaccines, mifepristone safe and effective in confirmation hearing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing",
+        "summary": "The Senate Committee on Health, Education, Labor and Pensions (HELP) today questioned Heidi Overton, M.D., Ph.D., Trump’s pick for FDA commissioner, in a hearing marked by tightrope-walking on issues like vaccines, abortions, flavored vapes and whether or not President Donald Trump is capable of being wrong.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 2:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/its-actually-very-radical-nih-debuts-tool-help-scientists-navigate-biomedical-database\" hreflang=\"en\">‘It’s actually very radical’: NIH debuts tool to help scientists navigate biomedical database</a>",
+        "url": "https://www.fiercebiotech.com/research/its-actually-very-radical-nih-debuts-tool-help-scientists-navigate-biomedical-database",
+        "summary": "The NIH’s National Library of Medicine has released the pilot version of a new tool designed to help scientists plumbing the library’s digital trove of scientific papers find related research faster.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 5:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chinas-henlius-carves-out-440m-t-cell-engager-deal-amberstone\" hreflang=\"en\">China’s Henlius carves out $440M T-cell engager deal with Amberstone</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chinas-henlius-carves-out-440m-t-cell-engager-deal-amberstone",
+        "summary": "Fosun Pharma subsidiary Henlius Biotech has signed a $440 million biobucks deal with California-based Amberstone Biosciences to work on T-cell engagers.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 10:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing\" hreflang=\"en\">Acadia misses mark in Alzheimer’s but concludes phase 3 ‘absolutely worth’ pursuing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing",
+        "summary": "Acadia Pharmaceuticals’ phase 2 Alzheimer’s disease trial has&nbsp;missed its primary endpoint, but the company and analysts alike saw enough encouraging signals to support the continuation of a phase 3 program.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 9:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/grail-survives-adcomm-vote-it-now-awaits-fda-decision-cancer-blood-test\" hreflang=\"en\">Grail survives adcomm vote as it awaits FDA decision for cancer blood test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/grail-survives-adcomm-vote-it-now-awaits-fda-decision-cancer-blood-test",
+        "summary": "Despite a major trial setback earlier this year and increasing questions over its efficacy, medtech Grail has beaten the odds and seen a positive recommendation for its multi-cancer blood test Galleri from FDA advisors.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 2:00am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-pens-backloaded-2b-deal-atavistik-discover-new-cvrm-drugs\" hreflang=\"en\">Roche pens backloaded $2B deal with Atavistik to discover allosteric CVRM drugs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-pens-backloaded-2b-deal-atavistik-discover-new-cvrm-drugs",
+        "summary": "Roche has penned a backloaded $2 billion deal with hematology biotech Atavistik Bio to develop allosteric small molecules for cardiometabolic diseases.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 8:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-co-uncorks-pivotal-victory-3b-eye-disease-prospect\" hreflang=\"en\">Merck sees pivotal victory for $3B eye disease prospect</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-co-uncorks-pivotal-victory-3b-eye-disease-prospect",
+        "summary": "Merck &amp; Co.’s Brunello trial has hit its primary endpoint, shedding light on the effects of a trispecific diabetic macular edema (DME) drug candidate that the Big Pharma bought in a $3 billion takeover.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 8:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-us-senator-wants-federal-biotech-czar-ear-president\" hreflang=\"en\">Why a US senator wants a biotech leader in the White House who ‘has the president’s ear’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-us-senator-wants-federal-biotech-czar-ear-president",
+        "summary": "Senator Todd Young (R-IN), chairman of the National Security Commission on Emerging Biotechnology, told Fierce why he's concerned about the growth of China's biopharma industry.",
+        "source": "Fierce Biotech",
+        "published": "Sep 16, 2026 9:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/adagio-medical-implements-strategic-review-and-trims-more-half-its-staff\" hreflang=\"en\">Adagio Medical kicks off strategic review, trims more than half its staff</a>",
+        "url": "https://www.fiercebiotech.com/medtech/adagio-medical-implements-strategic-review-and-trims-more-half-its-staff",
+        "summary": "Adagio Medical has initiated a strategic review of its business and will lay off more than half its full-time workers as the maker of cryoablation devices faces delisting on the Nasdaq exchange.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 8:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/autoimmune-car-t-peers-hit-safety-snags-kyverna-touts-1-year-miv-cel-data\" hreflang=\"en\">Kyverna ‘resetting conversation’ with 1-year miv-cel data as autoimmune CAR-T peers hit safety snags</a>",
+        "url": "https://www.fiercebiotech.com/biotech/autoimmune-car-t-peers-hit-safety-snags-kyverna-touts-1-year-miv-cel-data",
+        "summary": "As two Big Pharma players in the autoimmune CAR-T space face unexpected safety setbacks, Kyverna Therapeutics is reporting long-term clinical data that showcase sustained efficacy alongside an unblemished safety profile for its potential first-in-class candidate, miv-cel.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 4:18pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-puts-100m-plus-billions-backend-form-5-target-deal-innocare\" hreflang=\"en\">Lilly puts up $100M, plus billions on the backend, to form 5-target deal with China's InnoCare</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-puts-100m-plus-billions-backend-form-5-target-deal-innocare",
+        "summary": "Eli Lilly has committed $100 million in upfront and near-term payments to InnoCare Pharma to form a five-target drug discovery pact. The deal features up to $3.25 billion in milestones.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 2:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name\" hreflang=\"en\">Enveda reaps $311M series E to feed ambition to become a ‘household name’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name",
+        "summary": "Enveda has raised a $311 million series E round, positioning the nature-derived drug discovery company to pursue its goal of becoming a household name over the next decade.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "累计融资139亿，京东、蚂蚁同日出手，AI医疗到底为啥这么吃香？",
+        "url": "https://www.36kr.com/p/3996681736687493",
+        "summary": "这个赛道，必须重注",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 24 Sep 2026 01:08:21 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents",
+        "url": "https://huggingface.co/papers/2609.25636",
+        "summary": "Modern embodied agents achieve impressive success rates, yet their actual instruction-following ability is far weaker than these numbers suggest. We trace this illusion to a structural property we term low scene entropy: when a visual scene admits only one valid task, language becomes redundant and a policy can score highly while barely using it. We introduce RoboFollow, a diagnostic benchmark with three principles: (1) High Scene Entropy: each training scene supports multiple kinematically distinct task branches, making vision alone insufficient and forcing reliance on language. (2) Hierarchi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-21T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

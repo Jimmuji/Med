@@ -1,0 +1,325 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T13:43:39.905195+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 0
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+        "url": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/",
+        "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
+        "source": "STAT News",
+        "published": "Sat, 26 Sep 2026 01:03:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic",
+        "url": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/",
+        "summary": "With an eye toward pandemic preparedness, a U.N.-backed agency has signed sub-licensing deals related to generic versions of a Roche influenza treatment.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 17:50:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lilly wins approval for once-weekly insulin shot",
+        "url": "https://www.statnews.com/2026/09/25/biotech-news-lilly-wins-approval-for-weekly-insulin-shot/",
+        "summary": "The FDA approved Eli Lilly’s Onswik, a once-weekly basal insulin for adults with type 2 diabetes, offering patients an alternative to daily long-acting insulin injections.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 15:25:10 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug",
+        "url": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/",
+        "summary": "“With this latest appointment, mifepristone has a new boss but an old problem,” writes Julie F. Kay, founder and CEO of Reproductive Futures.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 14:39:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/09/25/up-and-down-the-ladder-latest-comings-goings-jobs-pharma-biotech/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 13:38:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a reticent FDA commish nominee, a Novo deal, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/25/reticent-fda-commish-nominee-novo-deal/",
+        "summary": "President Trump’s nominee to lead the FDA was grilled by senators on hot button topics like China, vaccines, and abortion access",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 13:32:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Federal judge rolls back landmark disability protections",
+        "url": "https://www.statnews.com/2026/09/25/health-news-federal-judge-rolls-back-landmark-disability-protections/",
+        "summary": "The Justice Department said in June that it would no longer enforce laws that prioritized people with disabilities living and receiving services in their communities, rather than in nursing homes&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 12:53:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
+        "url": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/",
+        "summary": "Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menthol cigarettes were form letters, most echoing tobacco industry talking points.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "At least five candidates vie to become the next WHO leader, as questions over U.S. role loom",
+        "url": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/",
+        "summary": "At least five candidates are in the running to become the next director-general of the WHO, a job that will come with extraordinary challenges.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The head of Kennedy’s new autism project has roots in Iraq War, Sesame Street",
+        "url": "https://www.statnews.com/2026/09/25/russell-shilling-leads-arpa-h-spectra-initiative-autism-care/",
+        "summary": "Advanced Research Projects Agency for Health is planning a total-lifespan research project on autism: A Q&#038;A with its leader, Russell Shilling.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count",
+        "url": "https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/",
+        "summary": "“A discrepancy between how federal and state public health officials determine measles deaths will only increase public confusion,” write Denys T. Lau and Jennifer D. Schoendorf.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The ‘died with’ vs. ‘died of’ measles discussion misses something very important",
+        "url": "https://www.statnews.com/2026/09/25/died-with-not-from-measles-physicians-explain-death-certificate-rules/",
+        "summary": "“Arguing over whether someone died ‘with’ or ‘of’ a disease gets us stuck on the last thing that happened.” write two Unbiased Science scientists.",
+        "source": "STAT News",
+        "published": "Fri, 25 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA commissioner nominee Heidi Overton keeps opinions to herself in Senate hearing",
+        "url": "https://www.statnews.com/2026/09/24/fda-commissioner-nominee-heidi-overton-senate-hearing-dodges-questions/",
+        "summary": "Senators focused on asking Overton about vaccines, abortion, and vapes.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 20:21:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The FDA’s Overton era, and dispatches from Shanghai",
+        "url": "https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/",
+        "summary": "The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 19:30:38 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Senate finance committee backs Chris Klomp, advancing him to full Senate vote",
+        "url": "https://www.statnews.com/2026/09/24/chris-klomp-vote-senate-finance-committee-hhs-deputy-secretary/",
+        "summary": "Klomp, a behind-the-scenes HHS power player, is likely to be confirmed as second-in-command to RFK Jr.",
+        "source": "STAT News",
+        "published": "Thu, 24 Sep 2026 16:38:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/37-states-partner-cms-initiative-rethink-medicaid-quality-measures\" hreflang=\"en\">37 states partner with CMS on initiative to rethink Medicaid quality measures</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/37-states-partner-cms-initiative-rethink-medicaid-quality-measures",
+        "summary": "The Trump administration announced Friday that it is launching a new partnership with 37 states that aims to rethink how quality is measured in Medicaid and CHIP.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 5:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike\" hreflang=\"en\">Brigham and Women's nurses authorize open-ended strike</a>",
+        "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike",
+        "summary": "With contract talks stalled since August, unionized Mass General Brigham employees voted 93% in favor of a 4,000-nurse demonstration that could be the largest in Massachusetts history.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-epocrates-scriptsave-partner-real-time-prescription-pricing-clinicians\" hreflang=\"en\">Weekly Rundown: Abridge poised for broader VA expansion; Hims &amp; Hers builds out AI-native care</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-epocrates-scriptsave-partner-real-time-prescription-pricing-clinicians",
+        "summary": "The latest news from Hims &amp; Hers, Abridge, Penn State Health, epocrates and more.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 3:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/new-employer-clinician-alliance-aims-advocate-direct-contracting\" hreflang=\"en\">New employer, clinician alliance to advocate for direct contracting</a>",
+        "url": "https://www.fiercehealthcare.com/payers/new-employer-clinician-alliance-aims-advocate-direct-contracting",
+        "summary": "A new coalition is bringing together employers, clinicians and other stakeholders to push for the expansion of direct contracting.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 4:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/telehealth/industry-voices-how-can-telehealth-sector-shape-future-healthcare-while-securing-its-own\" hreflang=\"en\">Industry Voices—How can the telehealth sector shape the future of healthcare while securing its own?</a>",
+        "url": "https://www.fiercehealthcare.com/telehealth/industry-voices-how-can-telehealth-sector-shape-future-healthcare-while-securing-its-own",
+        "summary": "Partnerships and integration, not isolation, are the key to long-term success and value for all, write experts from the Center for Digital Health and Artificial Intelligence at Johns Hopkins Carey Business School.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 2:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/adventist-health-strikes-185m-settlement-resolving-sexual-abuse-lawsuit\" hreflang=\"en\">Adventist Health strikes $18.5M settlement resolving sexual abuse lawsuit</a>",
+        "url": "https://www.fiercehealthcare.com/providers/adventist-health-strikes-185m-settlement-resolving-sexual-abuse-lawsuit",
+        "summary": "The settlement translates to more than $2.6 million per plaintiff, “representing one of the nation’s largest per-plaintiff recoveries in a sexual abuse case involving a medical provider,” the law firm Lewis &amp; Llewellyn said.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 2:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions\" hreflang=\"en\">Cigna Group, OpenAI team up to support patients with complex conditions</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-group-openai-team-support-patients-complex-conditions",
+        "summary": "Cigna is teaming up with OpenAI to build out more personalized supports for individuals with complex conditions, starting with a focus on cancer patients.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 4:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/maine-governor-urges-prime-healthcare-hospital-reinstate-fired-nurses-ahead-heated-union\" hreflang=\"en\">Maine governor urges Prime Healthcare hospital to reinstate fired nurses amid heated unionization vote</a>",
+        "url": "https://www.fiercehealthcare.com/providers/maine-governor-urges-prime-healthcare-hospital-reinstate-fired-nurses-ahead-heated-union",
+        "summary": "Accusations of retaliatory firings and suspensions have been met with denouncement of an \"increasingly aggressive\" national smear campaign at Central Maine Medical Center, which was acquired by Prime Healthcare's nonprofit wing earlier this year.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 4:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing\" hreflang=\"en\">Trump's FDA pick Heidi Overton calls vaccines, mifepristone safe and effective in confirmation hearing</a>",
+        "url": "https://www.fiercehealthcare.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing",
+        "summary": "The Senate Committee on Health, Education, Labor and Pensions (HELP) today questioned Heidi Overton, M.D., Ph.D., Trump’s pick for FDA commissioner, in a hearing marked by tightrope-walking on issues like vaccines, abortions, flavored vapes and whether or not President Donald Trump is capable of being wrong.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 2:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-group-creates-new-chief-administrative-officer-position\" hreflang=\"en\">UnitedHealth Group creates new chief administrative officer position</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-creates-new-chief-administrative-officer-position",
+        "summary": "UnitedHealth Group has named Jodee Kozlak to the newly-created role of chief administrative officer, the healthcare giant announced Thursday morning.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 2:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senate-finance-committee-advances-klomps-nomination-hhs-deputy-secretary\" hreflang=\"en\">Senate Finance Committee advances Klomp's nomination as HHS Deputy Secretary</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senate-finance-committee-advances-klomps-nomination-hhs-deputy-secretary",
+        "summary": "The Senate Finance Committee has advanced the nominees for two key Department of Health and Human Services posts.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 1:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/berry-street-abbott-partner-personalized-nutrition-coaching-through-lingo-glucose\" hreflang=\"en\">Berry Street, Abbott partner to link Lingo CGM with nutrition coaching</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/berry-street-abbott-partner-personalized-nutrition-coaching-through-lingo-glucose",
+        "summary": "Through the partnership, Abbott’s Lingo, an over-the-counter continuous glucose monitor, will now feature live nutrition coaching from Berry Street.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 11:47am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers\" hreflang=\"en\">Lundbeck to move US digs to Boston as it eyes bigger innovation frontiers</a>",
+        "url": "https://www.fiercebiotech.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers",
+        "summary": "With Lundbeck steering its R&amp;D engine toward increasingly specialized neuroscience targets, the Danish drugmaker is plotting a U.S. HQ move to one of the country’s preeminent biopharma hotspots.",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 10:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pioneer-china-newco-model-sued-over-trade-secret-misuse-double-dealing\" hreflang=\"en\">Pioneer of China NewCo model sued in US over trade secret misuse, double-dealing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pioneer-china-newco-model-sued-over-trade-secret-misuse-double-dealing",
+        "summary": "A legal feud unfolding in New York is putting a spotlight on the work of a business development veteran who is credited for pioneering one of biopharma’s hottest dealmaking mechanism: the China “NewCo” model.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 9:20pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-travere-chief-makes-way-former-amicus-ceo\" hreflang=\"en\">Chutes &amp; Ladders—Travere chief makes way for former Amicus CEO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-travere-chief-makes-way-former-amicus-ceo",
+        "summary": "Travere Therapeutics CEO Eric Dube, Ph.D., is stepping down after overseeing the launch of the rare kidney disease drug Filspari.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 2:59pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/indivior-hands-back-pam-drug-addex-ahead-supernus-merger\" hreflang=\"en\">Indivior ends PAM drug collab with Addex ahead of Supernus merger</a>",
+        "url": "https://www.fiercebiotech.com/biotech/indivior-hands-back-pam-drug-addex-ahead-supernus-merger",
+        "summary": "Ahead of its upcoming merger with Supernus, Indivior Pharmaceuticals has ended its long-running collaboration with Addex Therapeutics to develop positive allosteric modulators (PAMs).",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 5:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-inks-13b-nanexa-deal-unlock-long-acting-obesity-injectables\" hreflang=\"en\">Novo inks $1.3B Nanexa deal to unlock long-acting obesity injectables</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-inks-13b-nanexa-deal-unlock-long-acting-obesity-injectables",
+        "summary": "Novo has struck a 1.17 billion euro ($1.3 billion) deal to combine Nanexa’s long-acting injectable drug delivery platform with its obesity and Type 2 diabetes drugs.",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 4:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-inks-15b-bispecific-pact-fast-rising-earendil\" hreflang=\"en\">Roche's Genentech inks $1.5B bispecific pact with fast-rising Earendil</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-inks-15b-bispecific-pact-fast-rising-earendil",
+        "summary": "Roche’s Genentech is paying Earendil Labs $55 million upfront to discover and develop multiple bispecific antibodies. The deal, which focuses on oncology, includes milestones that could take the deal's value above $1.5 billion.",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 2:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/adarx-scores-upsized-446m-ipo-while-city-maps-out-own-nasdaq-plans\" hreflang=\"en\">ADARx scores upsized $446M IPO, while fellow RNA biotech City maps out Nasdaq plans</a>",
+        "url": "https://www.fiercebiotech.com/biotech/adarx-scores-upsized-446m-ipo-while-city-maps-out-own-nasdaq-plans",
+        "summary": "ADARx Pharmaceuticals has overshot its own IPO ambitions, as fellow RNA-focused biotech City Therapeutics also plans a public listing.",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 2:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing\" hreflang=\"en\">Trump's FDA pick Heidi Overton calls vaccines, mifepristone safe and effective in confirmation hearing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-nominee-overton-calls-vaccines-mifepristone-safe-and-effective-confirmation-hearing",
+        "summary": "The Senate Committee on Health, Education, Labor and Pensions (HELP) today questioned Heidi Overton, M.D., Ph.D., Trump’s pick for FDA commissioner, in a hearing marked by tightrope-walking on issues like vaccines, abortions, flavored vapes and whether or not President Donald Trump is capable of being wrong.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 2:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/its-actually-very-radical-nih-debuts-tool-help-scientists-navigate-biomedical-database\" hreflang=\"en\">‘It’s actually very radical’: NIH debuts tool to help scientists navigate biomedical database</a>",
+        "url": "https://www.fiercebiotech.com/research/its-actually-very-radical-nih-debuts-tool-help-scientists-navigate-biomedical-database",
+        "summary": "The NIH’s National Library of Medicine has released the pilot version of a new tool designed to help scientists plumbing the library’s digital trove of scientific papers find related research faster.",
+        "source": "Fierce Biotech",
+        "published": "Sep 21, 2026 5:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chinas-henlius-carves-out-440m-t-cell-engager-deal-amberstone\" hreflang=\"en\">China’s Henlius carves out $440M T-cell engager deal with Amberstone</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chinas-henlius-carves-out-440m-t-cell-engager-deal-amberstone",
+        "summary": "Fosun Pharma subsidiary Henlius Biotech has signed a $440 million biobucks deal with California-based Amberstone Biosciences to work on T-cell engagers.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 10:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing\" hreflang=\"en\">Acadia misses mark in Alzheimer’s but concludes phase 3 ‘absolutely worth’ pursuing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/acadia-misses-mark-alzheimers-concludes-phase-3-absolutely-worth-pursuing",
+        "summary": "Acadia Pharmaceuticals’ phase 2 Alzheimer’s disease trial has&nbsp;missed its primary endpoint, but the company and analysts alike saw enough encouraging signals to support the continuation of a phase 3 program.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 9:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/grail-survives-adcomm-vote-it-now-awaits-fda-decision-cancer-blood-test\" hreflang=\"en\">Grail survives adcomm vote as it awaits FDA decision for cancer blood test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/grail-survives-adcomm-vote-it-now-awaits-fda-decision-cancer-blood-test",
+        "summary": "Despite a major trial setback earlier this year and increasing questions over its efficacy, medtech Grail has beaten the odds and seen a positive recommendation for its multi-cancer blood test Galleri from FDA advisors.",
+        "source": "Fierce Biotech",
+        "published": "Sep 24, 2026 2:00am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": []
+  }
+}

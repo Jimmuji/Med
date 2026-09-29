@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:28:46.529817+08:00",
+  "counts": {
+    "news": 34,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
+        "url": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/",
+        "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 21:07:09 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
+        "url": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/",
+        "summary": "Merck discontinued Recarbio, an important antibiotic in the U.S., despite concerns over resistance to superbugs.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 20:45:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
+        "url": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/",
+        "summary": "The Trump administration asked the Supreme Court on Monday to let it enforce, for now, restrictions on gender-affirming care in federal prison.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 17:55:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: It really is bleak out there, and list prices matter",
+        "url": "https://www.statnews.com/2026/09/28/health-insurance-premiums-soar-2027-quorum-health-nonprofit-conversion/",
+        "summary": "Health insurance premiums are skyrocketing, private equity hospital chain goes nonprofit, and more from STAT's Health Care Inc.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 14:55:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AbbVie wins FDA nod for Parkinson’s pill",
+        "url": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/",
+        "summary": "The FDA has approved AbbVie’s once-daily Parkinson’s pill for sales, based on a late-stage study that showed the drug helped improve symptoms.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 13:40:32 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about GLP-1s becoming lifestyle drugs, a setback for Merck and Daiichi, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/28/glp1-lifestyle-drug-marketing-merck-daiichi-lung-cancer-setback/",
+        "summary": "Once promoted as tools to address obesity as a medical issue, GLP-1 drugs are increasingly being marketed as a way to look and feel better",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 13:06:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump uses ‘contested’ power to cut more funding to HHS",
+        "url": "https://www.statnews.com/2026/09/28/health-news-trump-uses-contested-power-to-cut-more-funding-to-hhs/",
+        "summary": "Late Friday night, the Trump administration clawed back nearly $1 billion in spending approved by Congress, targeting several HHS programs focused on immigrants and diversity",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 12:22:37 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Once described as obesity medicines for ‘patients,’ GLP-1s are increasingly lifestyle drugs for ‘customers’",
+        "url": "https://www.statnews.com/2026/09/28/glp1-marketing-shift-obesity-medicine-weight-loss-drug/",
+        "summary": "Blockbuster GLP-1 drugs have transformed the lives of millions of people. Lately, they’re undergoing a makeover of their own.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: AI is eroding the barriers that kept biological weapons rare",
+        "url": "https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/",
+        "summary": "“Defenses against AI-created bioweapons will take years to build. We don’t have years to spare,” writes Ashish Jha.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I discovered a new structure in the heart — just by looking closely",
+        "url": "https://www.statnews.com/2026/09/28/heart-structure-left-atrial-septal-pouch-lasp-anatomy-discovery/",
+        "summary": "Our finding was remarkable because it had remained hidden within one of the best-studied organs in medical history.",
+        "source": "STAT News",
+        "published": "Mon, 28 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-projects-medicare-advantage-premiums-decline-16-2027\" hreflang=\"en\">CMS projects Medicare Advantage premiums to decline by 16% in 2027</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-projects-medicare-advantage-premiums-decline-16-2027",
+        "summary": "The Trump administration is projecting significant declines in premiums for Medicare Advantage plans in 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 5:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/memorial-hermann-ceo-set-retire-end-year\" hreflang=\"en\">Memorial Hermann CEO set to retire at the end of this year</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/memorial-hermann-ceo-set-retire-end-year",
+        "summary": "Memorial Hermann Health System's CEO, David Callender, will retire at the end of the year, the health system announced Monday.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 5:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/scan-expands-reach-oregon-partnership-springs-living\" hreflang=\"en\">SCAN expands reach into Oregon in partnership with the Springs Living</a>",
+        "url": "https://www.fiercehealthcare.com/payers/scan-expands-reach-oregon-partnership-springs-living",
+        "summary": "SCAN Health Plan is teaming up with the Springs Living, a senior living organization, to launch new co-branded products that aim to offer a more connected experience for people living in these communities.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 4:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—UnitedHealthcare names president; Joint Commission CEO to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-team-health-settle-100m-fraud-suit-tennessee\" hreflang=\"en\">UnitedHealthcare, TeamHealth settle $100M fraud suit in Tennessee</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-team-health-settle-100m-fraud-suit-tennessee",
+        "summary": "A 2021 legal battle between UnitedHealthcare and TeamHealth was dismissed after the parties reached a settlement, per court documents.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 1:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-partners-anthropic-and-penn-medicine-expand-medical-ai\" hreflang=\"en\">OpenEvidence partners with Anthropic, Penn Medicine to expand physician access to AI across Africa and Asia</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-partners-anthropic-and-penn-medicine-expand-medical-ai",
+        "summary": "OpenEvidence is teaming up with Anthropic to expand its artificial intelligence-powered clinical decision support technology to physicians in low- and middle-income countries across Africa and Asia.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 12:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/how-combat-insurer-payment-delays-are-destabilizing-independent-medicine\" hreflang=\"en\">How to combat the insurer payment delays that are destabilizing independent medicine</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/how-combat-insurer-payment-delays-are-destabilizing-independent-medicine",
+        "summary": "The No Surprises Act has made significant strides in protecting patients from large, unexpected medical bills. Unfortunately, the same cannot be said for the NSA’s promise to protect payments to physician practices.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 10:16am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/how-cvs-caremark-builds-next-era-pharmacy-benefits\" hreflang=\"en\">How CVS Caremark builds the next era of pharmacy benefits</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/how-cvs-caremark-builds-next-era-pharmacy-benefits",
+        "summary": "Biosimilars, transparency and AI are reshaping pharmacy benefits. Learn how CVS Caremark plans to improve affordability and make pharmacy benefits easier to navigate.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 24, 2026 10:26am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/why-medtechs-next-leap-depends-systems-thinking\" hreflang=\"en\">Why medtech’s next leap depends on systems thinking</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/why-medtechs-next-leap-depends-systems-thinking",
+        "summary": "Art Butcher explains why medtech innovation must move beyond invention to solve for workflow, economics and scalable patient impact.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 25, 2026 9:49am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/265-billion-case-unifying-your-data-foundation-once\" hreflang=\"en\">The $265 Billion Case for Unifying Your Data Foundation Once</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/265-billion-case-unifying-your-data-foundation-once",
+        "summary": "Healthcare loses billions a year to fragmented data. Here's how a unified, FHIR-native foundation cuts costs and makes AI dependable.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 23, 2026 10:40am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/millions-americans-dont-have-surgeon-their-home-county-study\" hreflang=\"en\">Millions of Americans don't have a surgeon in their home county: study</a>",
+        "url": "https://www.fiercehealthcare.com/providers/millions-americans-dont-have-surgeon-their-home-county-study",
+        "summary": "Just over 15 million people live in a county with no general surgeons, and nearly 10 million in a county with no specialty surgeons, according to a new analysis from the American College of Surgeons and the University of North Carolina",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 4:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/37-states-partner-cms-initiative-rethink-medicaid-quality-measures\" hreflang=\"en\">37 states partner with CMS on initiative to rethink Medicaid quality measures</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/37-states-partner-cms-initiative-rethink-medicaid-quality-measures",
+        "summary": "The Trump administration announced Friday that it is launching a new partnership with 37 states that aims to rethink how quality is measured in Medicaid and CHIP.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 5:33pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-drops-muscle-sparing-obesity-antibody-after-flunked-interim-analysis\" hreflang=\"en\">Roche drops muscle-sparing obesity antibody after flunked interim analysis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-drops-muscle-sparing-obesity-antibody-after-flunked-interim-analysis",
+        "summary": "Roche has slammed the brakes on an obesity antibody after the candidate showed little hope of hitting its endpoints in a phase 2 study.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 11:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mirum-posts-phase-3-hepatitis-win-commercially-differentiated-challenger-gilead-and-vir\" hreflang=\"en\">Mirum posts phase 3 hepatitis win for ‘commercially differentiated’ challenger to Gilead, Vir</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mirum-posts-phase-3-hepatitis-win-commercially-differentiated-challenger-gilead-and-vir",
+        "summary": "A phase 3 trial of Mirum Pharmaceuticals’ chronic hepatitis delta virus drug candidate has hit its primary endpoint, furthering the biotech’s efforts to enter a space recently colonized by Gilead Sciences.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scynexis-bags-214m-barda-contract-antifungal-development\" hreflang=\"en\">Scynexis bags $214M BARDA contract for antifungal development</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scynexis-bags-214m-barda-contract-antifungal-development",
+        "summary": "The Biomedical Advanced Research and Development Authority (BARDA) has awarded Scynexis a $214 million contract for the development of a treatment for invasive fungal infections.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 9:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tolerance-continues-thymus-focused-deals-560m-pact-tanabe\" hreflang=\"en\">Tolerance continues thymus-focused deals with $560M pact for Tanabe's clinical-stage IL-33 drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tolerance-continues-thymus-focused-deals-560m-pact-tanabe",
+        "summary": "After vaulting into the clinic by licensing a fusion protein last month, Tolerance Bio has continued to strengthen its thymus-focused pipeline by picking up an anti-IL-33 drug from Tanabe Pharma.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 9:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/precision-neuroscience-taps-250m-series-d-funding-brain-computer-interface\" hreflang=\"en\">Precision Neuroscience taps $250M in Series D funding for brain-computer interface</a>",
+        "url": "https://www.fiercebiotech.com/medtech/precision-neuroscience-taps-250m-series-d-funding-brain-computer-interface",
+        "summary": "Precision Neurosciences, which specializes in brain-computer interface technology, raised $250 million in an oversubscribed Series D financing round.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 8:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kodiak-roars-back-pivotal-victory-resurrected-eye-disease-drug\" hreflang=\"en\">Kodiak's stock doubles as resurrected eye disease drug matches Eylea in phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kodiak-roars-back-pivotal-victory-resurrected-eye-disease-drug",
+        "summary": "Two of Kodiak Sciences’ drug candidates have matched aflibercept in a phase 3 clinical trial, positioning the biotech to seek FDA approval of one of the eye disease assets this year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 8:37am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/vc-sofinnova-reels-eur82m-target-medtechs-next-5-years\" hreflang=\"en\">VC Sofinnova reels in €82M to target medtechs in the next 5 years</a>",
+        "url": "https://www.fiercebiotech.com/medtech/vc-sofinnova-reels-eur82m-target-medtechs-next-5-years",
+        "summary": "Sofinnova Partners has hauled in 82 million euro ($93.3 million) in an oversubscribed financing round. The European venture capital group said it will use the cash to expand its medtech creation strategy in Europe and the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 8:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/new-approach-methodologies-safety-and-toxicology-testing-why-proving-repeatability-next\" hreflang=\"en\">New approach methodologies in safety and toxicology testing: Why proving repeatability is the next hurdle for widespread adoption</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/new-approach-methodologies-safety-and-toxicology-testing-why-proving-repeatability-next",
+        "summary": "NAMs could transform drug safety testing—but proving repeatability and cell health remains the key hurdle to widespread adoption.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 3:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-pens-21b-deal-chinas-scibrunch-chase-kras-g12d\" hreflang=\"en\">Merck pens $2.1B deal with China’s SciBrunch to chase KRAS G12D</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-pens-21b-deal-chinas-scibrunch-chase-kras-g12d",
+        "summary": "Merck &amp; Co. has become the latest pharma to jump on the KRAS G12D bandwagon, paying $400 million to China’s SciBrunch for a preclinical candidate.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 8:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/adicet-bio-car-t-sparks-lupus-remissions-early-trial-new-era-autoimmune-treatment\" hreflang=\"en\">Adicet Bio CAR-T sparks lupus remissions in early trial as ‘new era’ of autoimmune treatment approaches</a>",
+        "url": "https://www.fiercebiotech.com/biotech/adicet-bio-car-t-sparks-lupus-remissions-early-trial-new-era-autoimmune-treatment",
+        "summary": "As the race to harness CAR-T cells for autoimmune diseases hits a rough patch, a Bay Area biotech is gliding over the potholes with an early sign of efficacy in lupus.",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 1:41pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-co-and-daiichi-pull-lung-cancer-filing-after-fda-pushback-deals-another-blow-4b-deal\" hreflang=\"en\">Merck, Daiichi pull lung cancer filing after FDA pushback deals another blow to $4B deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-co-and-daiichi-pull-lung-cancer-filing-after-fda-pushback-deals-another-blow-4b-deal",
+        "summary": "Daiichi Sankyo and Merck &amp; Co. have withdrawn an antibody-drug conjugate (ADC) filing after the FDA said they lacked the data for accelerated approval in a lung cancer population.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 3:40am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers\" hreflang=\"en\">Lundbeck to move US digs to Boston as it eyes bigger innovation frontiers</a>",
+        "url": "https://www.fiercebiotech.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers",
+        "summary": "With Lundbeck steering its R&amp;D engine toward increasingly specialized neuroscience targets, the Danish drugmaker is plotting a U.S. HQ move to one of the country’s preeminent biopharma hotspots.",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 10:43am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2609.35767",
+        "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflection text and the image generation must be learned jointly, over the whole loop. Supervised fine-tuning (SFT) on reflection trajectories gives a cold start but does not find the high-success repair paths, and naive RL that optimizes only the renderer or only one head leaves most of the gain untapped. We introduce UMM-Refl",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs",
+        "url": "https://huggingface.co/papers/2609.32821",
+        "summary": "Model merging efficiently combines specialized large language models (LLMs) without joint retraining, but can substantially alter expert routing in Mixture-of-Experts (MoE) models. Such routing drift is often interpreted as routing failure, raising a fundamental question that remains unclear: does routing drift after MoE merging actually indicate routing failure, and what evidence should justify repair? We investigate these questions across DeepSeekMoE, OLMoE, and Qwen3-MoE proposing a routing analysis toolkit for controlled counterfactual interventions and token-level analysis. By crossing so",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-25T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents",
+        "url": "https://huggingface.co/papers/2609.32862",
+        "summary": "A foundation model should not act in isolation as an embodied agent. Yet, existing methods often optimize individual components of the agent stack, such as memory, context, skills, or action interfaces, rather than treating the supporting system itself as a unified policy. Moreover, interaction alone does not yield self-improvement unless execution experience is converted into persistent, validated system changes. We therefore propose RoboFoundry, the first embodied agentic framework that formulates this process as Self-Evolving System-as-Policy. RoboFoundry diagnoses capability gaps in decisi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-25T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:13:01.912192+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+        "url": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/",
+        "summary": "Federal officials and health care executives rubbed elbows at the ritzy MAHA Summit, causing some supporters to question what MAHA has become.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 22:46:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lawmakers urge Trump to rethink new rule that could restrict imported meds from Canada and overseas",
+        "url": "https://www.statnews.com/pharmalot/2026/09/29/lawmakers-urge-trump-rethink-new-rule-that-could-restrict-imported-medicines/",
+        "summary": "Some lawmakers are urging the Trump administration to rethink a pending rule that may prevent Americans from obtaining medicines from licensed international pharmacies.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 20:41:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: PhRMA taps Eric Cantor as new CEO",
+        "url": "https://www.statnews.com/2026/09/29/eric-cantor-named-phrma-ceo/",
+        "summary": "Eric Cantor, a former GOP House majority leader, is taking the helm of PhRMA at a challenging time for the industry.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 17:56:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Beam Therapeutics sues Chinese biotech, VC-backed startup, alleging theft of intellectual property",
+        "url": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/",
+        "summary": "The gene-editing company Beam Therapeutics is alleging that one of its scientists stole intellectual property and used it to co-found a Chinese company that made a deal with VC firms.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 17:54:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Overton won’t get a vote before midterms",
+        "url": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/",
+        "summary": "Health department nominees await Senate votes, and we map out what the elections mean for healthy policy.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 16:14:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event",
+        "url": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Oura delays IPO plans, Anthropic joins an clinical AI effort by ARPA-H, and MAHA's health data goals.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 14:32:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
+        "url": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/",
+        "summary": "AstraZeneca is teaming up with Summit Therapeutics to test its PD-1/VEGF bispecific ivonescimab alongside AstraZeneca’s antibody-drug conjugates.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 13:52:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Novo licensing a Chinese obesity pill, Merck pulling an antibiotic, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/29/novo-licenses-obesity-pill-from-china-merck-pulls-antibiotic/",
+        "summary": "Novo has agreed to pay up to $2.6 billion to license an experimental, weekly weight loss pill from China’s Hengrui Pharma",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 13:25:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Researchers slow neurodegeneration in mice by barring T cells from the brain",
+        "url": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/",
+        "summary": "A new study in mice led by Washington University in St. Louis researchers suggests that stopping certain immune cells from entering the brain could limit neurodegeneration.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 12:02:41 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: UniQure’s gene therapy continues to slow Huntington’s progression after four years",
+        "url": "https://www.statnews.com/2026/09/29/uniqure-huntingtons-gene-therapy-slows-disease-progression-four-years/",
+        "summary": "UniQure's gene therapy continues to slow Huntington's progression after four years. But the magnitude of the benefit waned compared to a similar analysis from a year ago.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 11:05:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why MAHA wants to make health data much more accessible",
+        "url": "https://www.statnews.com/2026/09/29/why-maha-wants-to-make-health-data-much-more-accessible/",
+        "summary": "At a MAHA Institute event, Kennedy and others argued that health data should be more accessible to researchers can study vaccines, chronic diseases, and autism",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "She’s spent two decades talking to parents who don’t vaccinate their children. Here’s what she’s learned",
+        "url": "https://www.statnews.com/2026/09/29/understanding-vaccine-skepticism-in-parents/",
+        "summary": "Jennifer Reich has spent two decades speaking to families about their immunization decisions. In an interview, she unpacks what she's learned.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The last ‘breakthrough’ devices to get special treatment from Medicare",
+        "url": "https://www.statnews.com/2026/09/29/fda-breakthrough-medical-devices-special-treatment-medicare/",
+        "summary": "New medical devices deemed \"breakthrough\" by the FDA are no longer automatically eligible for extra Medicare payments.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Drug pricing, Medicaid, and research funding: The key policy issues at stake in the midterms",
+        "url": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/",
+        "summary": "Big shifts in health care policy could emerge depending on who wins the midterms, affecting hospitals and pharma companies.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Child health is the national security crisis we keep ignoring",
+        "url": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/",
+        "summary": "“National security begins in childhood,” write Tina L. Cheng, Stanley McChrystal, and James M. Perrin.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/waltz-health-fresenius-kabi-partner-direct-payer-biosimilar-program\" hreflang=\"en\">Waltz Health, Fresenius Kabi partner for direct-to-payer biosimilar program</a>",
+        "url": "https://www.fiercehealthcare.com/payers/waltz-health-fresenius-kabi-partner-direct-payer-biosimilar-program",
+        "summary": "Digital health company Waltz Health is teaming up with drugmaker Fresenius Kabi to support direct-to-employer efforts for key biosimilar medications.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 4:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/elevance-health-rolls-out-new-site-care-billing-policies\" hreflang=\"en\">Elevance Health rolls out new site-of-care billing policies</a>",
+        "url": "https://www.fiercehealthcare.com/payers/elevance-health-rolls-out-new-site-care-billing-policies",
+        "summary": "Elevance Health is rolling out new billing policies that aim to ensure services are paid for at the appropriate level and drive greater transparency into where patients receive care.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 3:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/healthpartners-essentia-health-announce-merger-plans\" hreflang=\"en\">Midwest nonprofits HealthPartners, Essentia Health announce merger plans</a>",
+        "url": "https://www.fiercehealthcare.com/providers/healthpartners-essentia-health-announce-merger-plans",
+        "summary": "The deal would yield a roughly $12.5 billion, multi-state integrated nonprofit with 22 hospitals and a 1.6 million-member insurance business.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 12:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/health-tech-ma-accelerates-firms-chase-scale-and-profitable-growth\" hreflang=\"en\">Health tech's dealmaking boom is back as firms chase scale and profitable growth</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/health-tech-ma-accelerates-firms-chase-scale-and-profitable-growth",
+        "summary": "Health tech and digital health M&amp;A activity remains a major force in 2026, driven by strategic expansion and the race for competitive artificial intelligence capabilities.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 3:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/eliseai-banks-350m-hits-4b-valuation-accelerated-new-product-development\" hreflang=\"en\">EliseAI banks $350M, hits $4B valuation for accelerated new product development</a>",
+        "url": "https://www.fiercehealthcare.com/finance/eliseai-banks-350m-hits-4b-valuation-accelerated-new-product-development",
+        "summary": "The company surpassed $200 million in ARR in June, doubling revenue year-over-year for five consecutive years, executives said.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 11:01am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/smart-ring-maker-oura-postpones-public-listing-due-uncertainty-ipo-market\" hreflang=\"en\">Smart ring maker Oura postpones public listing due to 'uncertainty in the IPO market'</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/smart-ring-maker-oura-postpones-public-listing-due-uncertainty-ipo-market",
+        "summary": "Smart ring maker and health tracking company Oura is postponing its previously announced initial public offering on Nasdaq due to \"uncertainty in the IPO market,\" the company announced Tuesday morning.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 7:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-projects-medicare-advantage-premiums-decline-16-2027\" hreflang=\"en\">CMS projects Medicare Advantage premiums to decline by 16% in 2027</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-projects-medicare-advantage-premiums-decline-16-2027",
+        "summary": "The Trump administration is projecting significant declines in premiums for Medicare Advantage plans in 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 5:39pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/memorial-hermann-ceo-set-retire-end-year\" hreflang=\"en\">Memorial Hermann CEO set to retire at the end of this year</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/memorial-hermann-ceo-set-retire-end-year",
+        "summary": "Memorial Hermann Health System's CEO, David Callender, will retire at the end of the year, the health system announced Monday.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 5:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/scan-expands-reach-oregon-partnership-springs-living\" hreflang=\"en\">SCAN expands reach into Oregon in partnership with the Springs Living</a>",
+        "url": "https://www.fiercehealthcare.com/payers/scan-expands-reach-oregon-partnership-springs-living",
+        "summary": "SCAN Health Plan is teaming up with the Springs Living, a senior living organization, to launch new co-branded products that aim to offer a more connected experience for people living in these communities.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 4:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-team-health-settle-100m-fraud-suit-tennessee\" hreflang=\"en\">UnitedHealthcare, TeamHealth settle $100M fraud suit in Tennessee</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-team-health-settle-100m-fraud-suit-tennessee",
+        "summary": "A 2021 legal battle between UnitedHealthcare and TeamHealth was dismissed after the parties reached a settlement, per court documents.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 1:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—UnitedHealthcare names president; Joint Commission CEO to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-partners-anthropic-and-penn-medicine-expand-medical-ai\" hreflang=\"en\">OpenEvidence partners with Anthropic, Penn Medicine to expand physician access to AI across Africa and Asia</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-partners-anthropic-and-penn-medicine-expand-medical-ai",
+        "summary": "OpenEvidence is teaming up with Anthropic to expand its artificial intelligence-powered clinical decision support technology to physicians in low- and middle-income countries across Africa and Asia.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 12:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days\" hreflang=\"en\">Canadian $5M accelerated clinical trial program cuts start-up to 45 days</a>",
+        "url": "https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days",
+        "summary": "A newly launched $5 million clinical trial program allows clinical trial sponsors to start trials in as little as 45 days in Ontario.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 3:05pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/enanta-sheds-staffers-key-antiviral-and-immunology-readouts-loom\" hreflang=\"en\">Enanta sheds staffers as key antiviral, immunology readouts loom</a>",
+        "url": "https://www.fiercebiotech.com/biotech/enanta-sheds-staffers-key-antiviral-and-immunology-readouts-loom",
+        "summary": "As antiviral specialist Enanta Pharmaceuticals endeavors to expand into immunology, the company has decided to lay off 37 employees, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 1:22pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Enanta sheds staffers; BMS slashes 265 HQ roles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken\" hreflang=\"en\">uniQure stock crashes as Huntington’s gene therapy data weaken</a>",
+        "url": "https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken",
+        "summary": "uniQure’s Huntington’s disease gene therapy has failed to significantly slow disease progression after 48 months, sending the biotech’s stock down 41% when trading began. But mitigating circumstances and the ongoing strength of a secondary endpoint kept analysts optimistic about AMT-130’s path to approval.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 9:29am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ai3bio-emerging-stealth-take-gun-out-hands-immune-system\" hreflang=\"en\">ai3Bio emerging from stealth to ‘take the gun out of the hands of the immune system’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ai3bio-emerging-stealth-take-gun-out-hands-immune-system",
+        "summary": "ai3Bio has emerged from stealth with $48 million in funding and a buzzing platform for targeting T cells in autoimmune disease.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 4:25pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-agrees-26b-deal-preclinical-glp-1gip-drug-demand-hengrui\" hreflang=\"en\">Novo agrees $2.6B deal for preclinical GLP-1/GIP drug from in-demand Hengrui</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novo-agrees-26b-deal-preclinical-glp-1gip-drug-demand-hengrui",
+        "summary": "Novo’s ongoing efforts to rejuvenate its pipeline have seen the Big Pharma turn to one of the most in-demand drug developers in China.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 3:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations\" hreflang=\"en\">AstraZeneca scales Summit’s PD-1xVEGF strategy with $2B investment to fuel ADC combos</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations",
+        "summary": "AstraZeneca is investing $2 billion in Summit Therapeutics to accelerate the development of PD-1xVEGF bispecific ivonescimab in combination with antibody-drug conjugates (ADCs). The newly minted partners will start by testing ivonescimab with AstraZeneca’s CLDN18.2-directed ADC in gastrointestinal cancers.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 3:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-drops-muscle-sparing-obesity-antibody-after-flunked-interim-analysis\" hreflang=\"en\">Roche drops muscle-sparing obesity antibody after flunked interim analysis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-drops-muscle-sparing-obesity-antibody-after-flunked-interim-analysis",
+        "summary": "Roche has slammed the brakes on an obesity antibody after the candidate showed little hope of hitting its endpoints in a phase 2 study.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 11:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mirum-posts-phase-3-hepatitis-win-commercially-differentiated-challenger-gilead-and-vir\" hreflang=\"en\">Mirum posts phase 3 hepatitis win for ‘commercially differentiated’ challenger to Gilead, Vir</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mirum-posts-phase-3-hepatitis-win-commercially-differentiated-challenger-gilead-and-vir",
+        "summary": "A phase 3 trial of Mirum Pharmaceuticals’ chronic hepatitis delta virus drug candidate has hit its primary endpoint, furthering the biotech’s efforts to enter a space recently colonized by Gilead Sciences.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/scynexis-bags-214m-barda-contract-antifungal-development\" hreflang=\"en\">Scynexis bags $214M BARDA contract for antifungal development</a>",
+        "url": "https://www.fiercebiotech.com/biotech/scynexis-bags-214m-barda-contract-antifungal-development",
+        "summary": "The Biomedical Advanced Research and Development Authority (BARDA) has awarded Scynexis a $214 million contract for the development of a treatment for invasive fungal infections.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 9:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tolerance-continues-thymus-focused-deals-560m-pact-tanabe\" hreflang=\"en\">Tolerance continues thymus-focused deals with $560M pact for Tanabe's clinical-stage IL-33 drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tolerance-continues-thymus-focused-deals-560m-pact-tanabe",
+        "summary": "After vaulting into the clinic by licensing a fusion protein last month, Tolerance Bio has continued to strengthen its thymus-focused pipeline by picking up an anti-IL-33 drug from Tanabe Pharma.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 9:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/precision-neuroscience-taps-250m-series-d-funding-brain-computer-interface\" hreflang=\"en\">Precision Neuroscience taps $250M in Series D funding for brain-computer interface</a>",
+        "url": "https://www.fiercebiotech.com/medtech/precision-neuroscience-taps-250m-series-d-funding-brain-computer-interface",
+        "summary": "Precision Neurosciences, which specializes in brain-computer interface technology, raised $250 million in an oversubscribed Series D financing round.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 8:51am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Omni-Decision: Evidence-Ledger Planning for Omni-Modal Agents",
+        "url": "https://huggingface.co/papers/2607.11433",
+        "summary": "Omni-modal agents must seek evidence across video, audio, web pages, and computation to answer questions. Their main bottleneck is planning: noisy multimodal observations accumulate in conversation history and disrupt later decisions, while multimodal models have limited capacity for multi-step planning. Controlled backend replacements support this diagnosis: replacing the planner causes a much larger performance loss than replacing the perception backend. We present Omni-Decision, an omni-modal agent built on evidence-ledger planning: it replaces the growing dialogue history with an explicit ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-23T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement",
+        "url": "https://huggingface.co/papers/2609.34528",
+        "summary": "Open-vocabulary semantic segmentation (OVSS) enables pixel-level prediction over arbitrary text-specified vocabularies and has shown strong generalization on common benchmarks. However, OVSS performance often degrades in specialized domains such as medical imaging, remote sensing, and industrial inspection, where dense pixel-level masks for adaptation are costly to obtain and require domain-specific expertise. We propose a preference-guided adaptation framework that replaces dense mask supervision with binary preferences. We observe that different prompt templates produce systematically differ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-27T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

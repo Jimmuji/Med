@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:43:38.101899+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 6
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Sanofi, Regeneron expand partnership after Dupixent success",
+        "url": "https://www.statnews.com/2026/10/01/sanofi-regeneron-agreement-dupixent-antibodies-immunology/",
+        "summary": "Sanofi and Regeneron have re-upped their collaboration pact, aiming to build on the blockbuster success of the drug Dupixent.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 06:16:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump’s watered-down Medicare drug pricing rule saves 96% less than initial proposal",
+        "url": "https://www.statnews.com/2026/09/30/trump-final-globe-rule-will-save-medicare-much-less-money-on-drugs/",
+        "summary": "WASHINGTON — The Trump administration published a final rule aimed at lowering Medicare prices for drugs administered in doctor offices. It applies to only four companies. The Global Benchmark for&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 23:15:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it ‘manufactured earnings’ to hide declining profits",
+        "url": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/",
+        "summary": "An investor lawsuit against UnitedHealth Group will move forward after a federal judge declined the company’s motion to dismiss allegations.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 22:40:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI",
+        "url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/",
+        "summary": "Federal health officials want to speed up clinical research to compete with countries like China.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 20:09:15 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "U.S. poised to boot legal immigrants from Medicaid, including refugees and sex-trafficking victims",
+        "url": "https://www.statnews.com/2026/09/30/legal-immigrants-risk-losing-medicaid-coverage-trump/",
+        "summary": "Hundreds of thousands of immigrants with legal status, including refugees and sex-trafficking victims, are at risk of losing government health coverage starting Oct. 1.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 15:50:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What health tech leaders are talking about in Washington policy circles",
+        "url": "https://www.statnews.com/2026/09/30/health-tech-policy-conversations-washington-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis: Dispatches from Health Datapalooza and MAHA Institute Open Data Summit, and other health AI news.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 14:37:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly’s Zepbound combined with amylin drug led to significant weight loss in mid-stage trial",
+        "url": "https://www.statnews.com/2026/09/30/eli-lilly-zepbound-amylin-combination-drug-study/",
+        "summary": "An investigational combination therapy from Eli Lilly led to significant weight loss in a mid-stage study, but high discontinuation rates raise questions about tolerability.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 14:15:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Rural MAHA followers say Trump hasn’t improved health of their communities, poll finds",
+        "url": "https://www.statnews.com/2026/09/30/rural-maha-followers-poll-trump-hasnt-improved-community-health/",
+        "summary": "About half of rural voters identify with MAHA movement, but most said President Trump’s health care policies have not benefited their communities, according to a new poll.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 14:12:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Three biotech updates, including accusations of theft and and a new lobbying leader",
+        "url": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/",
+        "summary": "Beam Therapeutics has filed a lawsuit alleging one of its former scientists stole intellectual property and used it to co-found a Chinese company that recently made a deal with prominent VC&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 13:39:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Beam suing over IP theft, a Trump rule on importing meds, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/09/30/beam-sues-over-trade-secret-theft-trump-drug-import-rule/",
+        "summary": "Gene-editing company Beam Therapeutics is alleging that one of its scientists stole intellectual property and used it to co-found a Chinese company",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 13:35:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "CDC measles death count still lags Pennsylvania’s",
+        "url": "https://www.statnews.com/2026/09/30/health-news-cdc-measles-death-count-still-lags-pennsylvania/",
+        "summary": "Pennsylvania officials count four measles-related deaths this year. The CDC only counts two.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 11:59:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: America’s biotech race with China must be won at home",
+        "url": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/",
+        "summary": "“The surest way to secure our biotech lead is to build up our own capabilities,” write Gary Locke and Patrick McHenry.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Kratom and 7-OH should be regulated, experts agree. They’re split on how",
+        "url": "https://www.statnews.com/2026/09/30/dea-proposal-7-oh-kratom-schedule-1-drug/",
+        "summary": "Kratom has skirted regulation for decades, but newer, highly concentrated 7-OH products have renewed interest in safeguards.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: What to think about those mice with half-human brains",
+        "url": "https://www.statnews.com/2026/09/30/xeno-mice-human-brains-cortex-research-ethics/",
+        "summary": "New research involving giving mice a human cell-based cortex brings to mind “Flowers for Algernon” and “Pinky and the Brain,” writes STAT Lab Dish columnist Paul Knoepfler.",
+        "source": "STAT News",
+        "published": "Wed, 30 Sep 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+        "url": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/",
+        "summary": "Federal officials and health care executives rubbed elbows at the ritzy MAHA Summit, causing some supporters to question what MAHA has become.",
+        "source": "STAT News",
+        "published": "Tue, 29 Sep 2026 22:46:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-finalizes-model-aims-bring-most-favored-nation-pricing-part-b\" hreflang=\"en\">CMS finalizes model that aims to bring most-favored nation pricing to Part B</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-finalizes-model-aims-bring-most-favored-nation-pricing-part-b",
+        "summary": "The Trump administration has finalized a new model that aims to bring its most-favored nation pricing approach to Medicare Part B.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 5:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/state-officials-weigh-behavioral-health-policy-issues-bht-2026\" hreflang=\"en\">Crisis responses, H.R. 1 fallout are challenging states' mental health delivery</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/state-officials-weigh-behavioral-health-policy-issues-bht-2026",
+        "summary": "State officials spoke frankly about the challenges they face in delivering equitable mental healthcare during policy sessions at the annual Behavioral Health Tech conference last week, held in Nashville.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 2:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/most-employers-health-plans-use-performance-based-digital-health-contracts-phti\" hreflang=\"en\">Employers increasingly tie digital health payments to outcomes, PHTI survey finds</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/most-employers-health-plans-use-performance-based-digital-health-contracts-phti",
+        "summary": "The report drew insights from 321 digital health professionals responsible for purchasing across health plans, employers and health systems.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 3:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/commonspirits-ohio-based-trinity-health-system-exploring-upmc-integration\" hreflang=\"en\">CommonSpirit finalizes sale of Ohio-based Trinity Health System to UPMC</a>",
+        "url": "https://www.fiercehealthcare.com/providers/commonspirits-ohio-based-trinity-health-system-exploring-upmc-integration",
+        "summary": "The parties have progressed their talks to a definitive agreement that would give UPMC a foothold in the neighboring Buckeye State.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2025 3:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia\" hreflang=\"en\">Rural Health Transformation Program funding tracker: CMS awards Texas $51M; Arkansas receives $54.6M</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rural-health-transformation-program-funding-tracker-cms-awards-virginia-122m-georgia",
+        "summary": "Stay up-to-date with this tracker for the latest RHTP funding announcements and disclosures.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 11:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/joint-commission-launches-voluntary-healthy-food-recognition-program\" hreflang=\"en\">Joint Commission launches voluntary healthy food recognition program</a>",
+        "url": "https://www.fiercehealthcare.com/providers/joint-commission-launches-voluntary-healthy-food-recognition-program",
+        "summary": "The healthcare accreditation organization has joined the administration and industry's push for hospitals and others to focus more on healthy food delivery and nutrition education.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 12:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/plan-sponsors-pbm-satisfaction-stable-2026-psg-survey\" hreflang=\"en\">Plan sponsors’ PBM satisfaction stable in 2026: PSG survey</a>",
+        "url": "https://www.fiercehealthcare.com/payers/plan-sponsors-pbm-satisfaction-stable-2026-psg-survey",
+        "summary": "While topline satisfaction was near-even among respondents, the latest survey of 250 leaders saw an increase in scores for the big three and a decline for other PBMs.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 12:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/ex-genentech-meta-aws-ai-leaders-launch-health-ai-lab-500m-backing\" hreflang=\"en\">Ex-Genentech, Meta, AWS AI leaders launch health AI lab with $500M backing</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ex-genentech-meta-aws-ai-leaders-launch-health-ai-lab-500m-backing",
+        "summary": "The AI startup, Ortet, plans to build a full-stack platform for health, spanning computer and data infrastructure, frontier research, and model development and deployment.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 4:20pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/hospital-outpatient-departments-higher-drug-reimbursement-rates-drive-127b-spending-ebri\" hreflang=\"en\">Hospital outpatient departments' higher drug reimbursement rates drive $12.7B in spending: EBRI</a>",
+        "url": "https://www.fiercehealthcare.com/payers/hospital-outpatient-departments-higher-drug-reimbursement-rates-drive-127b-spending-ebri",
+        "summary": "An analysis of commercial claims for 106 physician-administered outpatient drugs suggests $101 of additional plan spending per member per year stemming from site-of-treatment pay differences.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 4:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/how-providence-tackling-its-climate-footprint\" hreflang=\"en\">How Providence is tackling its climate footprint</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/how-providence-tackling-its-climate-footprint",
+        "summary": "Senior Writer Anastassia Gliadkovskaya talks with Beth Schenk, Ph.D., chief environmental stewardship officer at Providence, about the climate impacts she has witnessed as a nurse and her health system’s sustainability journey.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 9:36am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-launches-new-platform-tackle-administrative-work-ai-agents\" hreflang=\"en\">Heidi launches AI agents to automate clinical administrative tasks</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/heidi-launches-new-platform-tackle-administrative-work-ai-agents",
+        "summary": "Artificial intelligence healthcare startup Heidi unveiled an upgraded version of its AI clinical assistant that moves beyond documenting patient visits to helping complete administrative tasks.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 12:07pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/4-largest-pbms-control-75-national-market-70-2022-american-medical-association\" hreflang=\"en\">4 largest PBMs control 75% of U.S. market, AMA finds</a>",
+        "url": "https://www.fiercehealthcare.com/payers/4-largest-pbms-control-75-national-market-70-2022-american-medical-association",
+        "summary": "The four largest PBMs by national market share were OptumRx (23%), Express Scripts (23%), CVS/Caremark (18%) and Prime Therapeutics (11%).",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 4:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo\" hreflang=\"en\">Lilly raises diabetes weight-loss bar with amylin-Zepbound combo</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo",
+        "summary": "Eli Lilly announced its amylin-Zepbound combination eloraTZP resulted in 23.3% weight loss in adults with type 2 diabetes and obesity or overweight, topping its own triple-G drug candidate retatrutide in that population.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 12:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets\" hreflang=\"en\">Beam Therapeutics sues base editing rival, claims former scientist stole secrets</a>",
+        "url": "https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets",
+        "summary": "Base editing biotech Beam Therapeutics is suing one of its newest rivals, alleging that the upstart company stole the secrets behind one of its lead programs and used them to craft a competing therapy.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 10:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-secures-win-ph-2-hidradenitis-suppurativa-trial\" hreflang=\"en\">Merck’s anti-TL1A antibody secures a win in ph. 2 hidradenitis suppurativa trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-secures-win-ph-2-hidradenitis-suppurativa-trial",
+        "summary": "Merck &amp; Co. touted a win for its anti-TL1A antibody in a phase 2b trial in patients with moderate to severe hidradenitis suppurativa (HS).",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 10:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: AnaCardio adds $71M ; Breye bags $76.5M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-continues-stock-waves-rna-drugs-liver-focused-program\" hreflang=\"en\">GSK continues to stock up on Wave's RNA drugs with liver-focused program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-continues-stock-waves-rna-drugs-liver-focused-program",
+        "summary": "GSK is paying Wave Life Sciences $12 million upfront to take ownership of a hepatic program arising from the companies’ long-running collaboration.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 9:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/highlight-therapeutics-illuminates-positive-ph-2-topline-data-high-risk-skin-cancer\" hreflang=\"en\">Highlight Therapeutics illuminates positive ph. 2 topline data in high-risk skin cancer</a>",
+        "url": "https://www.fiercebiotech.com/biotech/highlight-therapeutics-illuminates-positive-ph-2-topline-data-high-risk-skin-cancer",
+        "summary": "Highlight Therapeutics touted positive topline results in patients with localized high-risk head and neck basal cell carcinoma (BCC).",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 12:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/connects-dupixent-rival-reduces-copd-attacks-85-misses-secondary-goal\" hreflang=\"en\">Connect’s Dupixent rival reduces COPD attacks by 85%, but misses a secondary goal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/connects-dupixent-rival-reduces-copd-attacks-85-misses-secondary-goal",
+        "summary": "Connect Biopharma has pointed to phase 2 data for its IL-4/IL-13 blocker as proof that the wannabe Dupixent rival can reduce respiratory attacks—although the study missed a secondary endpoint tied to a breathing test.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 8:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/vertigodx-firm-ground-fda-520k-geenlight-vertigo-diagnostic-system\" hreflang=\"en\">VertigoDx on firm ground with FDA greenlight for vertigo diagnostic system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/vertigodx-firm-ground-fda-520k-geenlight-vertigo-diagnostic-system",
+        "summary": "The FDA has granted 510(k) clearance to Miami-based VertigoDx for its portable diagnostic system that can evaluate vertigo, including benign paroxysmal positional vertigo (BPVV).",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 8:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-zealand-see-phase-2-amylin-weight-loss-peak-mid-dose-start-pivotal-program\" hreflang=\"en\">Roche, Zealand see phase 2 amylin weight loss peak at mid-dose, start pivotal program</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-zealand-see-phase-2-amylin-weight-loss-peak-mid-dose-start-pivotal-program",
+        "summary": "Zealand Pharma has shared primary endpoint data on Roche-partnered petrelintide, revealing that the middle dose of the amylin analog delivered the highest weight loss—9.8%—at Week 28.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 4:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-reveals-6-point-drop-lupus-severity-behind-phase-2-win-horizon-antibody\" hreflang=\"en\">Amgen reveals 6-point drop in lupus severity behind phase 2 win for Horizon antibody</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amgen-reveals-6-point-drop-lupus-severity-behind-phase-2-win-horizon-antibody",
+        "summary": "Amgen has shed light on its phase 2 lupus win, revealing that its monoclonal antibody daxdilimab was tied to a 6-point reduction in disease severity at the lower dose.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 4:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-sets-next-gen-obesity-battle-full-phase-3-retatrutide-data\" hreflang=\"en\">Lilly sets up next-gen obesity battle with full phase 3 retatrutide data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-sets-next-gen-obesity-battle-full-phase-3-retatrutide-data",
+        "summary": "Eli Lilly has shared detailed data from a phase 3 retatrutide trial, revealing that more than one-third of patients on the top dose of the triple-G drug candidate lost at least 25% of their body weight.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 3:06am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days\" hreflang=\"en\">Canadian $5M accelerated clinical trial program cuts start-up to 45 days</a>",
+        "url": "https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days",
+        "summary": "A newly launched $5 million clinical trial program allows clinical trial sponsors to start trials in as little as 45 days in Ontario.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 3:05pm",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+        "url": "https://huggingface.co/papers/2609.39102",
+        "summary": "Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we call co-cheating: the proposer and solver increasingly agree on shared errors, so internal reward improves without a matching gain in external correctness. A post-hoc audit against source evidence shows co-cheating growing more severe over successive rounds of self-evolution, with pseudo-label correctness stagnating or declining even as the in-loop training signal improves. The most direct mitigati",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training",
+        "url": "https://huggingface.co/papers/2609.40111",
+        "summary": "An unsuccessful LLM agent rollout contains more information than its final reward: the observations available to the agent, the actions it chose, and the environment's responses. Reusing this experience for learning requires identifying a decision to revise and testing a concrete alternative. We introduce the Agent Error Dataset (AED), comprising 50,228 error-diagnosis pairs from 9,961 source tasks across 33 environments, 19 harness families, and 23 policy models in text-based agent systems. We retain source traces and execution metadata to support cross-setting failure analysis and re-diagnos",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement",
+        "url": "https://huggingface.co/papers/2609.39045",
+        "summary": "Recent advances in large language models have made automatic game generation increasingly feasible, yet reliably improving generated games beyond a playable version remains challenging. Naive iterative refinement can easily overfit a small set of test cases, producing fragile games with unresolved bugs, missing behaviors, and poor generalization to broader player interactions. We introduce RSIGame, an autonomous agentic game development framework with recursive self-improvement. RSIGame organizes development into complementary local and global loops. Concretely, a local explore-diagnose-improv",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "RoboCoach: World Models as Active Coaches for Compositional Robot Skills",
+        "url": "https://huggingface.co/papers/2609.39685",
+        "summary": "Long-horizon robot manipulation reuses skills across many task compositions, but improving these compositions with additional end-to-end demonstrations is costly. A practical self-improving system must decide both what to teach next and where to apply that supervision. We present ROBOCOACH, a world-model-guided coaching framework that uses imagined failures to guide demonstration requests and expert updates. Its Route-Imagine-Diagnose-Improve (RIDI) loop executes reusable skill experts inside COACHWORLD, our shared action-conditioned world model, and uses a progress judge to record the first s",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "See it, Say it, Sorted: Mechanistic Diagnosis and Parameter-Space Mitigation of Emergent Misalignment in LLMs",
+        "url": "https://huggingface.co/papers/2609.34970",
+        "summary": "Safety-aligned LLMs can exhibit emergent misalignment (EM): narrow domain adaptation unexpectedly triggers catastrophic safety failures across unrelated domains. Prior static analyses leave training dynamics unmapped, while existing defenses rely on heuristics that degrade utility. We present a dynamic, second-order geometric study of EM. Tracking training trajectories reveals that directional Hessian curvature concentrates sharply on semantic pivot tokens. Grassmannian projections show that, in most settings, harmful-safe gap widens mainly because safe-gradient overlap declines. Leveraging th",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-27T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Almost Human, Except When It Matters: VoxParity and the Decisions a Voice Should Change",
+        "url": "https://huggingface.co/papers/2609.35922",
+        "summary": "A voice agent can handle almost every call on the words alone and still fail the few its sector's rules were written for. Emergency-call standards, fraud guidance, radio phraseology and vulnerability rules recognise that how a caller sounds, or what else is audible, can change the right action. VoxParity tests whether agents act on it. In 183 scenarios from 14 sectors, one transcript stays fixed while the audio changes (a coaching voice, a medical monitor beeping, a mayday under a radio check, noise over a drug name, a child's voice placing a bet, a frightened whisper), and with it the correct",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-27T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

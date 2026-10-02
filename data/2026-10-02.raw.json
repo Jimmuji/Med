@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:31:30.860256+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
+        "url": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/",
+        "summary": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 21:14:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Top journal’s special issue on women’s health casts spotlight on menopause and pain",
+        "url": "https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/",
+        "summary": "\"Highlighting a ton of open questions\": Top journal's special issue on women's health examines the latest discoveries on chronic pain and menopause.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 18:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Mistrust in science and a juicy gene-editing lawsuit",
+        "url": "https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/",
+        "summary": "Why have so many Americans lost trust in science? And what's the deal with a new gene-editing lawsuit? Find out on this week's episode of \"The Readout LOUD\" podcast.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 16:31:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "As CDC redesigns annual health survey, it removes questions about disabilities",
+        "url": "https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/",
+        "summary": "Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 16:15:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A journey to witness China’s biotech boom up close",
+        "url": "https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/",
+        "summary": "Chinese-designed drugs now account for roughly half the global pipeline. STAT's Jason Mast traveled to Shanghai to get an up-close look at the competition that's making American's nervous.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 15:22:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: MAHA goes corporate",
+        "url": "https://www.statnews.com/2026/10/01/maha-goes-corporate-trump-waters-down-medicare-drug-pricing-model/",
+        "summary": "Health care companies dominate the MAHA Summit, and a look at Trump's watered down effort to lower Medicare drug prices.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 14:47:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A major insurer on how it may replicate Medicare’s chronic-care experiment",
+        "url": "https://www.statnews.com/2026/10/01/major-insurer-on-medicare-access-model-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A California insurer on how it may replicate Medicare's tech-enabled chronic-care experiment.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 14:02:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a plan to lower Medicare drug prices, a Lilly obesity drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/01/trump-plan-to-lower-medicare-drug-prices-lilly-obesity-drug/",
+        "summary": "A final Medicare rule aimed at lowering prices for doctor-administered drugs applies to only four companies and saves 96% less than the initial proposal",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 13:26:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump administration appeals ruling blocking limits on international student visas",
+        "url": "https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/",
+        "summary": "DHS has appealed a court ruling blocking it from restricting how long international students and postdoctoral researchers can remain in the U.S.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 11:50:22 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Invivyd’s pursuit of a Covid vaccine alternative gets a lift, but an FDA hurdle may await",
+        "url": "https://www.statnews.com/2026/10/01/invivyds-covid-antibody-development/",
+        "summary": "The small biotech company Invivyd is developing an injectable, low-dose monoclonal antibody to protect against Covid.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 10:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Why a Huntington’s patient isn’t fazed by the waning effect of UniQure’s gene therapy",
+        "url": "https://www.statnews.com/2026/10/01/huntingtons-disease-uniqure-drug-study-results-patients/",
+        "summary": "Questions about the durability of an experimental Huntington's disease therapy matter to Wall Street. They matter less to those directly affected by the disease.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In Shanghai’s ‘Science City,’ China’s ascendant biotechs make their pitch to the world",
+        "url": "https://www.statnews.com/2026/10/01/china-biotech-boom-jefferies-conference-shanghai/",
+        "summary": "A small conference with big ambitions mirrors the rapid growth of Chinese biotech, invites comparisons to U.S. biotech gathering also known for deal-making.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Can a top Republican from a bygone political era fix pharma’s woes in Washington?",
+        "url": "https://www.statnews.com/2026/10/01/eric-cantor-phrma-populist-drug-policy/",
+        "summary": "In Washington, Eric Cantor will confront bipartisan backlash over rising health care costs.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Two key Senate health committees face major shake-ups",
+        "url": "https://www.statnews.com/2026/10/01/midterm-election-health-care-policy-impact-senate-republican-turnover/",
+        "summary": "Senate committees that handle important health care matters are about to see major GOP turnover. Here's what that means.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I studied GLP-1 use in children. The results are reassuring",
+        "url": "https://www.statnews.com/2026/10/01/glp-1-weight-loss-drugs-children-research-obesity-disease/",
+        "summary": "“Intervening in childhood could save children from decades of irreversible damage,” a transplant surgeon writes of GLP-1 weight loss drugs.",
+        "source": "STAT News",
+        "published": "Thu, 01 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants\" hreflang=\"en\">HHS awards nearly $250M in addiction treatment, overdose prevention grants</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants",
+        "summary": "Projects supported include those to strengthen mental health support in schools, expand trauma treatment for families and children and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 11:26am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/tiny-health-focused-microbiome-testing-clinches-33m-scale-research-enterprise\" hreflang=\"en\">Microbiome testing company Tiny Health clinches $33M to scale research, enterprise partnerships</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/tiny-health-focused-microbiome-testing-clinches-33m-scale-research-enterprise",
+        "summary": "Alongside the funding news, Tiny announced the launch of a $5 million Microbiome Research Program to enable researchers, clinicians and scientific partners to investigate important intervention strategies in microbiome health.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 4:01pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/commonspirit-health-grows-revenue-85-424b-fy2026\" hreflang=\"en\">CommonSpirit Health grows operating revenue 8.5% to $42.4B in FY2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/commonspirit-health-grows-revenue-85-424b-fy2026",
+        "summary": "The 156-hospital nonprofit chopped its operating losses down by $257 million, notwithstanding the multibillion-dollar impact of its revenue cycle management breakup with Tenet Health.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 2:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/payerset-launches-ai-powered-research-assistant-turn-price-transparency\" hreflang=\"en\">Payerset launches AI-powered research assistant to help health systems benchmark payer rates</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/payerset-launches-ai-powered-research-assistant-turn-price-transparency",
+        "summary": "Payerset rolled out an artificial intelligence-powered research assistant that unifies negotiated rate data, claims, policy and market benchmarking into one platform.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 11:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/why-prime-therapeutics-betting-bridging-gaps-between-medical-pharmacy-benefits\" hreflang=\"en\">Why Prime Therapeutics is betting on bridging the gaps between medical, pharmacy benefits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/why-prime-therapeutics-betting-bridging-gaps-between-medical-pharmacy-benefits",
+        "summary": "Specialty pharmacy is a key cost driver for employers and insurers, with development in this space showing no signs of slowing down.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 3:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/white-house-plans-500-refunds-nearly-1m-aca-enrollees\" hreflang=\"en\">White House begins sending out $500 ACA refunds: media reports</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/white-house-plans-500-refunds-nearly-1m-aca-enrollees",
+        "summary": "The Trump administration has begun sending out $500 refunds to nearly a million individuals enrolled in Affordable Care Act coverage, per media reports.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 10, 2026 12:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—147 layoffs coming at Kaiser; 73 cuts at City of Hope</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trump-administration-decouples-visa-duration-training-program-length\" hreflang=\"en\">DHS appeals judge's block on 'duration of status' rule change for international students</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trump-administration-decouples-visa-duration-training-program-length",
+        "summary": "About one in 10 physicians in a residency or fellowship program are sponsored under a J visa. The policy had been finalized in July and was set to go into effect on Sept. 15.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 20, 2026 5:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/when-does-hospital-insurer-network-dispute-go-public\" hreflang=\"en\">When does a hospital-insurer network dispute go public?</a>",
+        "url": "https://www.fiercehealthcare.com/payers/when-does-hospital-insurer-network-dispute-go-public",
+        "summary": "Threats to leave a commercial health coverage network are more frequent with for-profit hospitals, national payers and \"Goldilocks\" local markets where neither side controls too much or too little business, a recent study finds.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 4:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/focus-hmos-c-snps-look-medicare-advantage-landscape-2027\" hreflang=\"en\">Focus on HMOs, C-SNPs: A look at the Medicare Advantage landscape for 2027</a>",
+        "url": "https://www.fiercehealthcare.com/payers/focus-hmos-c-snps-look-medicare-advantage-landscape-2027",
+        "summary": "With Medicare's annual enrollment period on the horizon, major insurers are offering a look at their plans for the coming year and new federal data offers a broader look at the current landscape.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 4:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-finalizes-model-aims-bring-most-favored-nation-pricing-part-b\" hreflang=\"en\">CMS finalizes model that aims to bring most-favored nation pricing to Part B</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-finalizes-model-aims-bring-most-favored-nation-pricing-part-b",
+        "summary": "The Trump administration has finalized a new model that aims to bring its most-favored nation pricing approach to Medicare Part B.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 5:40pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/state-officials-weigh-behavioral-health-policy-issues-bht-2026\" hreflang=\"en\">Crisis responses, H.R. 1 fallout are challenging states' mental health delivery</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/state-officials-weigh-behavioral-health-policy-issues-bht-2026",
+        "summary": "State officials spoke frankly about the challenges they face in delivering equitable mental healthcare during policy sessions at the annual Behavioral Health Tech conference last week, held in Nashville.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 30, 2026 2:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us\" hreflang=\"en\">Abbott launches SimpleScreen CRC blood test in the US</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us",
+        "summary": "Abbott is kickstarting the U.S. commercial launch of SimpleScreen CRC, an FDA-approved blood-based colorectal cancer (CRC) screening test for adults age 45 and older who are at average risk for the disease.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 2:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Foghorn cuts workforce by 40%; BioMarin drops 117 roles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/patient-death-bms-pulmonary-fibrosis-trial-raises-questions-analysts-unshaken\" hreflang=\"en\">Patient death in BMS pulmonary fibrosis trial raises questions, but analysts unshaken</a>",
+        "url": "https://www.fiercebiotech.com/biotech/patient-death-bms-pulmonary-fibrosis-trial-raises-questions-analysts-unshaken",
+        "summary": "The revelation of a patient death in Bristol Myers Squibb’s phase 3 trial of a potential pulmonary fibrosis treatment has raised concerns ahead of the study’s readout, but analysts were quick to dispel worries about broader implications for the drug mechanism involved.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 10:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-launches-simultaneous-screening-test-sma-scid-and-scd\" hreflang=\"en\">Roche launches simultaneous screening test for SMA, SCID and SCD</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-launches-simultaneous-screening-test-sma-scid-and-scd",
+        "summary": "Roche Diagnostics has launched a new in vitro diagnostic test for newborn screening to detect a series of rare disorders.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-recruiters-seeing-signs-recovery-layoffs-stay-cool-q326\" hreflang=\"en\">Biopharma recruiters see ‘signs of recovery’ as layoffs remain cool in Q3’26</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biopharma-recruiters-seeing-signs-recovery-layoffs-stay-cool-q326",
+        "summary": "A more subdued volume of biopharma layoffs continued into the third quarter of 2026, validating predictions that the sector has moved beyond the avalanche of redundancies experienced last year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 8:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data\" hreflang=\"en\">Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data</a>",
+        "url": "https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data",
+        "summary": "Foghorn Therapeutics is laying off 40% of its workforce after a long-running collaboration with Eli Lilly collapsed over disappointing phase 1 data.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 8:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/none-changing-genentechs-magargee-next-50-years-original-biotech-company\" hreflang=\"en\">‘We’re so close to the tech companies’: Genentech CEO talks Fierce through vision for the future</a>",
+        "url": "https://www.fiercebiotech.com/biotech/none-changing-genentechs-magargee-next-50-years-original-biotech-company",
+        "summary": "When recombinant DNA pioneer Herbert Boyer, Ph.D., first got a call from venture capitalist Robert Swanson about starting a company, the savvy scientist wasn’t sure a meeting would be worth his time.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 5:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-pharma-slides-boehringer-partnered-obesity-drug-underwhelms-again-phase-3\" hreflang=\"en\">Zealand's stock slides as Boehringer-partnered obesity drug underwhelms again in phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-pharma-slides-boehringer-partnered-obesity-drug-underwhelms-again-phase-3",
+        "summary": "A phase 3 trial of Boehringer Ingelheim’s survodutide in people with obesity and Type 2 diabetes has met its co-primary endpoints. Yet, with the readout echoing earlier data that underwhelmed analysts, shares in Boehringer’s partner Zealand Pharma fell 12% in early trading in Denmark.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 6:15am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-pays-regeneron-1b-4-early-stage-assets-ignite-rd\" hreflang=\"en\">Sanofi pays Dupixent partner Regeneron $1B upfront for 4 early-stage assets to ignite R&amp;D</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-pays-regeneron-1b-4-early-stage-assets-ignite-rd",
+        "summary": "Sanofi is paying Regeneron $1 billion upfront to collaborate on four early-stage immunology programs, teeing the longstanding partners up to try to replicate Dupixent’s success.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 4:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo\" hreflang=\"en\">Lilly raises diabetes weight-loss bar with amylin-Zepbound combo</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo",
+        "summary": "Eli Lilly announced its amylin-Zepbound combination eloraTZP resulted in 23.3% weight loss in adults with type 2 diabetes and obesity or overweight, topping its own triple-G drug candidate retatrutide in that population.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 12:27pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets\" hreflang=\"en\">Beam Therapeutics sues base editing rival, claims former scientist stole secrets</a>",
+        "url": "https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets",
+        "summary": "Base editing biotech Beam Therapeutics is suing one of its newest rivals, alleging that the upstart company stole the secrets behind one of its lead programs and used them to craft a competing therapy.",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 10:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-secures-win-ph-2-hidradenitis-suppurativa-trial\" hreflang=\"en\">Merck’s anti-TL1A antibody secures a win in ph. 2 hidradenitis suppurativa trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mercks-anti-tl1a-antibody-secures-win-ph-2-hidradenitis-suppurativa-trial",
+        "summary": "Merck &amp; Co. touted a win for its anti-TL1A antibody in a phase 2b trial in patients with moderate to severe hidradenitis suppurativa (HS).",
+        "source": "Fierce Biotech",
+        "published": "Sep 30, 2026 10:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "七匹狼，再做LP",
+        "url": "https://www.36kr.com/p/4005645157650563",
+        "summary": "支撑这一布局的，是七匹狼并不宽裕但也谈不上紧张的资产负债表。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 30 Sep 2026 08:55:09 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Do Audio LLMs Listen Before They Act? Diagnosing Acoustic-Context Gating in Voice Agents",
+        "url": "https://huggingface.co/papers/2609.32536",
+        "summary": "Audio language models can recognize spoken commands and invoke tools, but an agent must first decide whether the acoustic and conversational context warrants action. We introduce VGBench, a 1,018-item diagnostic benchmark for action-level addressedness across side-talk, self-talk, and speaker-switch scenarios. Each item uses a shared action space comprising silence, a tool call, and a natural-language answer. Speaker-switch pairs hold the specified words fixed while source, distance rendering, and a temporal boundary define a controlled wearer-to-bystander shift. Six raw Audio LLMs and three t",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-25T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "AutoDataBench: A Data-centric Testbed for Accelerating Auto Research",
+        "url": "https://huggingface.co/papers/2609.40097",
+        "summary": "Existing auto-research benchmarks often entangle multiple sources of improvement, including training frameworks, hyperparameters, compute budgets, and data, making it difficult to attribute why one frontier agent outperforms another to specific research capabilities. In this work, we isolate and systematically evaluate Data Intelligence: an agent's ability to understand, manipulate, and improve the data that shapes model capabilities. We introduce AutoDataBench, a controlled testbed built on a conceptual framework of data intelligence spanning data diagnosis, data organization, and data constr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

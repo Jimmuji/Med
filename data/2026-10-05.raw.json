@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T14:27:36.721937+08:00",
+  "counts": {
+    "news": 25,
+    "papers": 7
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
+        "url": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/",
+        "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
+        "source": "STAT News",
+        "published": "Sun, 04 Oct 2026 16:58:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/how-optum-owensboro-health-teamed-build-virtual-nursing-program\" hreflang=\"en\">How Optum, Owensboro Health teamed up to build a virtual nursing program</a>",
+        "url": "https://www.fiercehealthcare.com/payers/how-optum-owensboro-health-teamed-build-virtual-nursing-program",
+        "summary": "Owensboro Health is teaming up with Optum Insight to pair bedside nurses with virtual nurses to free up frontline clinicians to dedicate more time to patient care.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 2:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hrsa-announces-drugmakers-products-revised-340b-rebate-pilot\" hreflang=\"en\">HRSA names 10 drugmakers for revised 340B rebate pilot ahead of 2027 launch</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hrsa-announces-drugmakers-products-revised-340b-rebate-pilot",
+        "summary": "The list of approved participants and drugs is larger than the controversial pilot's first attempted launch. It comes the same day that CMS launched a soon-to-be-mandatory data repository for Part D 340B claim submissions.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 12:19pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/multicare-health-system-launch-new-health-plan\" hreflang=\"en\">MultiCare Health System to launch new health plan</a>",
+        "url": "https://www.fiercehealthcare.com/payers/multicare-health-system-launch-new-health-plan",
+        "summary": "The plan will be available to Medicare-eligible patients in Washington state’s Pierce, Thurston and Spokane counties, the organization says.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 12:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-transforming-primary-care-requires-precision-and-orchestration\" hreflang=\"en\">Industry Voices—Transforming primary care requires precision and orchestration</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-transforming-primary-care-requires-precision-and-orchestration",
+        "summary": "The next era of primary care will require intelligence that moves directly into the workflow, writes Sentara Health's head of ambulatory care.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 4:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-yosi-health-integrates-scheduling-intake-google-services-grindr-acquires\" hreflang=\"en\">Weekly Rundown: Duke University launches digital twin program; Welldoc unveils AI-powered care loop</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-yosi-health-integrates-scheduling-intake-google-services-grindr-acquires",
+        "summary": "The latest news from Yosi Health, Grindr, K Health, Welldoc, Duke University and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 10:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026\" hreflang=\"en\">WVU Health System closes acquisition of 5-hospital Independence Health System</a>",
+        "url": "https://www.fiercehealthcare.com/providers/western-pennylvanias-independence-health-system-join-wvu-health-system-2026",
+        "summary": "The deal grows the West Virginia University Health System to more than $10 billion annual total operating revenue.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2025 2:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/doctors-push-back-after-rfk-jr-turns-heat-debate-over-ais-role-medicine\" hreflang=\"en\">RFK Jr.'s AI claims spark physician backlash as debate over medical AI intensifies</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doctors-push-back-after-rfk-jr-turns-heat-debate-over-ais-role-medicine",
+        "summary": "Robert F. Kennedy Jr., the Secretary of the Department of Health and Human Services, said on Tuesday that artificial intelligence can provide patients a second opinion that is \"much better informed than any doctor in the country.\"",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 9:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/scan-unveils-2027-ma-slate-including-launch-co-branded-costco-plans\" hreflang=\"en\">SCAN unveils 2027 MA slate, including launch of co-branded Costco plans</a>",
+        "url": "https://www.fiercehealthcare.com/payers/scan-unveils-2027-ma-slate-including-launch-co-branded-costco-plans",
+        "summary": "SCAN Health Plan has unveiled its product offerings for the 2027 plan year, and the slate includes the first launch in its partnership with Costco.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 5:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi\" hreflang=\"en\">AKASA debuts autonomous AI platform for inpatient medical coding and clinical documentation</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/akasa-debuts-autonomous-ai-platform-inpatient-medical-coding-cdi",
+        "summary": "Health tech company AKASA is pushing deeper into AI-powered revenue cycle workflows, launching an autonomous AI platform for inpatient medical coding and clinical documentation integrity.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 6:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants\" hreflang=\"en\">HHS awards nearly $250M in addiction treatment, overdose prevention grants</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-awards-nearly-250m-addiction-treatment-overdose-prevention-grants",
+        "summary": "Projects supported include those to strengthen mental health support in schools, expand trauma treatment for families and children and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 11:26am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/tiny-health-focused-microbiome-testing-clinches-33m-scale-research-enterprise\" hreflang=\"en\">Microbiome testing company Tiny Health clinches $33M to scale research, enterprise partnerships</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/tiny-health-focused-microbiome-testing-clinches-33m-scale-research-enterprise",
+        "summary": "Alongside the funding news, Tiny announced the launch of a $5 million Microbiome Research Program to enable researchers, clinicians and scientific partners to investigate important intervention strategies in microbiome health.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 1, 2026 4:01pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Rightway pulls in $155M to expand pharmacy benefits tech; Basalt Health raises $20M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/there-no-such-thing-typical-biotech\" hreflang=\"en\">There Is No Such Thing as a Typical Biotech</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/there-no-such-thing-typical-biotech",
+        "summary": "Why Your Operating Model Should Reflect Your Company’s DNA",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 11:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/weve-been-taking-our-time-xaira-reveals-antibody-platform-and-first-taste-pipeline\" hreflang=\"en\">‘We’ve been taking our time’: Buzzy AI biotech Xaira reveals antibody platform, first taste of pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/weve-been-taking-our-time-xaira-reveals-antibody-platform-and-first-taste-pipeline",
+        "summary": "When Xaira Therapeutics first debuted in 2024 with a gobsmacking $1 billion in funding, a natural expectation would have been for a flurry of further activity to follow. Instead, the buzzy AI biotech went quiet.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 9:58am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-cantor-steps-phrmas-house-ceo\" hreflang=\"en\">Chutes &amp; Ladders—Bayer taps new chief medical officer; Cantor appointed PhRMA CEO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-cantor-steps-phrmas-house-ceo",
+        "summary": "Eric Cantor, who represented Virginia in the U.S. House of Representatives for 14 years and served as House majority leader from 2011 to 2014, will step up as PhRMA’s next president and CEO on Nov. 9. Plus, Bayer has a new chief medical officer.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 4:26pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-abogen-575m-vivo-autoimmune-t-cell-engager\" hreflang=\"en\">Novartis pens $7.8B deal for Abogen's in vivo autoimmune T-cell engager</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-pays-abogen-575m-vivo-autoimmune-t-cell-engager",
+        "summary": "Novartis is paying Abogen Biosciences $575 million upfront for an mRNA-encoded T-cell engager that showed early clinical promise in autoimmune disease. The deal, which includes up to $7.2 billion in milestones, comes weeks after Novartis paused an autoimmune CAR-T program over three deaths.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 4:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/immmunotherapy-startup-adecto-blames-risk-adverse-funding-environment-closing-down\" hreflang=\"en\">Immunotherapy startup Adecto blames ‘risk-averse funding environment’ for closing down</a>",
+        "url": "https://www.fiercebiotech.com/biotech/immmunotherapy-startup-adecto-blames-risk-adverse-funding-environment-closing-down",
+        "summary": "Adecto Pharmaceuticals’ 12-year story has come to an end as the immunotherapy biotech blamed a “risk-averse funding environment” for shutting up shop.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 3:54am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us\" hreflang=\"en\">Abbott launches SimpleScreen CRC blood test in the US</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us",
+        "summary": "Abbott is kick-starting the U.S. commercial launch of SimpleScreen CRC, an FDA-approved blood-based colorectal cancer (CRC) screening test for adults age 45 and older who are at average risk for the disease.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 2:18am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Foghorn cuts workforce by 40%; BioMarin drops 117 roles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/patient-death-bms-pulmonary-fibrosis-trial-raises-questions-analysts-unshaken\" hreflang=\"en\">Patient death in BMS pulmonary fibrosis trial raises questions, but analysts unshaken</a>",
+        "url": "https://www.fiercebiotech.com/biotech/patient-death-bms-pulmonary-fibrosis-trial-raises-questions-analysts-unshaken",
+        "summary": "The revelation of a patient death in Bristol Myers Squibb’s phase 3 trial of a potential pulmonary fibrosis treatment has raised concerns ahead of the study’s readout, but analysts were quick to dispel worries about broader implications for the drug mechanism involved.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 10:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-launches-simultaneous-screening-test-sma-scid-and-scd\" hreflang=\"en\">Roche launches simultaneous screening test for SMA, SCID and SCD</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-launches-simultaneous-screening-test-sma-scid-and-scd",
+        "summary": "Roche Diagnostics has launched a new in vitro diagnostic test for newborn screening to detect a series of rare disorders.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biopharma-recruiters-seeing-signs-recovery-layoffs-stay-cool-q326\" hreflang=\"en\">Biopharma recruiters see ‘signs of recovery’ as layoffs remain cool in Q3’26</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biopharma-recruiters-seeing-signs-recovery-layoffs-stay-cool-q326",
+        "summary": "A more subdued volume of biopharma layoffs continued into the third quarter of 2026, validating predictions that the sector has moved beyond the avalanche of redundancies experienced last year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 8:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data\" hreflang=\"en\">Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data</a>",
+        "url": "https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data",
+        "summary": "Foghorn Therapeutics is laying off 40% of its workforce after a long-running collaboration with Eli Lilly collapsed over disappointing phase 1 data.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 8:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/none-changing-genentechs-magargee-next-50-years-original-biotech-company\" hreflang=\"en\">‘We’re so close to the tech companies’: Genentech CEO talks Fierce through vision for the future</a>",
+        "url": "https://www.fiercebiotech.com/biotech/none-changing-genentechs-magargee-next-50-years-original-biotech-company",
+        "summary": "When recombinant DNA pioneer Herbert Boyer, Ph.D., first got a call from venture capitalist Robert Swanson about starting a company, the savvy scientist wasn’t sure a meeting would be worth his time.",
+        "source": "Fierce Biotech",
+        "published": "Sep 28, 2026 5:24pm",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+        "url": "https://huggingface.co/papers/2609.38879",
+        "summary": "Large language models rely heavily on human text, which often conveys surface answers rather than the spatial and structural logic behind them. Protein folding is a natural testbed, because one solved structure yields thousands of exactly checkable spatial and topological statements. We ask: can learning to fold proteins teach general models reusable reasoning capabilities? To answer this, we build FoldingCorpus, a protein-derived question-answer dataset, and Fold2Reason, a recipe that post-trains on it through two complementary signals: discrete structural answers predicted via the model's na",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation",
+        "url": "https://huggingface.co/papers/2610.02788",
+        "summary": "Transferring robotic skills from simulation to reality requires task knowledge that remains usable across differences in perception, dynamics, and embodiment. We introduce Skill2Real, an agentic policy framework that learns executable skills through a shared application programming interface (API). A Proposer-Verifier-Governor (PVG) loop uses privileged simulation evidence to diagnose outcomes and validate updates, while keeping learned skills grounded in public observations and API semantics. The Cerebellum first acquires local manipulation skills; the Brain then learns task-level composition",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "OpenTumorBoard: A Real-World Benchmark of Multidisciplinary Tumor Board Discussion Trajectories",
+        "url": "https://huggingface.co/papers/2609.32810",
+        "summary": "Multidisciplinary tumor boards integrate multimodal clinical observations and longitudinal patient histories through specialist discussions, yet benchmarks rarely capture these real-world trajectories. We introduce OpenTumorBoard, a benchmark with 611 patient cases and 19,157 discussion turns across ten specialist roles, transcribed from 12,534 minutes of publicly available tumor board recordings on YouTube. The benchmark evaluates two settings: SPECIALIST TURN, in which an LLM responds to a clinically significant question posed during a real discussion, and BOARD SIMULATION, in which it gener",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-25T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models",
+        "url": "https://huggingface.co/papers/2610.02142",
+        "summary": "Keyword-matching benchmarks can credit small models for tool use they never perform. We document such a false positive in a matched-architecture pair of Spanish security language models and propose a ladder of strict, cheap diagnostics. A 661.6M parameter model (approx. 65% code/technical text; no dedicated SFT) and a 1,109M model (web-heavy multi-phase curriculum; 6B-token tool-SFT) share decoder, tokenizer, and special tokens, scoring almost identically on lenient tool-use metrics (B4: 0.660 vs. 0.650).\n  Verbatim-reproduction checks on training examples separate them completely: the 600M em",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-30T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
+        "url": "https://huggingface.co/papers/2609.35259",
+        "summary": "On-policy learning has been argued to reduce catastrophic forgetting, produce sparser parameter updates, and improve generalisation. However, existing comparisons between supervised fine-tuning and reinforcement learning vary many factors simultaneously, making the contribution of rollout policy difficult to isolate. We study the effect of rollout policy in a controlled strong-to-weak distillation setting, by independently varying rollout policy, token-level KL direction, and learning rate across the Llama3 and Qwen2.5 model families and reasoning tasks spanning scientific, medical, and arithm",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "RLE-Bench: A Qualifying Exam for Coding Agents as Robot Learning Engineers",
+        "url": "https://huggingface.co/papers/2609.34210",
+        "summary": "Coding agents are beginning to move beyond purely digital tasks to tackle physical-world challenges, particularly in robotics. Existing robotics benchmarks, however, primarily focus on the performance of individual artifacts, such as policies or controllers, offering limited coverage of coding agents' broader engineering capabilities. Real-world robotics extends beyond control: agents must build, integrate, diagnose, and improve heterogeneous artifacts under resource constraints and reason from multimodal feedback. To evaluate these broader capabilities, we introduce RLE-Bench, a benchmark of ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-28T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "PhysVista: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop",
+        "url": "https://huggingface.co/papers/2610.00559",
+        "summary": "Vision-Language Models (VLMs) have shown strong multimodal reasoning capabilities, yet whether they truly capture the physical consistency underlying real-world dynamics remains unclear. Existing benchmark paradigms often suffer from fragmented evaluation, focusing on isolated cognitive stages while overlooking the inherent synergy between perception, reasoning, and physical judgment. The lack of a holistic perspective limits the ability to diagnose whether VLMs can reliably evaluate the physical authenticity of emerging generative models. To address these issues, we introduce PhysVista, a ben",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

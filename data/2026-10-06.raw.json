@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T15:04:01.569652+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
+        "url": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/",
+        "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 20:13:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nobel-winning optogenetics research has led to experimental treatments for blindness and Alzheimer’s",
+        "url": "https://www.statnews.com/2026/10/05/2026-nobel-prize-winning-optogenetics-research-explained/",
+        "summary": "Optogenetics is now the foundational way through which we are able to understand how the brain works",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 20:08:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
+        "url": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/",
+        "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 18:33:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Prices, prices, prices",
+        "url": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/",
+        "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 16:38:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Utah plows ahead with more health AI pilots for prescriptions, women’s health",
+        "url": "https://www.statnews.com/2026/10/05/utah-expands-health-ai-sandbox-picks-third-party-auditors/",
+        "summary": "Utah plans to allow an AI product to evaluate patients and write new drug prescriptions without prior human review.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 16:00:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lilly’s Jaypirca approved as first-line CLL therapy",
+        "url": "https://www.statnews.com/2026/10/05/biotech-news-lilly-jaypirca-approved-as-first-line-cll-therapy/",
+        "summary": "Eli Lilly’s Jaypirca has won FDA approval for previously untreated chronic lymphocytic leukemia and small lymphocytic lymphoma.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 13:55:41 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Vaxcyte pneumococcal shot, increasing pharma M&A, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/",
+        "summary": "Vaxcyte said its pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up a competition with Pfizer and Merck",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 13:10:03 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
+        "url": "https://www.statnews.com/2026/10/05/vaxcyte-pneumococcal-vaccine-study-pfizer-merck/",
+        "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merck.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 12:19:11 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Could we one day vaccinate against every cancer?",
+        "url": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/",
+        "summary": "What science says so far about which cancers can be beat by vaccines — and which will require more creative approaches.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 12:00:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
+        "url": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/",
+        "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning light-gated ion channels and optogenetics,\" the&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 10:00:11 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Are stem cells the next peptides? These advocates think RFK Jr. could make it happen",
+        "url": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/",
+        "summary": "Peptides gained legitimacy at the FDA after being embraced by MAHA. Advocates hope stem cell treatments will follow the same path.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
+        "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/",
+        "summary": "“Are we entering a world in which some (or all) Nobels will be awarded to Claude, ChatGPT, or their AI successors, rather than human scientists?” asks Jeffrey Flier.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Divergent trial results on cancer vaccines have the field grappling with hard questions",
+        "url": "https://www.statnews.com/2026/10/05/cancer-vaccines-mrna-clinical-trials/",
+        "summary": "A melanoma vaccine succeeded in a late-stage clinical trial. The question now is whether other cancer vaccines will work — and whether mRNA is up to the task.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Hospital and pharmaceutical prices are smothering America’s businesses",
+        "url": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/",
+        "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Energy drinks’ new college sports partnerships make them more dangerous than ever",
+        "url": "https://www.statnews.com/2026/10/05/energy-drinks-public-health-college-sports-partnerships-research/",
+        "summary": "“In the absence of population-based evidence, the energy drink cabal is having an easy time of it,” writes Kent Sepkowitz.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trinity-health-improves-11-operating-margin-fy2026\" hreflang=\"en\">Trinity Health improves to 1.1% operating margin in FY2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trinity-health-improves-11-operating-margin-fy2026",
+        "summary": "The 91-hospital system credited volume gains and greater rates for its 5.2% operating revenue growth and expense management, including a reduction in full-time equivalents and checked cost growth \"well below the medical rate of inflation.\"",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 4:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/texas-ag-ken-paxton-launches-investigations-unitedhealth-group-bcbstx\" hreflang=\"en\">Texas AG Ken Paxton launches investigations into UnitedHealth Group, BCBSTX</a>",
+        "url": "https://www.fiercehealthcare.com/payers/texas-ag-ken-paxton-launches-investigations-unitedhealth-group-bcbstx",
+        "summary": "Texas Attorney General Ken Paxton announced on Monday that he would launch an investigation into industry giant UnitedHealth Group for \"engaging in deceptive and unlawful practices\" that may have denied care to Texans.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-sends-price-transparency-warning-letters-24-large-hospital-systems-price\" hreflang=\"en\">FTC sends price transparency warning letters to 24 large hospital systems</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-sends-price-transparency-warning-letters-24-large-hospital-systems-price",
+        "summary": "Letters sent Monday warn that CMS guidances on price transparency are \"a regulatory floor.\" Hospitals are also subject to the FTC Act's prohibitions on unfair or deceptive marketplace practices, which could apply to incomplete or inaccurate pricing information, the regulator said.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 2:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-finalizes-updates-price-transparency-regulations-aim-improve-usability\" hreflang=\"en\">CMS finalizes updates to price transparency regulations that aim to improve usability</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-updates-price-transparency-regulations-aim-improve-usability",
+        "summary": "The Trump administration on Monday finalized a rule that aims to make the data files mandated under price transparency regulations more usable.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/white-house-dispense-part-b-rebates-more-20m-enrollees\" hreflang=\"en\">White House to dispense Part B rebates to more than 20M enrollees</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/white-house-dispense-part-b-rebates-more-20m-enrollees",
+        "summary": "On the heels of news that the White House would offer rebates to nearly 1 million people enrolled in Affordable Care Act plans, the Trump administration said Monday that it will pay out $90 rebates to more than 20 million Medicare Part B enrollees.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 1:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/irhythm-acquires-vitalconnect-2375m-all-cash-deal\" hreflang=\"en\">iRhythm acquires VitalConnect in $237.5M deal</a>",
+        "url": "https://www.fiercehealthcare.com/finance/irhythm-acquires-vitalconnect-2375m-all-cash-deal",
+        "summary": "iRhythm provides end-to-end cardiac monitoring services, while VitalConnect’s monitoring platform supports multiple modalities.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 12:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/independence-blue-cross-pay-225m-medicare-advantage-inaccurate-diagnoses-allegations\" hreflang=\"en\">Independence Blue Cross to pay $22.5M in Medicare Advantage inaccurate diagnoses allegations settlement</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/independence-blue-cross-pay-225m-medicare-advantage-inaccurate-diagnoses-allegations",
+        "summary": "The settlement resolves allegations from 2017 to 2021 that the company submitted “inaccurate and untruthful” diagnoses data to CMS.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 10:49am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/datavant-idme-partner-digital-identity-verification-medical-records\" hreflang=\"en\">Datavant, ID.me partner on digital identity verification for medical records</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/datavant-idme-partner-digital-identity-verification-medical-records",
+        "summary": "Datavant has teamed up with ID.me to streamline medical records requests, enabling patients to verify their identities digitally and access records faster.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 8:25am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/hidden-cost-fragmented-provider-data\" hreflang=\"en\">The Hidden Cost of Fragmented Provider Data: A shared provider data foundation, finally within reach.</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/hidden-cost-fragmented-provider-data",
+        "summary": "Fragmented provider data compounds costs, provider burden, and member access gaps in Medicaid. Learn why shared infrastructure matters.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 28, 2026 3:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/healthcares-alignment-gap-isnt-what-you-think\" hreflang=\"en\">Healthcare's alignment gap isn't what you think</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/healthcares-alignment-gap-isnt-what-you-think",
+        "summary": "Payers and providers agree on the challenges. The next step is turning shared understanding into shared action.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 18, 2026 2:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/grindr-acquires-hiv-prevention-telehealth-provider-250m\" hreflang=\"en\">Grindr acquires HIV prevention telehealth provider for $250M</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/grindr-acquires-hiv-prevention-telehealth-provider-250m",
+        "summary": "Executives say the transaction marks the “first major acquisition” since its founding and underscores the company's ambition to evolve beyond dating and expand into health and wellness.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 8:35am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/kennedy-names-8-communities-receive-funding-through-hhs-new-streets-initiative\" hreflang=\"en\">Kennedy names 8 communities to receive funding through new HHS STREETS initiative</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/kennedy-names-8-communities-receive-funding-through-hhs-new-streets-initiative",
+        "summary": "The STREETS initiative was first announced by the agency in February and pledges $96 million over four years.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-pays-alector-100m-preclinical-parkinsons-prospect\" hreflang=\"en\">Genentech pays Alector $100M for preclinical Parkinson’s prospect</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-pays-alector-100m-preclinical-parkinsons-prospect",
+        "summary": "Genentech is paying Alector $100 million upfront for exclusive rights to a preclinical drug candidate that targets a driver of neurodegeneration in Parkinson’s disease.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 10:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vaxcytes-stock-jumps-pneumococcal-vaccine-holds-its-own-against-pfizer-mercks-shots\" hreflang=\"en\">Vaxcyte’s stock jumps as pneumococcal vaccine holds its own against Pfizer's, Merck’s shots</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vaxcytes-stock-jumps-pneumococcal-vaccine-holds-its-own-against-pfizer-mercks-shots",
+        "summary": "Vaxcyte has seen its stock jump after the biotech’s 31-valent pneumococcal vaccine candidate went head-to-head with Pfizer’s Prevnar 20 and Merck &amp; Co.’s Capvaxive in a phase 3 contest.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 8:16am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/there-no-such-thing-typical-biotech\" hreflang=\"en\">There Is No Such Thing as a Typical Biotech</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/there-no-such-thing-typical-biotech",
+        "summary": "Why Your Operating Model Should Reflect Your Company’s DNA",
+        "source": "Fierce Biotech",
+        "published": "Sep 29, 2026 11:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-choose-biologics-cdmo-4-criteria-matter-most\" hreflang=\"en\">How to Choose a Biologics CDMO: 4 Criteria That Matter the Most</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/how-choose-biologics-cdmo-4-criteria-matter-most",
+        "summary": "Choosing a biologics CDMO goes beyond capabilities. Four criteria can help sponsors assess quality, cost, technology and long-term partnership.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 1:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gate-secures-870m-vote-confidence-eli-lilly\" hreflang=\"en\">Gate CEO sees expanded $870M pact with Lilly as ‘vote of confidence’ in biotech’s platform</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gate-secures-870m-vote-confidence-eli-lilly",
+        "summary": "Eli Lilly has been pushing at an open door by tacking on $870 million in biobucks to its existing collaboration with Gate Bioscience.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 5:29pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/3-scientists-who-developed-neuron-light-switches-win-nobel-prize-physiology-or-medicine\" hreflang=\"en\">Trio of scientists who developed neuron light switches win Nobel Prize in Physiology or Medicine</a>",
+        "url": "https://www.fiercebiotech.com/research/3-scientists-who-developed-neuron-light-switches-win-nobel-prize-physiology-or-medicine",
+        "summary": "The 2026 Nobel Prize in Physiology or Medicine has been awarded to three scientists who forged a new neuroscience technique that uses light to precisely flip chosen neurons on and off.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 6:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/meet-motivista-click-therapeutics-first-its-kind-schizophrenia-digital-therapeutic\" hreflang=\"en\">Meet Motivista: Click Therapeutics debuts first-of-its-kind schizophrenia digital therapeutic</a>",
+        "url": "https://www.fiercebiotech.com/medtech/meet-motivista-click-therapeutics-first-its-kind-schizophrenia-digital-therapeutic",
+        "summary": "Click Therapeutics has nabbed FDA approval for its digital therapeutic Motivista, which now becomes the first authorized treatment for negative schizophrenia symptoms.",
+        "source": "Fierce Biotech",
+        "published": "Aug 13, 2026 10:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genmab-data-spur-claim-adc-clearly-superior-abbvies-elahere\" hreflang=\"en\">Genmab’s latest phase 2 data spur claim ADC is ‘clearly superior’ to AbbVie’s Elahere</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genmab-data-spur-claim-adc-clearly-superior-abbvies-elahere",
+        "summary": "Genmab has linked an antibody-drug conjugate to a median progression-free survival of 9.5 months, leading TD Cowen analysts to hail the asset as “clearly superior” to AbbVie’s Elahere.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 4:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/csl-pays-355m-co-develop-alentis-phase-2-stage-fibrosis-drug\" hreflang=\"en\">CSL pays $355M to co-develop Alentis’ phase 2-stage fibrosis drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/csl-pays-355m-co-develop-alentis-phase-2-stage-fibrosis-drug",
+        "summary": "Australia’s CSL is paying $355 million upfront for the rights to Alentis Therapeutics’ phase 2-stage fibrosis drug.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 4:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-signs-first-heart-valve-designed-dynamically-expand-children\" hreflang=\"en\">FDA signs off on first heart valve designed to dynamically expand in children</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-signs-first-heart-valve-designed-dynamically-expand-children",
+        "summary": "The FDA has approved a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 2:04am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/weve-been-taking-our-time-xaira-reveals-antibody-platform-and-first-taste-pipeline\" hreflang=\"en\">‘We’ve been taking our time’: Buzzy AI biotech Xaira reveals antibody platform, first taste of pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/weve-been-taking-our-time-xaira-reveals-antibody-platform-and-first-taste-pipeline",
+        "summary": "When Xaira Therapeutics first debuted in 2024 with a gobsmacking $1 billion in funding, a natural expectation would have been for a flurry of further activity to follow. Instead, the buzzy AI biotech went quiet.",
+        "source": "Fierce Biotech",
+        "published": "Oct 2, 2026 9:58am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-cantor-steps-phrmas-house-ceo\" hreflang=\"en\">Chutes &amp; Ladders—Bayer taps new chief medical officer; Cantor appointed PhRMA CEO</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-cantor-steps-phrmas-house-ceo",
+        "summary": "Eric Cantor, who represented Virginia in the U.S. House of Representatives for 14 years and served as House majority leader from 2011 to 2014, will step up as PhRMA’s next president and CEO on Nov. 9. Plus, Bayer has a new chief medical officer.",
+        "source": "Fierce Biotech",
+        "published": "Oct 1, 2026 4:26pm",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+        "url": "https://huggingface.co/papers/2610.02191",
+        "summary": "While Large Language Models (LLMs) have demonstrated striking capabilities on frontier mathematical problems, it remains unclear whether they possess the structural mathematical understanding underlying their solutions. In this paper, we take a first step toward systematically studying mathematical understanding in LLMs, from diagnosing its distinct capabilities to leveraging these findings to improve post-training. First, we introduce the notion of Mathematical Primitive to probe structural mathematical understanding and propose , a novel benchmark that evaluates mathematical reasoning along ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-30T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
+        "url": "https://huggingface.co/papers/2610.03872",
+        "summary": "AI agents are becoming increasingly capable of generating scientific code, but generating code is not the same as improving the algorithms behind it. For numerical solvers, execution feedback can expose poor performance, but rarely reveals its underlying cause and how to address it. We introduce Auto-Diagnosis and Skill Discovery (ADSD), a framework that links numerical diagnosis to reusable solver self-improvement. ADSD follows a diagnosis-first paradigm that first explains why a solver performs poorly, then uses this diagnosis to guide the discovery of appropriate numerical methods. The resu",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-01T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification",
+        "url": "https://huggingface.co/papers/2609.30467",
+        "summary": "Retrieval-based factuality evaluation, where LLM-generated claims are verified against evidence from authoritative medical corpora, has become the dominant paradigm for scalable hallucination detection in high-stakes clinical settings. Despite the urgency of reliable and transparent medical fact verification, most systems measure performance with aggregate metrics like F1, which obscure where and why failures occur. Existing RAG diagnostics require gold answers or annotated gold evidence, neither of which exists in this regime. We introduce two comprehensive taxonomies, grounded in a case stud",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-23T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2610.02179",
+        "summary": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student, but how teacher signals affect parameter changes remains underexplored. We study Qwen3-1.7B with four domain teachers trained with RL from the same initialization as the student, comparing gradients, optimizer updates, and task learning curves, with additional SmolLM3-3B diagnostics. We find that several factors influence teacher signals. First, loss averaging implicitly weights responses: token averaging favors longer responses, and equalizing domain contributions retains this",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-30T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

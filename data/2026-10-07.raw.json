@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:45:23.491239+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Opinion: Infectious disease expert: The mysterious pneumonia in Russia deserves attention, not panic",
+        "url": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/",
+        "summary": "Chill out about reports about plague in Siberia, writes infectious disease doctor Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 23:41:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AstraZeneca opens new Boston site",
+        "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/",
+        "summary": "AstraZeneca opened a new R&#038;D site in Kendall Square yesterday, celebrating a $1 billion investment in the unsettled center of U.S. biotechnology after a spate of Chinese dealmaking.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 14:41:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Are stem cell treatments about to have their day?",
+        "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/",
+        "summary": "Stem cells might be the next peptides, and how Trump's $90 checks will play out after the election.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 14:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What are hospital longevity programs, and what can they tell you about your health?",
+        "url": "https://www.statnews.com/2026/10/06/hospital-longevity-programs-health-status-report-alex-hogan/",
+        "summary": "What can hospital longevity clinics can tell you about your health? STAT's Sarah Todd went to one to find out.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 14:13:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA spells out 2027 AI guidance plans",
+        "url": "https://www.statnews.com/2026/10/06/fda-spells-out-2027-ai-guidance-plans-health-tech/",
+        "summary": "In this edition of STAT Health Tech: New AI guidances expected from the the FDA in 2027, Utah expanding its AI sandbox, and more.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 13:59:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about U.S.-funded psychedelic trials, an AstraZeneca R&D center, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/06/us-funded-psychedelic-trials-astrazeneca-research-center/",
+        "summary": "The Trump administration is advancing the first government-funded clinical trials of the psychedelic drug ibogaine to treat opioid addiction and PTSD",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 13:36:42 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Deciding when to get your flu shot? Consider these factors",
+        "url": "https://www.statnews.com/2026/10/06/health-news-consider-these-factors-to-decide-when-to-get-flu-shot/",
+        "summary": "When’s the best time to be vaccinated? Here are some thoughts that may help you make your decision.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 11:36:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "In this hospital, pulse oximeters went from overestimating to underestimating blood oxygen. Why?",
+        "url": "https://www.statnews.com/2026/10/06/pulse-oximeters-overestimate-and-underestimate-blood-oxygen-study/",
+        "summary": "Researchers found pulse oximeters went from overestimating blood oxygen levels to underestimating them; inaccuracies were worse in patients of color.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
+        "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/",
+        "summary": "“We can document honestly and still wind up inflating hospital bills,” writes a frustrated doctor.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Why the FDA should not approve an ineffective multicancer screening test",
+        "url": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/",
+        "summary": "“Telling more people they have cancer is not progress; progress is having fewer people die from cancer,” H. Gilbert Welch writes of Grail’s multicancer screening test.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals",
+        "url": "https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/",
+        "summary": "Longevity clinics promise personalized health advice and cutting-edge tests. Now major hospitals are entering the business, at costs reaching $45,000 a year.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
+        "url": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/",
+        "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 20:13:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nobel-winning optogenetics research has led to experimental treatments for blindness and Alzheimer’s",
+        "url": "https://www.statnews.com/2026/10/05/2026-nobel-prize-winning-optogenetics-research-explained/",
+        "summary": "Optogenetics is now the foundational way through which we are able to understand how the brain works",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 20:08:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
+        "url": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/",
+        "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 18:33:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Prices, prices, prices",
+        "url": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/",
+        "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out.",
+        "source": "STAT News",
+        "published": "Mon, 05 Oct 2026 16:38:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/intermountain-stepping-back-clinically-integrated-network-jointly-run-owned-uchealth\" hreflang=\"en\">Intermountain stepping back from clinically integrated network jointly run, owned with UCHealth</a>",
+        "url": "https://www.fiercehealthcare.com/providers/intermountain-stepping-back-clinically-integrated-network-jointly-run-owned-uchealth",
+        "summary": "The nonprofits had launched Trinsic in 2023 as a push toward value-based care and improved care coordination. UCHealth will be its sole owner and operator come December.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 2:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/lawmakers-press-cms-roll-back-proposed-restrictions-remote-patient-monitoring\" hreflang=\"en\">Lawmakers press CMS to roll back proposed restrictions on remote patient monitoring</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/lawmakers-press-cms-roll-back-proposed-restrictions-remote-patient-monitoring",
+        "summary": "A bipartisan group of 32 House lawmakers is pressing CMS Administrator Mehmet Oz to reconsider proposed Medicare payment rule changes that would restrict how remote patient monitoring services are staffed and delivered.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 2:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/highmark-taps-karen-hanlon-ceo-david-holmberg-transition-executive-chairman\" hreflang=\"en\">Highmark taps Karen Hanlon as CEO, David Holmberg to transition to executive chairperson</a>",
+        "url": "https://www.fiercehealthcare.com/payers/highmark-taps-karen-hanlon-ceo-david-holmberg-transition-executive-chairman",
+        "summary": "Highmark is making a change at the top, with Karen Hanlon stepping into the role of CEO on Jan. 1.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 2:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/cdr-mckesson-acquiring-infusion-therapy-provider-option-care-health-58b\" hreflang=\"en\">CD&amp;R, McKesson acquiring infusion therapy provider Option Care Health for $5.8B</a>",
+        "url": "https://www.fiercehealthcare.com/finance/cdr-mckesson-acquiring-infusion-therapy-provider-option-care-health-58b",
+        "summary": "Option Care Health, the country's largest independent provider of at-home and alternate site infusion services, would go private in the deal, which is expected to close in the first half of 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 11:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling\" hreflang=\"en\">Vitalize secures $31M to scale AI-powered operating system for hospital staffing and scheduling</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/vitalize-secures-31m-scale-ai-powered-operating-system-hospital-staffing-and-scheduling",
+        "summary": "Vitalize positions its software as an \"air traffic control\" system for healthcare operations, helping health systems automate staffing, forecast demand, manage capacity and reduce reliance on overtime and agency labor.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 11:21am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion\" hreflang=\"en\">Proposed nuclear safety rules threaten to stall Novartis’ Pluvicto expansion</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
+        "summary": "Novartis’ flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that momentum, potentially raising administrative hurdles that experts say could force clinics to rethink patient care while deterring others from adopting the therapy altogether.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 11:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthcare-dealmakers-minnesota-health-system-mergers-grindrs-hiv-telehealth-push-and-more\" hreflang=\"en\">Healthcare Dealmakers—Minnesota health system mergers, Grindr's HIV telehealth push and more</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthcare-dealmakers-minnesota-health-system-mergers-grindrs-hiv-telehealth-push-and-more",
+        "summary": "HealthPartners and Essentia Health unveil 22-hospital combination, Waystar go-private reports and more healthcare merger and acquisition news from September.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 2, 2026 4:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/trinity-health-improves-11-operating-margin-fy2026\" hreflang=\"en\">Trinity Health improves to 1.1% operating margin in FY2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/trinity-health-improves-11-operating-margin-fy2026",
+        "summary": "The 91-hospital system credited volume gains and greater rates for its 5.2% operating revenue growth and expense management, including a reduction in full-time equivalents and checked cost growth \"well below the medical rate of inflation.\"",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 4:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/texas-ag-ken-paxton-launches-investigations-unitedhealth-group-bcbstx\" hreflang=\"en\">Texas AG Ken Paxton launches investigations into UnitedHealth Group, BCBSTX</a>",
+        "url": "https://www.fiercehealthcare.com/payers/texas-ag-ken-paxton-launches-investigations-unitedhealth-group-bcbstx",
+        "summary": "Texas Attorney General Ken Paxton announced on Monday that he would launch an investigation into industry giant UnitedHealth Group for \"engaging in deceptive and unlawful practices\" that may have denied care to Texans.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-sends-price-transparency-warning-letters-24-large-hospital-systems-price\" hreflang=\"en\">FTC sends price transparency warning letters to 24 large hospital systems</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-sends-price-transparency-warning-letters-24-large-hospital-systems-price",
+        "summary": "Letters sent Monday warn that CMS guidances on price transparency are \"a regulatory floor.\" Hospitals are also subject to the FTC Act's prohibitions on unfair or deceptive marketplace practices, which could apply to incomplete or inaccurate pricing information, the regulator said.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 2:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-finalizes-updates-price-transparency-regulations-aim-improve-usability\" hreflang=\"en\">CMS finalizes updates to price transparency regulations that aim to improve usability</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-updates-price-transparency-regulations-aim-improve-usability",
+        "summary": "The Trump administration on Monday finalized a rule that aims to make the data files mandated under price transparency regulations more usable.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/white-house-dispense-part-b-rebates-more-20m-enrollees\" hreflang=\"en\">White House to dispense Part B rebates to more than 20M enrollees</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/white-house-dispense-part-b-rebates-more-20m-enrollees",
+        "summary": "On the heels of news that the White House would offer rebates to nearly 1 million people enrolled in Affordable Care Act plans, the Trump administration said Monday that it will pay out $90 rebates to more than 20 million Medicare Part B enrollees.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 1:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease\" hreflang=\"en\">Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease",
+        "summary": "Big Pharma-backed Nuvig Therapeutics has halted one of the two trials for its sole clinical asset after determining the program wouldn’t be able to advance quickly enough.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 2:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home\" hreflang=\"en\">Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home",
+        "summary": "Abbott has been given U.S. clearance for new updates to its CardioMEMS HF System that allow for patient-facing capabilities through its CardioGuide HF App.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 8:10am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain\" hreflang=\"en\">Biotech’s peptide shows promise as ‘bait molecule’ to treat neuropathic pain in mice</a>",
+        "url": "https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain",
+        "summary": "While psychedelic drugs may be capturing all the attention when it comes to finding fresh ways to treat neuropathic pain, research with mice has suggested a peptide approach may also be effective.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 9:10pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock\" hreflang=\"en\">ArriVent’s phase 3 lung cancer trial flops, sinking stock</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock",
+        "summary": "A phase 3 lung cancer study of ArriVent BioPharma’s EGFR inhibitor has missed its primary endpoint, sending the biotech’s stock down 57% in early trading on the Nasdaq.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 10:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: KymaThera corrals $80M; RougeTx lifts off with $58M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kairos-seizes-moment-push-prostate-cancer-prospect-earlier-setting\" hreflang=\"en\">Kairos seizes moment to push prostate cancer prospect into earlier setting</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kairos-seizes-moment-push-prostate-cancer-prospect-earlier-setting",
+        "summary": "Kairos Pharma is moving prostate cancer prospect ENV-105 into an earlier line of treatment in response to midphase survival data.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 8:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/forbions-landmark-eur23b-fundraise-benefit-30-high-potential-biotechs\" hreflang=\"en\">Forbion’s ‘landmark’ €2.3B fundraise to benefit 30 ‘high potential’ biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/forbions-landmark-eur23b-fundraise-benefit-30-high-potential-biotechs",
+        "summary": "Forbion has touted its “landmark” 2.3 billion euro ($2.6 billion) fundraise across two funds as a new record for the European life sciences-focused VC firm.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 7:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/uk-unveils-new-policy-constantly-monitor-ai-based-medical-devices\" hreflang=\"en\">UK unveils new policy to constantly monitor AI-based medical devices</a>",
+        "url": "https://www.fiercebiotech.com/medtech/uk-unveils-new-policy-constantly-monitor-ai-based-medical-devices",
+        "summary": "The U.K.’s drug and medical technology regulatory body the MHRA will continually monitor all artificial intelligence-based devices.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 2:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/woman-behind-reducing-animal-testing-curtain-nicole-kleinstreuer\" hreflang=\"en\">How NIH’s Nicole Kleinstreuer is working to reduce animal testing while avoiding a ‘backlash’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/woman-behind-reducing-animal-testing-curtain-nicole-kleinstreuer",
+        "summary": "In the past 18 months, the National Institutes of Health has been working overtime to push new policies to reduce animal testing with the help of one woman at the helm: Nicole Kleinstreuer, Ph.D.",
+        "source": "Fierce Biotech",
+        "published": "Sep 25, 2026 2:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-hopes-achieve-amazing-things-new-kendall-square-rd-center\" hreflang=\"en\">AstraZeneca hopes to ‘achieve amazing things’ with new Kendall Square R&amp;D center</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-hopes-achieve-amazing-things-new-kendall-square-rd-center",
+        "summary": "AstraZeneca executives touted the benefits of further establishing themselves in Massachusetts’ biopharma “ecosystem” as the Big Pharma opened a new R&amp;D center.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 5:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/trex-bio-stomps-toward-111m-ipo-retension-and-lycia-also-gear-go-public\" hreflang=\"en\">TRex Bio stomps toward $111M IPO, as Retension and Lycia also gear up to go public</a>",
+        "url": "https://www.fiercebiotech.com/biotech/trex-bio-stomps-toward-111m-ipo-retension-and-lycia-also-gear-go-public",
+        "summary": "Eli Lilly-backed TRex Bio is aiming for a $111.3 million IPO, while hypertension-focused Retension Pharmaceuticals hopes for a more modest $33.8 million and protein degradation biotech Lycia Therapeutics plans its own listing.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 3:52am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genentech-pays-alector-100m-preclinical-parkinsons-prospect\" hreflang=\"en\">Genentech pays Alector $100M for preclinical Parkinson’s prospect</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genentech-pays-alector-100m-preclinical-parkinsons-prospect",
+        "summary": "Genentech is paying Alector $100 million upfront for exclusive rights to a preclinical drug candidate that targets a driver of neurodegeneration in Parkinson’s disease.",
+        "source": "Fierce Biotech",
+        "published": "Oct 5, 2026 10:09am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution",
+        "url": "https://huggingface.co/papers/2610.00948",
+        "summary": "The executable harness surrounding a GUI model determines how observations are assembled, actions are executed, and verification, recovery, and termination are controlled. Compared with harness optimization for non-GUI agents, automatically optimizing this harness poses three coupled challenges: reconciling model intent with observed visual effects, diagnosing failures under variable execution outcomes, and identifying recurrent failure patterns across tasks and translating them into reusable runtime changes. We introduce GUI-HARVEST, an automatic harness optimizer that enables self-improving ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-30T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Agentic discovery of blood biomarker from distilled private health records",
+        "url": "https://huggingface.co/papers/2610.04749",
+        "summary": "Routine complete blood counts (CBCs) could yield new biomarkers, but the private records needed to evaluate candidates cannot be shared with frontier language model agents that excel at discovery. We distilled the evidence held in the Clalit Health Services panel of over 5.4 million patients into a released scoring tool: for each of 13 immune-mediated diseases, a graph attention network was trained inside the data boundary to predict the case-control AUC of candidate CBC expressions, and only the trained weights were released. The tool grounds an agent's propose-score-refine loop in real-world",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-03T16:30:38.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Learning Latent Protein Languages for Autoregressive Generation",
+        "url": "https://huggingface.co/papers/2610.03978",
+        "summary": "Autoregressive transformers remain comparatively weak for protein sequence and structure generation. We study the role of target representation: amino acid tokens encode residue identities without explicit contextual semantics, while backbone coordinates require a discrete representation in our framework. We introduce two learned latent protein languages. Protein Latent Language (PLL) maps sequences to a 4,096-state contextual alphabet built on a frozen ESM-2 encoder, with one token per residue. Structure Latent Language (SLL) adapts GCP-VQVAE Lite with auxiliary sequence and confidence superv",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-01T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

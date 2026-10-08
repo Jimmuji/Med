@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T14:54:54.786993+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
+        "url": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/",
+        "summary": "About half of the patients in a study regained photosensitivity in their vision, showing the promise of optogenetics.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 21:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Trump administration proposes $70,000 fee for popular international student work program",
+        "url": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/",
+        "summary": "The Trump administration has proposed a $70,000 fee for a popular work authorization program meant to give students professional experience",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 19:41:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
+        "url": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/",
+        "summary": "The brand drug industry’s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 16:58:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Merck suffers a setback in Europe over its new Keytruda formulation",
+        "url": "https://www.statnews.com/pharmalot/2026/10/07/merck-suffers-setback-in-europe-over-new-keytruda-formulation/",
+        "summary": "In a setback for Merck, a Dutch court ordered a halt to the manufacturing and marketing of a subcutaneous formulation of Keytruda in several European countries.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 14:06:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Forbion raises $2.6 billion, its largest fundraise to date",
+        "url": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/",
+        "summary": "Forbion, a prominent European venture capital firm, said it has raised $2.6 billion, its largest fundraise to date and one of the largest in the region in recent years.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 13:42:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Why health AI pilots in Utah may be on a collision course with the FDA",
+        "url": "https://www.statnews.com/2026/10/07/utah-sandbox-health-ai-pilots-and-fda-regulations-ai-prognosis/",
+        "summary": "In this edition of STAT's AIP Prognosis: Unresolved regulatory questions around Utah's AI sandbox, and more health AI news.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 13:38:52 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about WHO obesity guidelines for kids, DOJ targeting pharma, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/07/who-obesity-guidelines-for-kids-doj-targets-pharma/",
+        "summary": "The World Health Organization released its first guidelines addressing the sharp rise in obesity among children and adolescents",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 12:56:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Justice Department targets drugmakers in new directive on combating white-collar fraud",
+        "url": "https://www.statnews.com/pharmalot/2026/10/07/trump-administration-adds-pharma-to-list-priorities-combating-white-collar-fraud/",
+        "summary": "The Justice Department issued a new directive for combating fraud that noted the agency will pursue violations of a federal law that tightly regulates the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 12:10:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "ER visits from people born outside the U.S. dropped after ICE raids",
+        "url": "https://www.statnews.com/2026/10/07/health-news-er-visits-from-people-born-outside-the-u-s-dropped-after-ice-raids/",
+        "summary": "A new study found that visits by people born outside of the U.S. to three LA emergency rooms dropped precipitously after ICE raids increased last year.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 11:50:41 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "2026 Nobel Prize in chemistry awarded for ‘mirror image’ molecule research, with impact on pharmacology",
+        "url": "https://www.statnews.com/2026/10/07/nobel-prize-chemistry-henri-kagan-kenso-soai-2026-winner/",
+        "summary": "Henri B. Kagan and Kenso Soai were awarded the 2026 Nobel Prize in chemistry on Wednesday for solving a mystery with research on \"mirror image\" molecules.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 10:42:28 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
+        "url": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/",
+        "summary": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
+        "url": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/",
+        "summary": "Exon-skipping drugs present a critical test for the FDA’s goal of encouraging treatments for rare disease.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Democrats plot a midterms push for MAHA voters",
+        "url": "https://www.statnews.com/2026/10/07/democrats-focus-on-food-toxins-win-maha-voters-midterm-elections/",
+        "summary": "Key Democrats are meeting with MAHA activists and rolling out food and environmental plans to entice them.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: My oncologist recommended active surveillance for prostate cancer. Life insurers called it ‘untreated cancer’",
+        "url": "https://www.statnews.com/2026/10/07/active-surveillance-prostate-cancer-life-insurance-policy/",
+        "summary": "“I reject the idea that a man who keeps every prostate cancer surveillance appointment has ‘untreated cancer,’” writes Howard Wolinsky.",
+        "source": "STAT News",
+        "published": "Wed, 07 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Infectious disease expert: The mysterious pneumonia in Russia deserves attention, not panic",
+        "url": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/",
+        "summary": "Chill out about reports about plague in Siberia, writes infectious disease doctor Krutika Kuppalli.",
+        "source": "STAT News",
+        "published": "Tue, 06 Oct 2026 23:41:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/kaiser-permanente-repay-nurses-potentially-tens-millions-mistakenly-withheld-wages\" hreflang=\"en\">Kaiser Permanente to repay nurses 'potentially tens of millions' in mistakenly withheld wages</a>",
+        "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-repay-nurses-potentially-tens-millions-mistakenly-withheld-wages",
+        "summary": "Following an arbitration agreement, more than 1,000 nurses will be compensated for a payment error that began in 2021, the California Nurses Association said. The major nonprofit confirmed the plans but did not comment on the total amount.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 4:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study\" hreflang=\"en\">After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study</a>",
+        "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
+        "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 1:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-unveils-new-customer-experience-platform-health-sense\" hreflang=\"en\">Cigna unveils new customer experience platform, Health Sense</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-customer-experience-platform-health-sense",
+        "summary": "Cigna is rolling out a new patient experience platform that aims to harness the power of data to drive greater personalization.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 3:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health\" hreflang=\"en\">General Medicine banks $120M backed by a16z, Eli Lilly and Mercy Health to build out healthcare storefront</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health",
+        "summary": "General Medicine, started by the founding team that built PillPack and Amazon Pharmacy, is an online marketplace where customers can search, compare and buy care, see insurance and cash prices before deciding, and get guidance from a licensed clinician.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 12:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—WellSpan unveils its next CEO; UnitedHealthcare names president</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third\" hreflang=\"en\">Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third",
+        "summary": "Utah is expanding the state's AI regulatory sandbox program with new pilots to test AI-supported prescription renewals, dermatology and physical therapy, while adding physician oversight and independent third-party evaluators.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 5, 2026 5:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/senators-express-concerns-over-new-uspstf-appointments-seek-information-rfk-jr\" hreflang=\"en\">Senators question Kennedy on 'major break' from USPSTF appointment norms</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/senators-express-concerns-over-new-uspstf-appointments-seek-information-rfk-jr",
+        "summary": "The lawmakers expressed concerns over the panel’s ability to make recommendations, the transparency of the application process and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 10:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/future-independent-contracting-healthcare\" hreflang=\"en\">The future of independent contracting in healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/providers/future-independent-contracting-healthcare",
+        "summary": "More clinicians are turning to independent contracting for greater flexibility, but uncertainty around worker classification can complicate those arrangements. This week on \"Podnosis,\" Senior Writer Anastassia Gliadkovskaya talks with ShiftKey’s Regan Parker about the Department of Labor’s proposed independent contractor rule, portable benefits and what the future of independent contracting could look like in healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 4:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/scan-walmart-are-teaming-co-branded-ma-plans-heres-why\" hreflang=\"en\">SCAN, Walmart are teaming up for co-branded MA plans. Here's why</a>",
+        "url": "https://www.fiercehealthcare.com/payers/scan-walmart-are-teaming-co-branded-ma-plans-heres-why",
+        "summary": "Last month, SCAN Health Plan revealed that it would team up with Walmart to launch co-branded Medicare Advantage plans in two states. Now, the partners are offering a deeper look at how those benefits have taken shape, and why they saw potential in coming together.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 4:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/infinitus-launches-agentic-ai-solution-aid-provider-engagement-pharma\" hreflang=\"en\">Infinitus launches AI agents to help pharma teams reach more providers</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/infinitus-launches-agentic-ai-solution-aid-provider-engagement-pharma",
+        "summary": "The agents—dubbed FieldForce—provide support sales representatives and field reimbursement managers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 12:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/teladoc-health-unveils-2-new-ai-capabilities-within-solo-platform\" hreflang=\"en\">Teladoc Health unveils new AI capabilities within Solo platform for hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/teladoc-health-unveils-2-new-ai-capabilities-within-solo-platform",
+        "summary": "The two new tools aim to help health systems surface timely patient insights into their care environments while reducing technology fragmentation, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/intermountain-stepping-back-clinically-integrated-network-jointly-run-owned-uchealth\" hreflang=\"en\">Intermountain stepping back from clinically integrated network jointly run, owned with UCHealth</a>",
+        "url": "https://www.fiercehealthcare.com/providers/intermountain-stepping-back-clinically-integrated-network-jointly-run-owned-uchealth",
+        "summary": "The nonprofits had launched Trinsic in 2023 as a push toward value-based care and improved care coordination. UCHealth will be its sole owner and operator come December.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 6, 2026 2:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline\" hreflang=\"en\">Cadrenal launches strategic review for late-stage cardiology pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline",
+        "summary": "Cadrenal Therapeutics, a heart-focused biotech that recently reached an agreement with the FDA on the design of a pivotal trial for its lead candidate, is now instead looking to offload its pipeline or potentially the entire company.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 12:58pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Caribou cuts staff, halts pipeline; Foghorn reduces workforce by 40%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/arpa-h-unveils-surpass-program-accelerate-and-expand-clinical-trials\" hreflang=\"en\">ARPA-H unveils Surpass program to accelerate and expand clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/arpa-h-unveils-surpass-program-accelerate-and-expand-clinical-trials",
+        "summary": "The U.S. Department of Health and Human Services announced the launch of a new program aimed at removing barriers that slow clinical development and transforming how clinical trials are designed and conducted.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 11:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs\" hreflang=\"en\">TCGX launches $600M fund to bankroll Asian biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs",
+        "summary": "Investment firm TCGX is expanding in Asia, raising $600 million to funnel into biotechs emerging from a burgeoning drug discovery hotspot.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 10:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win\" hreflang=\"en\">Cerevance rescues its Parkinson's drug with phase 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win",
+        "summary": "Cerevance's oral non-dopaminergic therapy has redeemed itself by improving both motor and non-motor symptoms in a phase 3 Parkinson's disease study.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 10:10am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/atsenas-lighthouse-gene-therapy-readout-illuminates-eye-disease-efficacy\" hreflang=\"en\">Atsena’s Lighthouse gene therapy readout illuminates eye disease efficacy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/atsenas-lighthouse-gene-therapy-readout-illuminates-eye-disease-efficacy",
+        "summary": "Atsena Therapeutics has reported evidence of efficacy in a clinical trial of an eye disease gene therapy, encouraging the biotech to forge ahead with a study that could support a filing for approval in 2028.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 9:10am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/matchpoint-nets-150m-series-b-take-covalent-med-clinic\" hreflang=\"en\">Matchpoint nets $150M series B to take covalent med into clinic</a>",
+        "url": "https://www.fiercebiotech.com/biotech/matchpoint-nets-150m-series-b-take-covalent-med-clinic",
+        "summary": "Matchpoint Therapeutics has aced its series B round, serving up $150 million to advance the Sanofi-backed biotech’s pipeline of precision covalent medicines.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 8:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly\" hreflang=\"en\">MimiVax’s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as ‘inspiring’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly",
+        "summary": "MimiVax has reports a phase 2b miss in newly diagnosed glioblastoma patients, but remains positive about a significant survival benefit in a subset of patients 65 years and under.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 4:22pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates\" hreflang=\"en\">CAR-T biotech Caribou makes ‘heartbreaking’ call to shrink headcount, halt pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates",
+        "summary": "The Bay Area biotech is discontinuing all clinical development activities and implementing a \"substantial reduction in workforce.\"",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 6:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/stryker-strikes-new-ceo-spencer-stiles-kevin-lobo-moves-upstairs\" hreflang=\"en\">Stryker strikes up a new CEO in Spencer Stiles as Kevin Lobo moves upstairs</a>",
+        "url": "https://www.fiercebiotech.com/medtech/stryker-strikes-new-ceo-spencer-stiles-kevin-lobo-moves-upstairs",
+        "summary": "Stryker veteran Spencer Stiles will take up the chief executive role as its former CEO Kevin Lobo will move into the boardroom.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 2:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease\" hreflang=\"en\">Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease",
+        "summary": "Big Pharma-backed Nuvig Therapeutics has halted one of the two trials for its sole clinical asset after determining the program wouldn’t be able to advance quickly enough.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 2:21pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home\" hreflang=\"en\">Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home",
+        "summary": "Abbott has been given U.S. clearance for new updates to its CardioMEMS HF System that allow for patient-facing capabilities through its CardioGuide HF App.",
+        "source": "Fierce Biotech",
+        "published": "Oct 6, 2026 8:10am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "PhysEvo: Astra Can Act, Let It",
+        "url": "https://huggingface.co/papers/2610.08995",
+        "summary": "Astra can act, yet reliable manipulation depends on the system through which it observes and controls the world. We introduce PhysEvo, a framework for physical recursive self-improvement (RSI) around a single frozen model. A task agent executes robot tasks; a meta-agent uses the resulting trajectories to diagnose failures, revise tools and skills, and test corrections. The meta-agent can also improve its own diagnostic tools, so retained revisions support both later action and later self-improvement. This process develops joint-level control, evidence-seeking observation, and reusable manipula",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-05T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

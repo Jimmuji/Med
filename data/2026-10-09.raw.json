@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:03:15.902102+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Trump administration investigates 9 universities for alleged visa fraud",
+        "url": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/",
+        "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 23:09:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
+        "url": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/",
+        "summary": "A new proposal in Congress to scrap a surprise billing ban’s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 21:44:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "NIH funding uncertainty thwarts U.S. researchers",
+        "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/",
+        "summary": "How has the NIH been spending its budget? And why are biotech investors feeling gloomy? Find out on this week's episode of \"The Readout LOUD\" podcast.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 18:50:54 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis",
+        "url": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/",
+        "summary": "In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 15:43:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The fresh faces that may shake up key Senate committees ahead of midterms",
+        "url": "https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/",
+        "summary": "Dozens of Democrats are vying for seats on the House Energy and Commerce and Ways and Means committees, with several members from both parties either leaving or in close races.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 15:31:38 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
+        "url": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/",
+        "summary": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 15:18:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "FDA says its safety review of abortion pill will continue into next year",
+        "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/",
+        "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 15:02:53 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
+        "url": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/",
+        "summary": "Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 14:02:29 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about PhRMA suing Trump, biotech frustration over tariffs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/08/phrma-suing-trump-biotech-frustration-tariffs-pharmalittle-newsletter/",
+        "summary": "PhRMA is suing the Trump administration, smaller biotech firms are frustrated over tariffs, and more of the latest pharma news.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 13:15:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
+        "url": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/",
+        "summary": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The Nobel boys club (again)",
+        "url": "https://www.statnews.com/2026/10/08/health-news-nobel-boys-club-again-2026-winners/",
+        "summary": "All six Nobel awardees in physiology or medicine, physics, and chemistry this year were men. Women make up 4% of laureates since the award’s inception.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 11:53:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech companies are struggling to navigate Trump’s new tariffs",
+        "url": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/",
+        "summary": "Smaller biotech firms are trying to figure out how to win exemptions from Trump's import taxes.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Dozens of Democrats vie for slots on key House health committees",
+        "url": "https://www.statnews.com/2026/10/08/midterm-election-democrats-vie-for-roles-house-health-care-committees/",
+        "summary": "Power House health committees could get a lot of new members after the midterms.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
+        "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/",
+        "summary": "“A small, well-intended discount for safety net hospitals became a large institutional subsidy with expensive unintended consequences,” writes an HHS leader.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: England and other nations are on the path toward eliminating hepatitis C. Why not the U.S.?",
+        "url": "https://www.statnews.com/2026/10/08/us-hepatitis-c-cure-medication-cost-elimination/",
+        "summary": "Eliminating hepatitis C is achievable — if the U.S. seriously invests in it, experts write.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform\" hreflang=\"en\">Little room for stakeholder consensus among potential Medicare Advantage reforms</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform",
+        "summary": "A survey of 52 experts spanning researchers, the Medicare Advantage industry, patient advocates and policymakers wasn't able to identify a single policy proposal that would be received wholeheartedly by all three groups.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 4:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027\" hreflang=\"en\">CMS: About 71% of MAPD plan enrollees in coverage with four or more stars for 2027</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027",
+        "summary": "The Trump administration has released the 2027 Medicare Advantage star ratings, with many enrollees in plans that earned at least four stars.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 5:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives\" hreflang=\"en\">HHS launches 4 new vaccine injury research, reporting initiatives</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives",
+        "summary": "The U.S. Department of Health and Human Services (HHS) on Thursday announced a series of actions aimed at strengthening the federal government's response to vaccine-related health concerns.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 3:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-340b-expanded-beyond-its-original-intent-incentivizes-consolidation\" hreflang=\"en\">HHS: 340B 'expanded beyond its original intent,' incentivizes consolidation</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-340b-expanded-beyond-its-original-intent-incentivizes-consolidation",
+        "summary": "A new brief lays out the administration's views and critiques of the controversial hospital subsidy program, and includes a data analysis suggesting that a proposed reimbursement cut will limit spending growth.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 12:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—WellSpan, Beth Israel Lahey unveil next CEOs</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/michigan-ag-hits-bcbsm-antitrust-suit\" hreflang=\"en\">'Blue Conspiracy'—Michigan attorney general hits BCBSM with antitrust suit</a>",
+        "url": "https://www.fiercehealthcare.com/payers/michigan-ag-hits-bcbsm-antitrust-suit",
+        "summary": "Michigan Attorney General Dana Nessel has filed suit against Blue Cross Blue Shield of Michigan, alleging that the insurer operated as a monopoly in the state.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 2:54pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Outro clinches $7M for deprescribing; Rightway pulls in $155M to expand pharmacy benefits tech</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer\" hreflang=\"en\">Suki launches ‘Ask’ feature for clinical decision support driven by Wolters Kluwer UpToDate AI API</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
+        "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate’s proprietary content.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 2:40pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird\" hreflang=\"en\">Healthleap banks $38M for AI screening platform that catches undiagnosed conditions</a>",
+        "url": "https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird",
+        "summary": "Healthleap says its platform is the first and only validated AI malnutrition screening tool that contains EHR-integrated screening layers, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 4:19pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b\" hreflang=\"en\">PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
+        "summary": "As the Trump administration advances plans to bring its “most favored nation” drug pricing model to Medicare Part B, the pharmaceutical industry’s top lobbying group is pushing back in court.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 8:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/kaiser-permanente-repay-nurses-potentially-tens-millions-mistakenly-withheld-wages\" hreflang=\"en\">Kaiser Permanente to repay nurses 'potentially tens of millions' in mistakenly withheld wages</a>",
+        "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-repay-nurses-potentially-tens-millions-mistakenly-withheld-wages",
+        "summary": "Following an arbitration agreement, more than 1,000 nurses will be compensated for a payment error that began in 2021, the California Nurses Association said. The major nonprofit confirmed the plans but did not comment on the total amount.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 4:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study\" hreflang=\"en\">After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study</a>",
+        "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
+        "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 1:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor\" hreflang=\"en\">Endeavor’s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor</a>",
+        "url": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
+        "summary": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 9:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic\" hreflang=\"en\">AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
+        "summary": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 8:46am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant\" hreflang=\"en\">‘It’s just survival now’: Why is almost a third of Boston’s life sciences lab space sitting vacant?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
+        "summary": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 3:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset\" hreflang=\"en\">Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave’s asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset",
+        "summary": "Japan’s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven’s IgG degraders, led by a phase 3-stage Grave’s disease prospect.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 5:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data\" hreflang=\"en\">Zealand, Roche’s ‘intriguing’ weight loss for amylin drug soured by blood sugar data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data",
+        "summary": "Zealand Pharma has reported more phase 2 data on its Roche-partnered amylin analog, linking the drug candidate to competitive weight loss but a lackluster effect on blood sugar.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 4:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run\" hreflang=\"en\">Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run</a>",
+        "url": "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run",
+        "summary": "A phase 2 celiac disease trial of argenx’s FB102 has hit its primary endpoint, delivering a boost to a drug candidate that the biotech acquired in its $2.2 billion takeover of Forte Biosciences.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 3:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline\" hreflang=\"en\">Cadrenal launches strategic review for late-stage cardiology pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline",
+        "summary": "Cadrenal Therapeutics, a heart-focused biotech that recently reached an agreement with the FDA on the design of a pivotal trial for its lead candidate, is now instead looking to offload its pipeline or potentially the entire company.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 12:58pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Caribou cuts staff, halts pipeline; Foghorn reduces workforce by 40%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/arpa-h-unveils-surpass-program-accelerate-and-expand-clinical-trials\" hreflang=\"en\">ARPA-H unveils Surpass program to accelerate and expand clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/arpa-h-unveils-surpass-program-accelerate-and-expand-clinical-trials",
+        "summary": "The U.S. Department of Health and Human Services announced the launch of a new program aimed at removing barriers that slow clinical development and transforming how clinical trials are designed and conducted.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 11:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs\" hreflang=\"en\">TCGX launches $600M fund to bankroll Asian biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs",
+        "summary": "Investment firm TCGX is expanding in Asia, raising $600 million to funnel into biotechs emerging from a burgeoning drug discovery hotspot.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 10:22am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win\" hreflang=\"en\">Cerevance rescues its Parkinson's drug with phase 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win",
+        "summary": "Cerevance's oral non-dopaminergic therapy has redeemed itself by improving both motor and non-motor symptoms in a phase 3 Parkinson's disease study.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 10:10am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/atsenas-lighthouse-gene-therapy-readout-illuminates-eye-disease-efficacy\" hreflang=\"en\">Atsena’s Lighthouse gene therapy readout illuminates eye disease efficacy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/atsenas-lighthouse-gene-therapy-readout-illuminates-eye-disease-efficacy",
+        "summary": "Atsena Therapeutics has reported evidence of efficacy in a clinical trial of an eye disease gene therapy, encouraging the biotech to forge ahead with a study that could support a filing for approval in 2028.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 9:10am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+        "url": "https://huggingface.co/papers/2610.12458",
+        "summary": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal diagnostic task, yet current benchmarks face a coupled trade-off: whole-caption scores provide coverage without localization, local probes provide localization without coverage, and unconstrained LLM judges introduce instability. We introduce OmniCapBench (Omni-Video Caption Benchmark), a benchmark that reframes audio--visual caption evaluation as a deep-structured diagnostic fr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-07T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+        "url": "https://huggingface.co/papers/2610.12402",
+        "summary": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: constructing a scene from observations, anticipating how an intervention changes it, and reasoning about the unseen outcome. We introduce SpaceCast-Bench, the first benchmark to directly and diagnostically evaluate this capability. Built around an observe-transform-infer framework, its 3,862 questions from 182 real-world scenes span 16 task types at three levels: static perception, local prediction, a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-07T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
+        "url": "https://huggingface.co/papers/2610.08902",
+        "summary": "AI agents increasingly operate in environments where they can diagnose failures and improve through experience, yet existing evaluations largely measure what an agent can do at a fixed point in time rather than how effectively it learns. Evaluating self-improvement requires answering three questions: does future performance improve and generalize beyond the interactions that enabled learning; how efficiently are new capabilities acquired; and where does the self-improvement process break down? To answer these questions, we study self-improvement in a controlled setting where agents amortize pa",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-05T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

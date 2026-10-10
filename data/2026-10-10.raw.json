@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:34:37.190143+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
+        "url": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/",
+        "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 21:03:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
+        "url": "https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/",
+        "summary": "The AHA is once again suing the Trump administration over its plan to revamp a federal drug discount program into one that provides after-the-fact rebates instead of upfront discounts.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 20:27:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/",
+        "summary": "The gifts and payments that doctors receive from drugmakers increased inappropriate prescribing, likely leading to rising health care costs, according to a new review.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 16:33:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare Advantage star ratings trigger new bonuses, and uncertainty",
+        "url": "https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/",
+        "summary": "The federal government has released new quality ratings for Medicare Advantage insurers for 2027, with Humana emerging as the biggest winner.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 15:55:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug",
+        "url": "https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/",
+        "summary": "Life Biosciences said yesterday that three glaucoma patients have now received a single injection of its experimental cellular reprogramming drug, with no serious adverse events.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 15:41:39 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 13:59:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How these census changes could threaten public health",
+        "url": "https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/",
+        "summary": "The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 13:23:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a setback for Argenx, Lilly suits over copycat versions of an obesity drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/09/pharmalittle-were-reading-about-a-setback-for-argenx-lilly-suits-over-copycat-versions-of-an-obesity-drug-and-more/",
+        "summary": "The FDA flagged a potential safety signal after four patient deaths in a trial testing a schizophrenia drug, Argenx faces an unusual setback, and more pharma news.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 13:17:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Will MAHA survive the midterms?",
+        "url": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/",
+        "summary": "As the midterm elections draw near, the MAHA movement is nearly invisible on the campaign trail and struggling to find a financial or messaging foothold in key races.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
+        "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/",
+        "summary": "“Erasing data does not erase need or harm,” writes social epidemiologist Nancy Krieger.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary",
+        "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/",
+        "summary": "“Basic studies led to clinical and translational advances that no one could have predicted,” Robert Gallo writes of his work with interleukin-2.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
+        "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/",
+        "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
+        "source": "STAT News",
+        "published": "Fri, 09 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Trump administration investigates 9 universities for alleged visa fraud",
+        "url": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/",
+        "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 23:09:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
+        "url": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/",
+        "summary": "A new proposal in Congress to scrap a surprise billing ban’s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 21:44:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "NIH funding uncertainty thwarts U.S. researchers",
+        "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/",
+        "summary": "How has the NIH been spending its budget? And why are biotech investors feeling gloomy? Find out on this week's episode of \"The Readout LOUD\" podcast.",
+        "source": "STAT News",
+        "published": "Thu, 08 Oct 2026 18:50:54 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process\" hreflang=\"en\">Rep. Pallone introduces bill replacing No Surprises Act's arbitration process</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
+        "summary": "One of the No Surprises Act’s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 3:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report\" hreflang=\"en\">Oracle Health data breach in 2025 compromised data of 20M people: report</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
+        "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 3:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption\" hreflang=\"en\">Industry Voices—Why health system CFOs can't budget their way out of coverage disruption</a>",
+        "url": "https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption",
+        "summary": "Semi-annual redeterminations and work requirements will test payer-mix assumptions across the industry over the next two years. Now is the time for health systems to prepare, writes Ensemble SVP Matthew Ennen.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 12:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches\" hreflang=\"en\">Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
+        "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 12:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions\" hreflang=\"en\">Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
+        "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 12:01pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai\" hreflang=\"en\">Abridge, University of Texas System enter enterprise-wide agreement for expanded AI-enabled care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
+        "summary": "The partnership establishes a systemwide framework for the eight UT health institutions to access Abridge.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 11:15am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again\" hreflang=\"en\">Hospital industry sues to block HHS' 340B rebate pilot (again)</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+        "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 11:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings\" hreflang=\"en\">Humana rebounds, Aetna slips: Winners and losers in the 2027 MA star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings",
+        "summary": "Federal regulators released the hotly anticipated star ratings for the 2027 Medicare Advantage plan year, and winners and losers emerged in the data.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 11:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-closures-accelerated-2010-rates-similar-among-rural-urban-facilities\" hreflang=\"en\">Urban hospitals face closure rates similar to rural facilities, study finds</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-closures-accelerated-2010-rates-similar-among-rural-urban-facilities",
+        "summary": "There were 432 acute hospital closures and 216 openings across the country from 2010 through 2025, with the former accelerating over time and the latter slowing, according to a new study. Closure rates were statistically similar between rural and urban hospitals, and generally increased among safety net facilities and for-profits.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 3:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform\" hreflang=\"en\">Little room for stakeholder consensus among potential Medicare Advantage reforms</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform",
+        "summary": "A survey of 52 experts spanning researchers, the Medicare Advantage industry, patient advocates and policymakers wasn't able to identify a single policy proposal that would be received wholeheartedly by all three groups.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 4:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027\" hreflang=\"en\">CMS: About 71% of MAPD plan enrollees in coverage with four or more stars for 2027</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027",
+        "summary": "The Trump administration has released the 2027 Medicare Advantage star ratings, with many enrollees in plans that earned at least four stars.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 5:05pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives\" hreflang=\"en\">HHS launches 4 new vaccine injury research, reporting initiatives</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives",
+        "summary": "The U.S. Department of Health and Human Services (HHS) on Thursday announced a series of actions aimed at strengthening the federal government's response to vaccine-related health concerns.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 3:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd\" hreflang=\"en\">Ferass Abuzaina named Worldwide President of Surgery at BD</a>",
+        "url": "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd",
+        "summary": "Becton, Dickinson and Company has named Ferass Abuzaina as its new Worldwide President of its Surgery business unit.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 9:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation\" hreflang=\"en\">GSK drinks in Chai Discovery’s AI models after wet-lab validation</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation",
+        "summary": "GSK has joined Chai Discovery’s growing roster of Big Pharma clients, signing up to access protein-folding and design models.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 10:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia\" hreflang=\"en\">‘We’re making a lot of progress’: How Nobel-winning optogenetics is being harnessed by biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia",
+        "summary": "As a notorious night owl, it was already very early in the morning of October 5 when Karl Deisseroth, M.D., Ph.D., finally laid down to get some shuteye. Not long after, the phone of the Stanford psychiatrist and bioengineer lit up with an incoming call from Sweden.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 4:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-vir-looks-liu-lead-late-stage-push\" hreflang=\"en\">Chutes &amp; Ladders—Vir looks to Liu to lead late-stage push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-vir-looks-liu-lead-late-stage-push",
+        "summary": "As Vir pushes its lead hepatitis D combo through phase 3 development, the biotech has tapped an experienced medical expert to light the way. David Liu, M.D., Ph.D., is now Vir’s chief medical officer, after most recently serving in the same role at Nuvation Bio.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 3:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15\" hreflang=\"en\">How we picked the Fierce 15</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15",
+        "summary": "What does it mean to be a Fierce 15 biotech in 2026? With this year’s list unveiled, the Fierce Biotech team gets together to discuss what the winners tell us about the state of the sector.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 7:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing\" hreflang=\"en\">Lilly-backed TRex rakes in $117M IPO, while hypertension biotech Retension reveals $45M listing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing",
+        "summary": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals brought in $116.7 million and $45 million from their respective IPOs, continuing a bumper year for biotech listings.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 4:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor\" hreflang=\"en\">Endeavor’s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor</a>",
+        "url": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
+        "summary": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 9:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic\" hreflang=\"en\">AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
+        "summary": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 8:46am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant\" hreflang=\"en\">‘It’s just survival now’: Why is almost a third of Boston’s life sciences lab space sitting vacant?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
+        "summary": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?",
+        "source": "Fierce Biotech",
+        "published": "Sep 22, 2026 3:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset\" hreflang=\"en\">Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave’s asset</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset",
+        "summary": "Japan’s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven’s IgG degraders, led by a phase 3-stage Grave’s disease prospect.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 5:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data\" hreflang=\"en\">Zealand, Roche’s ‘intriguing’ weight loss for amylin drug soured by blood sugar data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data",
+        "summary": "Zealand Pharma has reported more phase 2 data on its Roche-partnered amylin analog, linking the drug candidate to competitive weight loss but a lackluster effect on blood sugar.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 4:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run\" hreflang=\"en\">Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run</a>",
+        "url": "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run",
+        "summary": "A phase 2 celiac disease trial of argenx’s FB102 has hit its primary endpoint, delivering a boost to a drug candidate that the biotech acquired in its $2.2 billion takeover of Forte Biosciences.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 3:04am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+        "url": "https://huggingface.co/papers/2609.33987",
+        "summary": "Long-horizon coding agents need timely corrections, yet feedback can be ineffective or even harmful when it misjudges ongoing work or fails to address the underlying problem. Existing critics focus on evaluating trajectories and generating feedback, but rarely track what happens after feedback is delivered. We present Opera, a verbal critic framework that treats each correction as a persistent note, followed until the diagnosed problem is resolved. Opera decides when to review through periodic and event-driven triggers, diagnoses issues with typed operators, audits feedback against visible evi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-07T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Incidental information contaminates patient notes and disrupts clinical reasoning in large language models",
+        "url": "https://huggingface.co/papers/2610.08585",
+        "summary": "Large language models (LLMs) are increasingly relied upon to support ambient documentation and clinical reasoning. Here we examine the impact of a failure mode shared between these two applications by assessing their sensitivity to information incidental to the patient encounter. In 576 patient-clinician dialogues, we found that frontier models inserted small-talk exchanges into 35% of notes, while mean quality scores changed by at most 0.20 points on five-point scales. In 3.7% of frontier notes, models misattributed the asides or used them clinically. In 57 mock recorded consultations, backgr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-05T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI",
+        "url": "https://huggingface.co/papers/2610.09146",
+        "summary": "Large language models (LLMs) and vision-language models (VLMs) are usually frozen after deployment, so they do not learn from the cases they solve. This is especially concerning in medicine, where new clinical evidence, updated guidelines, and new therapies can change established practice. Fine-tuning can update the model, but it requires access to model weights and additional training. Parameter-free methods avoid training, but they may overfit a fixed validation set, lack reliable domain knowledge, or lose visual details by saving experience only as text. To address these limitations, we pre",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-05T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+        "url": "https://huggingface.co/papers/2610.12458",
+        "summary": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal diagnostic task, yet current benchmarks face a coupled trade-off: whole-caption scores provide coverage without localization, local probes provide localization without coverage, and unconstrained LLM judges introduce instability. We introduce OmniCapBench (Omni-Video Caption Benchmark), a benchmark that reframes audio--visual caption evaluation as a deep-structured diagnostic fr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-07T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

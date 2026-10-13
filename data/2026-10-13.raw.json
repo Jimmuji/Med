@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:15:43.512706+08:00",
+  "counts": {
+    "news": 24,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "Alignment Healthcare sued federal regulators, alleging that its 2027 Medicare Advantage star ratings were determined \"in flagrant violation\" of statute.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/google-unveils-new-fitbit-edge-tracker-tech-giant-expands-health-monitoring-ambitions\" hreflang=\"en\">Google unveils new Fitbit Edge tracker as tech giant expands health monitoring ambitions</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/google-unveils-new-fitbit-edge-tracker-tech-giant-expands-health-monitoring-ambitions",
+        "summary": "The new device also builds on Google’s health tracking ambitions by combining advanced health sensors with AI-powered insights designed to identify changes in a user’s health and translate those signals into personalized guidance.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 11:57am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/marsh-survey-examines-how-health-orgs-are-managing-capital-investment-strategies\" hreflang=\"en\">Marsh survey examines how health systems are managing capital, investment strategies</a>",
+        "url": "https://www.fiercehealthcare.com/finance/marsh-survey-examines-how-health-orgs-are-managing-capital-investment-strategies",
+        "summary": "Forty-three percent of respondents report expecting to draw on reserves in 2026, up from 37% the year prior.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 10:45am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-70000-fee-f-1-student-visa-workers\" hreflang=\"en\">Trump administration proposes new $70,000 fee for F-1 student visa workers</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-70000-fee-f-1-student-visa-workers",
+        "summary": "The proposed monetary barrier on hiring foreign students would further narrow the path to employment at hospitals and health systems.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 2:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/strategic-shift-reshaping-payment-integrity\" hreflang=\"en\">The strategic shift reshaping payment integrity</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/strategic-shift-reshaping-payment-integrity",
+        "summary": "Claris Health CEO Michael Axt examines how payers can turn payment integrity into a more connected, strategic capability. Listen to the interview to learn more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 1:03pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/healthcare-dive-idr-math-nobody-budgeted\" hreflang=\"en\">IDR Costs Nobody Budgeted For: 3 Problems Payers Keep Hitting</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/healthcare-dive-idr-math-nobody-budgeted",
+        "summary": "Payers keep hitting the same three out-of-network problems. Here's why pricing, not arbitration, decides what IDR really costs.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 7, 2026 3:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process\" hreflang=\"en\">Rep. Pallone introduces bill replacing No Surprises Act's arbitration process</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
+        "summary": "One of the No Surprises Act’s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 3:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report\" hreflang=\"en\">Oracle Health data breach in 2025 compromised data of 20M people: report</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
+        "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 3:15pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption\" hreflang=\"en\">Industry Voices—Why health system CFOs can't budget their way out of coverage disruption</a>",
+        "url": "https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption",
+        "summary": "Semi-annual redeterminations and work requirements will test payer-mix assumptions across the industry over the next two years. Now is the time for health systems to prepare, writes Ensemble SVP Matthew Ennen.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 12:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches\" hreflang=\"en\">Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
+        "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 12:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions\" hreflang=\"en\">Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
+        "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 8, 2026 12:01pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings\" hreflang=\"en\">Humana rebounds, Aetna slips: Winners and losers in the 2027 MA star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings",
+        "summary": "Federal regulators released the hotly anticipated star ratings for the 2027 Medicare Advantage plan year, and winners and losers emerged in the data.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 11:08am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data\" hreflang=\"en\">Roche sets sights on FDA approval decision of July 2027 with updated eye drug data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data",
+        "summary": "One year on from a mixed phase 3 readout, Roche has shared updated data from eye disease trials that could support FDA approval by July.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 9:42am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tortugas-schizophrenia-drug-proves-worth-phase-2-hansoh-trial-china\" hreflang=\"en\">Tortugas’ schizophrenia drug proves worth in phase 2 Hansoh trial in China</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tortugas-schizophrenia-drug-proves-worth-phase-2-hansoh-trial-china",
+        "summary": "Tortugas Neuroscience’s schizophrenia drug from Hansoh Pharma has proven its worth in a phase 2b study, validating the fledgling biotech’s neurology strategy.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 9:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bristol-myers-doubles-pivotal-wins-lung-disease-and-solid-tumor\" hreflang=\"en\">BMS doubles up with pivotal wins in lung disease, solid tumor that offer hope for post-patent cliff growth</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bristol-myers-doubles-pivotal-wins-lung-disease-and-solid-tumor",
+        "summary": "Bristol Myers Squibb has reported phase 3 wins in a lung disease and a solid tumor, taking two steps on its path toward post-patent cliff growth.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 8:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/iregene-therapeuticss-nouvsight001-cleared-clinical-trials-us-and-china-retinitis\" hreflang=\"en\">iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/iregene-therapeuticss-nouvsight001-cleared-clinical-trials-us-and-china-retinitis",
+        "summary": "Following its Parkinson’s disease program, iRegene advances another off-the-shelf cell therapy into clinical development in the U.S. and China.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 11:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-co-data-raise-fears-eye-disease-drug-has-limited-potential\" hreflang=\"en\">Merck’s deeper dive into efficacy, safety of $1.3B eye disease drug raises fears of ‘limited’ potential</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-co-data-raise-fears-eye-disease-drug-has-limited-potential",
+        "summary": "Merck &amp; Co. has poured out its Brunello data, revealing a mix of undifferentiated efficacy and concerning safety that led analysts to predict “limited competitive potential” in diabetic macular edema. The company paid $1.3 billion upfront in 2024 to buy the asset and the rest of Eyebiotech.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 2:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-aspen-plan-ipos\" hreflang=\"en\">Parkinson’s-focused Aspen and bispecific biotech Bambusa plan IPOs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-aspen-plan-ipos",
+        "summary": "Parkinson’s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are the latest drug developers to eye up a public listing.",
+        "source": "Fierce Biotech",
+        "published": "Oct 10, 2026 11:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd\" hreflang=\"en\">Ferass Abuzaina named Worldwide President of Surgery at BD</a>",
+        "url": "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd",
+        "summary": "Becton, Dickinson and Company has named Ferass Abuzaina as its new Worldwide President of its Surgery business unit.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 9:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation\" hreflang=\"en\">GSK drinks in Chai Discovery’s AI models after wet-lab validation</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation",
+        "summary": "GSK has joined Chai Discovery’s growing roster of Big Pharma clients, signing up to access protein-folding and design models.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 10:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia\" hreflang=\"en\">‘We’re making a lot of progress’: How Nobel-winning optogenetics is being harnessed by biotechs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia",
+        "summary": "As a notorious night owl, it was already very early in the morning of October 5 when Karl Deisseroth, M.D., Ph.D., finally laid down to get some shuteye. Not long after, the phone of the Stanford psychiatrist and bioengineer lit up with an incoming call from Sweden.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 4:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-vir-looks-liu-lead-late-stage-push\" hreflang=\"en\">Chutes &amp; Ladders—Vir looks to Liu to lead late-stage push</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-vir-looks-liu-lead-late-stage-push",
+        "summary": "As Vir pushes its lead hepatitis D combo through phase 3 development, the biotech has tapped an experienced medical expert to light the way. David Liu, M.D., Ph.D., is now Vir’s chief medical officer, after most recently serving in the same role at Nuvation Bio.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 3:24pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15\" hreflang=\"en\">How we picked the Fierce 15</a>",
+        "url": "https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15",
+        "summary": "What does it mean to be a Fierce 15 biotech in 2026? With this year’s list unveiled, the Fierce Biotech team gets together to discuss what the winners tell us about the state of the sector.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 7:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing\" hreflang=\"en\">Lilly-backed TRex rakes in $117M IPO, while hypertension biotech Retension reveals $45M listing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing",
+        "summary": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals brought in $116.7 million and $45 million from their respective IPOs, continuing a bumper year for biotech listings.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 4:31am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Clinician use of language models diverges from how the models are evaluated",
+        "url": "https://huggingface.co/papers/2610.11069",
+        "summary": "Large language model (LLM) assistants are being deployed to clinicians across health systems, and judgments about their readiness rest largely on benchmark scores, most of them derived from examination questions or curated cases. A benchmark predicts performance in deployment only to the extent that its items resemble real use, yet whether benchmarks reflect the work these systems receive has rarely been measured. Here we analyze 127,833 queries sent by 6,342 physicians, advanced practice providers and nurses in 35 specialties to an institutional assistant during an eight-month roll-out. We ch",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-07T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
+        "url": "https://huggingface.co/papers/2610.11993",
+        "summary": "Data video is a media form that integrates data visualization with video narrative, widely adopted in news reporting and business analysis. Compared with general video understanding, data video understanding places greater emphasis on accurately reading data from animated charts, integrating evidence across charts and time, and understanding how narrative organization and visual design communicate information. Yet existing benchmarks target either general videos or static charts, and data video understanding has not been systematically evaluated. We present DataVista, the first benchmark for d",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-07T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "When Do Biological Reasoning Models Use Their Biological Inputs?",
+        "url": "https://huggingface.co/papers/2610.00898",
+        "summary": "Biological reasoning models use post-training to connect LLMs to biological foundation model representations and biological text. Their benchmark accuracy is taken as evidence that LLMs reason over these inputs. We test this assumption in six biological reasoning models across DNA, protein, and single-cell tasks. We perturb one biological input while holding the query and other inputs fixed, construct evidence conflicts that pair the foundation model representation of one genome, protein, or cell with the text of another, fit linear probes to the representations the language model receives, an",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-30T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

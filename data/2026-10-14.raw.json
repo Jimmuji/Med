@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:41:18.637326+08:00",
+  "counts": {
+    "news": 37,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
+        "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/",
+        "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe. Hello, BlackRock.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 20:25:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
+        "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/",
+        "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 18:11:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/",
+        "summary": "Nearly 40% of FDA advisory committee meetings over a 20-year period included either a patient or consumer rep with active ties to an advocacy group funded by pharma companies.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 18:00:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Animosity in North Carolina, and MA shooting stars",
+        "url": "https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/",
+        "summary": "In this edition of Health Care Inc., we examine the controversy around the health plan covering North Carolina's public workers and retirees, and more.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 16:07:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Doctors are giving generously to doctors running for office",
+        "url": "https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/",
+        "summary": "Doctors have a lot on the line in the next couple years, and they are donating big to doctors running for political office.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 15:43:56 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
+        "url": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/",
+        "summary": "The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 14:31:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/",
+        "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 13:29:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Takeaways from an evaluation of Google’s diagnostic chatbot, AMIE",
+        "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 13:13:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How many ways can the Trump administration clamp down on international researchers?",
+        "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/",
+        "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 11:46:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Lethal injection will never be the same after Christa Pike’s botched execution",
+        "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/",
+        "summary": "“The legal and medical issues in the Christa Pike case are on a collision course,” writes bioethicist M. Sara Rosenthal.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+        "url": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/",
+        "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
+        "url": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/",
+        "summary": "“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/judge-rejects-nc-state-health-plans-request-block-atrium-affordability-program\" hreflang=\"en\">Judge rejects NC State Health Plan's request to block Atrium Health's affordability program</a>",
+        "url": "https://www.fiercehealthcare.com/payers/judge-rejects-nc-state-health-plans-request-block-atrium-affordability-program",
+        "summary": "The state's treasurer has said the large health system's Affordability Protection Program, a response to being left out of a preferred provider program, would bankrupt the public health plan.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 5:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/vbc-accelerator-diverge-merges-medical-home-network-support-pcps-fqhcs\" hreflang=\"en\">VBC accelerator Diverge merges with Medical Home Network to support PCPs, FQHCs</a>",
+        "url": "https://www.fiercehealthcare.com/providers/vbc-accelerator-diverge-merges-medical-home-network-support-pcps-fqhcs",
+        "summary": "Together, the organizations hope to reach broader swaths of patients in value-based arrangements. MHN will continue operating under the Diverge platform, mobilizing more community-based teams, though the brands will remain distinct",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 2:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death\" hreflang=\"en\">Measles update: US passes 4,000 cases, Pennsylvania reports sixth death</a>",
+        "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+        "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-doj-reach-315m-settlement-opioid-prescription-case\" hreflang=\"en\">CVS, DOJ reach $315M settlement in opioid prescription case</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-doj-reach-315m-settlement-opioid-prescription-case",
+        "summary": "CVS Health has reached a $315 million settlement with the Department of Justice that resolves allegations the pharmacy giant knowingly filled unlawful opioid prescriptions.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3\" hreflang=\"en\">UnitedHealth Group execs detail continued improvements at Optum Health</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
+        "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 8:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/unmc-nebraska-medicine-teaching-hospital-project-upgrades-275b-planned-investment\" hreflang=\"en\">UNMC, Nebraska Medicine teaching hospital project upgrades to $2.75B planned investment</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/unmc-nebraska-medicine-teaching-hospital-project-upgrades-275b-planned-investment",
+        "summary": "The project’s new scope reflects an approximate $500 million increase from its initial estimate.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 11:04am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Joint Commission names COO; Beth Israel Lahey unveils next CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system\" hreflang=\"en\">Samaritan Health Services, MultiCare Health System merger to close Nov. 1</a>",
+        "url": "https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system",
+        "summary": "The affiliation approved by the nonprofits' boards will create an 18-hospital system with more than $7.5 billion in revenue—and give MultiCare an acute-care foothold in Oregon.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2025 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-blackrock-strike-28b-deal-manage-centerwell-clinics\" hreflang=\"en\">Humana, BlackRock strike $2.8B deal to manage CenterWell clinics</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-blackrock-strike-28b-deal-manage-centerwell-clinics",
+        "summary": "Humana will enter a joint venture with investment firm BlackRock to manage and operate its CenterWell primary care clinics for older adults, swapping out its current partner Welsh, Carson, Anderson &amp; Stowe.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 11:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike\" hreflang=\"en\">Brigham and Women's nurses postpone open-ended strike</a>",
+        "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike",
+        "summary": "With contract talks stalled since August, unionized Mass General Brigham employees had voted 93% in favor of a 4,000-nurse demonstration that could've become the largest in Massachusetts history.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities\" hreflang=\"en\">Suki secures $90M in series E funding to accelerate growth, expand AI capabilities</a>",
+        "url": "https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities",
+        "summary": "The funding announcement comes less than a week after the company launched its newest AI capability.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 4:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training\" hreflang=\"en\">Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
+        "summary": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 8:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us\" hreflang=\"en\">Insulet’s Omnipod Discover platform sees full market release in US</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us",
+        "summary": "Insulet Corporation has announced the U.S. full market release of Omnipod Discover, a web-based data platform designed for Omnipod 5.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 1:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence\" hreflang=\"en\">BioNTech’s mRNA cancer vaccine fails phase 3 test, significantly denting analysts’ confidence</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
+        "summary": "A phase 2/3 clinical trial of BioNTech’s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track patients in the metastatic head and neck cancer study.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 8:49am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotech-builder-paragon-imports-apogees-leadership-wholesale-wake-abbvie-buyout\" hreflang=\"en\">Biotech builder Paragon imports Apogee's top brass after AbbVie buyout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biotech-builder-paragon-imports-apogees-leadership-wholesale-wake-abbvie-buyout",
+        "summary": "It’s been a busy morning for Paragon Labs. In addition to bringing over much of the leadership team from AbbVie-acquired Apogee Therapeutics, Paragon has overseen a reverse merger to take its hypertension-focused spinout Velaris Therapeutics public.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 8:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Soufflé cooks up $135M; Matchpoint makes $150M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race\" hreflang=\"en\">Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race",
+        "summary": "Roche has committed $100 million in upfront and near-term payments to license Rona Therapeutics’ ALK7 drug candidate, joining Alnylam, Arrowhead, GSK and Novo Nordisk in an emerging obesity niche.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 7:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-inks-500m-enodia-pact-join-lilly-emerging-protein-degrader-field\" hreflang=\"en\">Pfizer pens $500M Enodia pact to join Lilly in emerging protein degrader field</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-inks-500m-enodia-pact-join-lilly-emerging-protein-degrader-field",
+        "summary": "Pfizer has followed Eli Lilly into the Sec61 space, inking a $500 million deal with Enodia Therapeutics days after its Big Pharma peer formed an $870 million pact with Gate Bioscience.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 9:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nurix-drops-one-btk-inhibitor-momentum-builds-behind-roche-partnered-option\" hreflang=\"en\">Nurix drops one BTK degrader as momentum builds behind Roche-partnered option</a>",
+        "url": "https://www.fiercebiotech.com/biotech/nurix-drops-one-btk-inhibitor-momentum-builds-behind-roche-partnered-option",
+        "summary": "Nurix’s BTK degrader zelebrudomide may have survived a clinical hold in recent years, but that hasn’t stopped the California biotech from dropping the cancer drug.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 3:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data\" hreflang=\"en\">Roche sets sights on FDA approval decision of July 2027 with updated eye drug data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data",
+        "summary": "One year on from a mixed phase 3 readout, Roche has shared updated data from eye disease trials that could support FDA approval by July.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 9:42am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tortugas-schizophrenia-drug-proves-worth-phase-2-hansoh-trial-china\" hreflang=\"en\">Tortugas’ schizophrenia drug proves worth in phase 2 Hansoh trial in China</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tortugas-schizophrenia-drug-proves-worth-phase-2-hansoh-trial-china",
+        "summary": "Tortugas Neuroscience’s schizophrenia drug from Hansoh Pharma has proven its worth in a phase 2b study, validating the fledgling biotech’s neurology strategy.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 9:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bristol-myers-doubles-pivotal-wins-lung-disease-and-solid-tumor\" hreflang=\"en\">BMS doubles up with pivotal wins in lung disease, solid tumor that offer hope for post-patent cliff growth</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bristol-myers-doubles-pivotal-wins-lung-disease-and-solid-tumor",
+        "summary": "Bristol Myers Squibb has reported phase 3 wins in a lung disease and a solid tumor, taking two steps on its path toward post-patent cliff growth.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 8:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/iregene-therapeuticss-nouvsight001-cleared-clinical-trials-us-and-china-retinitis\" hreflang=\"en\">iRegene Therapeutics’s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/iregene-therapeuticss-nouvsight001-cleared-clinical-trials-us-and-china-retinitis",
+        "summary": "Following its Parkinson’s disease program, iRegene advances another off-the-shelf cell therapy into clinical development in the U.S. and China.",
+        "source": "Fierce Biotech",
+        "published": "Oct 7, 2026 11:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-co-data-raise-fears-eye-disease-drug-has-limited-potential\" hreflang=\"en\">Merck’s deeper dive into efficacy, safety of $1.3B eye disease drug raises fears of ‘limited’ potential</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-co-data-raise-fears-eye-disease-drug-has-limited-potential",
+        "summary": "Merck &amp; Co. has poured out its Brunello data, revealing a mix of undifferentiated efficacy and concerning safety that led analysts to predict “limited competitive potential” in diabetic macular edema. The company paid $1.3 billion upfront in 2024 to buy the asset and the rest of Eyebiotech.",
+        "source": "Fierce Biotech",
+        "published": "Oct 12, 2026 2:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "清创、敷料、负压引流，慢创治疗多年就这三板斧：基甲医疗想做 ' 国内首款创面愈合专用激光平台 '",
+        "url": "https://www.36kr.com/p/4022450481549193",
+        "summary": "基甲医疗推激光慢创治疗项目，正进行新一轮融资",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 13 Oct 2026 04:08:33 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
+        "url": "https://huggingface.co/papers/2610.18872",
+        "summary": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse environments, in turn, favors lightweight, portable capture systems. Yet, existing datasets provide only partial views of this coordination. Thus, we introduce EgoExplorer, a 100-hour vision-motion-touch observatory of human loco-manipulation built with a wearable system. With an emphasis on professional activities, its continuous recordings align egocentric video with reconstructed whole-body motion,",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-12T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning",
+        "url": "https://huggingface.co/papers/2610.16811",
+        "summary": "Chest X-ray (CXR) interpretation often requires integrating visual findings with task-specific evidence rather than relying on direct visual recognition alone. While tool-augmented medical agents can supply such evidence via external modules, they often lack explicit mechanisms for learning when auxiliary evidence is needed and for preventing inapplicable quantitative evidence from entering diagnostic reasoning. To address this, we propose X-Ragent, a post-training framework for tool-augmented reinforcement learning that decouples learned auxiliary-evidence seeking from validity-gated quantita",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-11T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics",
+        "url": "https://huggingface.co/papers/2609.38847",
+        "summary": "Rubric-based reinforcement learning (Rubric-RL) trains language models where no verifier exists. A judge checks each criterion of a rubric, and the verdicts are aggregated into a reward, most often by a weighted sum. We show that this additive aggregation is the weak point. Under a sum, criteria compensate for one another: a policy that misses the one decision that matters can buy the points back with advice nobody asked for. On clinical consultation, such a policy scores higher and answers worse. Rubric coverage rises while appropriateness on held-out physician criteria falls below the untrai",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-09-29T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

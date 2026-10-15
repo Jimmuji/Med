@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:26:20.319524+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’",
+        "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/",
+        "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 00:01:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’",
+        "url": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/",
+        "summary": "Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 23:23:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
+        "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/",
+        "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 22:13:33 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
+        "url": "https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/",
+        "summary": "The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 20:16:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How consumer tech company Whoop is building for Medicare patients",
+        "url": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/",
+        "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 18:16:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA adcomm members’ ties to industry under scrutiny",
+        "url": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/",
+        "summary": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 14:12:14 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/",
+        "summary": "The FTC asked a U.S. court to hold Martin Shkreli in contempt for “flagrantly” violating a court order banning him from working in the pharma industry",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 13:26:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The startup chasing ‘general biological intelligence’",
+        "url": "https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of Radical Numerics, a startup pursuing \"general biological intelligence.'",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 13:17:57 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
+        "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/",
+        "summary": "E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 12:17:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
+        "url": "https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/",
+        "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 11:53:49 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
+        "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+        "summary": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How states can resist the potential Trump vaccine shortages",
+        "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/",
+        "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health",
+        "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/",
+        "summary": "“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.",
+        "source": "STAT News",
+        "published": "Wed, 14 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
+        "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/",
+        "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe. Hello, BlackRock.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 20:25:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
+        "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/",
+        "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
+        "source": "STAT News",
+        "published": "Tue, 13 Oct 2026 18:11:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/big-ticket-hospital-deals-are-becoming-ma-story-2026\" hreflang=\"en\">Big-ticket hospital deals are becoming the M&amp;A story of 2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/big-ticket-hospital-deals-are-becoming-ma-story-2026",
+        "summary": "For a third consecutive quarter, the hospital industry has hosted multiple new transactions in which the smaller party's annual revenue exceeds $1 billion, per Kaufman Hall's quarterly report. The news comes alongside signs of worsening operating performance in August.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 4:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/retail/walmart-expand-health-benefits-employees-including-over-250-zero-dollar-prescriptions\" hreflang=\"en\">Walmart to expand health benefits for employees, including $0 prescriptions, rare disease care</a>",
+        "url": "https://www.fiercehealthcare.com/retail/walmart-expand-health-benefits-employees-including-over-250-zero-dollar-prescriptions",
+        "summary": "The new offerings include “zero cost” prescriptions, expanded Centers of Excellence for rare conditions and paid NICU leave.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 2:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/zodoc-acquires-health-tech-company-sohar-health-automated-benefits\" hreflang=\"en\">Zocdoc acquires health tech company Sohar Health for automated benefits eligibility checks</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/zodoc-acquires-health-tech-company-sohar-health-automated-benefits",
+        "summary": "Zocdoc acquired insurance technology company Sohar Health as it pushes to evolve beyond an appointment-booking marketplace into broader healthcare access infrastructure.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 1:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Allswell nabs $7M to expand LGBTQ therapy; Outro clinches $7M for deprescribing</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-unveils-national-provider-gold-card-program\" hreflang=\"en\">Centene unveils national provider gold card program</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-unveils-national-provider-gold-card-program",
+        "summary": "Centene is aiming to simplify the prior authorization process with the launch of a new nationwide gold card program.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 3:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/readily-secures-11m-series-continue-building-out-ai-regulatory-compliance-platform\" hreflang=\"en\">Readily secures $11M series A to continue building out AI regulatory compliance platform</a>",
+        "url": "https://www.fiercehealthcare.com/finance/readily-secures-11m-series-continue-building-out-ai-regulatory-compliance-platform",
+        "summary": "Artificial intelligence compliance platform Readily raised $11 million in series A funding to support development of its enterprise oversight platform.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 9:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-takes-aim-duplicative-aca-medicaid-enrollments\" hreflang=\"en\">CMS takes aim at duplicative ACA, Medicaid enrollments</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-takes-aim-duplicative-aca-medicaid-enrollments",
+        "summary": "The Trump administration has put a focus on rooting out fraud, waste and abuse, and on Wednesday, regulators offered a look at progress to date in those efforts.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 1:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Montrose Regional eliminates 77 roles; 73 cuts at City of Hope</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rush-university-system-health-endeavor-health-unveil-12-hospital-merger\" hreflang=\"en\">Rush University System for Health, Endeavor Health unveil 12-hospital merger</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rush-university-system-health-endeavor-health-unveil-12-hospital-merger",
+        "summary": "The resulting nonprofit system would be Illinois' largest by hospital count and comprise nearly $11 billion in annual operating revenue.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 11:30am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/integrating-care-people-serious-mental-illness\" hreflang=\"en\">Integrating care for people with serious mental illness</a>",
+        "url": "https://www.fiercehealthcare.com/providers/integrating-care-people-serious-mental-illness",
+        "summary": "People with serious mental illness often face significant barriers to getting the care they need. In this week's episode of \"Podnosis,\" we explore how Amae Health is working to address gaps in the system by bringing psychiatric care, physical healthcare and other support services together under one model.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 10:11am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/probably-genetic-raises-12m-scale-rare-disease-dataset-support-drug-discovery\" hreflang=\"en\">Probably Genetic raises $12M to scale rare disease dataset, support drug discovery</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/probably-genetic-raises-12m-scale-rare-disease-dataset-support-drug-discovery",
+        "summary": "The company’s core product is a physician-ordered genetic test for undiagnosed rare disease patients, who typically face a seven-year diagnostic odyssey before getting answers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 3:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/allara-raises-30m-expand-virtual-womens-healthcare-across-continuum\" hreflang=\"en\">Allara raises $30M to expand virtual women's healthcare across the continuum</a>",
+        "url": "https://www.fiercehealthcare.com/finance/allara-raises-30m-expand-virtual-womens-healthcare-across-continuum",
+        "summary": "Since its expansion nationwide last year, Allara has added urgent care visits, brought on more internal medicine providers and launched more supplements and medication delivery services.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 8:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials\" hreflang=\"en\">IQVIA, Veeva expand on existing partnership for speedier clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials",
+        "summary": "Clinical research giant IQVIA and cloud system provider Veeva Systems have expanded their partnership to further increase trial speed and efficiency.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 1:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/merck-backed-ionctura-touts-pi3k-delta-inhibitor-metastatic-eye-cancer\" hreflang=\"en\">Merck KGaA spinout iOnctura touts PI3K delta inhibitor in metastatic eye cancer</a>",
+        "url": "https://www.fiercebiotech.com/research/merck-backed-ionctura-touts-pi3k-delta-inhibitor-metastatic-eye-cancer",
+        "summary": "iOnctura’s PI3K delta inhibitor shows promise in phase 1 study in patients with mostly pre-treated metastatic melanoma.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 3:17pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/verastem-challenging-daraxonrasib-its-kras-drug-multiple-solid-cancers\" hreflang=\"en\">Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/verastem-challenging-daraxonrasib-its-kras-drug-multiple-solid-cancers",
+        "summary": "Verastem Oncology's decision to refocus its R&amp;D efforts on its KRAS inhibitor appears to be paying off, at least based on initial data from a phase 1/2 trial.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 10:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution\" hreflang=\"en\">Deep-pocketed Verdiva axes GLP-1 switching trial over ‘market evolution’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution",
+        "summary": "Verdiva Bio has scrapped a phase 2 trial of its once-weekly oral GLP-1 drug candidate VRB-101, pulling the plug the year after launching with $410 million.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 10:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners\" hreflang=\"en\">Biomea posts phase 1 data to pitch oral GLP-1 to potential partners, but investors appear unconvinced</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners",
+        "summary": "Biomea Fusion has shared phase 1 data on its oral GLP-1 prospect, shedding light on a small molecule designed to balance efficacy and gastrointestinal tolerability. Management hailed the data as a launchpad for talks with potential partners, but investors drove down the share price of the cash-strapped biotech.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 9:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-strikes-19b-oncology-deal-vir-dual-masked-t-cell-engager-technology\" hreflang=\"en\">Vir CEO sees ‘opportunity to do more deals’ after striking $1.9B Gilead pact for dual-masked TCEs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gilead-strikes-19b-oncology-deal-vir-dual-masked-t-cell-engager-technology",
+        "summary": "Looking to expand its oncology portfolio, Gilead has tapped Vir Biotechnology’s masked T-cell engager tech in a potential $1.9 billion biobucks deal.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 8:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam\" hreflang=\"en\">GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam",
+        "summary": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out its global cost-saving plans.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 6:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline\" hreflang=\"en\">Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline",
+        "summary": "Zealand Pharma is paying Generate Biomedicines $30 million upfront to collaborate on multispecific drug candidates for metabolic diseases. Milestones could bring the total value of the deal above $1 billion.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 4:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/agilent-spends-240m-upfront-buy-digital-pathology-specialist-proscia\" hreflang=\"en\">Agilent spends $240M upfront to buy digital pathology specialist Proscia</a>",
+        "url": "https://www.fiercebiotech.com/medtech/agilent-spends-240m-upfront-buy-digital-pathology-specialist-proscia",
+        "summary": "Agilent Technologies is buying up the digital pathology software company Proscia in an all-cash transaction valued at $240 million with an additional $30 million on the cards for future performance milestones.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 3:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/stryker-pens-deal-cmr-surgical-advance-robotic-assisted-surgery\" hreflang=\"en\">Stryker pens deal with CMR Surgical to advance robotic-assisted surgery</a>",
+        "url": "https://www.fiercebiotech.com/medtech/stryker-pens-deal-cmr-surgical-advance-robotic-assisted-surgery",
+        "summary": "Stryker will funnel around $400 million (£300 million) in a “strategic” investment in CMR Surgical and its robot surgery tech.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 1:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/wcg-announces-ai-powered-solution-accelerate-clinical-trial-start\" hreflang=\"en\">WCG unveils AI-powered solution to accelerate clinical trial kickoffs</a>",
+        "url": "https://www.fiercebiotech.com/cro/wcg-announces-ai-powered-solution-accelerate-clinical-trial-start",
+        "summary": "WCG, a clinical trials solutions provider, is launching an AI-powered program dubbed Activation Intelligence to help study sites accelerate clinical trial start-up.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 10:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us\" hreflang=\"en\">Insulet’s Omnipod Discover platform sees full market release in US</a>",
+        "url": "https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us",
+        "summary": "Insulet Corporation has announced the U.S. full market release of Omnipod Discover, a web-based data platform designed for Omnipod 5.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 1:42am",
+        "importance_hint": 4
+      },
+      {
+        "title": "复合增长率超29%，国内医疗大模型加速渗透",
+        "url": "https://www.36kr.com/p/4026384232943749",
+        "summary": "复合增长率超29%，国内医疗大模型加速渗透",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 15 Oct 2026 00:54:21 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "脑机接口康复技术再获突破，谁将踏入行业第一梯队？",
+        "url": "https://www.36kr.com/p/4025442012944256",
+        "summary": "国内非侵入式脑机接口康复获突破，产业加速落地",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 14 Oct 2026 09:11:49 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following",
+        "url": "https://huggingface.co/papers/2610.19525",
+        "summary": "Verifiable instruction-following benchmarks emphasize output-constraint satisfaction but can overlook whether responses meaningfully answer the underlying request, creating an evaluation blind spot. We show that frontier models can receive full credit for responses with little substantive answer content. Using the same verifier-based criterion as a training reward can induce reward hacking, as publicly released checkpoints exhibit higher constraint satisfaction but lower response quality after reinforcement learning with verifiable rewards. To address this reward hacking, we introduce CALIF, a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-13T23:42:59.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation",
+        "url": "https://huggingface.co/papers/2610.18097",
+        "summary": "Post-training is crucial for improving text-to-image models, yet existing pipelines typically rely on manually curated training data and fixed training distributions. We introduce APT (Agentic Post-Training), a fully automated framework that adaptively post-trains a base model according to its evolving capability profile. APT coordinates three agents to construct evaluation sets from user requirements, diagnose model-specific strengths and failure modes, and generate reinforcement learning data with an adaptive prompt distribution that emphasizes underperforming capabilities. By repeatedly eva",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-13T06:14:23.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

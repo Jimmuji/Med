@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:19:11.217494+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+        "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/",
+        "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 20:46:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+        "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/",
+        "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 19:58:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The Trump administration is doubling down on health care fraud investigations",
+        "url": "https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/",
+        "summary": "At the STAT Summit, the Department of Justice offered up a warning for health care executives: Don’t be another Theranos.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 18:09:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
+        "url": "https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/",
+        "summary": "Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 17:19:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership",
+        "url": "https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/",
+        "summary": "Former FDA commissioners Rob Califf (Obama and Biden administrations), Scott Gottlieb, and Ned Sharpless (both from the first Trump administration) criticized the officials who ran the agency during a massive&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 15:50:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer",
+        "url": "https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/",
+        "summary": "Verastem Oncology reports encouraging early results for its KRAS G12D inhibitor, which it’s studying in more than 200 patients with advanced solid tumors like metastatic pancreatic ductal adenocarcinoma and non-small&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 15:43:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward",
+        "url": "https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/",
+        "summary": "A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 15:25:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/",
+        "summary": "Three former FDA chiefs lit into the Trump administration, criticizing the now former FDA officials who oversaw a massive staff exodus",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 13:31:56 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future",
+        "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/",
+        "summary": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 13:14:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Kenya reports second Ebola case",
+        "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/",
+        "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 11:55:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
+        "url": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/",
+        "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Forty percent of high school students report binge eating in new CDC survey",
+        "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/",
+        "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+        "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/",
+        "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: My daughter’s death changed how I understood the nursing shortage",
+        "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/",
+        "summary": "Health systems invest in training, but lose early-career nurses within a few years.",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’",
+        "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/",
+        "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”",
+        "source": "STAT News",
+        "published": "Thu, 15 Oct 2026 00:01:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool\" hreflang=\"en\">Epic teams up with Amazon Pharmacy, Eli Lilly and Mark Cuban to launch prescription drug pricing tool</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
+        "summary": "Epic is bringing pharmacy price shopping directly into the doctor's office and the prescribing workflow.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 5:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations\" hreflang=\"en\">NABIP sues CMS over moratorium on new ACA broker registrations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
+        "summary": "The National Association of Benefits and Insurance Professionals is suing the Trump administration over its moratorium on new brokers entering the Affordable Care Act marketplaces.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 4:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals\" hreflang=\"en\">Duke Health, CaroMont Health seek to jointly build, operate 2 Charlotte-area hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals",
+        "summary": "The pair filed Certificate of Needs with the state to build two hospitals comprising 200 beds in fast-growing North Carolina's Mecklenburg County.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 4:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again\" hreflang=\"en\">Drugmakers, PhRMA seek to intervene in hospitals' 340B rebate challenge</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+        "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals’ upfront drug discounts for after-the-fact rebates.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 9, 2026 11:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/catching-blue-shield-california-ceo-mike-stuart\" hreflang=\"en\">Catching up with Blue Shield of California CEO Mike Stuart one year in</a>",
+        "url": "https://www.fiercehealthcare.com/payers/catching-blue-shield-california-ceo-mike-stuart",
+        "summary": "In August 2025, Blue Shield of California named Mike Stuart as its CEO. Now, a year later, he's reflecting on months of work toward addressing affordability, member access and the patient journey.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 3:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/voice-ai-medicare-carecycle-rolls-out-free-plan-comparison-tool\" hreflang=\"en\">Voice AI startup careCycle rolls out free plan comparison tool for Medicare beneficiaries</a>",
+        "url": "https://www.fiercehealthcare.com/payers/voice-ai-medicare-carecycle-rolls-out-free-plan-comparison-tool",
+        "summary": "The tool is free to use, takes no payments from payers or commissions and does not sell or share personal information. It surfaces yearly cost estimates and shows nearby plans that keep a patient's doctors in-network.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 7:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/clasp-launches-national-marketplace-loan-linked-hiring\" hreflang=\"en\">Clasp launches national marketplace for loan-linked hiring</a>",
+        "url": "https://www.fiercehealthcare.com/providers/clasp-launches-national-marketplace-loan-linked-hiring",
+        "summary": "Healthcare students can use the Clasp Marketplace to compare jobs by what each one pays toward their student loans, plus salaries. In order to post a job, an employer must commit money toward a student’s debt.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 1:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/millie-unveil-first-several-joint-clinics-el-camino-health-bay-area\" hreflang=\"en\">Millie to open first of several joint clinics with El Camino Health in the Bay Area</a>",
+        "url": "https://www.fiercehealthcare.com/providers/millie-unveil-first-several-joint-clinics-el-camino-health-bay-area",
+        "summary": "The clinic will combine Millie’s midwifery care model with El Camino’s labor and delivery services and broader specialist network. The goal is to offer an integrated pregnancy, birth and postpartum experience.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 11:39am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Inspira Health outlines leadership transition; Joint Commission names COO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/elevance-health-foundation-launched-prize-program-patient-safety-initiatives-heres-why\" hreflang=\"en\">Elevance Health Foundation launched a prize program for patient safety initiatives. Here's why</a>",
+        "url": "https://www.fiercehealthcare.com/payers/elevance-health-foundation-launched-prize-program-patient-safety-initiatives-heres-why",
+        "summary": "The Elevance Health Foundation has launched a new prize program aimed at supporting solutions aimed at improving patient safety, with the first crop of winners targeting challenges like health literacy, fall prevention and medication errors.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 4:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/american-academy-family-physicians-joins-physician-social-network-roon\" hreflang=\"en\">American Academy of Family Physicians joins physician social network Roon</a>",
+        "url": "https://www.fiercehealthcare.com/providers/american-academy-family-physicians-joins-physician-social-network-roon",
+        "summary": "AAFP members will be able to use the platform to connect with peers as part of the collaboration.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 4:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/otter-health-launches-8m-take-prior-authorization\" hreflang=\"en\">As prior auth becomes an AI ‘arms race,’ Otter Health raises $8M for a different approach</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/otter-health-launches-8m-take-prior-authorization",
+        "summary": "The company built an AI-powered real-time clinical quality platform to better manage healthcare utilization by influencing care decisions rather than requiring clinicians to get permission for them.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 7:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest\" hreflang=\"en\">OrbiMed’s largest-ever Asian fund contributes to $3B war chest</a>",
+        "url": "https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest",
+        "summary": "OrbiMed has raised $3 billion to place a fresh round of bets on biotechs and life sciences companies in the U.S., Europe and Asia.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 9:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/osivax-focuses-combo-strategy-flu-vaccine-after-phase-2-fail\" hreflang=\"en\">Osivax focuses on combo strategy for flu vaccine after phase 2 fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/osivax-focuses-combo-strategy-flu-vaccine-after-phase-2-fail",
+        "summary": "Osivax has been forced to narrow the strategy for its influenza vaccine after the shot failed a phase 2b study.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 7:49am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery\" hreflang=\"en\">AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
+        "summary": "AstraZeneca is paying insitro $40 million upfront to find novel drug targets for liver and heart diseases using artificial intelligence.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 3:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rebranded-galapagos-finally-finds-buyer-unwanted-cell-therapy-pipeline\" hreflang=\"en\">Rebranded Galapagos finally finds buyer for unwanted cell therapy pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rebranded-galapagos-finally-finds-buyer-unwanted-cell-therapy-pipeline",
+        "summary": "Lakefront Biotherapeutics—the new name for Belgium’s Galapagos Therapeutics—has found a buyer for its unwanted cell therapy pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 4:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline\" hreflang=\"en\">Iambic goes public with $150M IPO to accelerate clinical development of oncology pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline",
+        "summary": "Iambic Therapeutics’ IPO came in dead on target, bringing in $150 million for the AI biotech to fuel the clinical development of its oncology pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 2:31am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3\" hreflang=\"en\">Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3",
+        "summary": "A phase 3 trial of Vanda Pharmaceuticals’ social anxiety disorder drug candidate has missed its primary endpoint, prompting the company to put the program on hold.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 2:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech\" hreflang=\"en\">Why OMass’ $310M series C marks ‘fantastic milestone’ on journey to become ‘Britain’s Big Biotech’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech",
+        "summary": "When Fierce last caught up with OMass Therapeutics’ CEO Ros Deegan, it was hard not to be impressed by the company’s ambition.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 7:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials\" hreflang=\"en\">IQVIA, Veeva expand on existing partnership for speedier clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials",
+        "summary": "Clinical research giant IQVIA and cloud system provider Veeva Systems have expanded their partnership to further increase trial speed and efficiency.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 1:44pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/merck-backed-ionctura-touts-pi3k-delta-inhibitor-metastatic-eye-cancer\" hreflang=\"en\">Merck KGaA spinout iOnctura touts PI3K delta inhibitor in metastatic eye cancer</a>",
+        "url": "https://www.fiercebiotech.com/research/merck-backed-ionctura-touts-pi3k-delta-inhibitor-metastatic-eye-cancer",
+        "summary": "iOnctura’s PI3K delta inhibitor shows promise in phase 1 study in patients with mostly pre-treated metastatic melanoma.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 3:17pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/verastem-challenging-daraxonrasib-its-kras-drug-multiple-solid-cancers\" hreflang=\"en\">Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/verastem-challenging-daraxonrasib-its-kras-drug-multiple-solid-cancers",
+        "summary": "Verastem Oncology's decision to refocus its R&amp;D efforts on its KRAS inhibitor appears to be paying off, at least based on initial data from a phase 1/2 trial.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 10:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution\" hreflang=\"en\">Deep-pocketed Verdiva axes GLP-1 switching trial over ‘market evolution’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution",
+        "summary": "Verdiva Bio has scrapped a phase 2 trial of its once-weekly oral GLP-1 drug candidate VRB-101, pulling the plug the year after launching with $410 million.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 10:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners\" hreflang=\"en\">Biomea posts phase 1 data to pitch oral GLP-1 to potential partners, but investors appear unconvinced</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biomea-posts-phase-1-data-pitch-oral-glp-1-potential-partners",
+        "summary": "Biomea Fusion has shared phase 1 data on its oral GLP-1 prospect, shedding light on a small molecule designed to balance efficacy and gastrointestinal tolerability. Management hailed the data as a launchpad for talks with potential partners, but investors drove down the share price of the cash-strapped biotech.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 9:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "全球第一次，AI无需医生把关直接开药，这是好事还是坏事？",
+        "url": "https://www.36kr.com/p/4026853504831879",
+        "summary": "AI看病开单方便省钱，但伴随着不确定的风险。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 15 Oct 2026 08:45:59 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "复合增长率超29%，国内医疗大模型加速渗透",
+        "url": "https://www.36kr.com/p/4026384232943749",
+        "summary": "复合增长率超29%，国内医疗大模型加速渗透",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 15 Oct 2026 00:54:21 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "InfoVis: Unified Slide Image Generation and Editing",
+        "url": "https://huggingface.co/papers/2610.16784",
+        "summary": "Generating and editing presentation slides requires models to combine accurate text rendering, instruction following, visual grounding, aesthetic design, and precise editing within one canvas. Existing work covers only subsets of these capabilities and lacks large-scale slide-native supervision and diagnostic evaluation. We formulate four slide-centric tasks and build a scalable data engine with over 13M continual-pretraining records and 1.9M supervised fine-tuning records. We also introduce VisSlideBench, a benchmark of 1,527 manually screened instances that covers all four tasks with task-sp",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-11T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+        "url": "https://huggingface.co/papers/2610.18829",
+        "summary": "With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cover only part of the evaluation dimensions, limiting systematic diagnosis of omni-modal video understanding. We introduce OmniCompass, a holistic benchmark for omni-modal video grounding and understanding. OmniCompass defines two evaluation tracks: OmniCompass-VL assesses vision-language models on tasks requiring visual evidence, while OmniCompass-AV assesses omni-modal models on tasks requiring jo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-12T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Lluna: Collaborative Unimodal Models for Missing-Modality Inference",
+        "url": "https://huggingface.co/papers/2610.20526",
+        "summary": "Pretrained unimodal models offer a flexible route to multimodal prediction through collaboration, but this collaboration can become less accurate than a surviving unimodal model when modalities are missing. We study this setting using fixed surviving-model anchors and find that collaborative gains can weaken or reverse as inputs disappear, even when the anchor's own input is unchanged. Our diagnostics further reveal reduced recovery of modality-specific information after aggregation and state-dependent collaborative representations. We propose Lluna, which combines a direct private prediction ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-13T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

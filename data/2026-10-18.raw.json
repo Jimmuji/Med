@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T13:17:57.887309+08:00",
+  "counts": {
+    "news": 34,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+        "url": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/",
+        "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
+        "source": "STAT News",
+        "published": "Sat, 17 Oct 2026 02:38:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Hospitals’ next lucrative bet — longevity clinics",
+        "url": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/",
+        "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 15:34:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 14:00:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an HHS peptide push, Trump’s pharma stock holdings, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/",
+        "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 13:49:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: RevMed’s pancreatic cancer drug nears European approval",
+        "url": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/",
+        "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 13:38:22 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "What to read before you go see that new documentary on Elizabeth Holmes",
+        "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/",
+        "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 12:34:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
+        "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/",
+        "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews",
+        "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/",
+        "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Is Milton Friedman to blame for America’s health care woes?",
+        "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/",
+        "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong — and how to fix it.",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
+        "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/",
+        "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
+        "source": "STAT News",
+        "published": "Fri, 16 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements\" hreflang=\"en\">CMS proposes MA 'ghost network,' PBM transparency requirements</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
+        "summary": "The administration took steps to codify statutory reforms focused on maintaining accurate Medicare Advantage provider directories and collecting more pricing information from pharmacy benefit managers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 5:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027\" hreflang=\"en\">Centene to expand CHOICE Arrangements program to its employees in Ohio, Oklahoma</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027",
+        "summary": "Centene is expanding its CHOICE Arrangements benefits program to its employees in Ohio and Oklahoma in the 2027 plan year.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 1:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/parkview-health-acquiring-shared-services-vendor-ovation-healthcare\" hreflang=\"en\">Parkview Health acquiring shared services vendor Ovation Healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/providers/parkview-health-acquiring-shared-services-vendor-ovation-healthcare",
+        "summary": "Parkview Health is taking its shared-services strategy nationwide with a deal to acquire Ovation Healthcare, which works with nearly 500 healthcare organizations across the country.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 2:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Abby Care secures $82M for family-led care; Allswell nabs $7M to expand LGBTQ therapy</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/usofcare-survey-three-quarters-americans-say-healthcare-defining-voting-issue\" hreflang=\"en\">Three-quarters of Americans disillusioned with costs, say healthcare is defining voting issue</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/usofcare-survey-three-quarters-americans-say-healthcare-defining-voting-issue",
+        "summary": "Three-quarters of Americans feel frustrated, overwhelmed or helpless about healthcare costs, and say the issue is a voting priority. Those wanting substantial reform are more often looking to government that industry for a fix.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 2:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions\" hreflang=\"en\">American Medical Association rolls out governance framework for agentic AI solutions</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions",
+        "summary": "AMA CEO John Whyte, M.D., told Fierce Healthcare the increasing use of AI in clinical functions is “raising urgent questions about clinical authority, oversight and accountability.”",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 10:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-how-physician-practices-can-grow-and-succeed-without-support-private\" hreflang=\"en\">Industry Voices—How physician practices can grow and succeed without the support of private equity</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-how-physician-practices-can-grow-and-succeed-without-support-private",
+        "summary": "For physicians who want to stay independent, there are several proven strategies to grow a successful practice, legal, financial and clinical experts write.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 10:50am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc\" hreflang=\"en\">Weekly Rundown: JAMA Network to add AI journal in 2027; UMass Memorial Health partners with Microsoft, Accenture</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-97-healthcare-orgs-experienced-cyberattack-past-12-months-proofpoint-inc",
+        "summary": "The latest news from UMass Memorial Health, Elation Health, HealthTap, JAMA and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-hhs-demands-info-leading-medical-orgs-minor-sex\" hreflang=\"en\">Fierce Healthcare Regulatory Recap: HHS presses medical groups on gender-affirming care for minors; CMS distributes RHTP funding to 5 states</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-hhs-demands-info-leading-medical-orgs-minor-sex",
+        "summary": "The latest news from CMS and HHS this week: HHS demands info on ‘sex-rejecting procedures’ for minors, CMS releases more RHTP funds and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 11:56am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool\" hreflang=\"en\">Epic teams up with Amazon Pharmacy, LillyDirect and Mark Cuban to launch prescription drug pricing tool</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/epic-teams-amazon-pharmacy-mark-cuban-launch-prescription-drug-pricing-tool",
+        "summary": "Epic is bringing pharmacy price shopping directly into the doctor's office and the prescribing workflow.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 5:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations\" hreflang=\"en\">NABIP sues CMS over moratorium on new ACA broker registrations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
+        "summary": "The National Association of Benefits and Insurance Professionals is suing the Trump administration over its moratorium on new brokers entering the Affordable Care Act marketplaces.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 4:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals\" hreflang=\"en\">Duke Health, CaroMont Health seek to jointly build, operate 2 Charlotte-area hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals",
+        "summary": "The pair filed Certificate of Needs with the state to build two hospitals comprising 200 beds in fast-growing North Carolina's Mecklenburg County.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 4:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms\" hreflang=\"en\">China looks to ban foreign acquisitions of critical biopharma platforms</a>",
+        "url": "https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms",
+        "summary": "As Washington ramps up efforts to tighten cross-border life sciences deals involving Chinese assets, Beijing is moving to tighten its own grip on biomedical innovation, rolling out a draft policy that would ban or restrict the export of key biopharmaceutical technologies.",
+        "source": "Fierce Biotech",
+        "published": "Oct 16, 2026 10:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/simbiosys-nabs-fda-clearance-nvidia-powered-mri-derived-breast-cancer-recurrence-tool\" hreflang=\"en\">SimBioSys nabs FDA clearance for Nvidia-powered, MRI-derived breast cancer recurrence tool</a>",
+        "url": "https://www.fiercebiotech.com/medtech/simbiosys-nabs-fda-clearance-nvidia-powered-mri-derived-breast-cancer-recurrence-tool",
+        "summary": "SimBioSys has been given FDA clearance of the Nvidia-powered TumorSight Risk, an AI and MRI-derived prognostic tool for assessing the risk of a breast cancer coming back.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 2:40am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-bausch-lombs-return-ceo-saunders-exits-again\" hreflang=\"en\">Chutes &amp; Ladders—Bausch + Lomb's returning CEO Saunders exits again</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-bausch-lombs-return-ceo-saunders-exits-again",
+        "summary": "Bausch + Lomb CEO&nbsp;Brent Saunders is making a second exit from the eye health company, as the president of parent Bausch Health steps in temporarily. Plus, Paragon Labs is buying out Apogee talent after its acquisition by AbbVie.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 4:45pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-calls-early-alert-edwards-lifesciences-mitral-valve-replacement-after-injury-death\" hreflang=\"en\">FDA issues early alert for Edwards Lifesciences’ mitral valve delivery system after reported death, injury</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-calls-early-alert-edwards-lifesciences-mitral-valve-replacement-after-injury-death",
+        "summary": "The FDA has issued an early alert for certain delivery systems used with Edwards Lifesciences’ SAPIEN M3 transcatheter mitral valve replacement system amid serious safety concerns.",
+        "source": "Fierce Biotech",
+        "published": "Oct 16, 2026 2:28am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-bostons-early-stage-funding-drop-may-be-good-thing\" hreflang=\"en\">‘It’s certainly not easy’: How are Boston biotechs coping with a shallower pool of seed funding?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/why-bostons-early-stage-funding-drop-may-be-good-thing",
+        "summary": "As the world's biggest biotech hub, funding for early-stage startups has long been the lifeblood of Boston's life sciences industry. But the latest figures make for concerning reading—with average seed funding secured by a preclinical start-up plunging 40% over the past year.",
+        "source": "Fierce Biotech",
+        "published": "Sep 23, 2026 3:53pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test\" hreflang=\"en\">Labcorp, Thrive Global launch latest Thrive 5 health test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test",
+        "summary": "Labcorp has launched the Thrive 5 Health Test that is now offered through a collaboration with Arianna Huffington's behavior change technology company, Thrive Global.",
+        "source": "Fierce Biotech",
+        "published": "Oct 16, 2026 3:56am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Estuary channels $93M series A; OMass obtains $310M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/estuary-emerges-stealth-103m-its-gene-therapies-kidney-disease\" hreflang=\"en\">Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic</a>",
+        "url": "https://www.fiercebiotech.com/biotech/estuary-emerges-stealth-103m-its-gene-therapies-kidney-disease",
+        "summary": "Estuary Biotherapeutics has swum out of stealth with $103 million in funding to power a pair of gene therapies into clinical trials for an inherited kidney disorder.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 8:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq\" hreflang=\"en\">City goes public with $200M IPO, while Frazier Life Sciences takes biotech-focused SPAC to Nasdaq</a>",
+        "url": "https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq",
+        "summary": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company.",
+        "source": "Fierce Biotech",
+        "published": "Oct 16, 2026 2:49am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest\" hreflang=\"en\">OrbiMed’s largest-ever Asian fund contributes to $3B war chest</a>",
+        "url": "https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest",
+        "summary": "OrbiMed has raised $3 billion to place a fresh round of bets on biotechs and life sciences companies in the U.S., Europe and Asia.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 9:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/osivax-focuses-combo-strategy-flu-vaccine-after-phase-2-fail\" hreflang=\"en\">Osivax focuses on combo strategy for flu vaccine after phase 2 fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/osivax-focuses-combo-strategy-flu-vaccine-after-phase-2-fail",
+        "summary": "Osivax has been forced to narrow the strategy for its influenza vaccine after the shot failed a phase 2b study.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 7:49am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery\" hreflang=\"en\">AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
+        "summary": "AstraZeneca is paying insitro $40 million upfront to find novel drug targets for liver and heart diseases using artificial intelligence.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 3:36am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+        "url": "https://huggingface.co/papers/2610.22362",
+        "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in which a simulation data engine and an action policy co-evolve through a shared heterogeneous memory of environment construction, policy failures, and learning progress. The memory compiles validated diagnoses from a vision-language critic into generation programs that recreate difficulties and training ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-14T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

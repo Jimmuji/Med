@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:36:01.811581+08:00",
+  "counts": {
+    "news": 38,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Trump orders creation of NIH division, task force on women’s health",
+        "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/",
+        "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 17:42:45 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying",
+        "url": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/",
+        "summary": "A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 17:27:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock",
+        "url": "https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/",
+        "summary": "We dig into trust, prices, and a bit of baseball in this week's Health Care Inc. newsletter.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 15:43:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: China moves to restrict foreign biotech acquisitions",
+        "url": "https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/",
+        "summary": "China is proposing new restrictions on foreign acquisitions of critical biopharma technologies, as the country seeks to retain control over its burgeoning drug development industry.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 14:58:31 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Two former Republican lawmakers say the GOP’s vaccine position is a liability",
+        "url": "https://www.statnews.com/2026/10/19/health-news-two-former-republican-congressmen-against-gop-vaccine-liability/",
+        "summary": "The Republican party’s confusing messaging on vaccines is going to hurt candidates in the midterms, two former GOP congressmen argue.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 13:39:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Roche investments in Germany, a Gilead bowel disease drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/19/roche-investments-in-germany-gilead-bowel-disease-drug/",
+        "summary": "Roche is reviewing all future investments in Germany over health care cost-cutting ​policies, with a top executive citing a loss of trust",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 13:23:58 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Gilead’s IBD drug eliminated symptoms for patients, mid-stage study finds",
+        "url": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/",
+        "summary": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 08:35:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
+        "url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/",
+        "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+        "url": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/",
+        "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
+        "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/",
+        "summary": "“Sometimes mental illness is terminal,” Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Measles is back — and becoming a midterm liability for Republicans",
+        "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/",
+        "summary": "“Silence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,” write physicians and former GOP Reps. Larry Buchson and Michael Burgess.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How the No Surprises Act’s nonprofit arbitrators are operating like ‘mini gods’ and getting rich doing it",
+        "url": "https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/",
+        "summary": "A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’",
+        "url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/",
+        "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 00:54:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper\" hreflang=\"en\">Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds</a>",
+        "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
+        "summary": "Fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 2:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit\" hreflang=\"en\">OpenEvidence, Doximity reach settlement in contentious AI legal battle</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit",
+        "summary": "Healthcare AI startups OpenEvidence and Doximity settled a contentious legal fight over allegations of corporate espionage and cyberattacks, alongside counterclaims of defamation and misinformation.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 1:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-eo-creates-new-nih-division-white-house-task-force-centered-womens-health\" hreflang=\"en\">Trump EO creates new NIH division, White House task force centered on women’s health</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-eo-creates-new-nih-division-white-house-task-force-centered-womens-health",
+        "summary": "The goals of the new bodies are to address women’s health research gaps to improve health outcomes across the lifespan.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 12:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity\" hreflang=\"en\">The case for rethinking how ambulatory practices handle cybersecurity</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity",
+        "summary": "Healthcare is among the most targeted sectors for cybercriminals, and it's easy to see why.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 4:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/beyond-recall-notice-why-pharmacies-need-greater-visibility-recalled-and-expired\" hreflang=\"en\">Beyond the Recall Notice: Why Pharmacies Need Greater Visibility Into Recalled and Expired Medications</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/beyond-recall-notice-why-pharmacies-need-greater-visibility-recalled-and-expired",
+        "summary": "Medication recalls and expirations are a routine part of pharmacy operations, but managing them often requires significant time, coordination and attention to detail.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 14, 2026 2:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/redesigning-prior-authorization-around-patient\" hreflang=\"en\">Redesigning prior authorization around the patient</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/redesigning-prior-authorization-around-patient",
+        "summary": "Abarca Health explores how shared standards, transparency and outcome-focused measures can reduce prior authorization friction.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 11:18am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements\" hreflang=\"en\">CMS proposes MA 'ghost network,' PBM transparency requirements</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-ma-ghost-network-pbm-transparency-requirements",
+        "summary": "The administration took steps to codify statutory reforms focused on maintaining accurate Medicare Advantage provider directories and collecting more pricing information from pharmacy benefit managers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 5:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027\" hreflang=\"en\">Centene to expand CHOICE Arrangements program to its employees in Ohio, Oklahoma</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-expand-choice-arrangements-program-ohio-oklahoma-2027",
+        "summary": "Centene is expanding its CHOICE Arrangements benefits program to its employees in Ohio and Oklahoma in the 2027 plan year.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 1:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/parkview-health-acquiring-shared-services-vendor-ovation-healthcare\" hreflang=\"en\">Parkview Health acquiring shared services vendor Ovation Healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/providers/parkview-health-acquiring-shared-services-vendor-ovation-healthcare",
+        "summary": "Parkview Health is taking its shared-services strategy nationwide with a deal to acquire Ovation Healthcare, which works with nearly 500 healthcare organizations across the country.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 2:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Abby Care secures $82M for family-led care; Allswell nabs $7M to expand LGBTQ therapy</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/usofcare-survey-three-quarters-americans-say-healthcare-defining-voting-issue\" hreflang=\"en\">Three-quarters of Americans disillusioned with costs, say healthcare is defining voting issue</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/usofcare-survey-three-quarters-americans-say-healthcare-defining-voting-issue",
+        "summary": "Three-quarters of Americans feel frustrated, overwhelmed or helpless about healthcare costs, and say the issue is a voting priority. Those wanting substantial reform are more often looking to government that industry for a fix.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 2:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions\" hreflang=\"en\">American Medical Association rolls out governance framework for agentic AI solutions</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/american-medical-association-rolls-out-governance-framework-agentic-ai-solutions",
+        "summary": "AMA CEO John Whyte, M.D., told Fierce Healthcare the increasing use of AI in clinical functions is “raising urgent questions about clinical authority, oversight and accountability.”",
+        "source": "Fierce Healthcare",
+        "published": "Oct 16, 2026 10:17am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac\" hreflang=\"en\">Investment firm TCGX picks migraine biotech TriGemX to take public via SPAC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac",
+        "summary": "Life sciences-focused investment firm TCGX will use a special purpose acquisition company to take migraine-minded TriGemX Bio public.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 10:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Enlivex excises 60%; Eyepoint halves headcount</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery\" hreflang=\"en\">Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery",
+        "summary": "The collaboration is another in a series of partnerships Lilly has accumulated in both drug delivery and AI-based technologies.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 10:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win\" hreflang=\"en\">Gilead ‘sitting on a foundational asset’ after oral UC drug's phase 2 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win",
+        "summary": "Gilead touted a mid-stage win for its inflammatory bowel disease pill after the treatment delivered clinical improvements in patients with ulcerative colitis.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 9:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/enlivex-lays-60-employees-and-gives-execs-substantial-salary-cuts\" hreflang=\"en\">Enlivex lays off 60% of employees, scraps preclinical R&amp;D and gives execs ‘substantial’ salary cuts</a>",
+        "url": "https://www.fiercebiotech.com/biotech/enlivex-lays-60-employees-and-gives-execs-substantial-salary-cuts",
+        "summary": "Enlivex is laying off 60% of its workforce, ending preclinical R&amp;D and trimming its top execs’ salaries as the Israeli biotech tries to keep cash flowing to its osteoarthritis drug.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 9:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-kgaa-buys-silence-13b-deal-biotechs-blood-cancer-sirna-drug\" hreflang=\"en\">Merck KGaA buys Silence in $1.3B deal after siRNA drug's phase 2 blood cancer win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-kgaa-buys-silence-13b-deal-biotechs-blood-cancer-sirna-drug",
+        "summary": "Germany’s Merck KGaA has picked up Silence Therapeutics to the tune of $1.3 billion in the wake of the British biotech’s mid-stage success for its challenger to Takeda’s Mimrylo.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 9:00am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/disc-spins-past-fda-rejection-overwhelmingly-positive-phase-3-data\" hreflang=\"en\">Disc spins past FDA rejection with ‘overwhelmingly positive’ phase 3 data for rare disease drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/disc-spins-past-fda-rejection-overwhelmingly-positive-phase-3-data",
+        "summary": "A phase 3 trial of Disc Medicine’s bitopertin has hit both co-primary endpoints and all secondary endpoints, positioning the biotech to refile for approval of the once-rejected rare disease drug candidate.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 8:00am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/aligning-drug-discovery-around-patient-benefit-outset-connecting-human-insights-better\" hreflang=\"en\">Aligning drug discovery around patient benefit from the outset: Connecting human insights to better decisions</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/aligning-drug-discovery-around-patient-benefit-outset-connecting-human-insights-better",
+        "summary": "The pharmaceutical industry has traditionally viewed drug discovery and clinical development as separate stages of the R&amp;D continuum.",
+        "source": "Fierce Biotech",
+        "published": "Oct 15, 2026 4:06pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/immune-boost-capital-invests-orthrus-therapeutics-advance-antigen-specific-immune\" hreflang=\"en\">Immune Boost Capital Invests in Orthrus Therapeutics to Advance Antigen-Specific Immune Tolerance for Autoimmune Disease</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/immune-boost-capital-invests-orthrus-therapeutics-advance-antigen-specific-immune",
+        "summary": "Immune Boost Capital (IBC), the venture investment arm of the Arthritis National Research Foundation (ANRF), today announced its investment in Orthrus Therapeutics, a company developing a new class of precision therapies for autoimmune disease with a strong focus on rheumatoid arthritis.",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 1:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/saudi-arabia-takes-actionable-steps-build-its-biotech-sector-after-46-agreements-riyadh\" hreflang=\"en\">Saudi Arabia takes actionable steps to build its biotech sector after 46 agreements in Riyadh</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/saudi-arabia-takes-actionable-steps-build-its-biotech-sector-after-46-agreements-riyadh",
+        "summary": "Riyadh’s biotech summit closed with 46 agreements. Its chairman explains how Saudi Arabia plans to turn them into working programs.",
+        "source": "Fierce Biotech",
+        "published": "Oct 13, 2026 11:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/scientific-hypothesis-clinical-practice-next-chapter-cldn182\" hreflang=\"en\">From Scientific Hypothesis to Clinical Practice: The Next Chapter for CLDN18.2</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/scientific-hypothesis-clinical-practice-next-chapter-cldn182",
+        "summary": "Astellas reflects on a decade of progress in CLDN18.2 and the opportunities ahead in patient identification, testing and innovation",
+        "source": "Fierce Biotech",
+        "published": "Oct 14, 2026 9:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/siemens-healthineers-partners-paradromics-build-out-new-imaging-system-support-bcis\" hreflang=\"en\">Siemens Healthineers partners with Paradromics to build out new imaging system to support BCIs</a>",
+        "url": "https://www.fiercebiotech.com/medtech/siemens-healthineers-partners-paradromics-build-out-new-imaging-system-support-bcis",
+        "summary": "Paradromics has announced a new collaboration with Siemens Healthineers to construct an advanced multimodal imaging platform to support the growing clinical use of implantable brain-computer interfaces (BCIs).",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 2:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "跟上AI时代，这六项核心能力必不可少",
+        "url": "https://www.36kr.com/p/4032046692028805",
+        "summary": "我们究竟该如何从AI投资中真正创造价值？",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 19 Oct 2026 00:44:35 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs",
+        "url": "https://huggingface.co/papers/2610.26770",
+        "summary": "Harness development plays a crucial role in building capable AI agents. Recent approaches improve harnesses through recursive self-improvement (RSI), but their performance gains often come with higher execution costs. We introduce HarnessPro, a label-free method for evolving harnesses to improve task performance while reducing execution cost. In this setting, candidate harnesses are evaluated using LLM-generated tests without access to ground-truth solutions or official tests. Specialized agents diagnose execution trajectories, plan updates with different performance-cost priorities, and imple",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-18T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

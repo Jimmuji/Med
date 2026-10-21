@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:36:46.388362+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+        "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/",
+        "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 21:22:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+        "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/",
+        "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 20:14:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
+        "url": "https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/",
+        "summary": "A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 16:47:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roche continues to look to China for new drugs",
+        "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/",
+        "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 16:42:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary",
+        "url": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/",
+        "summary": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 15:41:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: OpenEvidence’s JAMA paper leaves open questions",
+        "url": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/",
+        "summary": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 14:40:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/",
+        "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 14:02:16 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "How voters feel about trans rights and abortion access will soon be put to the test",
+        "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/",
+        "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 12:55:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
+        "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/",
+        "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 12:37:18 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/",
+        "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 10:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+        "url": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/",
+        "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
+        "url": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/",
+        "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Trump orders creation of NIH division, task force on women’s health",
+        "url": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/",
+        "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 17:42:45 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying",
+        "url": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/",
+        "summary": "A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 17:27:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock",
+        "url": "https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/",
+        "summary": "We dig into trust, prices, and a bit of baseball in this week's Health Care Inc. newsletter.",
+        "source": "STAT News",
+        "published": "Mon, 19 Oct 2026 15:43:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Centivo adds 2 executives; Inspira Health outlines leadership transition</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hackensack-meridian-health-signs-230m-definitive-agreement-acquire-hunterdon-health\" hreflang=\"en\">Hackensack Meridian Health signs definitive agreement to acquire Hunterdon Health, commits $230M</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hackensack-meridian-health-signs-230m-definitive-agreement-acquire-hunterdon-health",
+        "summary": "The announcement did not outline a potential timeline for the merger, which would add a nineteenth hospital to New Jersey's largest health system.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 20, 2026 4:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-oscar-health-outline-2027-aca-marketplace-plans\" hreflang=\"en\">Centene, Oscar Health outline 2027 ACA marketplace plans</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-oscar-health-outline-2027-aca-marketplace-plans",
+        "summary": "Open enrollment for the Affordable Care Act's marketplaces begins on Nov. 1, and with more turbulence on deck, insurers are offering a look at their plans for the coming year.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 20, 2026 3:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/democrats-demand-tougher-standards-companies-running-medicaid-systems\" hreflang=\"en\">Democrats demand tougher standards for companies running Medicaid systems</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/democrats-demand-tougher-standards-companies-running-medicaid-systems",
+        "summary": "A group of Democratic senators is demanding that the federal agency overseeing Medicaid institute tougher standards for government contractors running complex computer systems that millions of people rely on to get benefits.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 20, 2026 11:50am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud\" hreflang=\"en\">DOJ streamlines voluntary self-disclosure of healthcare fraud</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud",
+        "summary": "A policy change directs healthcare organizations seeking lighter repercussions from potentially criminal fraud activity to disclose to the DOJ alone, rather than separately between law enforcement and Department of Health and Human Services Office of Inspector General.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 20, 2026 12:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency\" hreflang=\"en\">Judi Health launching employer Medicare Part D plan with a focus on transparency</a>",
+        "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
+        "summary": "Judi Health is launching a new Part D plan that aims to lean on its tech stack to drive transparency and outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 4:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/bullying-among-nurses-pervasive-threat-patients-clinicians-heres-what-employers-can-do\" hreflang=\"en\">Bullying among nurses is a 'pervasive' threat to patients, clinicians—here's what employers can do</a>",
+        "url": "https://www.fiercehealthcare.com/providers/bullying-among-nurses-pervasive-threat-patients-clinicians-heres-what-employers-can-do",
+        "summary": "The American Nurses Association's latest position statement on incivility and bullying includes recommendations for nurses and healthcare employers alike, including an argument against zero-tolerance policies in favor of \"restorative and tiered\" approaches.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 4:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper\" hreflang=\"en\">Commercial plans' mental health provider directories routinely inaccurate, secret shopper study finds</a>",
+        "url": "https://www.fiercehealthcare.com/payers/commercial-plans-mental-health-provider-directories-routinely-inaccurate-secret-shopper",
+        "summary": "Fewer than a quarter of secret shopper phone calls to a listed mental health provider ended in a scheduled appointment, often due to inaccurate contact information or other issues with a plan's directory.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 2:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit\" hreflang=\"en\">OpenEvidence, Doximity reach settlement in contentious AI legal battle</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-doximity-reach-settlement-contentious-ai-lawsuit",
+        "summary": "Healthcare AI startups OpenEvidence and Doximity settled a contentious legal fight over allegations of corporate espionage and cyberattacks, alongside counterclaims of defamation and misinformation.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 1:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-eo-creates-new-nih-division-white-house-task-force-centered-womens-health\" hreflang=\"en\">Trump EO creates new NIH division, White House task force centered on women’s health</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-eo-creates-new-nih-division-white-house-task-force-centered-womens-health",
+        "summary": "The goals of the new bodies are to address women’s health research gaps to improve health outcomes across the lifespan.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 19, 2026 12:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/redesigning-prior-authorization-around-patient\" hreflang=\"en\">Redesigning prior authorization around the patient</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/redesigning-prior-authorization-around-patient",
+        "summary": "Abarca Health explores how shared standards, transparency and outcome-focused measures can reduce prior authorization friction.",
+        "source": "Fierce Healthcare",
+        "published": "Sep 29, 2026 11:18am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity\" hreflang=\"en\">The case for rethinking how ambulatory practices handle cybersecurity</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/case-rethinking-how-ambulatory-practices-handle-cybersecurity",
+        "summary": "Healthcare is among the most targeted sectors for cybercriminals, and it's easy to see why.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 4:19pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lycia-aims-228m-generate-data-food-allergy-rival-xolair\" hreflang=\"en\">Lycia aims for $228M IPO to generate data on food allergy rival to Xolair</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lycia-aims-228m-generate-data-food-allergy-rival-xolair",
+        "summary": "Lycia Therapeutics is banking on a $227.8 million IPO as the biotech seeks to finance its pipeline of protein degraders for autoimmune, inflammatory and allergic diseases.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 7:50am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target\" hreflang=\"en\">Rapport's phase 2 bipolar win strikes chord with analysts despite falling short of original ambition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target",
+        "summary": "Rapport Therapeutics’ phase 2 bipolar mania study has hit its primary endpoint, furthering the biotech’s efforts to make RAP-219 a multiindication blockbuster. However, the effect size fell short of the level targeted by Rapport and analysts ahead of the readout.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 9:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/hengrui-has-become-go-source-china-biopharma-innovation-whats-its-secret\" hreflang=\"en\">Hengrui has become the go-to source of China biopharma innovation. What’s its secret?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/hengrui-has-become-go-source-china-biopharma-innovation-whats-its-secret",
+        "summary": "Amid the Chinese biotech licensing boom, Hengrui Pharmaceuticals stands out from the crowd. The Jiangsu-based biopharma landed one of the largest licensing deals ever by a Chinese company courtesy of a head-turning $15.2 billion biobucks pact with Bristol Myers Squibb in May. At the same time, Hengrui has been quietly pioneering the transition from a straight-up licensor of innovation drugs to a co-developer that’s establishing NewCo entities with its Western partners.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 6:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/industry-turning-point-growth-dominated-commercial-leaders-ey-report\" hreflang=\"en\">Industry at a ‘turning point’ with growth dominated by commercial leaders: EY report</a>",
+        "url": "https://www.fiercebiotech.com/medtech/industry-turning-point-growth-dominated-commercial-leaders-ey-report",
+        "summary": "A new report has found that in 2025 through the first half of 2026, innovation increased dealmaking and R&amp;D investment, AI heavily influenced the future of value creation, and that industry growth continued to expand into alternative care settings.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 4:44am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study\" hreflang=\"en\">Israeli biotech’s inhaled exosome therapy reduces respiratory failure in phase 2 study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study",
+        "summary": "Nano24’s inhaled exosome therapy reduced respiratory failure in patients with acute respiratory distress syndrome (ARDS), hitting the main goal of a phase 2b study.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 4:28am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-makes-business-decision-end-phase-2-trial-autoimmune-drug-while-programs-future\" hreflang=\"en\">Pfizer makes ‘business decision’ to end phase 2 trial of autoimmune drug as program’s future uncertain</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-makes-business-decision-end-phase-2-trial-autoimmune-drug-while-programs-future",
+        "summary": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this marks the end of the road for the asset.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 4:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials\" hreflang=\"en\">AstraZeneca taps Oracle to help improve recruitment for clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
+        "summary": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development—improving patient recruitment.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 2:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ambrose-healthcare-inks-181m-deal-former-pfizer-target-am-pharma\" hreflang=\"en\">Ambrose Healthcare inks $181M deal for former Pfizer target AM-Pharma</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ambrose-healthcare-inks-181m-deal-former-pfizer-target-am-pharma",
+        "summary": "Ambrose Healthcare has bought AM-Pharma for up to 161 million euros, inking a cut-price deal for a biotech once courted by Pfizer.",
+        "source": "Fierce Biotech",
+        "published": "Oct 16, 2026 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac\" hreflang=\"en\">Investment firm TCGX picks migraine biotech TriGemX to take public via SPAC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac",
+        "summary": "Life sciences-focused investment firm TCGX will use a special purpose acquisition company to take migraine-minded TriGemX Bio public.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 10:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Enlivex excises 60%; Eyepoint halves headcount</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery\" hreflang=\"en\">Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery",
+        "summary": "The collaboration is another in a series of partnerships Lilly has accumulated in both drug delivery and AI-based technologies.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 10:46am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win\" hreflang=\"en\">Gilead ‘sitting on a foundational asset’ after oral UC drug's phase 2 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win",
+        "summary": "Gilead touted a mid-stage win for its inflammatory bowel disease pill after the treatment delivered clinical improvements in patients with ulcerative colitis.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 9:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+        "url": "https://www.36kr.com/p/4032595093459329",
+        "summary": "2026医疗健康世界模型分会场在南京举办，成果丰硕。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 20 Oct 2026 10:08:29 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems",
+        "url": "https://huggingface.co/papers/2610.28522",
+        "summary": "Decision models support routing, guardrails, and output verification in LLM systems. However, item accuracy alone cannot establish whether models make correct decisions across controlled variations or assign reliable confidence to their predictions. We introduce DecisionPivot, a diagnostic benchmark comprising 48 tasks and 40,033 items across seven decision roles. Its core track contains 7,800 items from 13 generated task families, organized into contrast groups with computed answers verified by independently implemented solvers. The complementary reference track contains 32,233 items from 35 ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-19T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TRACE: Tracking Multimodal Clinical Trajectories for Inpatient Risk Prediction",
+        "url": "https://huggingface.co/papers/2610.25765",
+        "summary": "Accurate inpatient risk prediction requires modeling heterogeneous clinical evidence that accumulates irregularly over time. This challenge spans in-hospital mortality, prolonged length of stay, and readmission, each with task-specific observation windows. Existing multimodal approaches combine structured health record data, chest x-rays, and clinical text, but primarily focus on modality fusion or missing-modality compensation, with limited attention to temporal trajectories over an admission. We propose TRACE (TRAjectory modeling of multimodal Clinical Events), a daily-scale framework organi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-18T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

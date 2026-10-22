@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:38:27.547505+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
+        "url": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/",
+        "summary": "CMS is cracking down on adult day cares in New York, part of a broader focus on alleged health care fraud.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 21:38:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Another diabetes association leader is out while review continues",
+        "url": "https://www.statnews.com/2026/10/21/american-diabetes-association-leadership-change-controversy/",
+        "summary": "An endocrinologist who had long served in the American Diabetes Association's leadership is out without explanation.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 19:59:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What’s the deal with Isomorphic Labs?",
+        "url": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 17:49:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GSK picks up hep B drug approval",
+        "url": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/",
+        "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 14:24:45 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/",
+        "summary": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 13:26:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+        "url": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/",
+        "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 12:05:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Nigeria identifies travel-related Ebola case",
+        "url": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/",
+        "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health&#8230;",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 11:54:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A counterintuitive way to build trust in measles vaccines and public health",
+        "url": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/",
+        "summary": "Some experts say public health messaging would be more credible if it focused less on measles deaths and acknowledged that most children survive.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Mark Cuban wants to crack open the market for rare disease treatments",
+        "url": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/",
+        "summary": "Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom rare disease drugs and n-of-1 gene therapies.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Replication is necessary even if scientists do everything right",
+        "url": "https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/",
+        "summary": "“Committing a Type 1 error does not reflect poorly on the quality of the science done,” writes Mark Louie F. Ramos",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How knocking on doors can help beat measles — again",
+        "url": "https://www.statnews.com/2026/10/21/measles-public-health-door-to-door-initiatives/",
+        "summary": "“As measles outbreaks spread in the U.S., it may be time to learn how other countries get their outbreaks under control,” writes Raj Panjabi.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
+        "url": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/",
+        "summary": "After a quarter century of work, the German biotech Immatics is facing a pivotal moment as it awaits Phase 3 results for its lead candidate in melanoma.",
+        "source": "STAT News",
+        "published": "Wed, 21 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+        "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/",
+        "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 21:22:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+        "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/",
+        "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 20:14:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
+        "url": "https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/",
+        "summary": "A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.",
+        "source": "STAT News",
+        "published": "Tue, 20 Oct 2026 16:47:02 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/integris-health-join-kaiser-permanentes-risant-health\" hreflang=\"en\">Integris Health to join Kaiser Permanente's Risant Health</a>",
+        "url": "https://www.fiercehealthcare.com/providers/integris-health-join-kaiser-permanentes-risant-health",
+        "summary": "Pending approvals, Oklahoma's largest nonprofit health system will follow in the footsteps of Geisinger Health and Cone Health in seeking outside investment and tech-enabled value-based care know-how from the Kaiser subsidiary.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 5:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/amazon-google-among-self-funded-employers-joining-cms-prior-auth-pledge\" hreflang=\"en\">Amazon, Google among self-funded employers joining CMS' prior auth pledge</a>",
+        "url": "https://www.fiercehealthcare.com/payers/amazon-google-among-self-funded-employers-joining-cms-prior-auth-pledge",
+        "summary": "The Trump administration revealed Wednesday that five of the country's largest employers have signed on to expand electronic prior authorization in self-funded plans.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 5:22pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform\" hreflang=\"en\">Doximity adds UpToDate to Ask in push to become doctors’ go-to AI platform</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+        "summary": "Doximity inked a partnership with Wolters Kluwer to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 5:31pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/elevance-health-posts-14b-profit-q3-earnings-beat\" hreflang=\"en\">Elevance Health poised for Medicaid improvements in 2027</a>",
+        "url": "https://www.fiercehealthcare.com/payers/elevance-health-posts-14b-profit-q3-earnings-beat",
+        "summary": "Elevance Health is boosting its outlook for the year as it beat Wall Street analysts' expectations for both profit and revenue in the third quarter.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 8:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/baba-nabs-40m-series-backed-firstmark-capital-and-cvs-health-ventures-medicare-ai-care\" hreflang=\"en\">Baba nabs $40M series A, backed by FirstMark Capital and CVS Health Ventures, for AI-powered Medicare patient navigation</a>",
+        "url": "https://www.fiercehealthcare.com/finance/baba-nabs-40m-series-backed-firstmark-capital-and-cvs-health-ventures-medicare-ai-care",
+        "summary": "The AI company plans to use the funding to further its research, reach more health plans and accelerate value-based arrangements, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 10:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-admin-pausing-over-1b-medicaid-payments-california-minnesota\" hreflang=\"en\">CMS defers $1.2B in Medicaid funds from California, puts New York on notice after raid</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-admin-pausing-over-1b-medicaid-payments-california-minnesota",
+        "summary": "The Trump administration is withholding additional funds from California as part of its war with certain states over Medicaid fraud.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 21, 2026 11:23am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-launches-national-kidney-plan-transform-nations-kidney-care\" hreflang=\"en\">HHS launches national kidney care plan focused on disease prevention, dialysis care and reforming the transplant system</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-national-kidney-plan-transform-nations-kidney-care",
+        "summary": "The plan has three priorities: preventing kidney failure, improving dialysis care while expanding patient choice and reforming the transplant system.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 11:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/cencora-acquire-majority-stake-24b-american-oncology-network\" hreflang=\"en\">Cencora to acquire majority stake in $2.4B American Oncology Network</a>",
+        "url": "https://www.fiercehealthcare.com/finance/cencora-acquire-majority-stake-24b-american-oncology-network",
+        "summary": "American Oncology Network spans 21 states and boasts more than 350 oncology providers, further adding to the oncology managed services organization Cencora already bolstered in a $5 billion deal last winter.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 10:59am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/hidden-and-not-so-hidden-costs-patient-trust-gap\" hreflang=\"en\">The hidden and not-so-hidden costs of the patient trust gap</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/hidden-and-not-so-hidden-costs-patient-trust-gap",
+        "summary": "In this week's episode of \"Podnosis,\" we explore how breakdowns in patient trust can lead to missed care, higher costs and lost revenue, and what healthcare organizations can do to address them.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 9:49am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps\" hreflang=\"en\">Epic launches Connectors to link its AI tools with third-party apps</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps",
+        "summary": "Through \"Connectors,\" developers can connect their apps to Epic's AI tools—Emmie, Art and Penny—as well as custom AI agents organizations create through Agent Factory.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 20, 2026 9:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Centivo adds 2 executives; Inspira Health outlines leadership transition</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hackensack-meridian-health-signs-230m-definitive-agreement-acquire-hunterdon-health\" hreflang=\"en\">Hackensack Meridian Health signs definitive agreement to acquire Hunterdon Health, commits $230M</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hackensack-meridian-health-signs-230m-definitive-agreement-acquire-hunterdon-health",
+        "summary": "The announcement did not outline a potential timeline for the merger, which would add a nineteenth hospital to New Jersey's largest health system.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 20, 2026 4:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response\" hreflang=\"en\">‘A two-way conversation with the tumor’: Researchers use ‘avatar’ to predict immunotherapy responses</a>",
+        "url": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
+        "summary": "Researchers have explored a revolutionary way to predict a patient's response to immunotherapies by creating a tumor “avatar” from biopsies.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 3:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy\" hreflang=\"en\">Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
+        "summary": "GSK may have cemented its hepatitis B credentials with Tuesday’s landmark FDA nod for its “functional cure” bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches\" hreflang=\"en\">Roche builds blockbuster BTK case for fenebrutinib in multiple sclerosis as FDA decision approaches</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches",
+        "summary": "Roche has dived into the data behind its filing for FDA approval of fenebrutinib in multiple sclerosis, unpacking the BTK inhibitor’s effect on chronic active lesions, disease control and brain volume.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 9:30am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astellas-links-ai-proteins-400m-computational-discovery-deal\" hreflang=\"en\">Astellas links up with AI Proteins in $400M computational drug discovery deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astellas-links-ai-proteins-400m-computational-discovery-deal",
+        "summary": "Japan's Astellas Pharma has tapped Boston computational discovery company AI Proteins in a drug discovery deal potentially worth $400 million.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 9:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present\" hreflang=\"en\">‘We’re getting back to stability’: CBER Director Karim Mikhail shares his strategy with Fierce</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present",
+        "summary": "The FDA's Center for Biologics Evaluation and Research (CBER) is recovering from the most turbulent period in its recent history. The captain tasked with steadying the ship is Karim Mikhail, who was appointed as the center's director on a permanent basis last month.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 2:23pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotech-reverse-mergers-rebound-highest-level-2021-pipes-flood-markets\" hreflang=\"en\">Biotech reverse mergers rebound to highest level since 2021 as PIPEs flood market: report</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biotech-reverse-mergers-rebound-highest-level-2021-pipes-flood-markets",
+        "summary": "Reverse mergers have returned with a bang. More biotechs have taken the back door to the public markets so far in 2026 than in any full year since 2021, according to J.P. Morgan, with institutional investors backing many of the newly public companies from day one.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 3:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/myriad-genetics-sell-prenatal-health-testing-business-labcorp\" hreflang=\"en\">Myriad Genetics to sell off Prenatal Health testing business to Labcorp</a>",
+        "url": "https://www.fiercebiotech.com/medtech/myriad-genetics-sell-prenatal-health-testing-business-labcorp",
+        "summary": "Myriad Genetics is selling off its Prenatal Health testing biz to Labcorp for $210 million in cash.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 2:18am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach\" hreflang=\"en\">Hologic snaps up Reveal Genomics to boost genomic diagnostic reach</a>",
+        "url": "https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach",
+        "summary": "Hologic is acquiring precision oncology company Reveal Genomics.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 2:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/society-clinical-research-sites-aims-strengthen-site-relationships-data-intelligence-dashboard\" hreflang=\"en\">Advocacy organization launches data dashboard to better assess how clinical trial sites perform</a>",
+        "url": "https://www.fiercebiotech.com/cro/society-clinical-research-sites-aims-strengthen-site-relationships-data-intelligence-dashboard",
+        "summary": "The Society for Clinical Research Sites (SCRS) has launched a data intelligence platform to offer fresh insights into how different locations compare.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 10:08am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lycia-aims-228m-generate-data-food-allergy-rival-xolair\" hreflang=\"en\">Lycia aims for $228M IPO to generate data on food allergy rival to Xolair</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lycia-aims-228m-generate-data-food-allergy-rival-xolair",
+        "summary": "Lycia Therapeutics is banking on a $227.8 million IPO as the biotech seeks to finance its pipeline of protein degraders for autoimmune, inflammatory and allergic diseases.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 7:50am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target\" hreflang=\"en\">Rapport's phase 2 bipolar win strikes chord with analysts despite falling short of original ambition</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target",
+        "summary": "Rapport Therapeutics’ phase 2 bipolar mania study has hit its primary endpoint, furthering the biotech’s efforts to make RAP-219 a multiindication blockbuster. However, the effect size fell short of the level targeted by Rapport and analysts ahead of the readout.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 9:20am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/hengrui-has-become-go-source-china-biopharma-innovation-whats-its-secret\" hreflang=\"en\">Hengrui has become the go-to source of China biopharma innovation. What’s its secret?</a>",
+        "url": "https://www.fiercebiotech.com/biotech/hengrui-has-become-go-source-china-biopharma-innovation-whats-its-secret",
+        "summary": "Amid the Chinese biotech licensing boom, Hengrui Pharmaceuticals stands out from the crowd. The Jiangsu-based biopharma landed one of the largest licensing deals ever by a Chinese company courtesy of a head-turning $15.2 billion biobucks pact with Bristol Myers Squibb in May. At the same time, Hengrui has been quietly pioneering the transition from a straight-up licensor of innovation drugs to a co-developer that’s establishing NewCo entities with its Western partners.",
+        "source": "Fierce Biotech",
+        "published": "Oct 9, 2026 6:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "硅谷医疗科技的荒诞现实：近半创始人没有医疗经验",
+        "url": "https://www.36kr.com/p/4036407180318596",
+        "summary": "硅谷医疗创投乱象，需敬畏生命尊重临床规律",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 22 Oct 2026 02:22:45 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "读个研要十几万，还值得吗？",
+        "url": "https://www.36kr.com/p/4035465493813129",
+        "summary": "扩招了，涨价了，考研的人「不来了」",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 21 Oct 2026 10:45:36 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+        "url": "https://www.36kr.com/p/4032595093459329",
+        "summary": "2026医疗健康世界模型分会场在南京举办，成果丰硕。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 20 Oct 2026 10:08:29 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+        "url": "https://huggingface.co/papers/2610.30128",
+        "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabilizes at full depth. (2) Suboptimality of fixed allocation: given oracle access to the target item, a non-uniform depth assignment consistently outran",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
+        "url": "https://huggingface.co/papers/2610.30090",
+        "summary": "Perimeter triage faces a latency/semantics trade-off: signature engines are fast and format-safe but blind to unseen attacks, while generative models are semantic but slow and produce unparseable output. In late 2026 a class of commercial System One decision models (TypeSafe Jev; Microsoft-Decision-1) began selling typed decision primitives - binary gates, closed-set choices, ordinal scores - as product APIs, with no academic treatment. We present VX-One: a small multi-head network (100K-10M parameters) whose outputs are these primitives - a calibrated gate, a choice over a closed candidate se",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-20T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

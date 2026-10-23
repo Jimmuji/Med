@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:37:41.617523+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
+        "url": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/",
+        "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 23:12:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+        "url": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/",
+        "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 19:03:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
+        "url": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/",
+        "summary": "AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 18:22:27 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nutrition experts press White House to release ultra-processed food definition",
+        "url": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/",
+        "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 18:04:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Top MAHA adviser Calley Means resigns from White House days ahead of midterms",
+        "url": "https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/",
+        "summary": "The surprising departure of Calley Means comes just before an election that may serve as a referendum on the MAHA movement.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 17:52:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
+        "url": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/",
+        "summary": "Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 16:17:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Crackdowns loom, from China to New York",
+        "url": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/",
+        "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 15:06:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/",
+        "summary": "U.S. is poised to issue a proposed rule that would subject outbound licensing deals with Chinese biotech companies to additional scrutiny",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 13:42:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What to expect from the Moderna-Merck cancer vaccine data reveal",
+        "url": "https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/",
+        "summary": "The Moderna-Merck cancer vaccine data reveal is days away. Here's what to expect.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 13:35:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA finalizes its guidance on apps related to drugs, pharma rejoices",
+        "url": "https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/",
+        "summary": "In this edition of STAT Health Tech: FDA's guidance on prescription drug use-related software, and telehealth pushing GLP-1s for addiction.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 13:17:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Health insurance premiums jump 9%, and more Americans don’t have access to coverage",
+        "url": "https://www.statnews.com/2026/10/22/health-news-insurance-premiums-jump-more-americans-lose-coverage/",
+        "summary": "Working-age U.S. adults without health insurance rose in 2026. Half of all uninsured people did not seek needed care because of cost concerns, according to a new survey.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 12:22:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past",
+        "url": "https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/",
+        "summary": "A KFF survey finds that rising healthcare costs are squeezing both employers and workers.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 09:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: What I got wrong about the Affordable Care Act — and how to fix it",
+        "url": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/",
+        "summary": "“The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The inherited disease my family called ‘it’ had a name, which changed everything",
+        "url": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/",
+        "summary": "For 50 years, doctors shrugged about the disease running through Miranda Pappas’ family. Then she discovered something.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+        "url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/",
+        "summary": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
+        "source": "STAT News",
+        "published": "Thu, 22 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/few-americans-say-cdc-fda-are-doing-good-job-survey\" hreflang=\"en\">Few Americans say CDC, FDA are doing a good job: survey</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/few-americans-say-cdc-fda-are-doing-good-job-survey",
+        "summary": "Public confidence in the CDC and FDA has fallen to record lows, with just 26% and 25% of Americans, respectively, rating the agencies’ performance as excellent or good in a Gallup poll.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 3:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation\" hreflang=\"en\">Redesign Health, ARC Global merge in $2B deal to accelerate health system innovation</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation",
+        "summary": "The three organizations—Redesign Health, ARC Global and AVIA—work with more than 100 health systems on five continents, and the companies and products built across their networks have reached more than 100 million patients worldwide.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 2:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/uninsured-rate-climbs-112-2026-commonwealth-fund\" hreflang=\"en\">Uninsured rate climbs to 11.2% in 2026: Commonwealth Fund</a>",
+        "url": "https://www.fiercehealthcare.com/payers/uninsured-rate-climbs-112-2026-commonwealth-fund",
+        "summary": "The uninsured rate has climbed over the past two years as Medicaid work requirements—which are expected to drive their own coverage losses—loom at the beginning of 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 4:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—RFK Jr. advisor Calley Means resigns; Premier Health names next CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/molina-healthcare-highlights-medicaid-bright-spots-q3\" hreflang=\"en\">Molina Healthcare highlights Medicaid bright spots in Q3</a>",
+        "url": "https://www.fiercehealthcare.com/payers/molina-healthcare-highlights-medicaid-bright-spots-q3",
+        "summary": "Molina Healthcare is seeing some bright spots in the Medicaid market heading into 2027, echoing commentary from other payers through several third quarter earnings calls so far.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 3:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard\" hreflang=\"en\">Sentara Health deploys new AI case management tool co-developed with Regard</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
+        "summary": "Executives say the solution could save nearly 90,000 hours as the system looks to expand across acute care and into ambulatory care.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 2:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform\" hreflang=\"en\">Microsoft, Opella partner on agentic AI content verification platform</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform",
+        "summary": "The platform—dubbed Lumen—will consist of 14 agents that can perform an array of tasks, from reviewing content product claims and flagging corrections.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 12:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/maryland-sues-optum-over-defective-computer-system\" hreflang=\"en\">Optum seeks to have Maryland lawsuit over 'defective' computer system dismissed</a>",
+        "url": "https://www.fiercehealthcare.com/payers/maryland-sues-optum-over-defective-computer-system",
+        "summary": "The state's Attorney General Anthony Brown sued Optum in August, alleging that the company defrauded its Medicaid program in providing a faulty computer system for its behavioral health program.",
+        "source": "Fierce Healthcare",
+        "published": "Aug 28, 2026 1:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rural-minnesota-hospitals-operations-are-withering-they-say-profiteering-drugmakers\" hreflang=\"en\">Rural Minnesota hospitals' operations are withering. They say 'profiteering' drugmakers, insurers are to blame</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rural-minnesota-hospitals-operations-are-withering-they-say-profiteering-drugmakers",
+        "summary": "In a press conference this week, the heads of rural nonprofit hospitals called for immediate lawmaker intervention as financially fatal federal policy changes loom around the corner.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 5:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/talkiatry-takes-therapy-nationwide-it-builds-out-behavioral-health-platform\" hreflang=\"en\">Talkiatry takes therapy nationwide as it builds out behavioral health platform</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/talkiatry-takes-therapy-nationwide-it-builds-out-behavioral-health-platform",
+        "summary": "Talkiatry is expanding virtual therapy services nationwide as part of a broader push to provide comprehensive behavioral health services across the acuity spectrum, from low to high.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 9:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/kff-employer-family-premiums-5-28k-2026\" hreflang=\"en\">KFF: Employer family premiums up 5% to $28K in 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/kff-employer-family-premiums-5-28k-2026",
+        "summary": "Employer family premiums grew yet again in 2026, increasing by 5% to $28,303 on average, according to a new report from KFF.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 5:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/integris-health-join-kaiser-permanentes-risant-health\" hreflang=\"en\">Integris Health to join Kaiser Permanente's Risant Health</a>",
+        "url": "https://www.fiercehealthcare.com/providers/integris-health-join-kaiser-permanentes-risant-health",
+        "summary": "Pending approvals, Oklahoma's largest nonprofit health system will follow in the footsteps of Geisinger Health and Cone Health in seeking outside investment and tech-enabled value-based care know-how from the Kaiser subsidiary.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 21, 2026 5:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing\" hreflang=\"en\">Treasury sweeps biotech into proposed COINS Act restrictions, but spares Big Pharma’s China licensing deals</a>",
+        "url": "https://www.fiercebiotech.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing",
+        "summary": "Despite the sweeping scope of the ban covering various types of drug molecules, biopharma business development teams can breathe a measured sigh of relief.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 11:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data\" hreflang=\"en\">After leak, Merck and Moderna post phase 3 cancer vaccine data early</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
+        "summary": "Merck &amp; Co. and Moderna have shared highly anticipated phase 3 data on their cancer vaccine ahead of schedule, revealing a primary endpoint hit that approached analysts’ best-case scenario. But the positive result was offset by weaker-than-expected data on a key secondary endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 6:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/menarini-stemline-pick-georgiamune-preclinical-cancer-immunotherapy-11b\" hreflang=\"en\">Menarini's Stemline picks up Georgiamune preclinical cancer immunotherapy in $1.1B deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/menarini-stemline-pick-georgiamune-preclinical-cancer-immunotherapy-11b",
+        "summary": "Georgiamune, an immunology-focused biotech out of Maryland, has licensed a preclinical cancer drug candidate to Stemline Therapeutics, owned by Italy's Menarini Group, for up to $1.1 billion.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 9:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-scratches-out-phase-3-hidradenitis-suppurativa-win-falls-short-expectations\" hreflang=\"en\">AbbVie scratches out phase 3 hidradenitis suppurativa win but falls short of expectations</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-scratches-out-phase-3-hidradenitis-suppurativa-win-falls-short-expectations",
+        "summary": "A phase 3 trial of AbbVie’s lutikizumab in hidradenitis suppurativa has hit its primary endpoint. But with the drug candidate beating placebo by a narrower margin than expected, the readout raises questions about AbbVie’s chances of cracking a competitive market.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 10:39am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/celltrion-picks-another-kaigene-autoimmune-antibody-5805m\" hreflang=\"en\">Celltrion picks up another Kaigene autoimmune antibody for up to $580.5M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/celltrion-picks-another-kaigene-autoimmune-antibody-5805m",
+        "summary": "Celltrion has licensed a preclinical antibody targeting autoimmune conditions from Maryland-based biotech Kaigene in a deal worth up to $580.5 million, marking another step in the South Korean drugmaker's expansion beyond its traditional biosimilar business.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 10:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-separate-nutrition-business-independent-publicly-traded-company\" hreflang=\"en\">Abbott to separate Nutrition business into an independent, publicly traded company</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-separate-nutrition-business-independent-publicly-traded-company",
+        "summary": "Abbott will separate its Nutrition business into an independent, publicly traded company through a tax-free distribution to Abbott shareholders.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 2:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/quest-diagnostics-test-results-system-breached-yet-another-medtech-cyberattack\" hreflang=\"en\">Quest Diagnostics’ test results system breached in yet another medtech cyberattack</a>",
+        "url": "https://www.fiercebiotech.com/medtech/quest-diagnostics-test-results-system-breached-yet-another-medtech-cyberattack",
+        "summary": "Quest Diagnostics is the latest life sciences company to fall victim to a cyberattack, with the company believing patient records have been compromised.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 8:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rebranded-nodthera-plans-ipo-fund-nlrp3-inhibitors-push-toward-approval\" hreflang=\"en\">Rebranded NodThera plans IPO to fund NLRP3 inhibitor’s push toward approval</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rebranded-nodthera-plans-ipo-fund-nlrp3-inhibitors-push-toward-approval",
+        "summary": "NodThera—under its new name Rezera—is planning an IPO as the biotech steps up its ambitions to get its NLRP3 inhibitor to market.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 5:28am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset\" hreflang=\"en\">Roche’s CEO has ‘absolutely not’ changed tune on Poseida despite scrapping CAR-T from the buyout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset",
+        "summary": "Roche’s CEO has insisted to Fierce that the company’s view on its $1.5 billion Poseida buyout has “absolutely not” changed, even as the Swiss pharma scraps one of the CAR-T therapy’s from the acquisition.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 4:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response\" hreflang=\"en\">‘A two-way conversation with the tumor’: Researchers use ‘avatar’ to predict immunotherapy responses</a>",
+        "url": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
+        "summary": "Researchers have explored a revolutionary way to predict a patient's response to immunotherapies by creating a tumor “avatar” from biopsies.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 3:10pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy\" hreflang=\"en\">Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
+        "summary": "GSK may have cemented its hepatitis B credentials with Tuesday’s landmark FDA nod for its “functional cure” bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 9:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches\" hreflang=\"en\">Roche builds blockbuster BTK case for fenebrutinib in multiple sclerosis as FDA decision approaches</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches",
+        "summary": "Roche has dived into the data behind its filing for FDA approval of fenebrutinib in multiple sclerosis, unpacking the BTK inhibitor’s effect on chronic active lesions, disease control and brain volume.",
+        "source": "Fierce Biotech",
+        "published": "Oct 21, 2026 9:30am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows",
+        "url": "https://huggingface.co/papers/2610.27233",
+        "summary": "Medical workflows often require multiple interdependent analyses, but existing specialist and generalist AI models are not designed to coordinate them. We introduce MMedAgent-Plus, a multimodal medical tool-use agent that combines a vision-language planner with 18 leading specialist models spanning 12 tasks and 8 modalities. Through a unified tool interface, the planner selects specialists, executes them in sequence, and synthesizes responses grounded in their outputs. The planner is instruction-tuned on 208,928 samples from 32 public medical benchmarks, covering single- and multi-tool interac",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-18T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation",
+        "url": "https://huggingface.co/papers/2610.27861",
+        "summary": "Vision-language-action (VLA) robustness is commonly summarized by aggregate task success, which obscures how individual executions change under distribution shifts and where failures emerge in long-horizon tasks. We introduce RoboCasa-Shift, a diagnostic robustness benchmark built on RoboCasa365 that combines controlled single-factor shifts, matched clean-perturbed rollouts in which each pair shares the same underlying settings and differs only in the target shift, and simulator-grounded stage-aware diagnostics. We evaluate GR00T N1.5 on four long-horizon tasks that pass a predefined clean-per",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-19T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Exploring The Empirical Privacy Landscape of Synthetic Data",
+        "url": "https://huggingface.co/papers/2610.22659",
+        "summary": "Methods for training language models on sensitive data differ in how they balance capability gains against the risk of leaking private information. In this paper, we present a controlled comparison of data-level and training-level interventions for navigating the capability-privacy tradeoff on synthetic medical records with canaries to probe for leakage. Direct finetuning performs best on capability metrics but leads to the most privacy leakage, while DP-SGD reduces leakage at substantial cost to capabilities. Generating synthetic data from these records offers a more favorable balance, partic",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-14T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T13:16:22.148724+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+        "url": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/",
+        "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 19:19:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
+        "url": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/",
+        "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 19:16:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
+        "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/",
+        "summary": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 18:55:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/10/23/cancer-drugs-approved-europe-lack-high-clinical-benefit/",
+        "summary": "Most new cancer medicines approved by European regulators over a recent four-year period do not offer high clinical benefit, a new analysis finds.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 18:48:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials",
+        "url": "https://www.statnews.com/2026/10/23/novartis-remibrutinib-multiple-sclerosis-trial-results/",
+        "summary": "An MS treatment from Novartis cut by a third the rates of relapses compared to a standard treatment.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 16:47:31 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: It took me 13 years to be diagnosed with MS. Christina Applegate’s misdiagnosis doesn’t surprise me",
+        "url": "https://www.statnews.com/2026/10/23/christina-applegate-ms-misdiagnosis/",
+        "summary": "“I felt Christina Applegate’s disappointment as if it were my own — because not long ago, it was,” writes Lindsay Karp.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 16:39:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/10/23/up-and-down-ladder-pharma-jobs-callio/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 15:59:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Remembering STAT’s Helen Branswell",
+        "url": "https://www.statnews.com/2026/10/23/readout-loud-podcast-remembering-helen-branswell-infectious-disease/",
+        "summary": "This week on the “The Readout LOUD” podcast, we remember our beloved colleague Helen Branswell, who died last week. We speak with colleagues, family, and public health leaders about her&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 15:48:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Tango builds on Revolution Medicines’ pancreatic cancer success",
+        "url": "https://www.statnews.com/2026/10/23/tango-pancreatic-cancer-star-moderna-readout-newsletter/",
+        "summary": "As the ESMO conference kicks off, Tango's pancreatic cancer combination shows striking promise and detailed data on Moderna and Merck's cancer vaccine is released early.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 15:24:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Anxiety builds over Medicaid work requirements",
+        "url": "https://www.statnews.com/2026/10/23/medicaid-work-requirements-anxiety-morning-rounds-health-news/",
+        "summary": "As a Boston judge heard a challenge to Medicaid work requirements, state Medicaid directors gathered in Maryland to figure out how to implement those sweeping changes.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 14:47:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
+        "url": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/",
+        "summary": "A new Treasury Department proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 14:03:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/",
+        "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 13:45:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+        "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/",
+        "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+        "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/",
+        "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 10:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
+        "url": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/",
+        "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
+        "source": "STAT News",
+        "published": "Fri, 23 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Johns Hopkins Health System CEO plans 2027 retirement; RFK Jr. advisor Calley Means resigns</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/mass-general-brigham-cuts-jobs-impacting-clinical-operational-programs-amid-300m-budget\" hreflang=\"en\">Mass General Brigham cuts jobs impacting clinical, operational programs amid $300M budget shortfall</a>",
+        "url": "https://www.fiercehealthcare.com/providers/mass-general-brigham-cuts-jobs-impacting-clinical-operational-programs-amid-300m-budget",
+        "summary": "Less than two years after a wave of administrative layoffs, Mass General Brigham began a new round of job cuts last week that affect clinical and operational programs, according to media reports.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 4:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-launches-275m-nurse-staffing-initiative-nursing-homes\" hreflang=\"en\">CMS launches $275M nurse staffing initiative for nursing homes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-launches-275m-nurse-staffing-initiative-nursing-homes",
+        "summary": "The agency predicts the effort will support more than 4,000 nurses nationwide.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 4:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">Centene sues CMS over its 2027 Medicare Advantage star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "Centene has become the latest insurer to sue the federal government over its 2027 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/house-oversight-committee-chair-probes-pbms-independent-pharmacy-audits\" hreflang=\"en\">House Oversight Committee chair probes PBMs on independent pharmacy audits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/house-oversight-committee-chair-probes-pbms-independent-pharmacy-audits",
+        "summary": "The chair of a key House panel is pressing major pharmacy benefit managers on whether they retaliated against independent pharmacies for publicly supporting reform efforts.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/hhs-doj-unveil-pilot-program-self-disclosure-false-claims-act-violations\" hreflang=\"en\">HHS, DOJ unveil pilot program for self-disclosure of False Claims Act violations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/hhs-doj-unveil-pilot-program-self-disclosure-false-claims-act-violations",
+        "summary": "The Trump administration is rolling out a new pilot program for companies that voluntarily self-disclose False Claims Act violations.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 12:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/89-voters-say-congress-should-act-hospital-prices-next-two-years-affhp-poll\" hreflang=\"en\">89% of voters want Congress to act on hospital prices, poll finds</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/89-voters-say-congress-should-act-hospital-prices-next-two-years-affhp-poll",
+        "summary": "Eight in 10 respondents report reducing healthcare prices should be a high legislative priority, up from 71% in 2024.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 1:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/op-ed-case-primary-care-triple-double\" hreflang=\"en\">Op-ed: The case for a primary care triple-double</a>",
+        "url": "https://www.fiercehealthcare.com/providers/op-ed-case-primary-care-triple-double",
+        "summary": "To bolster outcomes at cost, double investment in primary care, double the reach of primary care and double the share of clinicians entering primary care, write heads of the American Academy of Family Physicians and the National Association of Community Health Centers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 12:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation\" hreflang=\"en\">Redesign Health, ARC Global merge in $2B deal to accelerate health system innovation</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation",
+        "summary": "The three organizations—Redesign Health, ARC Global and AVIA—work with more than 100 health systems on five continents, and the companies and products built across their networks have reached more than 100 million patients worldwide.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 2:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/few-americans-say-cdc-fda-are-doing-good-job-survey\" hreflang=\"en\">Few Americans say CDC, FDA are doing a good job: survey</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/few-americans-say-cdc-fda-are-doing-good-job-survey",
+        "summary": "Public confidence in the CDC and FDA has fallen to record lows, with just 26% and 25% of Americans, respectively, rating the agencies’ performance as excellent or good in a Gallup poll.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 3:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/uninsured-rate-climbs-112-2026-commonwealth-fund\" hreflang=\"en\">Uninsured rate climbs to 11.2% in 2026: Commonwealth Fund</a>",
+        "url": "https://www.fiercehealthcare.com/payers/uninsured-rate-climbs-112-2026-commonwealth-fund",
+        "summary": "The uninsured rate has climbed over the past two years as Medicaid work requirements—which are expected to drive their own coverage losses—loom at the beginning of 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 4:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/molina-healthcare-highlights-medicaid-bright-spots-q3\" hreflang=\"en\">Molina Healthcare highlights Medicaid bright spots in Q3</a>",
+        "url": "https://www.fiercehealthcare.com/payers/molina-healthcare-highlights-medicaid-bright-spots-q3",
+        "summary": "Molina Healthcare is seeing some bright spots in the Medicaid market heading into 2027, echoing commentary from other payers through several third quarter earnings calls so far.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 3:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc\" hreflang=\"en\">ESMO: GSK cancer R&amp;D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
+        "summary": "GSK’s cancer R&amp;D chief has suggested the latest slice of early-stage data on its B7-H4-directed antibody-drug conjugate (ADC) has “reinforce[d] our belief in the asset,” as the therapy races through a clutch of phase 3 studies.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 3:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win\" hreflang=\"en\">Roche puts numbers behind phase 3 kidney disease win amid blockbuster ambitions</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win",
+        "summary": "Roche's Genentech has put numbers behind its phase 3 success in IgA nephropathy (IgAN), reporting that antisense oligonucleotide sefaxersen reduced a key marker of kidney damage by 43.1% compared with placebo.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 10:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde\" hreflang=\"en\">Gilead to pay $1.3B upfront for PepStar’s oral IL-23 challenger to J&amp;J’s Icotyde</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
+        "summary": "Gilead has struck a deal to acquire PepStar Therapeutics’ oral IL-23 receptor inhibitor program for $1.275 billion, positioning itself as a would-be challenger to Johnson &amp; Johnson’s Icotyde across a range of inflammatory diseases.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 11:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-builds-case-late-phase-rival-amgens-imdelltra\" hreflang=\"en\">ESMO: Boehringer builds case for late-phase rival to Amgen’s Imdelltra</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-builds-case-late-phase-rival-amgens-imdelltra",
+        "summary": "Boehringer Ingelheim has shared data on its DLL3xCD3 T-cell engager, providing pointers to the prospects of a would-be rival to Amgen’s Imdelltra that entered phase 3 this year.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies\" hreflang=\"en\">Bolt makes inflammation play with Prana reverse merger, $120M financing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
+        "summary": "Bolt Biotherapeutics is acquiring Prana Therapies in a stock-for-stock reverse merger backed by a $120 million financing to advance Prana’s lead antibody through multiple phase 2 trials in inflammatory diseases.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 10:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result\" hreflang=\"en\">ESMO: Zentalis already dreaming of launch for WEE1 inhibitor after ‘great result’ in early-stage test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result",
+        "summary": "Zentalis Pharmaceuticals has pointed to the first overall survival (OS) analysis for azenosertib as proof that the oral WEE1 tyrosine kinase inhibitor can offer a convenient oral treatment for a tricky cancer.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 11:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal\" hreflang=\"en\">EQT buys molecular diagnostics specialist Qiagen in a €10.8B deal</a>",
+        "url": "https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal",
+        "summary": "EQT is buying up Netherlands-based Qiagen in a deal worth €10.8 billion ($12.1 billion) in enterprise value that includes $1.1 billion in net debt.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 6:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win\" hreflang=\"en\">ESMO: Takeda’s $1.2B bet on Innovent ‘absolutely’ pays off with details of ADC’s phase 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
+        "summary": "Takeda has lifted the lid on the phase 3 win for its next-generation claudin18.2 drug, with the antibody-drug conjugate (ADC) demonstrating overall survival of 10.2 months.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 8:50am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead\" hreflang=\"en\">Chutes &amp; Ladders—Troubled CSL enlists GSK vet Deborah Waterhouse to lead</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead",
+        "summary": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 4:51pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pathos-ai-closes-237m-series-e-heels-bms-alzheimers-link\" hreflang=\"en\">BMS leads Pathos AI's $237M series E alongside Alzheimer's link-up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pathos-ai-closes-237m-series-e-heels-bms-alzheimers-link",
+        "summary": "Pathos AI has closed a $237 million series E round led by pharma giant Bristol Myers Squibb on the same day that the two companies signed a cutting-edge Alzheimer's disease-focused collaboration.",
+        "source": "Fierce Biotech",
+        "published": "Oct 20, 2026 7:16am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra\" hreflang=\"en\">Roche pays Zymeworks $55M for trispecific challenger to Amgen’s Imdelltra</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra",
+        "summary": "Roche is paying Zymeworks $55 million upfront for ZW209, bagging global rights to a trispecific designed to improve on the rate and depth of responses achieved by Amgen’s Imdelltra.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 4:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing\" hreflang=\"en\">Treasury sweeps biotech into proposed COINS Act restrictions, but spares Big Pharma’s China licensing deals</a>",
+        "url": "https://www.fiercebiotech.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing",
+        "summary": "Despite the sweeping scope of the ban covering various types of drug molecules, biopharma business development teams can breathe a measured sigh of relief.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 11:00pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "今年最牛招商",
+        "url": "https://www.36kr.com/p/4038179701232768",
+        "summary": "潮水方向。",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 23 Oct 2026 10:14:11 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "精神病院改名求生，但想吃“心理医生”这碗饭的太多了",
+        "url": "https://www.36kr.com/p/4039193276585093",
+        "summary": "这个时代倒逼生长出来的情绪消化体系大到超出想象",
+        "source": "36Kr 医疗科技",
+        "published": "Sat, 24 Oct 2026 05:00:59 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "刚拿下10亿订单的具身智能企业，实控人失联、欠薪800万",
+        "url": "https://www.36kr.com/p/4038279203952265",
+        "summary": "该公司此前宣称获1.1亿元融资及近10亿订单，但产业基金投资未如期交割。",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 23 Oct 2026 12:54:03 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+        "url": "https://huggingface.co/papers/2610.30418",
+        "summary": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic cybersecurity, medical, and military examples, yielding 10,800 final answers from three LLM agents in controlled simulation and 1,440 answers from live agents in two open-source harnesses. Even under benign queries designed to be answerable from one document, GPT-5.6-Sol, the best performing model tested, discloses forbidden composi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-20T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

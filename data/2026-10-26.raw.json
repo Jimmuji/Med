@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T13:40:14.815410+08:00",
+  "counts": {
+    "news": 29,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+        "url": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/",
+        "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
+        "source": "STAT News",
+        "published": "Sun, 25 Oct 2026 16:58:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
+        "url": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/",
+        "summary": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
+        "source": "STAT News",
+        "published": "Sun, 25 Oct 2026 08:31:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The ESMO presentation everyone’s been waiting for",
+        "url": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/",
+        "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+        "source": "STAT News",
+        "published": "Sat, 24 Oct 2026 17:00:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+        "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/",
+        "summary": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.",
+        "source": "STAT News",
+        "published": "Sat, 24 Oct 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more",
+        "url": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/",
+        "summary": "“Even if Theranos had a functioning testing machine, the economic model on which is was based would result in failure,” writes a STAT reader.",
+        "source": "STAT News",
+        "published": "Sat, 24 Oct 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Johns Hopkins Health System CEO plans 2027 retirement; RFK Jr. advisor Calley Means resigns</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/mass-general-brigham-cuts-jobs-impacting-clinical-operational-programs-amid-300m-budget\" hreflang=\"en\">Mass General Brigham cuts jobs impacting clinical, operational programs amid $300M budget shortfall</a>",
+        "url": "https://www.fiercehealthcare.com/providers/mass-general-brigham-cuts-jobs-impacting-clinical-operational-programs-amid-300m-budget",
+        "summary": "Less than two years after a wave of administrative layoffs, Mass General Brigham began a new round of job cuts last week that affect clinical and operational programs, according to media reports.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 4:08pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-launches-275m-nurse-staffing-initiative-nursing-homes\" hreflang=\"en\">CMS launches $275M nurse staffing initiative for nursing homes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-launches-275m-nurse-staffing-initiative-nursing-homes",
+        "summary": "The agency predicts the effort will support more than 4,000 nurses nationwide.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 4:29pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/house-oversight-committee-chair-probes-pbms-independent-pharmacy-audits\" hreflang=\"en\">House Oversight Committee chair probes PBMs on independent pharmacy audits</a>",
+        "url": "https://www.fiercehealthcare.com/payers/house-oversight-committee-chair-probes-pbms-independent-pharmacy-audits",
+        "summary": "The chair of a key House panel is pressing major pharmacy benefit managers on whether they retaliated against independent pharmacies for publicly supporting reform efforts.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 2:45pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">Centene sues CMS over its 2027 Medicare Advantage star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "Centene has become the latest insurer to sue the federal government over its 2027 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/hhs-doj-unveil-pilot-program-self-disclosure-false-claims-act-violations\" hreflang=\"en\">HHS, DOJ unveil pilot program for self-disclosure of False Claims Act violations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/hhs-doj-unveil-pilot-program-self-disclosure-false-claims-act-violations",
+        "summary": "The Trump administration is rolling out a new pilot program for companies that voluntarily self-disclose False Claims Act violations.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 12:59pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches\" hreflang=\"en\">Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches",
+        "summary": "The latest news from Novant Health, Function, Withings, Quest Diagnostics and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 4:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/89-voters-say-congress-should-act-hospital-prices-next-two-years-affhp-poll\" hreflang=\"en\">89% of voters want Congress to act on hospital prices, poll finds</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/89-voters-say-congress-should-act-hospital-prices-next-two-years-affhp-poll",
+        "summary": "Eight in 10 respondents report reducing healthcare prices should be a high legislative priority, up from 71% in 2024.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 1:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-new-womens-health-initiatives-trump-eo-cms-doles-out\" hreflang=\"en\">Fierce Healthcare Regulatory Recap: New women’s health initiatives in Trump EO; CMS doles out RHTP funding to 3 more states</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-new-womens-health-initiatives-trump-eo-cms-doles-out",
+        "summary": "The latest news from CMS and HHS this week: a new national kidney care plan, more RHTP funding released and more.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 11:36am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/op-ed-case-primary-care-triple-double\" hreflang=\"en\">Op-ed: The case for a primary care triple-double</a>",
+        "url": "https://www.fiercehealthcare.com/providers/op-ed-case-primary-care-triple-double",
+        "summary": "To bolster outcomes at cost, double investment in primary care, double the reach of primary care and double the share of clinicians entering primary care, write heads of the American Academy of Family Physicians and the National Association of Community Health Centers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 12:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/few-americans-say-cdc-fda-are-doing-good-job-survey\" hreflang=\"en\">Few Americans say CDC, FDA are doing a good job: survey</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/few-americans-say-cdc-fda-are-doing-good-job-survey",
+        "summary": "Public confidence in the CDC and FDA has fallen to record lows, with just 26% and 25% of Americans, respectively, rating the agencies’ performance as excellent or good in a Gallup poll.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 3:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation\" hreflang=\"en\">Redesign Health, ARC Global merge in $2B deal to accelerate health system innovation</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation",
+        "summary": "The three organizations—Redesign Health, ARC Global and AVIA—work with more than 100 health systems on five continents, and the companies and products built across their networks have reached more than 100 million patients worldwide.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 2:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug\" hreflang=\"en\">ESMO: BMS’ Massacesi hails ‘very promising’ data for BioNTech-partnered PD-L1xVEGF-A drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
+        "summary": "Bristol Myers Squibb Chief Medical Officer Cristian Massacesi, M.D., has told Fierce that the latest data for its BioNTech-partnered PD-L1xVEGF-A drug are “very promising,” as phase 3 ambitions ramp up.v",
+        "source": "Fierce Biotech",
+        "published": "Oct 25, 2026 12:03pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities\" hreflang=\"en\">ESMO: Roche touts ‘convincing’ phase 3 KRAS data after win over rivals</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities",
+        "summary": "Roche has shed more light on its investigational KRAS G12C inhibitor’s phase 3 victory over Amgen’s Lumakras and Bristol Myers Squibb’s Krazati.",
+        "source": "Fierce Biotech",
+        "published": "Oct 24, 2026 9:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss\" hreflang=\"en\">ESMO: AstraZeneca exec insists phase 3 ADC data ‘robust’ enough for regulators despite PFS miss</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss",
+        "summary": "An AstraZeneca executive was adamant that detailed data from a phase 3 study of the pharma’s next-generation antibody-drug conjugate are “robust” enough to take to regulators, despite the trial failing to meet a key endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Oct 24, 2026 9:07am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug\" hreflang=\"en\">ESMO: J&amp;J exec says RIPTAC readout is ‘best data we’ve ever seen’ for a prostate cancer drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
+        "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson &amp; Johson has unveiled the first data from its shiny new RIPTAC pipeline that it believes could sustain its leading role in prostate cancer.",
+        "source": "Fierce Biotech",
+        "published": "Oct 25, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data\" hreflang=\"en\">‘It is what it is’: Merck exec unruffled by ‘unfortunate’ leak of ESMO cancer vaccine data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
+        "summary": "Merck &amp; Co. and Moderna always knew they would be making headlines in Madrid this week—just not in the way it happened.",
+        "source": "Fierce Biotech",
+        "published": "Oct 24, 2026 6:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space\" hreflang=\"en\">ESMO: Lilly touts 79% ADC response rate in competitive ovarian cancer space</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space",
+        "summary": "Eli Lilly has shared phase 1 data on an antibody-drug conjugate in platinum-sensitive ovarian cancer, shedding light on the company’s chances of competing for a market targeted by rivals including AbbVie and Genmab.",
+        "source": "Fierce Biotech",
+        "published": "Oct 19, 2026 4:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc\" hreflang=\"en\">ESMO: GSK cancer R&amp;D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
+        "summary": "GSK’s cancer R&amp;D chief has suggested the latest slice of early-stage data on its B7-H4-directed antibody-drug conjugate (ADC) has “reinforce[d] our belief in the asset,” as the therapy races through a clutch of phase 3 studies.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 3:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win\" hreflang=\"en\">Roche puts numbers behind phase 3 kidney disease win amid blockbuster ambitions</a>",
+        "url": "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win",
+        "summary": "Roche's Genentech has put numbers behind its phase 3 success in IgA nephropathy (IgAN), reporting that antisense oligonucleotide sefaxersen reduced a key marker of kidney damage by 43.1% compared with placebo.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 10:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-builds-case-late-phase-rival-amgens-imdelltra\" hreflang=\"en\">ESMO: Boehringer builds case for late-phase rival to Amgen’s Imdelltra</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-builds-case-late-phase-rival-amgens-imdelltra",
+        "summary": "Boehringer Ingelheim has shared data on its DLL3xCD3 T-cell engager, providing pointers to the prospects of a would-be rival to Amgen’s Imdelltra that entered phase 3 this year.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result\" hreflang=\"en\">ESMO: Zentalis already dreaming of launch for WEE1 inhibitor after ‘great result’ in early-stage test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result",
+        "summary": "Zentalis Pharmaceuticals has pointed to the first overall survival (OS) analysis for azenosertib as proof that the oral WEE1 tyrosine kinase inhibitor can offer a convenient oral treatment for a tricky cancer.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 11:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal\" hreflang=\"en\">EQT buys molecular diagnostics specialist Qiagen in a €10.8B deal</a>",
+        "url": "https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal",
+        "summary": "EQT is buying up Netherlands-based Qiagen in a deal worth €10.8 billion ($12.1 billion) in enterprise value that includes $1.1 billion in net debt.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 6:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win\" hreflang=\"en\">ESMO: Takeda’s $1.2B bet on Innovent ‘absolutely’ pays off with details of ADC’s phase 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
+        "summary": "Takeda has lifted the lid on the phase 3 win for its next-generation claudin18.2 drug, with the antibody-drug conjugate (ADC) demonstrating overall survival of 10.2 months.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 8:50am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+        "url": "https://huggingface.co/papers/2610.30418",
+        "summary": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic cybersecurity, medical, and military examples, yielding 10,800 final answers from three LLM agents in controlled simulation and 1,440 answers from live agents in two open-source harnesses. Even under benign queries designed to be answerable from one document, GPT-5.6-Sol, the best performing model tested, discloses forbidden composi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-20T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

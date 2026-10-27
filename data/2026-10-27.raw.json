@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:50:18.250034+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
+        "url": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/",
+        "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 23:17:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
+        "url": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/",
+        "summary": "The deal would make the Catholic system one of the largest operators of outpatient surgery centers.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 21:54:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: HHS relaxes security, transparency rules for health record software used by hospitals",
+        "url": "https://www.statnews.com/2026/10/26/health-data-interoperability-hti5-relaxes-privacy-security-requirements/",
+        "summary": "The Trump administration removed several security, privacy and transparency requirements for vendors of EHR software.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 21:16:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: House lawmaker probes PBMs for ‘punitive’ audits of independent pharmacies",
+        "url": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/",
+        "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 16:26:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GSK sees its return to cancer start to pay off",
+        "url": "https://www.statnews.com/2026/10/26/gsk-cancer-esmo-adcs-jemperli/",
+        "summary": "A decade ago, GSK was out of oncology. It could soon pick up approval for its sixth cancer drug.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 16:20:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
+        "url": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/",
+        "summary": "A Phase 3 trial of a targeted drug developed by Merck and China’s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 15:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown",
+        "url": "https://www.statnews.com/2026/10/26/health-insurance-costs-medicaid-challenges-cms-fraud-crackdown-dc-diagnosis/",
+        "summary": "The cost of health insurance is surging, and CMS presses ahead with a new fraud crackdown.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 14:38:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
+        "url": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/",
+        "summary": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 13:57:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Five biotech updates to read after ESMO this weekend",
+        "url": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/",
+        "summary": "Moderna and Merck are racing to submit their personalized cancer vaccine for FDA approval, expected in 2027, according to Moderna CEO Stéphane Bancel.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 13:38:56 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Roche lung cancer drug, a Bristol CAR-T trial death, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/",
+        "summary": "Bristol Myers Squibb reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 13:37:51 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A virus that afflicts cows makes the jump to a human",
+        "url": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/",
+        "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 13:26:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
+        "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/",
+        "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 09:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Moderna CEO on what’s next after success in cancer vaccine",
+        "url": "https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/",
+        "summary": "Moderna's CEO Stéphane Bancel on what's next after the recent success of a cancer vaccine, and how that impacts the company's business strategy.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots",
+        "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/",
+        "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How bad is healthy supposed to feel?",
+        "url": "https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/",
+        "summary": "“We shouldn't confuse illness and the hardships that come with living,” writes family nurse practitioner Kirsten Balin.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members\" hreflang=\"en\">UnitedHealthcare expands AI companion Avery to 21M members</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members",
+        "summary": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 3:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/south-carolinas-rural-hospitals-receiving-free-cyber-support-under-pilot-program\" hreflang=\"en\">South Carolina's rural hospitals receive free cyber support under pilot program</a>",
+        "url": "https://www.fiercehealthcare.com/providers/south-carolinas-rural-hospitals-receiving-free-cyber-support-under-pilot-program",
+        "summary": "A six-month partnership between the state, the White House and tech vendors will bolster rural hospitals' defenses while evaluating technologies for nationwide deployment.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 4:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/new-female-specific-framework-cardiovascular-disease-prevention-and-care\" hreflang=\"en\">Medical societies release female-specific framework for cardiovascular disease prevention, care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/new-female-specific-framework-cardiovascular-disease-prevention-and-care",
+        "summary": "Four major medical societies developed the framework, calling on providers to approach cardiovascular risk through a female-specific lens.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 2:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing\" hreflang=\"en\">Anthropic lays out drug R&amp;D ambitions, risks in mammoth IPO filing</a>",
+        "url": "https://www.fiercehealthcare.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
+        "summary": "Artificial intelligence giant Anthropic is pushing deeper into drug discovery, building its own molecular biology lab and investing in research that could eventually produce drug candidates, according to the company's blockbuster IPO filing.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 11:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/hhs-finalizes-hti-5-rule-streamline-onc-health-it-certification-and-cut-compliance-costs\" hreflang=\"en\">HHS finalizes rule to ease health IT certification requirements but punts info blocking proposals</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/hhs-finalizes-hti-5-rule-streamline-onc-health-it-certification-and-cut-compliance-costs",
+        "summary": "The final rule retains most of the core objectives from the December 2025 proposal, but ONC significantly scaled back its approach, stopping short of the sweeping overhaul of the health IT certification program it initially proposed.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 12:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/doj-charges-15-healthcare-fraud-schemes-totaling-2b\" hreflang=\"en\">DOJ charges 15 in healthcare fraud schemes totaling $2B</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/doj-charges-15-healthcare-fraud-schemes-totaling-2b",
+        "summary": "The alleged fraud includes more than $1.6 billion in a scheme targeting individuals in California for “sham substance abuse treatment,” officials say.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 12:34pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/bon-secours-mercy-health-acquire-majority-stake-surgery-partners\" hreflang=\"en\">Bon Secours Mercy Health to acquire majority stake in Surgery Partners in $5.7B deal</a>",
+        "url": "https://www.fiercehealthcare.com/providers/bon-secours-mercy-health-acquire-majority-stake-surgery-partners",
+        "summary": "The pending deal values the short-stay surgical platform at $5.7 billion and is the latest example of large health systems' push to build out their ambulatory networks.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 11:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike\" hreflang=\"en\">After postponing strike, Brigham and Women's nurses reject contract proposal</a>",
+        "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike",
+        "summary": "The nurses' union had postponed a 4,000-nurse open-ended strike, potentially the largest in Massachusetts history, to consider Mass General Brigham's \"last, best and final offer.\"",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/technology-personalizes-healthcare-hospitality\" hreflang=\"en\">Technology That Personalizes Healthcare Hospitality</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/technology-personalizes-healthcare-hospitality",
+        "summary": "See how robotics, culinary expertise and human-centered design are expanding personalized nutrition in healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2026 10:19am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/walmart-taps-startup-general-medicine-expand-better-care-services\" hreflang=\"en\">Walmart taps startup General Medicine to expand Better Care Services</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/walmart-taps-startup-general-medicine-expand-better-care-services",
+        "summary": "Walmart is teaming up with startup General Medicine to expand its Better Care Services, turning the digital healthcare platform into a more comprehensive healthcare marketplace.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 25, 2026 8:14pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/progress-report-aetnas-efforts-bridge-trust-gaps-providers\" hreflang=\"en\">A progress report on Aetna's efforts to bridge trust gaps with providers</a>",
+        "url": "https://www.fiercehealthcare.com/payers/progress-report-aetnas-efforts-bridge-trust-gaps-providers",
+        "summary": "Building stronger bridges between payers and providers will prove critical in addressing the biggest challenges facing healthcare: affordability and access.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 23, 2026 4:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Johns Hopkins Health System CEO plans 2027 retirement; RFK Jr. advisor Calley Means resigns</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements\" hreflang=\"en\">Boehringer, Microsoft team up to explore digital patient twins for clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements",
+        "summary": "Boehringer Ingelheim and Microsoft have launched a collaboration to explore the use of AI-powered digital patient twins to improve clinical trial design.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 1:24pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing\" hreflang=\"en\">Anthropic lays out drug R&amp;D ambitions, risks in mammoth IPO filing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
+        "summary": "Artificial intelligence giant Anthropic is pushing deeper into drug discovery, building its own molecular biology lab and investing in research that could eventually produce drug candidates, according to the company's blockbuster IPO filing.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 11:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing\" hreflang=\"en\">Lycia leaps onto Nasdaq with upsized $318M IPO as Windward breezes toward listing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing",
+        "summary": "Lycia Therapeutics went public with an upsized $317.5 million IPO on Friday, while immunology-focused Windward Bio is hoping to catch the same tailwinds.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 5:05am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race\" hreflang=\"en\">ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race",
+        "summary": "Incyte has pointed to a spread of phase 1 data for its KRAS G12D inhibitor as evidence that the company has a worthy rival to Revolution Medicines in this increasingly competitive cancer space.",
+        "source": "Fierce Biotech",
+        "published": "Oct 25, 2026 11:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases\" hreflang=\"en\">BioNTech sees ‘limited’ benefit to ADC after phase 3 reveals modest efficacy, ILD cases</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
+        "summary": "BioNTech has&nbsp;reported modest efficacy and unexpected safety findings in a phase 3 breast cancer trial, leading the company to conclude its HER2-directed candidate may offer limited benefits in the current treatment landscape.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 8:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause\" hreflang=\"en\">BMS sheds light on patient death in CAR-T trial, wants to get program back on track</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
+        "summary": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
+        "source": "Fierce Biotech",
+        "published": "Oct 23, 2026 2:56pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout\" hreflang=\"en\">ESMO: Genmab posts phase 3 win for Elahere rival, ahead of ‘very interesting’ data from Merus buyout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout",
+        "summary": "Genmab may have arrived in Spain with updated data from a pair of phase 2 studies from the main prize of its Merus buyout, but the company had bigger news to share.",
+        "source": "Fierce Biotech",
+        "published": "Oct 24, 2026 3:09am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-tango-dances-phase-3-analysts-hail-highly-synergistic-revmed-combo\" hreflang=\"en\">ESMO: Tango trims headcount after impressing analysts with ‘highly synergistic’ RevMed combo</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-tango-dances-phase-3-analysts-hail-highly-synergistic-revmed-combo",
+        "summary": "Tango disclosed a 14% reduction in headcount even as the company shared more evidence that its PRMT5 inhibitor enhances Revolution Medicines’ Rasonque.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 5:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug\" hreflang=\"en\">ESMO: BMS’ Massacesi hails ‘very promising’ data for BioNTech-partnered PD-L1xVEGF-A drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
+        "summary": "Bristol Myers Squibb Chief Medical Officer Cristian Massacesi, M.D., has told Fierce that the latest data for its BioNTech-partnered PD-L1xVEGF-A drug are “very promising,” as phase 3 ambitions ramp up.v",
+        "source": "Fierce Biotech",
+        "published": "Oct 25, 2026 12:03pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss\" hreflang=\"en\">ESMO: AstraZeneca exec insists phase 3 ADC data ‘robust’ enough for regulators despite PFS miss</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss",
+        "summary": "An AstraZeneca executive was adamant that detailed data from a phase 3 study of the pharma’s next-generation antibody-drug conjugate are “robust” enough to take to regulators, despite the trial failing to meet a key endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Oct 24, 2026 9:07am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities\" hreflang=\"en\">ESMO: Roche touts ‘convincing’ phase 3 KRAS data after win over rivals</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities",
+        "summary": "Roche has shed more light on its investigational KRAS G12C inhibitor’s phase 3 victory over Amgen’s Lumakras and Bristol Myers Squibb’s Krazati.",
+        "source": "Fierce Biotech",
+        "published": "Oct 24, 2026 9:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug\" hreflang=\"en\">ESMO: J&amp;J exec says RIPTAC readout is ‘best data we’ve ever seen’ for a prostate cancer drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
+        "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson &amp; Johnson has unveiled the first data from its shiny new RIPTAC pipeline it believes could sustain its leading role in prostate cancer.",
+        "source": "Fierce Biotech",
+        "published": "Oct 25, 2026 9:47am",
+        "importance_hint": 4
+      },
+      {
+        "title": "36氪发布2026 Hardcore 100榜单：前沿，正在成为现实",
+        "url": "https://www.36kr.com/p/4043538991797379",
+        "summary": "100家主榜企业、四项特别榜，记录2026年前沿技术进入现实的具体坐标。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 27 Oct 2026 03:04:31 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "“慢品牌”蓝瓶咖啡，被“中国金主”按下快进键",
+        "url": "https://www.36kr.com/p/4042556136527495",
+        "summary": "大钲资本推动蓝瓶咖啡中国扩张，前景待观",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 26 Oct 2026 23:52:34 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2610.23928",
+        "summary": "Native NVFP4 promises to accelerate reinforcement learning (RL) for large language models (LLMs), but achieving stable learning across separate training and sampling engines remains challenging. We show that matching model weights and numerical formats is insufficient to ensure consistent policy evaluation, highlighting the importance of cross-engine numerical execution. We introduce miniTE, a lightweight framework that combines execution diagnostics, cross-engine numerical alignment, and efficient native W4A4 (4-bit weights and activations) GEMM computation for LLM RL. It improves numerical e",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-06T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+        "url": "https://huggingface.co/papers/2610.33966",
+        "summary": "People have long dreamed of an assistant that is always there to guide them and remind what they forget, from new dishes to lost keys. Powered by multimodal large language models (MLLMs), egocentric AI assistants on wearable devices are bringing this dream within reach: they see what the user sees and give instructions for user's physical work when necessary. However, testing such assistance is challenging and usually requires real people. The expensive and rare real interaction data leaves a key question unanswered: Can today's MLLMs truly help people in physical world? To answer this questio",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-24T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "On the Token Collapse Phenomenon in Textual Graph Soft Prompting",
+        "url": "https://huggingface.co/papers/2610.31572",
+        "summary": "Recent methods for injecting graph structure into LLM prompts include graph soft prompting, in which a graph neural network (GNN) learns graph-specific tokens that capture relational information among entities in textual prompts. G-Retriever combines graph soft prompts with a verbalized description of the same graph to strengthen the textual prompt signal. We conduct an in-depth analysis of G-Retriever and uncover a pathological behavior we term token collapse. Across three benchmarks, three graph encoders, two LLM families, and both frozen and LoRA-adapted models, G-Retriever's graph tokens b",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Co-adaptive Rule Routing and Constraining for Structured Knowledge Retrieval",
+        "url": "https://huggingface.co/papers/2610.14465",
+        "summary": "Structured knowledge retrieval acquires task-relevant evidence from structured knowledge sources for downstream tasks. Existing methods rely on unconstrained retrieval or predefined query-rule supervision, such as author-paper rules for scientific discovery and anatomy-drug rules for precision medicine. Such supervision is rarely available in practice. We propose Co-Adaptive Rule Routing and Constraining Retrieval (CoRE), which jointly learns which reasoning rule to assign to each query and how to retrieve evidence under that rule, without predefined query-rule pairs. A routing agent selects a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-16T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

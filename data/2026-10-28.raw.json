@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:29:27.451447+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+        "url": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/",
+        "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 18:45:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
+        "url": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/",
+        "summary": "Recent deaths are setbacks in drug companies’ interest in applying cancer therapy strategies to autoimmune diseases.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 18:05:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
+        "url": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/",
+        "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 16:17:33 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: RFK Jr. goes for broke in Iowa",
+        "url": "https://www.statnews.com/2026/10/27/rfk-jr-campaigns-zach-lahn-iowa-coins-binsa-china-biotech-rules/",
+        "summary": "Kennedy on the campaign trail for MAHA, and new rules loom for U.S. investments in Chinese biotech.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 15:45:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nonprofit resurrects shelved gene therapy after startup shuts down",
+        "url": "https://www.statnews.com/2026/10/27/biotech-news-nonprofit-resurrects-shelved-gene-therapy/",
+        "summary": "Last year, U.K. gene therapy startup Bloomsbury Genetic Therapies announced it was shutting down after dosing just one patient. Now, a nonprofit is resurrecting its lead program:",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 14:28:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Novo setback in court, a House probe into big PBMs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/27/novo-setback-in-court-house-probe-into-big-pbms/",
+        "summary": "A U.S. judge rejected a bid to block ‌Eli Lilly from running what Novo Nordisk claims is a “deceptive” advertising campaign about weight loss drugs",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 13:25:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A possible treatment for brain-eating amoebas, found in the sea",
+        "url": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/",
+        "summary": "Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 12:22:28 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Emergency pediatric care is now in permanent crisis mode",
+        "url": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/",
+        "summary": "“In 2026, the unprecedented pediatric patient crowding of 2022 has become a normal Tuesday,” write Jonathan Kohler and Mary King.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Cancer vaccines are finally here. How do we get them to patients?",
+        "url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/",
+        "summary": "“If we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,” write Karen E. Knudsen and Othman Laraki.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
+        "url": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/",
+        "summary": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice.",
+        "source": "STAT News",
+        "published": "Tue, 27 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
+        "url": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/",
+        "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 23:17:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
+        "url": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/",
+        "summary": "The deal would make the Catholic system one of the largest operators of outpatient surgery centers.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 21:54:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: HHS relaxes security, transparency rules for health record software used by hospitals",
+        "url": "https://www.statnews.com/2026/10/26/health-data-interoperability-hti5-relaxes-privacy-security-requirements/",
+        "summary": "The Trump administration removed several security, privacy and transparency requirements for vendors of EHR software.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 21:16:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: House lawmaker probes PBMs for ‘punitive’ audits of independent pharmacies",
+        "url": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/",
+        "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 16:26:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GSK sees its return to cancer start to pay off",
+        "url": "https://www.statnews.com/2026/10/26/gsk-cancer-esmo-adcs-jemperli/",
+        "summary": "A decade ago, GSK was out of oncology. It could soon pick up approval for its sixth cancer drug.",
+        "source": "STAT News",
+        "published": "Mon, 26 Oct 2026 16:20:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/work-requirements-state-directed-payments-front-and-center-namd-2026\" hreflang=\"en\">Work requirements, state-directed payments front-and-center at NAMD 2026</a>",
+        "url": "https://www.fiercehealthcare.com/payers/work-requirements-state-directed-payments-front-and-center-namd-2026",
+        "summary": "The conference, hosted by the National Association of Medicaid Directors, gathered attendees from both sides of the aisle. The agenda focused largely on policy, including H.R. 1, and technology.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 27, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/universal-health-services-grows-revenues-trims-earnings-q3\" hreflang=\"en\">Universal Health Services grows revenues, trims earnings in Q3</a>",
+        "url": "https://www.fiercehealthcare.com/providers/universal-health-services-grows-revenues-trims-earnings-q3",
+        "summary": "The acute and behavioral health chain's operating numbers further disappointed investors after fellow for-profit HCA Healthcare outlined a tepid 2027 outlook.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 27, 2026 5:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">Aetna sues to challenge 2027 MA star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "CVS Heath's Aetna is joining the ranks of insurers suing over its results in the 2027 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—HATCo CEO steps down; CDC deputy director resigns</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hca-healthcare-tops-q3-expectations-strong-demand-warns-persistent-payer-mix-issues\" hreflang=\"en\">HCA Healthcare tops Q3 expectations on strong demand, but warns of persistent payer mix issues</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-tops-q3-expectations-strong-demand-warns-persistent-payer-mix-issues",
+        "summary": "The country's largest for-profit health system opened up earnings season with strong numbers, but outlined ongoing and future headwinds that checked investor enthusiasm.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 27, 2026 12:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/democratic-senators-probe-insurers-role-canceling-aca-coverage-760k\" hreflang=\"en\">Democratic senators probe insurers' role in canceling ACA coverage for 760K</a>",
+        "url": "https://www.fiercehealthcare.com/payers/democratic-senators-probe-insurers-role-canceling-aca-coverage-760k",
+        "summary": "Several prominent Democratic senators are seeking answers from health plans over the termination of 760,000 people from the Affordable Care Act's coverage rolls in September.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 27, 2026 1:12pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centene-posts-71m-loss-506b-revenue-q3\" hreflang=\"en\">Why Centene's CEO sees opportunity for 'long-term growth' in Medicaid</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centene-posts-71m-loss-506b-revenue-q3",
+        "summary": "Centene is the latest insurer in the third quarter to highlight some positive signals in Medicaid.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 27, 2026 7:47am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/university-texas-austin-unveils-new-academic-health-system-it-builds-ai-native-hospital\" hreflang=\"en\">UT Austin unveils UT Dell Medicine as it bets big on new AI-native hospital</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/university-texas-austin-unveils-new-academic-health-system-it-builds-ai-native-hospital",
+        "summary": "UT Dell Medicine wants to build the hospital of the future from the ground up. Health system leaders detail their tech-forward strategy.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 27, 2026 8:07am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hhs-calls-hospitals-sign-make-hospital-food-healthier-pledge\" hreflang=\"en\">Over 250 hospitals sign HHS' voluntary 'Make Hospital Food Healthier Pledge'</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hhs-calls-hospitals-sign-make-hospital-food-healthier-pledge",
+        "summary": "The administration is seeking voluntary commitments from hospitals to serve less processed foods in line with recently updated dietary guidelines, which officials said will boost chronic disease prevention and general long-term wellness.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 9, 2026 1:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine\" hreflang=\"en\">Vera Health secures $28.5M series A for AI-driven clinical search engine</a>",
+        "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine",
+        "summary": "Vera Health’s platform scans more than 60 million peer-reviewed publications, clinical guidelines, consensus statements and drug labels, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 4:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members\" hreflang=\"en\">UnitedHealthcare expands AI companion Avery to 21M members</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members",
+        "summary": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 3:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/south-carolinas-rural-hospitals-receiving-free-cyber-support-under-pilot-program\" hreflang=\"en\">South Carolina's rural hospitals receive free cyber support under pilot program</a>",
+        "url": "https://www.fiercehealthcare.com/providers/south-carolinas-rural-hospitals-receiving-free-cyber-support-under-pilot-program",
+        "summary": "A six-month partnership between the state, the White House and tech vendors will bolster rural hospitals' defenses while evaluating technologies for nationwide deployment.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 26, 2026 4:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy\" hreflang=\"en\">Artiva lays off 94% of staff after deaths and durability sink autoimmune cell therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy",
+        "summary": "Artiva Biotherapeutics has halted development of an autoimmune disease cell therapy and laid off 94% of its staff after two patients died and durability data fell short of expectations.",
+        "source": "Fierce Biotech",
+        "published": "Oct 27, 2026 8:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ras-rivalries-leaked-vaccine-readouts-esmo-brought-data-drama\" hreflang=\"en\">From RAS rivalries to leaked cancer vaccine readouts, ESMO brought the data drama</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ras-rivalries-leaked-vaccine-readouts-esmo-brought-data-drama",
+        "summary": "Every ESMO conference is eventful, but the drama kicked into gear earlier than expected this year when the eagerly anticipated phase 3 data for Moderna and Merck &amp; Co.’s cancer vaccine were leaked two days before the Presidential Symposium.",
+        "source": "Fierce Biotech",
+        "published": "Oct 27, 2026 6:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-bambusa-both-shoot-134m-ipos\" hreflang=\"en\">Parkinson’s-focused Aspen and bispecific biotech Bambusa both shoot for $134M IPOs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-bambusa-both-shoot-134m-ipos",
+        "summary": "Parkinson’s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are each hoping to raise around $134 million from their respective IPOs.",
+        "source": "Fierce Biotech",
+        "published": "Oct 27, 2026 7:37am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/377m-spac-deal-corxel-says-its-oral-obesity-drug-right-lane-or-corxel-takes-oral-obesity\" hreflang=\"en\">Corxel claims oral obesity drug is in the ‘right lane’ as biotech plans SPAC route to Nasdaq</a>",
+        "url": "https://www.fiercebiotech.com/biotech/377m-spac-deal-corxel-says-its-oral-obesity-drug-right-lane-or-corxel-takes-oral-obesity",
+        "summary": "Corxel Pharmaceuticals may not have always planned to dust off the SPAC route to the public markets, but the obesity-focused biotech is happy with its choice.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 3:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-continues-acquisition-spree-it-buys-millennium-health\" hreflang=\"en\">Labcorp continues acquisition spree as it buys up Millennium Health</a>",
+        "url": "https://www.fiercebiotech.com/medtech/labcorp-continues-acquisition-spree-it-buys-millennium-health",
+        "summary": "Labcorp is acquiring Millennium Health to boost the medtech giant’s toxicology testing capabilities throughout the U.S.",
+        "source": "Fierce Biotech",
+        "published": "Oct 27, 2026 2:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials\" hreflang=\"en\">BMS joins 3-year partnership to boost participation in cancer trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials",
+        "summary": "The Institute for Healthcare Improvement has partnered with Bristol Myers Squibb on an initiative to expand access to cancer trials.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 1:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail\" hreflang=\"en\">Novartis CEO keeps faith in Avidity deal despite taking $1.9B hit from del-desiran fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail",
+        "summary": "Novartis CEO Vas Narasimhan has insisted that the phase 3 fail for del-desiran is just a “bump” in the Swiss pharma’s wider plans for the drug, despite costing the company an estimated $1.9 billion.",
+        "source": "Fierce Biotech",
+        "published": "Oct 27, 2026 3:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsks-b7-h3-adc-drives-67-cancer-risk-reduction-phase-3\" hreflang=\"en\">GSK’s B7-H3 ADC drives 67% cancer risk reduction in Hansoh's phase 3 China trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gsks-b7-h3-adc-drives-67-cancer-risk-reduction-phase-3",
+        "summary": "A phase 3 trial has linked GSK’s risvutatug rezetecan to a 67% reduction in the risk of disease progression or death, providing evidence that B7-H3-directed antibody-drug conjugates work in relapsed osteosarcoma.",
+        "source": "Fierce Biotech",
+        "published": "Oct 27, 2026 3:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements\" hreflang=\"en\">Boehringer, Microsoft team up to explore digital patient twins for clinical trials</a>",
+        "url": "https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements",
+        "summary": "Boehringer Ingelheim and Microsoft have launched a collaboration to explore the use of AI-powered digital patient twins to improve clinical trial design.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 1:24pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing\" hreflang=\"en\">Anthropic lays out drug R&amp;D ambitions, risks in mammoth IPO filing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
+        "summary": "Artificial intelligence giant Anthropic is pushing deeper into drug discovery, building its own molecular biology lab and investing in research that could eventually produce drug candidates, according to the company's blockbuster IPO filing.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 11:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing\" hreflang=\"en\">Lycia leaps onto Nasdaq with upsized $318M IPO as Windward breezes toward listing</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing",
+        "summary": "Lycia Therapeutics went public with an upsized $317.5 million IPO on Friday, while immunology-focused Windward Bio is hoping to catch the same tailwinds.",
+        "source": "Fierce Biotech",
+        "published": "Oct 26, 2026 5:05am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race\" hreflang=\"en\">ESMO: Why Incyte sees itself ‘neck and neck’ with RevMed in KRAS G12D pancreatic cancer race</a>",
+        "url": "https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race",
+        "summary": "Incyte has pointed to a spread of phase 1 data for its KRAS G12D inhibitor as evidence that the company has a worthy rival to Revolution Medicines in this increasingly competitive cancer space.",
+        "source": "Fierce Biotech",
+        "published": "Oct 25, 2026 11:14am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models",
+        "url": "https://huggingface.co/papers/2610.31566",
+        "summary": "Large language models have shown outstanding performance on text-first tasks such as coding, math, and writing. Recent efforts are shifting models' training to include scientific problems that often live in highly specialized domains beyond text, such as protein structure and biological images. However, in these scenarios, their general-purpose accuracy compared with specialized algorithms remains in question. One such domain is cell tracking, which requires spatiotemporal awareness of cell dynamics. To evaluate this, we created a new benchmark, CellTrack-Bench, which assesses Vision-Language ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-21T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Semantic Concept Steering Breaks the Explanation Drift Loop in Continual Learning",
+        "url": "https://huggingface.co/papers/2610.33877",
+        "summary": "Catastrophic forgetting in continual learning (CL) manifests not only as accuracy degradation but also as explanation drift: models maintain predictive accuracy while silently shifting attention from diagnostic features to spurious correlations. This work identifies and resolves a previously overlooked structural flaw in explanation-aware CL: pixel-level saliency regularization derives supervision targets from the model's own frozen saliency maps, creating a self-referential drift loop that actively reinforces spurious attention across tasks. We introduce C^3L (Concept-Consistent Continual Lea",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-23T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

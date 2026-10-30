@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:40:47.727817+08:00",
+  "counts": {
+    "news": 41,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+        "url": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/",
+        "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 18:57:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
+        "url": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/",
+        "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 16:44:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The EPIC investigation, and a Teladoc surprise",
+        "url": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/",
+        "summary": "In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 16:15:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
+        "url": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/",
+        "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 14:45:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
+        "url": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/",
+        "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 14:18:27 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
+        "url": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/",
+        "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 13:43:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
+        "url": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/",
+        "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 13:38:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
+        "url": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/",
+        "summary": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 13:25:01 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/",
+        "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 12:52:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
+        "url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/",
+        "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
+        "url": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/",
+        "summary": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Biopharma industry at odds over impact of Treasury’s new China rule",
+        "url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/",
+        "summary": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Politicians have failed to tackle health care affordability. It’s now voters’ rallying cry",
+        "url": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/",
+        "summary": "As costs surge, voters are embracing more radical solutions to the crisis.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Health care needs buyers willing to say no",
+        "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/",
+        "summary": "\"The industry’s major players have little appetite for change,\" writes Anthony T. Lo Sasso.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+        "url": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/",
+        "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
+        "source": "STAT News",
+        "published": "Wed, 28 Oct 2026 20:51:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027\" hreflang=\"en\">Community Health Systems logs $86M net loss in Q3, hopes for return of 'pent-up' electives in 2027</a>",
+        "url": "https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027",
+        "summary": "The for-profit hospital chain landed below internal and analyst expectations in the quarter due to now-familiar hurdles around elective surgeries and uninsured patients.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 4:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tenet-healthcare-sails-past-q3-earnings-estimates-boosts-2026-guidance\" hreflang=\"en\">Tenet Healthcare sails past Q3 earnings estimates, boosts 2026 guidance</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tenet-healthcare-sails-past-q3-earnings-estimates-boosts-2026-guidance",
+        "summary": "Executives said the for-profit's outperformance stemmed from fundamentals like increased hospital volumes, checked expenses and increased ambulatory acuity.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 3:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials\" hreflang=\"en\">BCBSMA, Medzown team up to match members with clinical trials</a>",
+        "url": "https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials",
+        "summary": "Blue Cross Blue Shield of Massachusetts is teaming up with precision medicine company Medzown to make it easier for members with complex conditions participate in clinical trials.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 4:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule\" hreflang=\"en\">Court rejects CMS' definition of 'medical frailty' under Medicaid work requirements</a>",
+        "url": "https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule",
+        "summary": "A Massachusetts judge has sided with a coalition of states in an ongoing lawsuit over the rollout of Medicaid work requirements, and rejected the Trump administration's definition of \"medical frailty\" for critical exemptions.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/labor-department-finalizes-pbm-transparency-rule\" hreflang=\"en\">Labor Department finalizes PBM transparency rule</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/labor-department-finalizes-pbm-transparency-rule",
+        "summary": "The Trump administration has finalized a regulation that will require pharmacy benefit managers to disclose fees and compensation to self-funded employers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 1:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide\" hreflang=\"en\">NYU Langone brings OpenEvidence’s clinical AI into the EHR systemwide</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
+        "summary": "OpenEvidence is expanding its footprint in New York City through a partnership with NYU Langone Health, adding another marquee institution to an existing concentration of partnerships across the city's academic medical centers.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 8:31am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/kennedys-hhs-relaxes-enforcement-6-popular-wellness-peptides\" hreflang=\"en\">Kennedy's HHS relaxes enforcement on 6 popular wellness peptides</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/kennedys-hhs-relaxes-enforcement-6-popular-wellness-peptides",
+        "summary": "Stopping short of a formal declaration allowing their use, Department of Health and Human Services Secretary Robert F. Kennedy Jr. has cleared the way for the compounding of six popular wellness peptides.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 7:54am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data\" hreflang=\"en\">Oura, UC San Diego Health collaborate to study GLP-1 outcomes using continuous smart ring data</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data",
+        "summary": "Oura is pushing further into clinical healthcare research with its first clinical trial to study the link between smart ring data and obesity-treatment outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 28, 2026 5:37pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/eli-lillys-340b-data-policy-draws-new-opposition-missouri-ag-massachusetts-hospitals\" hreflang=\"en\">Eli Lilly's 340B data policy draws new opposition from Missouri AG, Massachusetts hospitals</a>",
+        "url": "https://www.fiercehealthcare.com/providers/eli-lillys-340b-data-policy-draws-new-opposition-missouri-ag-massachusetts-hospitals",
+        "summary": "A controversial requirement for 340B hospitals to submit claims-level data to earn statutory drug discounts has earned a cease-and-desist letter from Missouri's attorney general and yet another lawsuit from disgruntled hospitals.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 28, 2026 3:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/look-optum-rxs-new-program-managing-menopause\" hreflang=\"en\">A look at Optum Rx's new program for managing menopause</a>",
+        "url": "https://www.fiercehealthcare.com/payers/look-optum-rxs-new-program-managing-menopause",
+        "summary": "Optum Rx is launching a new program that aims to integrate specialized care for women navigating menopause into the pharmacy benefit.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 28, 2026 4:42pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/new-york-leaders-present-opioid-treatment-progress-2027-medicaid-plans\" hreflang=\"en\">New York officials share OUD treatment progress, plans for new pilot to treat stimulant use disorder</a>",
+        "url": "https://www.fiercehealthcare.com/providers/new-york-leaders-present-opioid-treatment-progress-2027-medicaid-plans",
+        "summary": "Two years after permanent federal regulations allowing greater flexibility for medications for opioid use disorder (MOUD), New York experts convened to discuss the benefits and challenges of take-home medications.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 28, 2026 2:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/judge-rejects-nc-state-health-plans-request-block-atrium-affordability-program\" hreflang=\"en\">Atrium Health, NC State Health Plan reach deal in preferred provider network dispute</a>",
+        "url": "https://www.fiercehealthcare.com/payers/judge-rejects-nc-state-health-plans-request-block-atrium-affordability-program",
+        "summary": "The new contract agreement between the system and the 750,000-member plan follows months of negotiation, exchanged barbs and a trip to the courtroom.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 5:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar\" hreflang=\"en\">Eli Lilly scraps phase 2 Alzheimer's program after drug falls short of expectations</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar",
+        "summary": "Eli Lilly has dropped its phase 2 Alzheimer's disease program for mevidalen, marking another setback for the experimental drug as the Big Pharma expands its neuroscience pipeline through multibillion-dollar acquisitions.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 11:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/merck-outlines-2027-another-year-investment-despite-recent-clinical-wins\" hreflang=\"en\">Merck outlines 2027 as ‘another year of investment’ despite recent clinical wins</a>",
+        "url": "https://www.fiercebiotech.com/pharma/merck-outlines-2027-another-year-investment-despite-recent-clinical-wins",
+        "summary": "Even as a wave of clinical trial wins bolsters its momentum, Merck &amp; Co. is prioritizing ongoing pipeline and commercial expansions over near-term margin growth, hoping to strengthen its long-term prospects past Keytruda's loss of exclusivity.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 10:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-walks-away-80m-phase-1-neurodegeneration-bet\" hreflang=\"en\">BMS walks away from $80M neurodegeneration bet after phase 1</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bms-walks-away-80m-phase-1-neurodegeneration-bet",
+        "summary": "Bristol Myers Squibb has scrapped a phase 1 program it bet $80 million on just two years ago.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 9:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomarin-inks-475m-deal-expand-challenge-fabry-incumbents\" hreflang=\"en\">BioMarin inks up to $475M deal to challenge Fabry ERT incumbents</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biomarin-inks-475m-deal-expand-challenge-fabry-incumbents",
+        "summary": "BioMarin is paying $70 million upfront to license a Fabry disease drug candidate, expanding the franchise it acquired through its $4.8 billion takeover of Amicus Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 10:14am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/flagship-reveals-new-causal-intelligence-merger-biotech-etcelera\" hreflang=\"en\">Flagship brings 3 biotech platforms together to launch AI drug discovery player Etcelera</a>",
+        "url": "https://www.fiercebiotech.com/biotech/flagship-reveals-new-causal-intelligence-merger-biotech-etcelera",
+        "summary": "Flagship Pioneering unveiled Etcelera today, a new AI-powered biotech emerging from stealth that aims to predict how potential medicines will act in patients.",
+        "source": "Fierce Biotech",
+        "published": "Oct 28, 2026 8:50pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/geron-rytelo-stumbles-phase-3-novartis-gears-post-jak-inhibitor-blood-cancer-bid\" hreflang=\"en\">Geron’s Rytelo stumbles in phase 3 as Novartis gears up for post-JAK inhibitor blood cancer bid</a>",
+        "url": "https://www.fiercebiotech.com/pharma/geron-rytelo-stumbles-phase-3-novartis-gears-post-jak-inhibitor-blood-cancer-bid",
+        "summary": "Geron has discontinued a phase 3 trial of its Rytelo in JAK inhibitor-pretreated myelofibrosis after an independent data monitoring committee ruled that the study was unlikely to succeed, just as Novartis is gearing up for a delayed FDA approval bid for its pelabresib.",
+        "source": "Fierce Biotech",
+        "published": "Oct 28, 2026 6:48pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data\" hreflang=\"en\">Oura, UC San Diego Health collaborate to study GLP-1 outcomes using continuous smart ring data</a>",
+        "url": "https://www.fiercebiotech.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data",
+        "summary": "Oura is pushing further into clinical healthcare research with its first clinical trial to study the link between smart ring data and obesity-treatment outcomes.",
+        "source": "Fierce Biotech",
+        "published": "Oct 28, 2026 5:37pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome\" hreflang=\"en\">Why researchers may have found the biological culprit behind Angelman syndrome</a>",
+        "url": "https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome",
+        "summary": "Scientists have known for a while that Angelman syndrome is caused by the loss of a specific gene, but they didn't understand how this gene loss leads to the failure of brain development in infants with the disease.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 10:16am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial\" hreflang=\"en\">Ascletis’ challenger to Lilly’s Foundayo hits goals in phase 2 diabetes trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial",
+        "summary": "A phase 2 trial of Ascletis’ oral GLP-1 drug candidate has hit its primary and secondary endpoints, positioning the Chinese biotech to mount a two-front attack on Eli Lilly’s Foundayo.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 5:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3\" hreflang=\"en\">Genmab's $8B Merus bet delivers as bispecific combo halves risk of death in phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3",
+        "summary": "Capping off a busy few days in Spain, Genmab reported results from the first interim analysis of a phase 3 trial showing that adding its bispecific antibody petosemtamab to Merck &amp; Co.'s Keytruda cut the risk of death by 50% compared with Keytruda alone in patients with PD-L1-positive recurrent or metastatic head and neck squamous cell carcinoma.",
+        "source": "Fierce Biotech",
+        "published": "Oct 28, 2026 11:58am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fdas-rare-disease-framework-aims-stand-test-time\" hreflang=\"en\">FDA’s rare disease framework aims to ‘stand the test of time’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fdas-rare-disease-framework-aims-stand-test-time",
+        "summary": "During a public hearing Wednesday to discuss a newly proposed rare disease framework, FDA center director Michael Davis, M.D., Ph.D., said the agency aims to design a scheme that “stands the test of time.”",
+        "source": "Fierce Biotech",
+        "published": "Oct 28, 2026 2:27pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company\" hreflang=\"en\">Biogen CEO tells analysts he’s focused on early-stage R&amp;D as ‘we were not very good with that’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company",
+        "summary": "Biogen's CEO has pointed to the company's ability to take five drugs into clinical trials so far this year as evidence of its new focus on early-stage R&amp;D.",
+        "source": "Fierce Biotech",
+        "published": "Oct 28, 2026 10:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "临床试验凑不齐人，AI如何制造“患者”？",
+        "url": "https://www.36kr.com/p/4045558748878724",
+        "summary": "怀着哆啦A梦的心态，做离人体最近的AI。",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 29 Oct 2026 02:14:08 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "Fabr推动企业从“使用AI工具”走向“AI原生”，推进企业级AI原生协作平台落地",
+        "url": "https://www.36kr.com/p/4038378314290308",
+        "summary": "Fabr以自研FDM企业全量过程模型，从研发协作切入AI领域。产品上线不足3个月，已与50余家大中型企业开展合作、试点及方案推进。",
+        "source": "36Kr 医疗科技",
+        "published": "Fri, 30 Oct 2026 02:52:44 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+        "url": "https://huggingface.co/papers/2610.29927",
+        "summary": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gaps, where uncovered regions along the difficulty axis prevent benchmarks from detecting meaningful localized training progress. We propose two diagnostic metrics that capture these two failure modes an",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation",
+        "url": "https://huggingface.co/papers/2610.38425",
+        "summary": "Humans routinely consume multimodal content, where textual and visual information is naturally interleaved. Although Unified Multimodal Models (UMMs) can jointly generate text and images, multimodal interleaved generation remains largely underexplored. Progress in this area is hindered by two key limitations: (1) the lack of well-defined interleaved generation tasks and corresponding training data, and (2) the absence of fine-grained evaluation protocols that can reliably diagnose model performance across different capability dimensions. To this end, we present IntReal, comprising two compleme",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas",
+        "url": "https://huggingface.co/papers/2610.22990",
+        "summary": "Computer-use agents (CUAs) are commonly evaluated against fixed task specifications, but users may omit requirements, add constraints, or require approval before consequential actions. Completing the benchmark instruction does not guarantee serving the person who asked. We introduce PersonaCUABench, which holds 74 tasks across 11 domains fixed and varies only who asks. A persona agent, playing one of 44 personas in four groups, rewrites each instruction in that user's own words and answers the CUA's questions, while the CUA sees only the dialogue, never the profile or the original instruction.",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-15T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

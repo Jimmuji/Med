@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:31:22.677141+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 14:45:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How Election Day can affect your heart",
+        "url": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/",
+        "summary": "Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 14:07:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Assessing Merck and Moderna’s mRNA cancer vaccine",
+        "url": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/",
+        "summary": "On this week's “The Readout LOUD,” we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 13:33:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/",
+        "summary": "AstraZeneca has launched a three-year cost-cutting program that aims to slice off $1.5 billion a year, with the savings reinvested in R&#038;D.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 13:22:49 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "The persisting paradox of men’s health",
+        "url": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/",
+        "summary": "A new series in The Lancet argues for the need to investigate a paradox of men’s health: why men experience worse health outcomes than women, even though they hold undeniable&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 13:12:49 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+        "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/",
+        "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+        "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/",
+        "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 08:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "The health care issues STAT reporters are watching in the midterms",
+        "url": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/",
+        "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How Congress can fix expert advisory committees",
+        "url": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/",
+        "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: How a simple UTI turns into a $1,756 bill",
+        "url": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/",
+        "summary": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars.",
+        "source": "STAT News",
+        "published": "Fri, 30 Oct 2026 08:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+        "url": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/",
+        "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 18:57:37 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
+        "url": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/",
+        "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 16:44:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The EPIC investigation, and a Teladoc surprise",
+        "url": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/",
+        "summary": "In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 16:15:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
+        "url": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/",
+        "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 14:45:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
+        "url": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/",
+        "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides.",
+        "source": "STAT News",
+        "published": "Thu, 29 Oct 2026 14:18:27 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts\" hreflang=\"en\">Who’s responsible when clinical AI goes wrong? AMA weighs in</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/whos-responsible-clinical-ai-ama-has-some-thoughts",
+        "summary": "The physician association, in a new framework, outlines its views on how different parties should bear responsibility for decisions, actions and failures involving clinical AI.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 30, 2026 3:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap\" hreflang=\"en\">Fierce Healthcare Policy Brief: HHS launches breast cancer screening initiative; RHTP funds flow to 6 states</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap",
+        "summary": "The latest news from CMS and HHS this week: White House aims to improve breast cancer screening and early detection, PBM transparency rule finalized and six states receive RHTP funding.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 30, 2026 3:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/why-oscar-health-putting-focus-personalization-aca-exchange-plans\" hreflang=\"en\">Why Oscar Health is putting a focus on personalization for ACA exchange plans</a>",
+        "url": "https://www.fiercehealthcare.com/payers/why-oscar-health-putting-focus-personalization-aca-exchange-plans",
+        "summary": "Another open enrollment period is set to begin on the Affordable Care Act's exchanges, and the team at Oscar Health is putting a focus on the unique ways it can innovate in this turbulent market.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 30, 2026 2:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-doximity-launches-dosecheck-ai-recommends-costlier-care-doctors-study\" hreflang=\"en\">Weekly Rundown: Doximity launches DoseCheck; AI recommends costlier care than doctors, study finds</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-doximity-launches-dosecheck-ai-recommends-costlier-care-doctors-study",
+        "summary": "The latest news from Doximity, Hims &amp; Hers, Google, NEJM AI, Eko Health, RevSpring, Symplr and Cleveland Clinic Cancer Institute.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 30, 2026 12:34pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/hospitals/sutter-health-investing-1b-build-new-california-hospital-expand-ambulatory-care-services\" hreflang=\"en\">Sutter Health calls off flagship hospital build in SF's East Bay, citing regulatory issues</a>",
+        "url": "https://www.fiercehealthcare.com/hospitals/sutter-health-investing-1b-build-new-california-hospital-expand-ambulatory-care-services",
+        "summary": "Sutter Health's planned $1 billion investment in Northern California's East Bay region will no longer include a new flagship medical center, at least for now. Outpatient investments in the community will still be going forward.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 19, 2025 2:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-lowers-2026-outlook-it-navigates-cost-headwinds\" hreflang=\"en\">Alignment Healthcare lowers 2026 outlook as it navigates cost headwinds</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-lowers-2026-outlook-it-navigates-cost-headwinds",
+        "summary": "Alignment Healthcare is lowering its guidance for the year as it faces significant headwinds to finish out 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 30, 2026 1:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-other-ai-divide-already-opening-healthcare\" hreflang=\"en\">Industry Voices—The other AI divide is already opening in healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-other-ai-divide-already-opening-healthcare",
+        "summary": "Collaboration is necessary to head off the compounding divergence between hospitals that have the money, talent and infrastructure to put AI to work and those that don't, writes Abundant Venture Partners' Amanda DeMano.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 30, 2026 10:42am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/teladoc-health-beats-q3-expectations-betterhelp-insurance-growth-accelerates\" hreflang=\"en\">Teladoc Health beats Q3 expectations as BetterHelp insurance growth accelerates</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-beats-q3-expectations-betterhelp-insurance-growth-accelerates",
+        "summary": "Teladoc Health raised its 2026 outlook after better-than-expected third-quarter results, as BetterHelp’s insurance pivot gained traction and Integrated Care profitability improved.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 7:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027\" hreflang=\"en\">Community Health Systems logs $86M net loss in Q3, hopes for return of 'pent-up' electives in 2027</a>",
+        "url": "https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027",
+        "summary": "The for-profit hospital chain landed below internal and analyst expectations in the quarter due to now-familiar hurdles around elective surgeries and uninsured patients.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 4:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tenet-healthcare-sails-past-q3-earnings-estimates-boosts-2026-guidance\" hreflang=\"en\">Tenet Healthcare sails past Q3 earnings estimates, boosts 2026 guidance</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tenet-healthcare-sails-past-q3-earnings-estimates-boosts-2026-guidance",
+        "summary": "Executives said the for-profit's outperformance stemmed from fundamentals like increased hospital volumes, checked expenses and increased ambulatory acuity.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 3:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials\" hreflang=\"en\">BCBSMA, Medzown team up to match members with clinical trials</a>",
+        "url": "https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials",
+        "summary": "Blue Cross Blue Shield of Massachusetts is teaming up with precision medicine company Medzown to make it easier for members with complex conditions participate in clinical trials.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 29, 2026 4:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule\" hreflang=\"en\">Court rejects CMS' definition of 'medical frailty' under Medicaid work requirements</a>",
+        "url": "https://www.fiercehealthcare.com/payers/26-states-sue-cms-over-final-medicaid-work-requirements-rule",
+        "summary": "A Massachusetts judge has sided with a coalition of states in an ongoing lawsuit over the rollout of Medicaid work requirements, and rejected the Trump administration's definition of \"medical frailty\" for critical exemptions.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 30, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials\" hreflang=\"en\">Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials",
+        "summary": "Gilead Sciences announced on its third-quarter earnings call Oct. 29 that the company has placed a partial clinical hold on two studies for the CAR-T cell therapy KITE-753 in diffuse large B-cell lymphoma (DLBCL).",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 6:40pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal\" hreflang=\"en\">When drug development gets personal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal",
+        "summary": "When Third Rock Ventures partner Jigar Raythatha was diagnosed with brain cancer, he found himself relying on a drug originally developed by Agios, a biotech his firm backed years before he joined. On \"The Top Line,\" he shares how the experience changed his perspective on drug development.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 9:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires\" hreflang=\"en\">Chutes &amp; Ladders—Lilly unifies global markets as 36-year vet Patrik Jonsson retires</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires",
+        "summary": "Lilly will unite its U.S. and international commercial units as a long-time exec retires. Enanta's CEO will hang up his hat after 23 year at the helm. Estrella has tapped a new a CEO to lead it through a clinical trial.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 3:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/bracco-invests-230m-first-us-diagnostic-imaging-manufacturing-facility\" hreflang=\"en\">Bracco invests $230M in first US diagnostic imaging manufacturing facility</a>",
+        "url": "https://www.fiercebiotech.com/medtech/bracco-invests-230m-first-us-diagnostic-imaging-manufacturing-facility",
+        "summary": "Bracco announced it will invest $230 million to establish its first U.S. manufacturing facility for injectable contrast media in Sanford, North Carolina.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 7:43am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition\" hreflang=\"en\">Jazz's $820M Actio buyout gives rise to Setara, armed with $90M series A</a>",
+        "url": "https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition",
+        "summary": "Setara Biosciences, a privately held spinout formed following Jazz Pharmaceuticals' acquisition of Actio Biosciences in September, has raised $90 million in series A financing to advance its clinical-stage neuroscience drug candidate and earlier-stage pipeline.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 11:16am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline\" hreflang=\"en\">AstraZeneca cuts early-phase prostate cancer pipeline</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline",
+        "summary": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clear out.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 5:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering\" hreflang=\"en\">Bambusa shoots past IPO targets as Aspen trims offering</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering",
+        "summary": "Bambusa Therapeutics has upsized its IPO, selling more shares at the midpoint of its target range to gross $168.9 million for bispecific R&amp;D. But Aspen Neuroscience underperformed expectations, hitting the bottom end of its target range and selling slightly fewer shares than expected.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 4:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-launches-differential-diagnosis-test-mesothelioma\" hreflang=\"en\">Roche launches differential diagnosis test for mesothelioma</a>",
+        "url": "https://www.fiercebiotech.com/medtech/roche-launches-differential-diagnosis-test-mesothelioma",
+        "summary": "Roche announced the global launch of its VENTANA BAP1 (SP527) test, an automated, ready-to-use immunohistochemistry (IHC) assay.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 3:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-considering-moonshot-ma-targets-survive-dupixent-patent-cliff\" hreflang=\"en\">Sanofi considering ‘moonshot’ treatments as M&amp;A targets to survive Dupixent patent cliff</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-considering-moonshot-ma-targets-survive-dupixent-patent-cliff",
+        "summary": "Sanofi is considering “moonshot” treatments among the potential acquisition targets needed for the French pharma to urgently replenish its pipeline, Chief Financial Officer François-Xavier Roger told Fierce.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 3:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/molecular-partners-lay-44-workforce-radiotherapy-pivot\" hreflang=\"en\">Molecular Partners to lay off up to 44% of workforce in radiotherapy pivot</a>",
+        "url": "https://www.fiercebiotech.com/biotech/molecular-partners-lay-44-workforce-radiotherapy-pivot",
+        "summary": "Molecular Partners plans to lay off up to 44% of its staff as it focuses its declining cash reserves on a radiotherapeutic pipeline led by an early-phase small cell lung cancer drug candidate.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 3:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar\" hreflang=\"en\">Eli Lilly scraps phase 2 Alzheimer's program after drug falls short of expectations</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar",
+        "summary": "Eli Lilly has dropped its phase 2 Alzheimer's disease program for mevidalen, marking another setback for the experimental drug as the Big Pharma expands its neuroscience pipeline through multibillion-dollar acquisitions.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 11:59am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/merck-outlines-2027-another-year-investment-despite-recent-clinical-wins\" hreflang=\"en\">Merck outlines 2027 as ‘another year of investment’ despite recent clinical wins</a>",
+        "url": "https://www.fiercebiotech.com/pharma/merck-outlines-2027-another-year-investment-despite-recent-clinical-wins",
+        "summary": "Even as a wave of clinical trial wins bolsters its momentum, Merck &amp; Co. is prioritizing ongoing pipeline and commercial expansions over near-term margin growth, hoping to strengthen its long-term prospects past Keytruda's loss of exclusivity.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 10:55am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+        "url": "https://huggingface.co/papers/2610.29927",
+        "summary": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gaps, where uncovered regions along the difficulty axis prevent benchmarks from detecting meaningful localized training progress. We propose two diagnostic metrics that capture these two failure modes an",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-20T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation",
+        "url": "https://huggingface.co/papers/2610.38425",
+        "summary": "Humans routinely consume multimodal content, where textual and visual information is naturally interleaved. Although Unified Multimodal Models (UMMs) can jointly generate text and images, multimodal interleaved generation remains largely underexplored. Progress in this area is hindered by two key limitations: (1) the lack of well-defined interleaved generation tasks and corresponding training data, and (2) the absence of fine-grained evaluation protocols that can reliably diagnose model performance across different capability dimensions. To this end, we present IntReal, comprising two compleme",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-27T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas",
+        "url": "https://huggingface.co/papers/2610.22990",
+        "summary": "Computer-use agents (CUAs) are commonly evaluated against fixed task specifications, but users may omit requirements, add constraints, or require approval before consequential actions. Completing the benchmark instruction does not guarantee serving the person who asked. We introduce PersonaCUABench, which holds 74 tasks across 11 domains fixed and varies only who asks. A persona agent, playing one of 44 personas in four groups, rewrites each instruction in that user's own words and answers the CUA's questions, while the CUA sees only the dialogue, never the profile or the original instruction.",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-15T20:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

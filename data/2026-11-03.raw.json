@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:26:14.611197+08:00",
+  "counts": {
+    "news": 26,
+    "papers": 4
+  },
+  "items": {
+    "news": [
+      {
+        "title": "Washington state resident dies from bird flu following exposure to infected cattle",
+        "url": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/",
+        "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 20:44:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
+        "url": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/",
+        "summary": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 17:05:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
+        "url": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/",
+        "summary": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 16:47:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries",
+        "url": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/",
+        "summary": "The FDA has approved a generic HIV prevention shot, a key step in widening access for dozens of lower-income countries.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 16:13:46 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about payments to Russian middlemen, a possible Dupixent rival, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/",
+        "summary": "Four big drugmakers allegedly paid tens of millions of dollars to middlemen to supply lifesaving drugs to Russian government entities",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 14:22:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "A STAT reporter on covering MRT as an experimental fertility treatment",
+        "url": "https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/",
+        "summary": "Inside the global fertility industry using women as \"guinea pigs\":",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 13:08:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Are you pursuing MRT as a treatment for infertility? Tell us about your experience",
+        "url": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/",
+        "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
+        "url": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/",
+        "summary": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
+        "url": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/",
+        "summary": "Women can be safely treated for many cancers during pregnancy, a maternal fetal medicine specialist writes.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The economics of the U.S. health care system are broken",
+        "url": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/",
+        "summary": "“The economics of the U.S. health care system are broken,” writes Paul Markovich, president and CEO of Ascendiun.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Women travel thousands of miles for a reproductive moonshot. Scientists say they’ve been misled",
+        "url": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/",
+        "summary": "Pioneering IVF technique to reduce the risk of children inheriting mitochondrial diseases is being marketed as a fertility procedure for older women, despite little evidence it works.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone\" hreflang=\"en\">FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
+        "summary": "The FDA has accepted uniQure’s priority review and application for its gene therapy treatment for Huntington’s disease.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 3:28pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid\" hreflang=\"en\">Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger</a>",
+        "url": "https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid",
+        "summary": "In an answer to Karyopharm's cash crisis, Irish biotech Ayrmid has agreed to make the first bid on the struggling biopharma's assets in a court supervised auction, teeing up a potential hematology merger.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 10:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m\" hreflang=\"en\">OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m",
+        "summary": "Canada's OpenAI-backed startup Biossil Labs has extended its pharma shopping spree with a deal worth up to $91 million for Theriva Biologics' deprioritized early- to mid-stage portfolio of antibiotic-degrading enzymes.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 9:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility\" hreflang=\"en\">Teva ends trial of one of its original line-up of innovative meds over futility</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility",
+        "summary": "Teva has given up on a key trial of one of its original line-up of innovative medicines.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 9:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial\" hreflang=\"en\">FDA dims Bright Minds’ outlook with partial hold on seizure trial over toxicity in mice</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial",
+        "summary": "The FDA has put a partial hold on Bright Minds Biosciences’ seizure study application over preclinical toxicity data and concerns about its preparations for enrolling children.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 8:43am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose\" hreflang=\"en\">Lower dose of Tiziana's MS drug reduces neuroinflammation, while higher dose struggles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose",
+        "summary": "Tiziana Life Sciences’ intranasal drug has hit the dual endpoints of a phase 2a study in patients with a form of multiple sclerosis (MS), although the win was slightly marred by the higher dose missing a key neuroinflammation goal.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 8:40am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/connected-clinical-research-fragmentation-progress\" hreflang=\"en\">Connected clinical research: from fragmentation to progress</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/connected-clinical-research-fragmentation-progress",
+        "summary": "Mike Novotny examines the funding, technology and operational challenges shaping clinical research, and why connected systems matter.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 2:35pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/cost-waiting-what-reaching-clinical-proof-concept-sooner-means-biotech-cash-burn\" hreflang=\"en\">The cost of waiting: What reaching clinical proof-of-concept sooner means for biotech cash burn</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/cost-waiting-what-reaching-clinical-proof-concept-sooner-means-biotech-cash-burn",
+        "summary": "Explore how delays before clinical proof-of-concept increase biotech cash burn, and how connected drug development can preserve capital and runway.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 11:15am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/inventisbio-delivers-competitive-tyk2-data-phase-3-psoriasis-win\" hreflang=\"en\">China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/inventisbio-delivers-competitive-tyk2-data-phase-3-psoriasis-win",
+        "summary": "A phase 3 trial of InventisBio’s nomelcitinib has hit its primary endpoint, delivering evidence that the TYK2 inhibitor can hold its own against rival psoriasis drugs.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 5:47am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials\" hreflang=\"en\">Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials</a>",
+        "url": "https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials",
+        "summary": "Gilead Sciences announced on its third-quarter earnings call Oct. 29 that the company has placed a partial clinical hold on two studies for the CAR-T cell therapy KITE-753 in diffuse large B-cell lymphoma (DLBCL).",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 6:40pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal\" hreflang=\"en\">When drug development gets personal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal",
+        "summary": "When Third Rock Ventures partner Jigar Raythatha was diagnosed with brain cancer, he found himself relying on a drug originally developed by Agios, a biotech his firm backed years before he joined. On \"The Top Line,\" he shares how the experience changed his perspective on drug development.",
+        "source": "Fierce Biotech",
+        "published": "Oct 30, 2026 9:33am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires\" hreflang=\"en\">Chutes &amp; Ladders—Lilly unifies global markets as 36-year vet Patrik Jonsson retires</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires",
+        "summary": "Lilly will unite its U.S. and international commercial units as a long-time exec retires. Enanta's CEO will hang up his hat after 23 year at the helm. Estrella has tapped a new a CEO to lead it through a clinical trial.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 3:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "高盛最新报告刷屏：你，有这4条护城河",
+        "url": "https://www.36kr.com/p/4052655350387848",
+        "summary": "未来10年，3种“抗AI”生意经",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 02 Nov 2026 23:26:25 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "被红杉中国反复加注的 25 家公司",
+        "url": "https://www.36kr.com/p/4052464110031745",
+        "summary": "照着红杉投，靠谱吗？",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 02 Nov 2026 12:09:23 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "脑机接口狂奔元年：72亿热钱就位，抢人大战已开打｜全景",
+        "url": "https://www.36kr.com/p/4049069719828737",
+        "summary": "一文读懂中国脑机接口的人才谱系与资本流向。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 02 Nov 2026 01:20:05 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Diagnosing the Reference Gap: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning",
+        "url": "https://huggingface.co/papers/2610.39419",
+        "summary": "Multimodal large language models can recognize visual content yet struggle to reason reliably over it across multiple steps. In counting, a model may see all objects but lose track of which ones it has counted. We argue that such failures, commonly attributed to perception, reveal a reference gap: the failure to bind language to the relevant visual entities, regions, or locations. Motivated by the theory of visual routines, we test whether external references such as numbering can narrow this gap. We introduce ReGap-Bench, a paired benchmark of five visual reasoning tasks in which the scene, q",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-29T02:00:35.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation",
+        "url": "https://huggingface.co/papers/2610.29617",
+        "summary": "Edge medical segmentation must reconcile small model size, high accuracy, and fast inference. TernScope addresses this tradeoff through model--hardware co-design, learning a compact segmentation network whose low-bit operators also simplify hardware execution. Split-channel large-kernel blocks preserve spatial context with limited computation, while branch fusion removes redundant inference paths. Ternary Progressive Quantization-aware Training (TPQ) then adapts the fused network from deep to shallow layers, through the decoder, and finally to the input and prediction layers. All 25 convolutio",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-21T07:56:23.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+        "url": "https://huggingface.co/papers/2610.39086",
+        "summary": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis of evidence use and intervention quality. To address these gaps, we introduce HALO, Human-Grounded GrAnular EvaLuation of PrOactive Agents. HALO-Arena covers 4 proactive need types, Dependency, Blockage, Risk, and Opportunity, across 10 everyday domains and 50 personal environments. Scenarios require agents to retrieve evidence from structured databases or unstructured documents before judging whe",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-28T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+        "url": "https://huggingface.co/papers/2610.42141",
+        "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong alternative to finetuning on a novel setup. In RoboArchitect, a coding model observes a robot's rollouts, diagnoses failures, and iteratively revises the harness around the frozen policy. The harness evolves on a set of episodes for its optimization ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-29T20:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

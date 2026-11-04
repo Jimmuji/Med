@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:07:42.948570+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Democrats win power to push back on Trump’s health care moves",
+        "url": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/",
+        "summary": "Democrats win Senate control, and with it the power to push back on Trump’s health care moves.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 04:38:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
+        "url": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/",
+        "summary": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 20:53:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety",
+        "url": "https://www.statnews.com/2026/11/03/mass-general-brigham-layoffs-ceo-letter-staff-anxiety/",
+        "summary": "A cryptic email sent to Mass General Brigham employees by the health system's CEO is stirring staff anxiety less than two weeks after a round of layoffs.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 20:33:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Who will get the first psychedelic approved?",
+        "url": "https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/",
+        "summary": "The biotech Compass Pathways has been seen as one of the frontrunners in the race to get the first psychedelic drug approved. But it could be a tight race, with a non-profit&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 15:36:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What do the midterms mean for health care?",
+        "url": "https://www.statnews.com/2026/11/03/midterm-election-health-care-issues-dc-diagnosis-newsletter/",
+        "summary": "STAT unpacks what the midterms mean for health policy, MAHA, and health insurance.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 15:29:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA, CMS look to collaborate with states on health AI",
+        "url": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/",
+        "summary": "In this edition of STAT Health Tech: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 14:51:12 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a generic HIV prevention shot, Lonza buying U.S. facilities, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/03/generic-hiv-prevention-shot-lonza-buying-facilities-in-us/",
+        "summary": "The FDA gave tentative approval to Dr. Reddy’s Laboratories to make a generic version of a groundbreaking HIV prevention medicine",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 14:44:54 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Child dies of measles in New York’s first such death in 30 years",
+        "url": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/",
+        "summary": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 13:48:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "First U.S. bird flu death of the year after cattle exposure",
+        "url": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/",
+        "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It’s the first such death this year in the U.S., and the third&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 12:52:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: What the 2024 electoral map reveals about America’s mortality divide",
+        "url": "https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/",
+        "summary": "Leading drivers of mortality look different according to political geography, experts write.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: How meditation helped me become a better doctor overnight",
+        "url": "https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/",
+        "summary": "“The inner work of meditation and self-inquiry can support the outer work of patient care,” writes a physician.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts",
+        "url": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/",
+        "summary": "Scientists and ethicists are rethinking the potential risks and benefits of a technology to prevent babies from inheriting rare mitochondrial diseases.",
+        "source": "STAT News",
+        "published": "Tue, 03 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Washington state resident dies from bird flu following exposure to infected cattle",
+        "url": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/",
+        "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 20:44:40 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
+        "url": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/",
+        "summary": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 17:05:28 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
+        "url": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/",
+        "summary": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:",
+        "source": "STAT News",
+        "published": "Mon, 02 Nov 2026 16:47:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medicare-part-d-premiums-projected-rise-50-2027-without-plan-switching-kff\" hreflang=\"en\">Medicare Part D premiums projected to rise 50% in 2027 without plan switching: KFF</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medicare-part-d-premiums-projected-rise-50-2027-without-plan-switching-kff",
+        "summary": "Medicare beneficiaries who stay in their current stand-alone Part D plans could face sharply higher premiums, deductibles and other out-of-pocket costs in 2027, a KFF analysis found.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 7:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-athenahealth-collaborate-expanded-electronic-prior-authorizations-nationwide\" hreflang=\"en\">Humana, athenahealth collaborate on expanded electronic prior authorizations nationwide</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-athenahealth-collaborate-expanded-electronic-prior-authorizations-nationwide",
+        "summary": "The move reflects Humana’s broader strategy to improve care access through requiring fewer prior authorizations and making the process simpler when needed, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 12:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death\" hreflang=\"en\">Measles update: New York reports first measles-associated death; US nears 5,000 confirmed cases</a>",
+        "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+        "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/hinge-health-posted-52-revenue-growth-q3-it-ramps-expansion-migraine-gi-care\" hreflang=\"en\">Hinge Health revenue jumps 52% in Q3 as it expands beyond MSK, eyes hardware acquisitions</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/hinge-health-posted-52-revenue-growth-q3-it-ramps-expansion-migraine-gi-care",
+        "summary": "Hinge Health is seeing early traction with its migraine and gastrointestinal care programs as it pushes beyond musculoskeletal care and builds a broader, multi-condition platform.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 8:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Children's Mercy cuts 1.2% of workforce, outsources RCM staff; 73 laid off at City of Hope</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system\" hreflang=\"en\">Samaritan Health Services, MultiCare Health System close merger</a>",
+        "url": "https://www.fiercehealthcare.com/providers/samaritan-health-services-join-multicare-health-system",
+        "summary": "The affiliation gives MultiCare an acute-care foothold in Oregon and directs $700 million of investment toward Samaritan over the next decade.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 22, 2025 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/leantaas-expands-iqueue-ambient-intelligence-lookdeep-acquisition\" hreflang=\"en\">LeanTaaS expands iQueue into ambient intelligence with LookDeep acquisition</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/leantaas-expands-iqueue-ambient-intelligence-lookdeep-acquisition",
+        "summary": "LeanTaaS is expanding iQueue beyond hospital capacity management into ambient intelligence, using its acquisition of LookDeep Health to add computer vision that monitors patient rooms and turns real-time signals into prioritized actions for care teams.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 7:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/ftc-issues-warning-letters-over-deceptive-marketing-aca-enrollment-opens\" hreflang=\"en\">FTC issues warning letters over deceptive marketing as ACA enrollment opens</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/ftc-issues-warning-letters-over-deceptive-marketing-aca-enrollment-opens",
+        "summary": "Open enrollment season is getting underway, and the Federal Trade Commission sent warning letters to 25 companies that conduct marketing or generate sales leads for insurers.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 2, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/zocdoc-opens-infrastructure-ai-agents-launches-partnership-instinct\" hreflang=\"en\">Zocdoc opens infrastructure to AI agents, launches partnership with Instinct</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/zocdoc-opens-infrastructure-ai-agents-launches-partnership-instinct",
+        "summary": "The scheduling platform also announced a partnership with AI personal assistant Instinct.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 2, 2026 12:54pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-nearly-two-thirds-pediatric-prior-auths\" hreflang=\"en\">UnitedHealthcare eliminates prior authorization requirements on 2K pediatric services</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-nearly-two-thirds-pediatric-prior-auths",
+        "summary": "UnitedHealthcare will eliminate the need for prior authorization on more than 2,000 codes for pediatric services beginning on Dec. 1, the company announced Monday.",
+        "source": "Fierce Healthcare",
+        "published": "May 29, 2026 11:22am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike\" hreflang=\"en\">Brigham and Women's nurses set Nov. 12 date for open-ended strike</a>",
+        "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike",
+        "summary": "The nurses' union had postponed a 4,000-nurse open-ended strike, potentially the largest in Massachusetts history, to consider Mass General Brigham's \"last, best and final offer.\"",
+        "source": "Fierce Healthcare",
+        "published": "Sep 25, 2026 11:53am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude\" hreflang=\"en\">Athenahealth launches tool to bring patient health records into Anthropic's Claude</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
+        "summary": "Athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic’s Claude, through a new MCP connection designed to give patients personalized answers based on their clinical data.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 1, 2026 6:49pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/philips-books-322m-payment-proposed-doj-settlement-over-sleep-apnea-device-recall\" hreflang=\"en\">Philips sets aside $322M for proposed DOJ settlement over sleep apnea device recall</a>",
+        "url": "https://www.fiercebiotech.com/medtech/philips-books-322m-payment-proposed-doj-settlement-over-sleep-apnea-device-recall",
+        "summary": "Philips’ Respironics division has reached an “agreement in principle” with the U.S. Department of Justice to settle a long-running investigation into its recall of potentially defective sleep apnea devices.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 5:05am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rhythm-doubles-down-lg-obesity-license-raising-payout-much-855m\" hreflang=\"en\">Rhythm doubles down on LG obesity license, raising payout to as much as $855M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rhythm-doubles-down-lg-obesity-license-raising-payout-much-855m",
+        "summary": "Rhythm Pharmaceuticals and LG Chem have rewritten the terms of their licensing agreement for the oral obesity and hyperphagia drug bivamelagon, growing to $855 million in scheduled payments from the earlier milestone-based deal of $305 million.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 9:35am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-abandons-phase-2-stage-solid-tumor-drug-over-limited-benefit\" hreflang=\"en\">AbbVie abandons phase 2 solid tumor drug over ‘limited benefit’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-abandons-phase-2-stage-solid-tumor-drug-over-limited-benefit",
+        "summary": "AbbVie has scrapped a phase 2 solid tumor drug after deciding that the monoclonal antibody was unlikely to best the current standard of care, Fierce has learned.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 8:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-drops-phase-2-lung-disease-candidate-pares-back-obesity-pipeline\" hreflang=\"en\">Pfizer pares back obesity pipeline, drops phase 2-stage lung disease candidate</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-drops-phase-2-lung-disease-candidate-pares-back-obesity-pipeline",
+        "summary": "Pfizer has axed a phase 2 pulmonary arterial hypertension program on business grounds, dealing a setback to a long-running effort to treat the lung disease by targeting BMP9.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 8:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbotts-tectonic-test-looks-shift-artery-disease-treatment-early-win\" hreflang=\"en\">Abbott's Tectonic test looks to shift artery disease treatment with ‘early’ win</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbotts-tectonic-test-looks-shift-artery-disease-treatment-early-win",
+        "summary": "Abbott has posted positive 30-day results from its Tectonic trial of the investigational SonicForce Coronary IVL System in coronary artery disease (CAD), but analysts urge caution on results.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 4:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year\" hreflang=\"en\">BioArctic left out in the cold as Novartis walks away from $800M neuro collab</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
+        "summary": "Just 14 months after Novartis signed an $800 million biobucks neuroscience partnership with BioArctic, the Swiss pharma has walked away from the deal.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 4:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone\" hreflang=\"en\">FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
+        "summary": "The FDA has accepted uniQure’s priority review and application for its gene therapy treatment for Huntington’s disease.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 3:28pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid\" hreflang=\"en\">Karyopharm files Chapter 11, lines up Ayrmid as lead bidder in planned merger</a>",
+        "url": "https://www.fiercebiotech.com/pharma/karyopharm-files-chapter-11-and-ayrmid-agrees-make-first-bid",
+        "summary": "In an answer to Karyopharm's cash crisis, Irish biotech Ayrmid has agreed to make the first bid on the struggling biopharma's assets in a court supervised auction, teeing up a potential hematology merger.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 10:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m\" hreflang=\"en\">OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m",
+        "summary": "Canada's OpenAI-backed startup Biossil Labs has extended its pharma shopping spree with a deal worth up to $91 million for Theriva Biologics' deprioritized early- to mid-stage portfolio of antibiotic-degrading enzymes.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 9:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility\" hreflang=\"en\">Teva ends trial of one of its original line-up of innovative meds over futility</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility",
+        "summary": "Teva has given up on a key trial of one of its original line-up of innovative medicines.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 9:24am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial\" hreflang=\"en\">FDA dims Bright Minds’ outlook with partial hold on seizure trial over toxicity in mice</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial",
+        "summary": "The FDA has put a partial hold on Bright Minds Biosciences’ seizure study application over preclinical toxicity data and concerns about its preparations for enrolling children.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 8:43am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose\" hreflang=\"en\">Lower dose of Tiziana's MS drug reduces neuroinflammation, while higher dose struggles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose",
+        "summary": "Tiziana Life Sciences’ intranasal drug has hit the dual endpoints of a phase 2a study in patients with a form of multiple sclerosis (MS), although the win was slightly marred by the higher dose missing a key neuroinflammation goal.",
+        "source": "Fierce Biotech",
+        "published": "Nov 2, 2026 8:40am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+        "url": "https://huggingface.co/papers/2611.00617",
+        "summary": "Psychotherapy clients may experience distress before they can coherently describe it, and their expression changes with emotion, perceived safety, and trust. Large language model-based client simulators often rely on clinically organized case descriptions, which can encourage responses explaining the client's difficulties more clearly than their current understanding warrants. We propose Pandora, a psychotherapy client simulation framework that models how psychological experience becomes situated, individual expression. Pandora updates psychological and relational states in response to therapi",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-30T20:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "\"Shall We Approve?\" Consequence-Aware Approval for Autonomous Coding Agents",
+        "url": "https://huggingface.co/papers/2610.40753",
+        "summary": "Coding agents increasingly rely on automated approvers to decide whether a proposed shell command may run. Existing approvers, from rule-based checkers to guardrail models and deployed permission classifiers, base their decisions on the text of the request and command. Yet a command's behavior depends on the code it invokes and the state of the workspace, and systems that observe file changes leave the assessment to the agent or a human after execution. We present Caper, a consequence-aware approval mechanism that pre-executes each command in a snapshotted sandbox, provides an independent appr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-28T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Is Forgetting Unified? Exploring Concept Unlearning in Unified Multimodal Models",
+        "url": "https://huggingface.co/papers/2611.04467",
+        "summary": "Unified multimodal models (UMMs) integrate image generation and visual understanding, but are existing single-pathway unlearning methods sufficient to suppress target concepts across both? In this work, we study cross-pathway concept unlearning. Our goal is to prevent a model from both generating images of a target concept and identifying it in input images, while preserving other capabilities. To this end, we introduce UUBench, a diagnostic benchmark covering 30 target concepts and 60 semantically related neighboring concepts. Experiments on representative UMMs show that the evaluated single-",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-02T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

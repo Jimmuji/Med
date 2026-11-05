@@ -1,0 +1,390 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:36:48.576644+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
+        "url": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/",
+        "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 21:17:19 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout",
+        "url": "https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/",
+        "summary": "Massachusetts voters decisively shot down a ballot initiative that would have dismantled the state’s recreational cannabis industry.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 19:40:32 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Democratic doctors and scientists ride the blue wave",
+        "url": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/",
+        "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 18:46:45 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Where does MAHA go from here? 3 possible futures",
+        "url": "https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/",
+        "summary": "Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 17:09:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: CVS Health to split, reversing years of deal-making to combine pharmacies and insurance",
+        "url": "https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/",
+        "summary": "CVS Health’s decision to split comes amid federal and state scrutiny over vertical integration.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 16:30:06 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A looming deadline to fund the government will shape Congress’ unusual lame duck session",
+        "url": "https://www.statnews.com/2026/11/04/lame-duck-session-congress-health-policy-aca-subsidies-medicaid-funding/",
+        "summary": "Before Democrats take control, Congress must fund expiring health care programs and confirm HHS nominees.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 15:55:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, ‘Medicare for All’ returns",
+        "url": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/",
+        "summary": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 15:15:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Ultragenyx cuts staff after another study fails",
+        "url": "https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/",
+        "summary": "Ultragenyx announced that it's laying off about 20% of its staff as it ends development of two rare disease drugs.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 14:46:46 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about CVS plans to split up, FDA inspections in India and China and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/04/cvs-plans-to-split-up-fda-inspections-in-india-and-china/",
+        "summary": "The Trump administration will survey key components of pharmaceutical production in order to identify domestic supply chain vulnerabilities.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 14:20:46 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Sens. Wyden and Sanders, backers of ‘Medicare for All,’ set to take charge of key committees",
+        "url": "https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/",
+        "summary": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 13:38:17 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: The biotech startups skipping AI for drug discovery",
+        "url": "https://www.statnews.com/2026/11/04/the-biotech-startups-skipping-ai-for-drug-discovery-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis: These biotech startups don't think drug discovery is where AI can make the biggest difference.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 13:01:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug",
+        "url": "https://www.statnews.com/2026/11/04/former-madrigal-pharmaceuticals-executive-rezdiffra-lawsuit/",
+        "summary": "A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 12:30:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Top health takeaways from the midterm elections",
+        "url": "https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/",
+        "summary": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 12:15:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: I moved to Europe for free health care. I miss my patient portal",
+        "url": "https://www.statnews.com/2026/11/04/moving-to-europe-free-health-care-differences/",
+        "summary": "“To be honest, in Malta, I pay for medical care all the time. I just pay differently,” writes Mariska Breland.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Democrats win power to push back on Trump’s health care moves",
+        "url": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/",
+        "summary": "Democrats win Senate control, and with it the power to push back on Trump’s health care moves.",
+        "source": "STAT News",
+        "published": "Wed, 04 Nov 2026 04:38:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-finalizes-final-medicare-rule-deeper-cuts-physician-pay-delays-rpm-restrictions-2029\" hreflang=\"en\">CMS finalizes steeper Medicare physician pay cuts for 2027, delays restriction on third-party RPM vendors</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-final-medicare-rule-deeper-cuts-physician-pay-delays-rpm-restrictions-2029",
+        "summary": "CMS finalized sweeping Medicare payment reforms it says will shift the program from volume-based \"sick care\" toward prevention, primary care and accountable care.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 7:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/amwell-boosts-2026-guidance-after-strong-q3-boasts-government-business\" hreflang=\"en\">Amwell bets AI boom will boost demand for its unified care platform</a>",
+        "url": "https://www.fiercehealthcare.com/finance/amwell-boosts-2026-guidance-after-strong-q3-boasts-government-business",
+        "summary": "As health plans and employers contend with a growing array of virtual care and AI-enabled tools, Amwell is positioning its digital health platform as the infrastructure layer for AI-enabled care.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 12:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—UHC names individual MA leader; HATCo CEO steps down</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/commonspirit-health-talks-hand-3-more-north-dakota-hospitals-altru-health-system\" hreflang=\"en\">CommonSpirit Health signs definitive agreement to sell 3 more N.D. hospitals to Altru Health System</a>",
+        "url": "https://www.fiercehealthcare.com/providers/commonspirit-health-talks-hand-3-more-north-dakota-hospitals-altru-health-system",
+        "summary": "The nonprofits' deal, expected to close early next year, is the latest in a string of hospital divestitures from CommonSpirit Health.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 22, 2026 5:21pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/what-does-blue-wave-mean-healthcare-policy\" hreflang=\"en\">What Democratic control of Congress means for healthcare in 2027</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/what-does-blue-wave-mean-healthcare-policy",
+        "summary": "Tuesday’s forecast-busting blue wave puts wind in the sails of Democrats who have promised a stark departure from Trump-era healthcare policy—though whether or not the shifts will be incremental or seismic hinges on intra-party debates and the president’s veto.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 11:58am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/waystar-touts-expansion-across-client-base-ai-capabilities-q3-2026\" hreflang=\"en\">Waystar touts bigger health system wins and growing AI pipeline</a>",
+        "url": "https://www.fiercehealthcare.com/finance/waystar-touts-expansion-across-client-base-ai-capabilities-q3-2026",
+        "summary": "Waystar again outperformed analysts’ estimates in the third quarter as the company builds out new AI capabilities and drives growth by adding new customers and selling more of its platform to existing clients.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 10:12am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/wearables-ai-and-womens-heart-health\" hreflang=\"en\">Wearables, AI and women's heart health</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/wearables-ai-and-womens-heart-health",
+        "summary": "Wearables are giving us more health data than ever before. But can that data actually improve care? This week on \"Podnosis,\" we explore the promise of wearables and AI for women's heart health, and what it takes to turn information into better outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 10:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cvs-reveals-plans-split-two-companies\" hreflang=\"en\">CVS Health plans to split pharmacy business from Aetna, Caremark</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cvs-reveals-plans-split-two-companies",
+        "summary": "CVS Health is splitting up. The healthcare giant announced Wednesday morning that it would divide its business units into two companies.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 7:33am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/medicare-part-d-premiums-projected-rise-50-2027-without-plan-switching-kff\" hreflang=\"en\">Medicare Part D premiums projected to rise 50% in 2027 without plan switching: KFF</a>",
+        "url": "https://www.fiercehealthcare.com/payers/medicare-part-d-premiums-projected-rise-50-2027-without-plan-switching-kff",
+        "summary": "Medicare beneficiaries who stay in their current stand-alone Part D plans could face sharply higher premiums, deductibles and other out-of-pocket costs in 2027, a KFF analysis found.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 7:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-athenahealth-collaborate-expanded-electronic-prior-authorizations-nationwide\" hreflang=\"en\">Humana, athenahealth collaborate on expanded electronic prior authorizations nationwide</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-athenahealth-collaborate-expanded-electronic-prior-authorizations-nationwide",
+        "summary": "The move reflects Humana’s broader strategy to improve care access through requiring fewer prior authorizations and making the process simpler when needed, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 12:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death\" hreflang=\"en\">Measles update: New York reports first measles-associated death; US nears 5,000 confirmed cases</a>",
+        "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+        "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/hinge-health-posted-52-revenue-growth-q3-it-ramps-expansion-migraine-gi-care\" hreflang=\"en\">Hinge Health revenue jumps 52% in Q3 as it expands beyond MSK, eyes hardware acquisitions</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/hinge-health-posted-52-revenue-growth-q3-it-ramps-expansion-migraine-gi-care",
+        "summary": "Hinge Health is seeing early traction with its migraine and gastrointestinal care programs as it pushes beyond musculoskeletal care and builds a broader, multi-condition platform.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 8:28am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies\" hreflang=\"en\">Charles River teams up with Ipsen to use virtual control groups in toxicology studies</a>",
+        "url": "https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies",
+        "summary": "Charles River Laboratories’ virtual control group (VCG) database will be used in a toxicology study run by French biopharma company Ipsen.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 2:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Ultragenyx lays off 20%; Molecular Partners trims 44%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra\" hreflang=\"en\">Madrigal’s former clinical development head files whistleblower lawsuit alleging Rezdiffra safety cover-up</a>",
+        "url": "https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra",
+        "summary": "Madrigal Pharmaceuticals is facing a whistleblower lawsuit alleging that senior leadership censored serious liver-injury data related to its breakthrough MASH drug Rezdiffra and retaliated against the firm’s top clinical development head who tried to sound the alarm.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 10:52am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/smithnephew-held-failed-talks-jj-orthopaedics-biz-combination\" hreflang=\"en\">Smith+Nephew held failed talks with J&amp;J over potential orthopedics combination</a>",
+        "url": "https://www.fiercebiotech.com/medtech/smithnephew-held-failed-talks-jj-orthopaedics-biz-combination",
+        "summary": "Smith+Nephew held talks with Johnson &amp; Johnson’s hip-and-knee replacement unit DePuy Synthes aimed at a potential combination with its orthopedics unit.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 3:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/minghui-grants-aska-exclusive-japanese-rights-sub-q-ted-candidate-440m\" hreflang=\"en\">Minghui grants ASKA Japanese rights to sub-q TED candidate in $440M deal</a>",
+        "url": "https://www.fiercebiotech.com/biotech/minghui-grants-aska-exclusive-japanese-rights-sub-q-ted-candidate-440m",
+        "summary": "China’s Minghui Pharmaceutical has licensed its late-stage thyroid eye disease candidate to ASKA Pharmaceutical for up to $440 million, granting the Japanese drugmaker exclusive development and commercialization rights in its home country.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 9:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/blackstone-life-sciences-teams-boston-scientific-455m-heart-pump-deal\" hreflang=\"en\">Blackstone Life Sciences teams up with Boston Scientific in $455M heart pump deal</a>",
+        "url": "https://www.fiercebiotech.com/medtech/blackstone-life-sciences-teams-boston-scientific-455m-heart-pump-deal",
+        "summary": "Blackstone Life Sciences has penned a $455 million collaboration with Boston Scientific to co-fund the development of the medtech’s next-generation miniature heart pump system.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 9:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-returns-sino-biopharma-74b-deal-preclinical-tces-adcs\" hreflang=\"en\">Boehringer returns to Sino Biopharma in $7.4B deal for preclinical TCEs, ADCs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/boehringer-returns-sino-biopharma-74b-deal-preclinical-tces-adcs",
+        "summary": "Boehringer Ingelheim has returned to China to satisfy its appetite for antibody-drug conjugates and T-cell engagers.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 9:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/nphase-rakes-30m-expand-ai-native-clinical-data-platform\" hreflang=\"en\">nPhase rakes in $30M to expand AI-native clinical data platform</a>",
+        "url": "https://www.fiercebiotech.com/cro/nphase-rakes-30m-expand-ai-native-clinical-data-platform",
+        "summary": "Clinical research company nPhase has closed a $30 million series D financing round to expand its AI-native clinical data platform.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 8:23am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-pens-14b-deal-deprioritized-ibd-drug-nxera\" hreflang=\"en\">AbbVie pens $1.4B deal for deprioritized IBD drug from Nxera</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-pens-14b-deal-deprioritized-ibd-drug-nxera",
+        "summary": "AbbVie has added another angle to its relationship with Nxera, with the Big Pharma paying $100 million upfront for a phase 1 inflammatory bowel disease candidate.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 7:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/ultragenyx-shrinks-workforce-and-axes-assets-halve-rd-spend\" hreflang=\"en\">Ultragenyx shrinks workforce and axes assets to halve R&amp;D spend</a>",
+        "url": "https://www.fiercebiotech.com/biotech/ultragenyx-shrinks-workforce-and-axes-assets-halve-rd-spend",
+        "summary": "Ultragenyx is laying off 20% of its workforce and axing drug development programs to cut its annual R&amp;D budget to half of the amount it spent in 2025.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 5:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-scraps-stat6-degrader-nurix-just-2-months-after-entering-clinic\" hreflang=\"en\">Sanofi scraps STAT6 degrader from Nurix just 2 months after entering clinic</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-scraps-stat6-degrader-nurix-just-2-months-after-entering-clinic",
+        "summary": "Sanofi has decided to end work on a STAT6 degrader from Nurix just two months after taking the inflammatory disease drug into the clinic.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 5:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novos-ceo-still-looking-deals-close-some-gaps-misfires-hit-profits\" hreflang=\"en\">Novo’s CEO still looking for deals to ‘close some of the gaps,’ as misfires hit profits</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novos-ceo-still-looking-deals-close-some-gaps-misfires-hit-profits",
+        "summary": "Novo’s CEO has told Fierce that the company remains on the hunt for deals that “close some of the gaps” in its pipeline, as the Big Pharma reports billions of dollars in impairment charges from a string of recent clinical misses.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 4:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "亿启生态，擎动未来|2026 亿道集团亿擎云计算生态大会圆满落幕！",
+        "url": "https://www.36kr.com/p/4056271926563970",
+        "summary": "2026 年 11 月 4 日，由亿道集团旗下深圳市亿擎云计算科技有限公司（品牌名：亿擎智算）主办的亿擎云计算生态大会在深圳湾万怡酒店圆满举行！",
+        "source": "36Kr 医疗AI",
+        "published": "Thu, 05 Nov 2026 03:06:22 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "从AI医生到AI医院，紫荆智康如何打开医疗AI的商业空间？",
+        "url": "https://www.36kr.com/p/4055314545890434",
+        "summary": "在医院之外，商业价值还可以进一步延伸。",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 04 Nov 2026 10:40:12 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "看十年，一个碳基投资人的生存指南",
+        "url": "https://www.36kr.com/p/4054918833968260",
+        "summary": "历史不会记住那些试图给马车装上蒸汽机的人，历史只属于那些敢于跳上火车的人。",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 04 Nov 2026 04:08:10 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs",
+        "url": "https://huggingface.co/papers/2611.04166",
+        "summary": "Reasoning vision-language-action (VLA) models pair physical control with natural-language rationales that supervisors can read to monitor embodied safety. Prior attacks on VLA reasoning corrupt the rationale itself and leave visible evidence in the text. We show that visual perturbations can instead alter the physical action while keeping the generated rationale word-for-word identical. At the shared text/action interface of Alpamayo for driving and InstructVLA for manipulation, our text-neutral action-subspace (TNAS) diagnostic shows that the locally most action-sensitive direction is nearly ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-02T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "FinForesight: A Diagnostic Backtesting Benchmark for Deep Research Systems in Financial Forecasting",
+        "url": "https://huggingface.co/papers/2611.01621",
+        "summary": "Anticipating financial outcomes requires synthesizing evolving evidence and reasoning under uncertainty, making deep research systems promising tools for forecasting. Yet evaluating forecasting ability is challenging because historical backtests may reward memorized outcomes or information retrieved after the forecast date. Live forecasting avoids direct access to realized outcomes, but feedback arrives only after events resolve. To obtain timely feedback and assess historical scores, we introduce FinForesight, a diagnostic backtesting benchmark for financial deep research systems. Across the ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-10-31T20:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "BEND 2.0: Benchmarking the Capabilities Needed to Design DNA",
+        "url": "https://huggingface.co/papers/2611.03806",
+        "summary": "Genomic foundation models are increasingly used to propose DNA sequences and edits. But successful design requires capabilities that current benchmarks do not measure. Here we introduce BEND 2.0 (BENchmark for DNA language models), which tests how well models predict the effects of DNA changes and whether these predictions can guide sequence design. Across eight tasks built on five experimental datasets, we find that model choice and how representations are accessed both affect performance. Linear readouts fitted to frozen representations can match or exceed models' native outputs, and functio",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-02T14:00:07.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Auto-Research Agent on MSA Organization to Improve Protein-Protein Complex Structure Prediction",
+        "url": "https://huggingface.co/papers/2611.03183",
+        "summary": "Protein-complex structure prediction with AlphaFold 3 depends on MSA content, depth, and cross-chain pairing. Current pipelines apply uniform recipes, typically maximizing depth and pairing by species, yet even whether cross-chain pairing helps AF3 remains contested. We show that the value of both depth and pairing is strongly target-dependent, so no single recipe is optimal across interfaces. We introduce an autonomous agent that treats a frozen AF3 as a black-box experimental instrument. For each target, the agent formulates biological hypotheses, analyzes and reorganizes the MSA, and iterat",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-02T09:17:43.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry",
+        "url": "https://huggingface.co/papers/2611.03360",
+        "summary": "**Purpose:** Ultrasound biometry is widely used across various clinical applications, including prenatal and cardiac examinations, to obtain quantitative measurements by placing calipers at anatomical landmarks. However, these measurements remain subject to interoperator variability as they rely largely on manual caliper placement. Conventional methods often use specialized prediction heads for different ultrasound tasks, whereas vision-language models offer flexibility through text instructions. However, direct coordinate prediction does not explicitly model spatial likelihood distributions, ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-01T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

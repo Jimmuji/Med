@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:31:25.544893+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion",
+        "url": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/",
+        "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 21:36:52 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Ballot measures affirm divisions over abortion and transgender issues",
+        "url": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/",
+        "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 20:49:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Child dies of measles in Wisconsin’s first such death since 1990",
+        "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/",
+        "summary": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 20:31:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+        "url": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/",
+        "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 18:53:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community",
+        "url": "https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/",
+        "summary": "The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 18:19:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
+        "url": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/",
+        "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 18:09:39 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
+        "url": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/",
+        "summary": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 18:00:23 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
+        "url": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/",
+        "summary": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 16:22:53 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Winners, losers, and MAHA",
+        "url": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/",
+        "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 15:41:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about India’s new manufacturing rules, clinical trials in China, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/05/india-new-manufacturing-rules-china-clinical-trials/",
+        "summary": "India proposed rules requiring regulators to immediately suspend manufacturing licenses for drugs that fail quality standards in government testing",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 14:49:16 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
+        "url": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/",
+        "summary": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\"",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare delays controversial remote patient monitoring rule to 2029",
+        "url": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/",
+        "summary": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 13:04:15 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Single-payer health care system proponents were thrown a big bone this election",
+        "url": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/",
+        "summary": "Sen. Bernie Sanders is likely to lead the Senate’s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it&#8230;",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 12:58:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
+        "url": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/",
+        "summary": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 12:33:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer’s drug",
+        "url": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/",
+        "summary": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up.",
+        "source": "STAT News",
+        "published": "Thu, 05 Nov 2026 11:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations\" hreflang=\"en\">Court blocks CMS' moratorium on new ACA broker registrations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
+        "summary": "CMS had instituted the moratorium in late September as part of its broader push to combat fraud on the Affordable Care Act's exchanges.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 4:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death\" hreflang=\"en\">Measles update: Wisconsin reports first measles-associated death since 1990</a>",
+        "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+        "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ardent-health-boosts-2026-guidance-volume-gains-expense-cuts\" hreflang=\"en\">Ardent Health boosts 2026 guidance on volume gains, expense cuts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ardent-health-boosts-2026-guidance-volume-gains-expense-cuts",
+        "summary": "The for-profit hospital operator reported 3.1% year-over-year revenue growth and a 4% cut in labor spend.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 5, 2026 3:25pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/oscar-health-boasts-strongest-year-its-history-after-outperforming-q3\" hreflang=\"en\">Oscar Health boasts ‘strongest year’ in its history after outperforming in Q3</a>",
+        "url": "https://www.fiercehealthcare.com/payers/oscar-health-boasts-strongest-year-its-history-after-outperforming-q3",
+        "summary": "The company also saw a 27% YOY increase in membership, ending Q3 with 2.7 million members.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 5, 2026 2:35pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-beats-street-14b-profit-737b-revenue-q3\" hreflang=\"en\">Cigna offers investors a look at its new Lead to One strategy</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-beats-street-14b-profit-737b-revenue-q3",
+        "summary": "Cigna is the latest health insurance company to boost its guidance for the year on the back of its Q3 results. Its executives also gave investors additional color on a new healthcare transformation strategy.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 5, 2026 7:30am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-final-2027-outpatient-pay-rule-brings-hospitals-little-relief-340b-site-neutral\" hreflang=\"en\">CMS’ final 2027 outpatient pay rule brings hospitals little relief on 340B, site-neutral changes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-final-2027-outpatient-pay-rule-brings-hospitals-little-relief-340b-site-neutral",
+        "summary": "The administration finalized its annual outpatient hospital payments rule with a lower-than-proposed rate bump and its major, industry-opposed policy shifts moderated, but largely intact.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 5, 2026 10:36am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/clover-health-boosts-outlook-amid-continued-membership-growth-financial-momentum-q3\" hreflang=\"en\">Clover Health boosts outlook amid continued membership growth, financial momentum in Q3</a>",
+        "url": "https://www.fiercehealthcare.com/payers/clover-health-boosts-outlook-amid-continued-membership-growth-financial-momentum-q3",
+        "summary": "The company posted $130 million in profit, up 77% year-over-year, according to Q3 2026 financial results.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 5, 2026 10:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/avanlee-care-raises-35m-targets-medicare-advantage-plans\" hreflang=\"en\">Avanlee Care, platform for family caregivers, raises $3.5M, targeting Medicare Advantage plans</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/avanlee-care-raises-35m-targets-medicare-advantage-plans",
+        "summary": "Avanlee Care helps MA plans and other organizations engage caregivers within their member populations, enabling them to take action and measure what happens as a result.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 9:55pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/fairview-health-services-partners-hellocareai-expand-enterprise-virtual-care-and-bring\" hreflang=\"en\">Fairview Health Services Partners with hellocare.ai to Expand Enterprise Virtual Care and Bring Connected Care to the NICU</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/fairview-health-services-partners-hellocareai-expand-enterprise-virtual-care-and-bring",
+        "summary": "Minneapolis, MN and Clearwater, FL — Fairview Health Services and hellocare.ai today announced an enterprise partnership to expand virtual care capabilities across Fairview’s inpatient environments, including a dedicated deployment designed to connect NICU patients, families, and care teams.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 11:21am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-finalizes-final-medicare-rule-deeper-cuts-physician-pay-delays-rpm-restrictions-2029\" hreflang=\"en\">CMS finalizes steeper Medicare physician pay cuts for 2027, moves ahead with RPM vendor restrictions</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-final-medicare-rule-deeper-cuts-physician-pay-delays-rpm-restrictions-2029",
+        "summary": "CMS finalized sweeping Medicare payment reforms it says will shift the program from volume-based \"sick care\" toward prevention, primary care and accountable care.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 7:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/amwell-boosts-2026-guidance-after-strong-q3-boasts-government-business\" hreflang=\"en\">Amwell bets AI boom will drive demand for its unified care platform</a>",
+        "url": "https://www.fiercehealthcare.com/finance/amwell-boosts-2026-guidance-after-strong-q3-boasts-government-business",
+        "summary": "As health plans and employers contend with a growing array of virtual care and AI-enabled tools, Amwell is positioning its digital health platform as the infrastructure layer for AI-enabled care.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 12:04pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—UHC names individual MA leader; HATCo CEO steps down</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rezera-revs-181m-ipo-fund-phase-3-trial-nlrp3-inhibitor\" hreflang=\"en\">Rezera revs up for $181M IPO to fund phase 3 trial of NLRP3 inhibitor</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rezera-revs-181m-ipo-fund-phase-3-trial-nlrp3-inhibitor",
+        "summary": "Rezera—the new name for NodThera—is aiming for a $181 million IPO to take its NLRP3 inhibitor into phase 3 trials for a cardiovascular disease.",
+        "source": "Fierce Biotech",
+        "published": "Nov 5, 2026 9:57am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/metavias-glp-1-sheds-liver-fat-and-body-weight-phase-1-fails-wow-investors\" hreflang=\"en\">MetaVia sees GLP-1 shed liver fat and body weight in phase 1, takes aim at specific liver disease</a>",
+        "url": "https://www.fiercebiotech.com/biotech/metavias-glp-1-sheds-liver-fat-and-body-weight-phase-1-fails-wow-investors",
+        "summary": "MetaVia has linked its GLP-1/glucagon receptor agonist to reductions in liver fat and body weight in a phase 1 trial. Encouraged by the data, MetaVia plans to start a phase 2 trial in alcohol-associated liver disease next year.",
+        "source": "Fierce Biotech",
+        "published": "Nov 5, 2026 9:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war\" hreflang=\"en\">AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war</a>",
+        "url": "https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war",
+        "summary": "AstraZeneca has made a roughly $10 billion offer to purchase rare obesity disease player Rhythm Pharmaceuticals, The Wall Street Journal reports. At least three teams of analysts suggest a bidding war could be brewing and that Rhythm is unlikely to settle for AZ’s current pitch.",
+        "source": "Fierce Biotech",
+        "published": "Nov 5, 2026 9:38am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval\" hreflang=\"en\">Agios aims to shed over 100 R&amp;D roles this year ahead of hoped-for sickle cell disease approval</a>",
+        "url": "https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval",
+        "summary": "Agios Pharmaceuticals has been shrinking its R&amp;D headcount over the course of 2026 as the commercial-stage company looks to eliminate more than 100 roles by year-end.",
+        "source": "Fierce Biotech",
+        "published": "Nov 5, 2026 8:41am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cash-strapped-vivoryon-regains-china-rights-kidney-disease-prospect-simcere\" hreflang=\"en\">Cash-strapped Vivoryon regains China rights to kidney disease prospect from Simcere</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cash-strapped-vivoryon-regains-china-rights-kidney-disease-prospect-simcere",
+        "summary": "Vivoryon Therapeutics has regained the China rights to its kidney disease prospect as the German biotech’s cash reserves begin to dry up.",
+        "source": "Fierce Biotech",
+        "published": "Nov 5, 2026 5:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Alethio attains $90M series A for rare blood cancer drugs</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/evommune-signs-1b-deal-chinas-hinova-enter-same-molecular-glue-space-novartis\" hreflang=\"en\">Evommune signs $1B deal with China’s Hinova to enter same molecular glue niche as Novartis</a>",
+        "url": "https://www.fiercebiotech.com/biotech/evommune-signs-1b-deal-chinas-hinova-enter-same-molecular-glue-space-novartis",
+        "summary": "Evommune has paid $30 million to China’s Hinova Pharmaceuticals to get stuck into a niche of preclinical molecular glue degrader development that’s also being pursued by Novartis.",
+        "source": "Fierce Biotech",
+        "published": "Nov 5, 2026 4:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Agios trims 100 R&amp;D roles; Ultragenyx lays off 20%</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/t-therapeutics-raises-133m-series-b-big-pharma-backers-tow\" hreflang=\"en\">T-Therapeutics raises $133M series B for bispecific pipeline with Big Pharma backers in tow</a>",
+        "url": "https://www.fiercebiotech.com/biotech/t-therapeutics-raises-133m-series-b-big-pharma-backers-tow",
+        "summary": "T-Therapeutics has pulled in a $133 million series B financing round that will be used to fund the biotech’s lineup of T cell receptor CD3 bispecific drug candidates.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 2:53pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cloudbreak-posts-phase-3-eye-disease-win-amid-ipo-storm\" hreflang=\"en\">Cloudbreak posts phase 3 eye disease win amid IPO storm</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cloudbreak-posts-phase-3-eye-disease-win-amid-ipo-storm",
+        "summary": "A phase 3 study of Cloudbreak Pharma’s eye disease drug candidate has hit its co-primary endpoints, boosting a biotech embroiled in an IPO investigation.",
+        "source": "Fierce Biotech",
+        "published": "Nov 5, 2026 3:47am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies\" hreflang=\"en\">Charles River teams up with Ipsen to use virtual control groups in toxicology studies</a>",
+        "url": "https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies",
+        "summary": "Charles River Laboratories’ virtual control group (VCG) database will be used in a toxicology study run by French biopharma company Ipsen.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 2:14pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra\" hreflang=\"en\">Madrigal’s former clinical development head files whistleblower lawsuit alleging Rezdiffra safety cover-up</a>",
+        "url": "https://www.fiercebiotech.com/pharma/madrigal-former-clinical-development-head-files-whistleblower-lawsuit-alleging-rezdiffra",
+        "summary": "Madrigal Pharmaceuticals is facing a whistleblower lawsuit alleging that senior leadership censored serious liver-injury data related to its breakthrough MASH drug Rezdiffra and retaliated against the firm’s top clinical development head who tried to sound the alarm.",
+        "source": "Fierce Biotech",
+        "published": "Nov 4, 2026 10:52am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+        "url": "https://huggingface.co/papers/2611.08369",
+        "summary": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC). NPCBench mirrors specialist training, from guideline and foundational knowledge to case planning, longitudinal review, CarePath integration,",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-04T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

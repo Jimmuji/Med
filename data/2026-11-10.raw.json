@@ -1,0 +1,342 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:55:55.597256+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
+        "url": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/",
+        "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 00:50:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+        "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/",
+        "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 22:28:43 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
+        "url": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/",
+        "summary": "The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 20:51:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Bill Ackman’s bold plan to transform brain research",
+        "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/",
+        "summary": "Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a tragic backstory.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 19:21:55 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Hospitals win the midterms, and Chopping Very Strategically",
+        "url": "https://www.statnews.com/2026/11/09/midterm-elections-good-news-for-hospitals-cvs-breakup-explained/",
+        "summary": "We explain the CVS breakup, and why Democrats' election victories are good news for hospitals.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 17:54:13 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Heart association meeting’s readout is trending ‘neutral’",
+        "url": "https://www.statnews.com/2026/11/09/aha-2026-news-neutral-clinical-trials-lessons-learned/",
+        "summary": "The theme of the American Heart Association meetings was \"neutral\" results. Yet no one wants to stop pursuing inflammation or Lp(a) lowering.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 16:53:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+        "url": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/",
+        "summary": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\"",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 15:56:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Gene therapy’s long-debated cancer risk materializes",
+        "url": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/",
+        "summary": "For years, gene therapy researchers debated whether the viruses they use to ferry replacement genes into cells could cause tumors. A small number of cases now offer strong evidence that&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 14:36:12 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
+        "url": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/",
+        "summary": "Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in two late-stage studies, but it doesn’t appear as effective as Lilly’s injectable drug Zepbound.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 14:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Novartis heart drug, BIO fighting a Trump program, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/09/novartis-abandons-heart-drug-bio-fighting-trump-program/",
+        "summary": "Novartis is largely abandoning a drug once considered a potential blockbuster after a study found it had little promise for preventing heart attacks and deaths",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 14:28:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A new rule to prevent the spread of bioweapons",
+        "url": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/",
+        "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials&#8230;",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 12:55:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: CVS’ split doesn’t fix its fundamental problem",
+        "url": "https://www.statnews.com/2026/11/09/cvs-health-split-pbm-conflict-examined-anthony-loiacono-judi-health/",
+        "summary": "CVS’ split into two doesn’t fix its fundamental problem, writes Judi Health CEO A.J. Loiacono.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Liver experts finally agree on what acute-on-chronic liver failure is",
+        "url": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/",
+        "summary": "\"Patients are suffering with this condition that everyone has their own way of defining.\"",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Democrats begin asking: How far can we go on health care?",
+        "url": "https://www.statnews.com/2026/11/09/democrat-healthcare-agenda-new-lawmakers-weigh-popular-vs-possible/",
+        "summary": "Many in the party are pushing for Democratic lawmakers to go big on health care, but their dreams may crash into reality.",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "AI chatbots aren’t therapists. But can they finally get men to open up?",
+        "url": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/",
+        "summary": "AI chatbots are imperfect therapists. But can they finally get men to talk?",
+        "source": "STAT News",
+        "published": "Mon, 09 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-administration-announces-10b-awards-rural-health-transformation-programs-second\" hreflang=\"en\">Trump administration announces $10B in awards for Rural Health Transformation Program’s second year</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-announces-10b-awards-rural-health-transformation-programs-second",
+        "summary": "In part, funding was determined based on how states have implemented RHTP plans thus far.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 11:35am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/healthtap-unveils-virtual-primary-care-program-medicare-advantage-plans\" hreflang=\"en\">HealthTap unveils virtual primary care program for Medicare Advantage plans</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/healthtap-unveils-virtual-primary-care-program-medicare-advantage-plans",
+        "summary": "HealthTap is rolling out a new program for Medicare Advantage plans that seeks to help members form a connection with a primary care doctor that carries forward.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">Elevance Health sues over 2027 Medicare Advantage star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "CVS Heath's Aetna is joining the ranks of insurers suing over its results in the 2027 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth\" hreflang=\"en\">AI-enabled virtual mental health startup Siggy launches from stealth</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth",
+        "summary": "Siggy combines therapy, prescription management and AI for intake and between-visits support.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 1:23pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/advocate-health-increase-total-employee-compensation-846m-2027\" hreflang=\"en\">Advocate Health to increase total employee compensation by $846M for 2027</a>",
+        "url": "https://www.fiercehealthcare.com/providers/advocate-health-increase-total-employee-compensation-846m-2027",
+        "summary": "The nonprofit will also invest an additional $390 million towards incremental benefits.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 1:06pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/university-texas-md-anderson-cancer-center-unveils-34b-expansion-plans\" hreflang=\"en\">University of Texas MD Anderson Cancer Center unveils $3.4B expansion plans</a>",
+        "url": "https://www.fiercehealthcare.com/providers/university-texas-md-anderson-cancer-center-unveils-34b-expansion-plans",
+        "summary": "The new facilities, dubbed Inspiration Tower and Prism, will make up nearly two million square feet.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 10:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/deerfield-taps-aws-fuel-healthcare-ai-ambitions\" hreflang=\"en\">Deerfield taps AWS to fuel healthcare AI ambitions</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/deerfield-taps-aws-fuel-healthcare-ai-ambitions",
+        "summary": "Investment firm Deerfield Management is tapping into Amazon Web Services' AI and cloud technology to help AI-native healthcare and life sciences companies build and scale.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 8, 2026 9:46am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/closing-last-mile-value-based-care-ai\" hreflang=\"en\">Closing the last mile of value-based care with AI</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/closing-last-mile-value-based-care-ai",
+        "summary": "Shorten the time between insights and action. Learn more about how to confidently close care gaps in value-based care using AI.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 27, 2026 3:02pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/fragmentation-integration-new-model-specialty-care\" hreflang=\"en\">From Fragmentation to Integration: A New Model for Specialty Care</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/fragmentation-integration-new-model-specialty-care",
+        "summary": "Health systems are navigating growing demands with increasingly limited resources. As costs rise and teams are stretched, technology has become essential to helping people work smarter.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 3:41pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/how-evaluate-clinical-ai-beyond-demo\" hreflang=\"en\">How to Evaluate Clinical AI Beyond the Demo</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/how-evaluate-clinical-ai-beyond-demo",
+        "summary": "A practical framework for assessing AI governance, evidence, transparency and post-deployment performance in clinical workflows.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 4, 2026 3:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/sponsored/strengthening-healthcare-delivery-through-proactive-primary-care\" hreflang=\"en\">Strengthening Healthcare Delivery Through Proactive Primary Care</a>",
+        "url": "https://www.fiercehealthcare.com/sponsored/strengthening-healthcare-delivery-through-proactive-primary-care",
+        "summary": "Prevention happens between visits, and it rarely gets paid for. See how physician-led value-based care and keep physicians in charge.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 3, 2026 2:30pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-expands-clinical-ai-footprint-more-190-health-systems\" hreflang=\"en\">Doximity expands clinical AI footprint to more than 190 health systems</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-expands-clinical-ai-footprint-more-190-health-systems",
+        "summary": "Doximity is rapidly expanding its clinical AI footprint with health systems. The company is also making clinical reliability a major part of its competitive positioning, launching DoseCheck and a partnership with Wolters Kluwer's UpToDate.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 7, 2026 6:46pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-mash-hopeful-efinopegdutide-wins-mid-stage-study\" hreflang=\"en\">Merck’s MASH hopeful efinopegdutide wins in mid-stage study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mercks-mash-hopeful-efinopegdutide-wins-mid-stage-study",
+        "summary": "Merck &amp; Co. revealed results from a mid-stage clinical trial showing its GLP-1 and glucagon receptor co-agonist efinopegdutide resolved cases of MASH compared with placebo without worsening liver fibrosis.",
+        "source": "Fierce Biotech",
+        "published": "Nov 9, 2026 3:09pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/onchilles-believes-it-has-molecule-cancer-has-never-seen\" hreflang=\"en\">‘Cancer hasn't seen this molecule before’: Onchilles’ injection shows potential for solid tumors</a>",
+        "url": "https://www.fiercebiotech.com/research/onchilles-believes-it-has-molecule-cancer-has-never-seen",
+        "summary": "The San Diego-based biotech has shown that when its vaccine-like therapeutic, N17350, is injected directly into the tumor, the candidate is even able to clear cancer lesions that are distant from the injected tumor.",
+        "source": "Fierce Biotech",
+        "published": "Nov 6, 2026 1:34pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/delix-drums-100m-its-non-hallucinatory-psychedelic-therapy-depression\" hreflang=\"en\">J&amp;J-backed Delix drums up $100M series C for non-hallucinatory psychedelic for depression</a>",
+        "url": "https://www.fiercebiotech.com/biotech/delix-drums-100m-its-non-hallucinatory-psychedelic-therapy-depression",
+        "summary": "Delix Therapeutics has raised $100 million in a series C round backed by the likes of Johnson &amp; Johnson to advance a phase 2-ready non-hallucinatory psychedelic therapy for depression.",
+        "source": "Fierce Biotech",
+        "published": "Nov 9, 2026 9:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/marea-now-lisata-subsidiary-touts-mid-stage-hypertriglyceridemia-clinical-win\" hreflang=\"en\">Recent Lisata prize Marea touts ‘exciting’ lipid disorder phase 2 win, mulls obesity potential</a>",
+        "url": "https://www.fiercebiotech.com/biotech/marea-now-lisata-subsidiary-touts-mid-stage-hypertriglyceridemia-clinical-win",
+        "summary": "Fresh from a merger with oncology drugmaker Lisata Therapeutics, cardiometabolic biotech Marea Therapeutics has revealed results from the first part of a phase 2b study showing its drug candidate MAR001 significantly reduced levels of fat in the blood of patients with hypertriglyceridemia.",
+        "source": "Fierce Biotech",
+        "published": "Nov 6, 2026 9:06am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aha-boehringer-aims-2027-survodutide-submission-after-obesity-drug-passes-phase-3-cardio\" hreflang=\"en\">AHA: Boehringer aims for 2027 survodutide submission after obesity drug passes cardio test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aha-boehringer-aims-2027-survodutide-submission-after-obesity-drug-passes-phase-3-cardio",
+        "summary": "Boehringer Ingelheim is gearing up to take survodutide to regulators next year after the obesity drug proved its cardiovascular credentials in its latest phase 3 study.",
+        "source": "Fierce Biotech",
+        "published": "Nov 6, 2026 7:26am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/spruce-propagates-preclinical-asset-newly-formed-adrenyx-biosciences\" hreflang=\"en\">Spruce spins out preclinical endocrinology program into newly formed Adrenyx</a>",
+        "url": "https://www.fiercebiotech.com/biotech/spruce-propagates-preclinical-asset-newly-formed-adrenyx-biosciences",
+        "summary": "Spruce Biosciences is spinning out a preclinical endocrinology program into a newly formed subsidiary called Adrenyx Biosciences, supported with up to $50 million from an unnamed investor.",
+        "source": "Fierce Biotech",
+        "published": "Nov 9, 2026 8:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/zura-scraps-hidradenitis-suppurativa-program-after-phase-2-miss\" hreflang=\"en\">Zura scraps hidradenitis suppurativa program after phase 2 miss, sinking stock</a>",
+        "url": "https://www.fiercebiotech.com/biotech/zura-scraps-hidradenitis-suppurativa-program-after-phase-2-miss",
+        "summary": "Zura Bio’s tibulizumab has&nbsp;flunked a phase 2 hidradenitis suppurativa trial, prompting the biotech to end development in the indication while continuing studies in other settings.",
+        "source": "Fierce Biotech",
+        "published": "Nov 9, 2026 9:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-backed-windward-breezes-toward-204m-ipo-fund-respiratory-pipeline\" hreflang=\"en\">Sanofi-backed Windward breezes toward $204M IPO to fund respiratory pipeline from China</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-backed-windward-breezes-toward-204m-ipo-fund-respiratory-pipeline",
+        "summary": "Windward Bio is sailing toward the public markets with the aim of raising over $200 million in proceeds to fund two respiratory drugs licensed from China.",
+        "source": "Fierce Biotech",
+        "published": "Nov 9, 2026 9:06am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/philippe-lopes-fernandes-executive-vice-president-chief-business-officer-ipsen\" hreflang=\"en\">Looking Beyond the First Answer Towards Delivering Impact</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/philippe-lopes-fernandes-executive-vice-president-chief-business-officer-ipsen",
+        "summary": "Science rarely moves in a straight line. Philippe Lopes-Fernandes explores how an unexpected turn can reveal a credible path to progress.",
+        "source": "Fierce Biotech",
+        "published": "Oct 22, 2026 4:17pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/when-china-fits-global-clinical-development-strategy\" hreflang=\"en\">When China Fits a Global Clinical Development Strategy</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/when-china-fits-global-clinical-development-strategy",
+        "summary": "Explore how China-generated evidence, patient access, regulatory planning and local expertise can strengthen global clinical programs.",
+        "source": "Fierce Biotech",
+        "published": "Nov 6, 2026 7:50am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/advanced-analytics-help-reduce-control-animal-use-while-preserving-scientific-rigor\" hreflang=\"en\">Advanced Analytics Help Reduce Control Animal Use While Preserving Scientific Rigor</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/advanced-analytics-help-reduce-control-animal-use-while-preserving-scientific-rigor",
+        "summary": "Advanced analytics leverage curated historical controls on new studies, supporting fewer animals while preserving scientific rigor.",
+        "source": "Fierce Biotech",
+        "published": "Nov 3, 2026 11:26am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/use-kidney-genetics-strengthen-clinical-trial-design\" hreflang=\"en\">Use Kidney Genetics to Strengthen Clinical Trial Design</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/use-kidney-genetics-strengthen-clinical-trial-design",
+        "summary": "Listen to the podcast to learn how genotype-defined kidney disease data can inform trial populations, endpoints and enrollment strategy.",
+        "source": "Fierce Biotech",
+        "published": "Oct 29, 2026 12:04pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "医学路径的更多可能：未界用 Coffee Chat 连接医学青年与产业",
+        "url": "https://www.36kr.com/p/4054818754368645",
+        "summary": "未界连接医学人才与医疗产业，探索社区及AI求职工具",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 09 Nov 2026 03:29:59 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding",
+        "url": "https://huggingface.co/papers/2611.07723",
+        "summary": "Protein motif scaffolding benchmarks assess whether generative models can build scaffolds around functionally important residues. Their conclusions depend on which motifs are tested and which criteria define success. Existing benchmarks typically use small hand-curated motif sets and static refolding criteria, but protein function often depends on conformational ensembles and transitions. Here, we address both benchmark scope and success criteria. We introduce BILBY-PRO, a systematically derived benchmark of structurally conserved functional motifs from PROSITE-linked experimental structures, ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-05T04:38:23.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

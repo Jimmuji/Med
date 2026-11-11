@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:25:40.068908+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
+        "url": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/",
+        "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 23:55:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All’ initiative",
+        "url": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/",
+        "summary": "Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 10 years, among other initiatives.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 20:05:20 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Former Eli Lilly rep claims she was fired for complaining about marketing of Mounjaro diabetes drug",
+        "url": "https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/",
+        "summary": "A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 18:04:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Men’s use of chatbots for therapy, and earnings season highlights",
+        "url": "https://www.statnews.com/2026/11/10/chatbots-for-men-and-earnings-highlights-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Growing optimism around chatbots and men who avoid therapy, and highlights from the earnings season.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 17:18:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Oura to acquire Counsel Health for $625 million, placing a big bet on AI care",
+        "url": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/",
+        "summary": "Oura, the smart ring maker that recently delayed plans to go public, said it will pay $625 million to acquire Counsel Health, a clinical AI startup.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 17:14:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
+        "url": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/",
+        "summary": "The FDA warned that GLP-1 drugs carry a potential risk of a rare but serious eye condition sometimes referred to as an “eye stroke.”",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 14:38:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/",
+        "summary": "The FDA approved a novel drug to reduce recurrence of stroke, the agency is warning that GLP-1s carry a potential risk for an eye condition, and more pharma news of&#8230;",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 14:25:24 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
+        "url": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/",
+        "summary": "Dutch antitrust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 13:38:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharma is a ‘mixed bag’ when providing drug access to low- and middle-income countries, analysis finds",
+        "url": "https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/",
+        "summary": "Many large pharmaceutical companies are taking steps to improve access to their medicines in low- and middle-income countries, but progress has been mixed.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Why this year’s flu season could be hitting teens and young adults hard",
+        "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/",
+        "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 12:49:35 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
+        "url": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/",
+        "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 12:05:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
+        "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/",
+        "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: AI’s health advice can be accurate and still make us sicker",
+        "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/",
+        "summary": "“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now",
+        "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/",
+        "summary": "BIO CEO: “Today’s biotech race is our generation’s Space Race.”",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
+        "url": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/",
+        "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
+        "source": "STAT News",
+        "published": "Tue, 10 Nov 2026 00:50:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/hims-hers-reports-8904m-q3-revenue-tightens-2026-outlook\" hreflang=\"en\">Hims &amp; Hers reports $890.4M Q3 revenue, tightens 2026 outlook</a>",
+        "url": "https://www.fiercehealthcare.com/finance/hims-hers-reports-8904m-q3-revenue-tightens-2026-outlook",
+        "summary": "Net loss for the digital health and wellness company was $33 million, compared to $15.8 million in profit during the same quarter a year ago.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 10, 2026 4:09pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m\" hreflang=\"en\">Oura to acquire AI virtual primary care partner Counsel Health for $625M</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m",
+        "summary": "The companies have worked together since June, and more recently had shared plans to partner on CMS' 10-year ACCESS Model.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 10, 2026 3:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—Ascension lays off 51 amid outsourcing; Kootenai Health cuts 80</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/positive-medicaid-signals-open-enrollment-trends-recapping-major-payers-q3-results\" hreflang=\"en\">Positive Medicaid signals, open enrollment trends: Recapping major payers' Q3 results</a>",
+        "url": "https://www.fiercehealthcare.com/payers/positive-medicaid-signals-open-enrollment-trends-recapping-major-payers-q3-results",
+        "summary": "While medical cost trend remains a pressure point for health insurers, leading companies cited some positive trends, too, heading into the final months of 2026.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 10, 2026 4:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/color-health-launches-clinical-collabs-nci-designated-cancer-centers\" hreflang=\"en\">Color Health launches collabs with NCI-designated cancer centers to streamline intake</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/color-health-launches-clinical-collabs-nci-designated-cancer-centers",
+        "summary": "Color and collaborating cancer centers aim to streamline time to treatment through coordinated workup and records preparation, as well as custom intake workflows.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 10, 2026 10:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Novant Health CEO to retire; UHC names individual MA leader</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare\" hreflang=\"en\">Google Cloud rolls out Gemini for healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/google-cloud-rolls-out-gemini-healthcare",
+        "summary": "The platform was developed alongside clinical and health plan leaders and is built to support HIPAA compliance, the tech giant says.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 10, 2026 11:24am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/kaiser-permanente-grows-revenue-9-doubles-operating-margin-q3-2026\" hreflang=\"en\">Kaiser Permanente grows revenue 9%, doubles operating margin in Q3 2026</a>",
+        "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-grows-revenue-9-doubles-operating-margin-q3-2026",
+        "summary": "The country’s largest nonprofit health system and its subsidiaries grew operating revenues to $34.7 billion and padded its operating margin, though a $1.8 billion bottom line came up short compared to last year.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 10, 2026 11:13am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/personify-health-launches-updated-wellbeing-platform-experience-2-new-capabilities\" hreflang=\"en\">Personify Health launches updated wellbeing platform experience with 2 new capabilities</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/personify-health-launches-updated-wellbeing-platform-experience-2-new-capabilities",
+        "summary": "The updated platform experience features two new capabilities: adherence and digital navigation.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 3:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-administration-announces-10b-awards-rural-health-transformation-programs-second\" hreflang=\"en\">Trump administration announces $10B in awards for Rural Health Transformation Program’s second year</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-announces-10b-awards-rural-health-transformation-programs-second",
+        "summary": "In part, funding was determined based on how states have implemented RHTP plans thus far.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 11:35am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/healthtap-unveils-virtual-primary-care-program-medicare-advantage-plans\" hreflang=\"en\">HealthTap unveils virtual primary care program for Medicare Advantage plans</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/healthtap-unveils-virtual-primary-care-program-medicare-advantage-plans",
+        "summary": "HealthTap is rolling out a new program for Medicare Advantage plans that seeks to help members form a connection with a primary care doctor that carries forward.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 9, 2026 4:43pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">Elevance Health sues over 2027 Medicare Advantage star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "CVS Heath's Aetna is joining the ranks of insurers suing over its results in the 2027 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-ce-mark-implantable-cardioverter-defibrillator-lead\" hreflang=\"en\">Abbott nabs FDA approval, CE Mark for implantable cardioverter-defibrillator lead</a>",
+        "url": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-ce-mark-implantable-cardioverter-defibrillator-lead",
+        "summary": "Abbott has received both FDA and CE Mark approval for its UltiSynq defibrillation lead tech, which is designed to deliver both conduction system pacing and defibrillation therapy.",
+        "source": "Fierce Biotech",
+        "published": "Nov 11, 2026 1:25am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/beams-sickle-cell-therapy-risto-cels-phase-12-results-position-potential-casgevy-lyfgenia\" hreflang=\"en\">Beam’s sickle cell therapy results tee up potential Casgevy, Lyfgenia showdown</a>",
+        "url": "https://www.fiercebiotech.com/biotech/beams-sickle-cell-therapy-risto-cels-phase-12-results-position-potential-casgevy-lyfgenia",
+        "summary": "Gearing up for a potential FDA filing by the end of the year, Beam Therapeutics revealed results from a phase 1/2 study of its base-edited cell therapy risto-cel, showing the potential sickle cell treatment reduced the most painful complications of the blood disease for a full year.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 1:34pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m\" hreflang=\"en\">Oura to acquire AI virtual primary care partner Counsel Health for $625M</a>",
+        "url": "https://www.fiercebiotech.com/digital-health/oura-acquire-ai-virtual-primary-care-partner-counsel-health-625m",
+        "summary": "The companies have worked together since June, and more recently had shared plans to partner on CMS' 10-year ACCESS Model.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 3:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pepgens-stock-doubles-midphase-dm1-data-wow-analysts\" hreflang=\"en\">PepGen’s stock doubles as midphase muscle dystrophy data wow analysts</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pepgens-stock-doubles-midphase-dm1-data-wow-analysts",
+        "summary": "PepGen’s phase 2 myotonic dystrophy type 1 data have met analysts’ best-case scenario, causing the biotech’s share price to more than double.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 10:22am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-buys-omniose-bacterial-vaccine-technology\" hreflang=\"en\">AstraZeneca buys partner Omniose for bacterial vaccine technology</a>",
+        "url": "https://www.fiercebiotech.com/biotech/astrazeneca-buys-omniose-bacterial-vaccine-technology",
+        "summary": "AstraZeneca has acquired vaccine bioconjugation specialist Omniose, securing technology and expertise that could boost its efforts to protect people from bacterial threats.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 10:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Oyster cracks $60M in series A; Delix drums up $100M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mirum-scores-again-hepatitis-d-phase-3-setting-stage-fda-run\" hreflang=\"en\">Mirum scores again in hepatitis D phase 3, setting the stage for brelovitug’s FDA run</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mirum-scores-again-hepatitis-d-phase-3-setting-stage-fda-run",
+        "summary": "Mirum Pharmaceuticals has kept its clinical winning streak alive in hepatitis D, meeting the primary endpoint in another late-stage trial of its antiviral monoclonal antibody brelovitug.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 9:36am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/treasury-coins-act-proposal-pharmaceuticals-china-newco-legal-maze-biotech-vc-warnings\" hreflang=\"en\">‘Flying blind’: Why experts fear Treasury’s China biotech investment crackdown will backfire</a>",
+        "url": "https://www.fiercebiotech.com/biotech/treasury-coins-act-proposal-pharmaceuticals-china-newco-legal-maze-biotech-vc-warnings",
+        "summary": "The U.S. Treasury's COINS Act proposal aims to shield U.S. biotech from Chinese competition, but insiders warn it will backfire. As lawyers scramble to decipher an ambiguous ban on cross-border \"joint ventures,\" they flag that Washington's national security priorities have expanded.",
+        "source": "Fierce Biotech",
+        "published": "Nov 6, 2026 10:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Vertex trims 78 employees; Coherus lays off 30% of workforce</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/novocure-denied-fda-approval-optune-mya-cancer-device-after-efficacy-concerns\" hreflang=\"en\">Novocure denied FDA approval for Optune Mya cancer device after efficacy concerns</a>",
+        "url": "https://www.fiercebiotech.com/medtech/novocure-denied-fda-approval-optune-mya-cancer-device-after-efficacy-concerns",
+        "summary": "Novocure has been hit with a relatively rare “not approvable” letter from the FDA for its tumor-treating electric fields device.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 2:53am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abcellera-becomes-latest-biotech-abandon-dream-developing-ox40-drug\" hreflang=\"en\">AbCellera becomes latest biotech to abandon dream of developing OX40 drug</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abcellera-becomes-latest-biotech-abandon-dream-developing-ox40-drug",
+        "summary": "AbCellera has become the latest drug developer to abandon its attempts to crack the OX40 code.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 5:07am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/coherus-shrinks-headcount-30-narrow-focus-cancer-combo\" hreflang=\"en\">Coherus shrinks headcount 30% to narrow focus of cancer combo</a>",
+        "url": "https://www.fiercebiotech.com/biotech/coherus-shrinks-headcount-30-narrow-focus-cancer-combo",
+        "summary": "Coherus Oncology is once again laying off 30% of its workforce as the biopharma narrows the focus of its CCR8-targeting antibody on esophageal cancer.",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 3:52am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "ProTEUS: A mutation-resolved world model for closed-loop protein evolution",
+        "url": "https://huggingface.co/papers/2611.13348",
+        "summary": "Protein engineering requires navigating rugged fitness landscapes, where small sequence changes can produce large functional differences, but experimental screening can only sample a small fraction of sequence space. Thus, a central challenge is to efficiently traverse the large combinatorial space of mutations in silico. We introduce ProTEUS, a mutation-resolved world model for closed-loop protein evolution. Pretrained on deep mutational scanning assays, ProTEUS learns a joint representation of sequence, evolutionary, and structural information using MutationFormer, a mutation-biased attentio",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-08T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Creative Priming: Decoupling Process from Product to Escape the Creative Paradox",
+        "url": "https://huggingface.co/papers/2611.11740",
+        "summary": "Many of the most consequential advances promised by AI, from curing diseases and inventing new technologies to formulating new scientific theories, are fundamentally creative acts. Yet creativity is uniquely difficult to learn because it faces a creative paradox: learning to repeat past examples of creative success makes those specific examples more likely to recur, inhibiting the very creativity desired. This work argues that creativity is better modeled as an explicit process rather than as a property of individual artifacts, and proposes to learn the underlying generative principles behind ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-08T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI",
+        "url": "https://huggingface.co/papers/2611.08935",
+        "summary": "Reliable dermatology AI requires access to verifiable evidence distributed across heterogeneous textual and visual sources. However, conventional retrieval-augmented generation (RAG) typically relies on one-shot retrieval from flat corpora, limiting its ability to adapt retrieval granularity, explore multi-hop relations, and integrate multimodal clinical evidence. We introduce SkinMind, a multimodal agentic RAG framework that equips policy models with human-inspired graph probing for autonomous evidence seeking. SkinMind organizes retrieval as an iterative interaction between an orchestrator a",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-05T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

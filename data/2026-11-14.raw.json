@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T15:15:04.567142+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+        "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/",
+        "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 22:21:56 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
+        "url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/",
+        "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 21:46:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
+        "url": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/",
+        "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 20:45:42 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Doctors have questions about the Watchman. Boston Scientific has a sales pitch.",
+        "url": "https://www.statnews.com/2026/11/13/investigation-boston-scientific-watchman-cardiac-implant-marketing-science/",
+        "summary": "The Boston Globe investigates if Boston Scientific's marketing of its cardiac implant, Watchman, outpaced the science.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 17:55:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/11/13/up-down-ladder-jobs-pharma-biotech-2/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 15:48:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: HHS plans funding for research into ibogaine for PTSD",
+        "url": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/",
+        "summary": "The Trump administration will funnel up to $4.9 million into supporting research into ibogaine, a psychedelic that’s drawn interest as a potential treatment for PTSD and addiction.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 15:25:46 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: New organ donation rules are unfair to families",
+        "url": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/",
+        "summary": "New organ donation rules may “blur the line between the physicians fighting to save a patient's life and the teams responsible for organ procurement.”",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 14:59:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Brain implant startup pauses trials",
+        "url": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/",
+        "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 14:40:32 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/13/lilly-conflict-questions-dea-okays-takeda-narcolepsy-pill/",
+        "summary": "A deal for smart-ring maker Oura to acquire a telehealth company is raising conflict-of-interest questions for Eli Lilly",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 14:33:16 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
+        "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/",
+        "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 14:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The future of heart drug research in the wake of study setbacks",
+        "url": "https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/",
+        "summary": "What does the failure of two closely watched heart disease medicines mean for the future of drug research in the field? Find out on this week's episode of \"The Readout&#8230;",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 13:34:45 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Senator-elect Abdul El-Sayed on restoring trust in science, the state of public health, and RFK Jr.",
+        "url": "https://www.statnews.com/2026/11/13/senator-abdul-el-sayed-interview-public-health-rfk-jr-trust-in-science/",
+        "summary": "Senator-elect Abdul El-Sayed talks to STAT about restoring trust in science, the state of public health, and RFK Jr.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say",
+        "url": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/",
+        "summary": "With a new deal announced this week, the relationship between Eli Lilly and a telehealth company that markets GLP-1s is expected to grow more complicated.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "5 takeaways from STAT’s investigation of the sprawling ‘three-parent IVF’ industry",
+        "url": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/",
+        "summary": "A STAT investigation of the fertility tourism industry found that clinics are offering an unproven IVF procedure to older women. Here are 5 takeaways from the investigation.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: ‘What will I do with the time I have left?’: What it’s like to find out you might develop Alzheimer’s",
+        "url": "https://www.statnews.com/2026/11/13/alzheimers-disease-biomarker-tests-psychological-legal-challenges/",
+        "summary": "“What people fear isn’t the end of life, the demise of the animated body, but the demise of the mind,” writes Jason Karlawish.",
+        "source": "STAT News",
+        "published": "Fri, 13 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/trump-administration-delays-enforcement-medicaid-work-requirements-six-months\" hreflang=\"en\">Trump administration delays enforcement of Medicaid work requirements for six months</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-delays-enforcement-medicaid-work-requirements-six-months",
+        "summary": "CMS is offering states an optional six-month enforcement grace period for new Medicaid work requirements, allowing them to test and improve eligibility systems without denying or terminating otherwise eligible beneficiaries for noncompliance through June 30, 2027.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 13, 2026 7:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/commonspirit-health-logs-544m-operating-loss-begin-its-fy2027\" hreflang=\"en\">CommonSpirit Health logs $544M operating loss to begin its FY2027</a>",
+        "url": "https://www.fiercehealthcare.com/providers/commonspirit-health-logs-544m-operating-loss-begin-its-fy2027",
+        "summary": "The major Catholic nonprofit system said its strong volumes and efficiency gains were hamstrung by weakened payer mix and rising costs.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 13, 2026 4:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/plan-sponsor-expectations-policy-shifts-set-pressure-payers-2027\" hreflang=\"en\">Plan sponsor expectations, policy shifts set to pressure payers in 2027</a>",
+        "url": "https://www.fiercehealthcare.com/payers/plan-sponsor-expectations-policy-shifts-set-pressure-payers-2027",
+        "summary": "2027 is shaping up to be a complex year for health plans, as demands from clients to demonstrate value get louder, according to a new report.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 12, 2026 4:50pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/ardent-health-acquiring-missouri-nonprofit-boone-health-47m\" hreflang=\"en\">Ardent Health acquiring Missouri nonprofit Boone Health for $47M</a>",
+        "url": "https://www.fiercehealthcare.com/providers/ardent-health-acquiring-missouri-nonprofit-boone-health-47m",
+        "summary": "The purchase of the $500 million Missouri nonprofit includes a 10-year, $200 million capital commitment, and is expected to bring Ardent at least $30 million annual EBITDA by its third year.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 13, 2026 2:27pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—Mayo Clinic names next CEO; Novant Health CEO to retire</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/policy-brief-trump-admin-awards-10b-rhtp-funds-year-two-hhs-invests-97m-preventing-elder\" hreflang=\"en\">Policy Brief: Trump admin unveils $10B in second-year rural health awards; HHS invests $9.7M to combat elder abuse</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/policy-brief-trump-admin-awards-10b-rhtp-funds-year-two-hhs-invests-97m-preventing-elder",
+        "summary": "The latest news from CMS and HHS: RHTP second year funding announced, CMS issues two new key rules and more.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 11, 2026 3:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/patient-experience-has-improved-across-healthcare-industry-now-comes-consistency\" hreflang=\"en\">Patient experience has improved across the healthcare industry. Now comes consistency</a>",
+        "url": "https://www.fiercehealthcare.com/providers/patient-experience-has-improved-across-healthcare-industry-now-comes-consistency",
+        "summary": "As metrics like patients' average likelihood to recommend reach or surpass pre-pandemic levels, inconsistency and operational friction are the next hurdles for providers to surmount, according to a new report pulling data from 43.1 million patient encounters.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 12, 2026 3:10pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/industry-voices-pledges-progress-kill-clipboard-keep-eye-consistency\" hreflang=\"en\">Industry Voices—From pledges to progress: Kill the clipboard, keep an eye on consistency</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/industry-voices-pledges-progress-kill-clipboard-keep-eye-consistency",
+        "summary": "Reaching CMS' goal to kill the clipboard will require more than voluntary commitments from individual technology developers, writes Altera's Leigh Burchell.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 13, 2026 12:53pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic\" hreflang=\"en\">Dyania Health, Nvidia team up to bring clinical reasoning AI inside hospital networks</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/dyania-health-nvidia-cleveland-clinic",
+        "summary": "Dyania Health is teaming up with Nvidia to run its Synapsis AI clinical reasoning platform inside hospitals’ own IT environments, allowing health systems to analyze years of patient records at population scale without sending protected patient data outside their networks.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 13, 2026 8:19am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1\" hreflang=\"en\">Weekly Rundown: Ohio State Wexner, Microsoft ink tech deal; OpenEvidence launches free Access Intelligence tools</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1",
+        "summary": "The latest news from R1, OpenEvidence, Microsoft, Ohio State Wexner Medical Center, Clear, Epic, Ellipsis Health and Kouper Health.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 12, 2026 1:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealth-releases-independent-audit-its-medical-policy-development-practices\" hreflang=\"en\">UnitedHealth releases independent audit of its medical policy development practices</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealth-releases-independent-audit-its-medical-policy-development-practices",
+        "summary": "Over the past year, UnitedHealth Group has conducted a series of independent reviews of its practices as part of a broader turnaround effort at the company.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 12, 2026 4:13pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-pauses-hospice-home-health-medicare-enrollments-fraud-crackdown\" hreflang=\"en\">CMS extends moratorium on new Medicare enrollments for hospice, home health agencies</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-pauses-hospice-home-health-medicare-enrollments-fraud-crackdown",
+        "summary": "The Trump administration is extending its moratorium on new Medicare enrollments from hospice and home health agencies.",
+        "source": "Fierce Healthcare",
+        "published": "May 13, 2026 1:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business\" hreflang=\"en\">Charles River pays $470M for 2 Frontage bioanalysis labs in Pennsylvania</a>",
+        "url": "https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business",
+        "summary": "Charles River Laboratories has acquired Tigermed’s Frontage laboratory sites for $470 million upfront to advance its bioanalysis footprint.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 9:52am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/promise-molecular-gates-and-what-comes-next\" hreflang=\"en\">The promise of molecular gates and what comes next</a>",
+        "url": "https://www.fiercebiotech.com/biotech/promise-molecular-gates-and-what-comes-next",
+        "summary": "Gate Bioscience is developing a new class of medicines designed to eliminate disease-causing proteins at their source. In this episode of \"The Top Line,\" Gate co-founder and CEO Jordi Mata-Fink, Ph.D., discusses the promise of molecular gates, the biotech's expanded partnership with Eli Lilly and its plans to bring the technology into the clinic.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 9:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/rezolute-gets-uplift-phase-3-win-ahead-fda-meeting\" hreflang=\"en\">Rezolute gets an uplift from phase 3 tumor hyperinsulinism win ahead of FDA meeting</a>",
+        "url": "https://www.fiercebiotech.com/biotech/rezolute-gets-uplift-phase-3-win-ahead-fda-meeting",
+        "summary": "A phase 3 clinical trial of Rezolute’s ersodetug in tumor hyperinsulinism has hit its primary endpoint, boosting the biotech ahead of a potential filing for FDA approval in another indication.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 9:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cellectis-will-shed-70-workforce-part-vivo-pivot\" hreflang=\"en\">Cellectis will shed 70% of workforce as part of in vivo pivot</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cellectis-will-shed-70-workforce-part-vivo-pivot",
+        "summary": "Cellectis’ pivot from allogeneic CAR-Ts to in vivo therapies is set to come at the expense of 70% of its workforce.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 3:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/researchers-identify-protein-panel-blood-improve-als-detection\" hreflang=\"en\">‘They’ve been misdiagnosed for too long’: Researchers use 10-protein panel to improve ALS detection</a>",
+        "url": "https://www.fiercebiotech.com/research/researchers-identify-protein-panel-blood-improve-als-detection",
+        "summary": "By the time a neurodegenerative condition has been diagnosed, it's often too late. At the point of detection, the disease may already be causing irreversible damage, fueling an urgent search for ways to identify biological clues earlier and track their progression.",
+        "source": "Fierce Biotech",
+        "published": "Nov 11, 2026 3:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-bristol-myers-chief-research-out-amid-rd-reorganization\" hreflang=\"en\">Chutes &amp; Ladders—Bristol Myers' research chief out amid R&amp;D reorganization</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-bristol-myers-chief-research-out-amid-rd-reorganization",
+        "summary": "Bristol Myers Squibb's research chief is departing as the company restructures R&amp;D. Summit Therapeutics cut ties with multiple launch team members, including its CCO, ahead of a high-stakes FDA decision. And OncoNano appointed its interim chief, a former FDA commissioner, to the permanent CEO spot.",
+        "source": "Fierce Biotech",
+        "published": "Nov 12, 2026 3:05pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/american-cancer-society-updates-prostate-cancer-screening-guidance\" hreflang=\"en\">American Cancer Society updates prostate cancer screening guidance</a>",
+        "url": "https://www.fiercebiotech.com/medtech/american-cancer-society-updates-prostate-cancer-screening-guidance",
+        "summary": "For the first time in 16 years, the American Cancer Society (ACS) has updated its guideline for prostate cancer screening as it drives to boost detection of the disease before it spreads.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 8:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-backed-windward-hits-225m-ipo-goal-advance-respiratory-drugs-china\" hreflang=\"en\">Sanofi-backed Windward hits $225M IPO goal, as Rezera delays listing over ‘market conditions’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sanofi-backed-windward-hits-225m-ipo-goal-advance-respiratory-drugs-china",
+        "summary": "Windward Bio’s IPO has blown to exactly the spot the Swiss biotech had been aiming for, bringing in $225 million to fund a pair of respiratory drugs licensed from China.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 3:51am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Milestone shrinks HQ workforce during Cardamyst rollout</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+        "source": "Fierce Biotech",
+        "published": "Dec 23, 2025 10:11am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/virtuoso-surgical-nabs-fda-authorization-robotic-bladder-lesions-system\" hreflang=\"en\">Virtuoso Surgical nabs FDA authorization for robotic bladder lesions system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/virtuoso-surgical-nabs-fda-authorization-robotic-bladder-lesions-system",
+        "summary": "The FDA has granted De Novo authorization for Virtuoso Surgical’s Virtuoso Endoscopy System.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 3:55am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/regeneron-posts-positive-phase-2-pots-data-baloncibart-eyes-pivotal-trial\" hreflang=\"en\">Regeneron posts positive phase 2 data for baloncibart in nervous system disorder, eyes pivotal trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/regeneron-posts-positive-phase-2-pots-data-baloncibart-eyes-pivotal-trial",
+        "summary": "Regeneron has posted positive phase 2 data on baloncibart in postural orthostatic tachycardia syndrome, teeing the biotech up to start a potentially pivotal trial in the first half of 2027.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 3:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arpa-h-bets-49-million-ibogaine-ptsd-treatment-veterans\" hreflang=\"en\">ARPA-H bets $4.9 million on ibogaine for PTSD treatment in veterans</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arpa-h-bets-49-million-ibogaine-ptsd-treatment-veterans",
+        "summary": "The U.S. department of health and human services announced a $4.9 million bet to advance the development of ibogaine for post-traumatic stress disorder (PTSD).",
+        "source": "Fierce Biotech",
+        "published": "Nov 12, 2026 1:34pm",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "A frontier machine intelligence for human neuroimaging",
+        "url": "https://huggingface.co/papers/2611.15094",
+        "summary": "Medical imaging is essential for diagnosing disease, guiding treatment and monitoring patients over time. Although artificial intelligence has advanced image interpretation, existing medical models often address restricted tasks, while general-purpose proprietary models lack access to private clinical imaging required to achieve medical expertise. Developing models that can interpret complex examinations and communicate their findings in the context of clinical decisions remains a major challenge. Here, we show that Neuro-VL, a vision-language model trained on nearly one million neuroimaging s",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-10T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

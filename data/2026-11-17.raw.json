@@ -1,0 +1,286 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T16:43:05.889257+08:00",
+  "counts": {
+    "news": 32,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
+        "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/",
+        "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 23:45:36 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
+        "url": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/",
+        "summary": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 20:56:47 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Federal judge issues final ruling blocking U.S. plan to limit visa length for grad students, postdocs",
+        "url": "https://www.statnews.com/2026/11/16/judge-rejects-visa-limits-international-researchers-upholds-duration-of-status-policy/",
+        "summary": "A proposal by the Trump administration to cap the amount of time foreign students and scholars can spend in the country has been struck down in court.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 19:59:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
+        "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/",
+        "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 18:54:06 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
+        "url": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/",
+        "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 18:18:25 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIAID acting head John Powers III appointed as the permanent director",
+        "url": "https://www.statnews.com/2026/11/16/john-powers-appointed-niaid-director/",
+        "summary": "The acting director of NIAID, John Powers III, will become the permanent director, the agency announced Monday.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 17:47:11 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Biotech’s rebound isn’t lifting all boats equally",
+        "url": "https://www.statnews.com/2026/11/16/biotech-news-rebound-isnt-lifting-all-boats-equally/",
+        "summary": "Biotech is having a good year, though you wouldn't necessarily know it from how investors are treating positive clinical data.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 16:56:33 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
+        "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/",
+        "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 16:52:09 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/",
+        "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 14:17:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Democrats settle on a message: ‘Medicare for More’",
+        "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/",
+        "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 13:37:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
+        "url": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/",
+        "summary": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 13:07:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
+        "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/",
+        "summary": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% — results that may change how physicians treat certain patients.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 13:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
+        "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/",
+        "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 11:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy’s thorniest issues",
+        "url": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/",
+        "summary": "Versant Ventures, Eli Lilly, and a handful of other investors will pour $100 million into a new startup devoted to solving a thorny gene therapy challenge.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 10:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: With Stephen Miller as chief of staff, Kennedy’s MAHA agenda is reinvigorated",
+        "url": "https://www.statnews.com/2026/11/16/stephen-miller-chief-of-staff-boosts-power-of-kennedy-maha/",
+        "summary": "The appointment of Stephen Miller as White House chief of staff has health secretary RFK Jr. invigorated. A top deputy is telling people it's go time for MAHA.",
+        "source": "STAT News",
+        "published": "Mon, 16 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential\" hreflang=\"en\">CG preps new, expanded bladder cancer plans with FDA after ph. 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential",
+        "summary": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 10:40am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/helus-touts-ph-3-win-its-chemically-modified-psychedelic-depression\" hreflang=\"en\">Helus' chemically modified psychedelic hits key goals in phase 3 depression trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/helus-touts-ph-3-win-its-chemically-modified-psychedelic-depression",
+        "summary": "Helus Pharma's oral chemically modified version of psilocybin hit the key goals of a phase 3 study as an adjunctive treatment in major depressive disorder.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 9:37am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-inks-411m-collab-trimtechs-protein-degrader-tech-aimed-neurodegeneration\" hreflang=\"en\">Biogen inks $411M neurodegeneration pact with protein degrader biotech TrimTech</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogen-inks-411m-collab-trimtechs-protein-degrader-tech-aimed-neurodegeneration",
+        "summary": "Cambridge, U.K.-based TrimTech Therapeutics has linked up with Biogen in a collaboration worth up to $411 million in biobucks to develop protein degraders for neurodegenerative diseases.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 9:41am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-secures-another-myelofibrosis-option-15b-deal-jpm-founded-calytrix\" hreflang=\"en\">Lilly secures another myelofibrosis option via $1.5B deal for JPM-founded Calytrix</a>",
+        "url": "https://www.fiercebiotech.com/biotech/lilly-secures-another-myelofibrosis-option-15b-deal-jpm-founded-calytrix",
+        "summary": "Eli Lilly has added another myelofibrosis prospect to its pipeline courtesy of a $1.5 billion deal for Massachusetts biotech Calytrix Bio.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 9:03am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-pays-22b-upfront-ollin-challenge-roches-vabysmo\" hreflang=\"en\">J&amp;J pays $2.2B upfront for Ollin to challenge Roche’s Vabysmo with phase 3 bispecific</a>",
+        "url": "https://www.fiercebiotech.com/biotech/jj-pays-22b-upfront-ollin-challenge-roches-vabysmo",
+        "summary": "Johnson &amp; Johnson has struck a deal to buy Ollin Biosciences for $2.2 billion upfront, establishing itself as a threat to Roche’s blockbuster eye disease drug Vabysmo.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 9:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/aclaris-scratches-tslp-program-pipeline-after-flunking-phase-2-eczema-test\" hreflang=\"en\">Aclaris drops TSLP program from pipeline after flunking phase 2 eczema test</a>",
+        "url": "https://www.fiercebiotech.com/biotech/aclaris-scratches-tslp-program-pipeline-after-flunking-phase-2-eczema-test",
+        "summary": "A phase 2 study of Aclaris Therapeutics’ bosakitug in atopic dermatitis has missed its primary endpoint, adding to the setbacks anti-TSLP antibodies have encountered in the indication.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 7:57am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/sponsored/building-resilient-biomanufacturing-supply-networks\" hreflang=\"en\">Building resilient biomanufacturing supply networks</a>",
+        "url": "https://www.fiercebiotech.com/sponsored/building-resilient-biomanufacturing-supply-networks",
+        "summary": "Global scale, regional proximity and harmonized quality systems can strengthen biologics supply resilience",
+        "source": "Fierce Biotech",
+        "published": "Nov 10, 2026 5:22pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/flagship-commits-ps100-million-set-ai-focused-biotech-incubation-outpost-london\" hreflang=\"en\">Flagship commits £100M to set up AI-focused biotech incubation outpost in London</a>",
+        "url": "https://www.fiercebiotech.com/biotech/flagship-commits-ps100-million-set-ai-focused-biotech-incubation-outpost-london",
+        "summary": "Flagship Pioneering has picked London as the site of the venture capital powerhouse’s first company-creation unit outside of its hometown.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 6:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi\" hreflang=\"en\">Big Pharma-backed Seawolf surfaces with $100M to hand, $1.2B Sanofi DNA med pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi",
+        "summary": "Seawolf Therapeutics has emerged from the deep with $100 million to fuel its DNA therapeutic ambitions and a billion-dollar deal with Sanofi.",
+        "source": "Fierce Biotech",
+        "published": "Nov 12, 2026 5:40pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chinese-scientists-fired-after-child-dies-gene-editing-study\" hreflang=\"en\">Chinese scientists fired after child dies in gene editing study: report</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chinese-scientists-fired-after-child-dies-gene-editing-study",
+        "summary": "Chinese authorities have fired two researchers over their roles in the death of a child in a gene editing study, according to reports in Chinese state media.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 3:47am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/tandem-mobi-sees-fda-clearance-tubeless-aid-system\" hreflang=\"en\">Tandem Mobi sees FDA clearance for tubeless AID system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/tandem-mobi-sees-fda-clearance-tubeless-aid-system",
+        "summary": "Tandem Diabetes Care has picked up FDA clearance of its Tandem Mobi system, a tubeless automated insulin delivery device cleared for up to seven days of wear.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 2:32am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sofinnova-books-biggest-ever-815m-fund-eye-toward-and-coming-global-leaders\" hreflang=\"en\">Sofinnova books biggest-ever $815M fund with an eye toward up-and-coming ‘global leaders’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sofinnova-books-biggest-ever-815m-fund-eye-toward-and-coming-global-leaders",
+        "summary": "Life sciences venture capital firm Sofinnova Partners has closed its largest fund ever to the tune of $815 million backing around 15 clinical development companies mostly based in Europe.",
+        "source": "Fierce Biotech",
+        "published": "Nov 12, 2026 8:11pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "李彦宏回应“起大早，赶晚集”",
+        "url": "https://www.36kr.com/p/4071980089300608",
+        "summary": "李彦宏以90%失败论阐释百度长周期AI战略博弈",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 16 Nov 2026 11:37:23 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "全球AI独角兽全景图：30家百亿美元公司，中国公司杀入前十",
+        "url": "https://www.36kr.com/p/4071712212030338",
+        "summary": "应用层分化加剧",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 16 Nov 2026 01:48:18 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "启明创投给他第一笔钱",
+        "url": "https://www.36kr.com/p/4071739103187846",
+        "summary": "CataX AI首次亮相。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 16 Nov 2026 01:23:34 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "瑞士医疗科技企业Biped Robotics研发智能导航肩带，辅助视障人士独立出行 | 瑞士创新100强",
+        "url": "https://www.36kr.com/p/4071780603238025",
+        "summary": "障碍物检测最远距离可达10米。",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 16 Nov 2026 01:55:53 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "这个低迷了四年的赛道，正在被大手笔扫货",
+        "url": "https://www.36kr.com/p/4071679244326018",
+        "summary": "IVD行业冷，长线资本逆势布局成熟现金流资产",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 16 Nov 2026 01:01:54 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+        "url": "https://huggingface.co/papers/2611.21218",
+        "summary": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open medical AI evaluation initiative for inclusive healthcare. The InclusionMed Atlas organizes benchmarks across three healthcare roles and three AI capabilities. For the first release, we selected four public benchmarks from 388 candidates through structured audits and independent reproduction. With InclusionMed-DxFiles, our private diagnostic reasoning benchmark, the Atlas contains five benchmarks c",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model",
+        "url": "https://huggingface.co/papers/2611.20986",
+        "summary": "Biomolecular foundation models predict the structures of proteins and their complexes accurately, and large language models (LLMs) reason in natural language, but the two remain separate: the abilities of the former are not part of a general-purpose LLM, and the reasoning of the latter does not enter a structure prediction. Calpha aims at one general model that folds proteins and complexes, understands protein sequence and structure, and lets its language reasoning influence the structures it predicts. This report covers the first step, in which an LLM outputs single-chain protein structures. ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

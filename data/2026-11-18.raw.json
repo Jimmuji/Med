@@ -1,0 +1,374 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:06:35.853711+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 6
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+        "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/",
+        "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 00:44:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
+        "url": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/",
+        "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 19:44:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+        "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/",
+        "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 18:14:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
+        "url": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/",
+        "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 17:49:24 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
+        "url": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/",
+        "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 17:05:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
+        "url": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/",
+        "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 16:07:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: ‘Medicare for More’ gains traction",
+        "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/",
+        "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 15:27:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/",
+        "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 14:25:41 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "NIH’s infectious disease unit has a new head at last",
+        "url": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/",
+        "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 13:27:01 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
+        "url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/",
+        "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 12:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
+        "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/",
+        "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
+        "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/",
+        "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
+        "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/",
+        "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
+        "url": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/",
+        "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+        "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/",
+        "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/medicare-shared-savings-program-saved-25b-last-year-cms\" hreflang=\"en\">Medicare Shared Savings Program saved $2.5B last year: CMS</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/medicare-shared-savings-program-saved-25b-last-year-cms",
+        "summary": "The Medicare Shared Savings Program has reached the highest savings number in its history, according to new federal data.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 9:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/optum-rx-rolls-out-new-pharmacy-tools-aimed-transparency\" hreflang=\"en\">Optum Rx rolls out new pharmacy tools aimed at transparency</a>",
+        "url": "https://www.fiercehealthcare.com/payers/optum-rx-rolls-out-new-pharmacy-tools-aimed-transparency",
+        "summary": "Earlier this year, Optum Rx teased the rollout of new pharmacy tools designed to address medication cost and access.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 6:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-teladoc-health-expands-weight-care-program-new-employer-offering\" hreflang=\"en\">HLTH 2026: Teladoc Health's weight care program lets employers partially contribute to GLP-1 costs</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-teladoc-health-expands-weight-care-program-new-employer-offering",
+        "summary": "Through the new option, employers can offer employees partially comped access to the medications from Eli Lilly and Novo Nordisk alongside other benefits, like personalized lifestyle coaching.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 2:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth26-daily-tracker-health-techs-ai-powered-pitch-falling-flat-survey-finds-vynca\" hreflang=\"en\">HLTH 2026 Daily Tracker: F1 mania takes over HLTH; Why DJ Steve Aoki is investing in innovative science</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth26-daily-tracker-health-techs-ai-powered-pitch-falling-flat-survey-finds-vynca",
+        "summary": "The Fierce Healthcare team is on the ground at HLTH 2026. Stick with this news tracker to catch all the highlights from the show floor, and click here for additional coverage from the conference.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 16, 2026 9:30am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/payer-mix-non-labor-expenses-dragged-hospital-margins-september\" hreflang=\"en\">Payer mix, non-labor expenses dragged hospital margins in September</a>",
+        "url": "https://www.fiercehealthcare.com/providers/payer-mix-non-labor-expenses-dragged-hospital-margins-september",
+        "summary": "Uncompensated care and cost pressures haven't gone away for hospitals, leading to a “historically large portion” of the nation’s hospitals running on negative or near-zero operating margins, Kaufman Hall warned in its latest industry benchmark.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 4:32pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-american-hospital-association-west-health-institute-announce-new\" hreflang=\"en\">HLTH 2026: American Hospital Association, West Health Institute announce new collaboration with BD</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-american-hospital-association-west-health-institute-announce-new",
+        "summary": "The collaboration, which begins with a cohort of 10 hospitals, aims to accelerate the adoption of technologies shown to improve patient care.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 2:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—athenahealth cutting 4% of workforce; Ascension lays off 51 amid outsourcing</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-proposes-sweeping-medicare-integrity-rule-it-says-will-save-90b\" hreflang=\"en\">CMS proposes sweeping Medicare integrity rule it says will save $90B</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-proposes-sweeping-medicare-integrity-rule-it-says-will-save-90b",
+        "summary": "The Comprehensive Regulations to Uncover Suspicious Healthcare (CRUSH) proposed rule spans Medicare, Medicaid, the Children’s Health Insurance Program (CHIP) and the Health Insurance Marketplace.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 11:58am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare\" hreflang=\"en\">Chutes &amp; Ladders—SimpliFed adds COO; Mayo Clinic names next CEO</a>",
+        "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+        "summary": "Welcome to this week's Chutes &amp; Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news—or the bad—from your shop, and we will feature it here at the end of each week.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 7, 2026 3:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26\" hreflang=\"en\">Fierce Healthcare Fundraising Tracker '26: Aevius launches with $22M for clinical insights; Abby Care secures $82M for family-led care</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+        "summary": "Keep up with all the venture capital&nbsp;dollars being funneled into the health tech and digital health industries.",
+        "source": "Fierce Healthcare",
+        "published": "Feb 6, 2026 8:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/humana-launches-provider-gold-card-program\" hreflang=\"en\">Humana launches national provider Gold Card program</a>",
+        "url": "https://www.fiercehealthcare.com/payers/humana-launches-provider-gold-card-program",
+        "summary": "Humana is continuing its push to reform prior authorization with the launch of a national provider gold card program, which will initially focus on MRI, CT and MRA imaging as well as physical and occupational therapy.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 16, 2026 4:24pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/hlth-2026-glp-1-costs-remain-challenge-new-cvs-study-aims-identify-right-price\" hreflang=\"en\">HLTH 2026: GLP-1 costs remain a challenge. A new CVS study aims to identify the right price</a>",
+        "url": "https://www.fiercehealthcare.com/payers/hlth-2026-glp-1-costs-remain-challenge-new-cvs-study-aims-identify-right-price",
+        "summary": "Cost and access to GLP-1s remains a challenge, but the benefits of these drugs aren't in doubt. A new study from CVS Health aims to quantify at what price a GLP-1 drug has generated enough savings elsewhere through improved clinical outcomes.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 16, 2026 9:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house\" hreflang=\"en\">Heidi Overton’s FDA nomination pulled by White House: reports</a>",
+        "url": "https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
+        "summary": "The White House is reportedly pulling Heidi Overton’s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 8:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss\" hreflang=\"en\">FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
+        "summary": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 4:29pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/scientists-uncover-very-detailed-map-enzyme-target-therapies-rare-metabolic-disease\" hreflang=\"en\">Scientists uncover ‘very detailed map’ of an enzyme target for rare metabolic disease</a>",
+        "url": "https://www.fiercebiotech.com/research/scientists-uncover-very-detailed-map-enzyme-target-therapies-rare-metabolic-disease",
+        "summary": "For some rare genetic diseases, the problem isn't a missing protein but the buildup of toxic molecules that the body can no longer clear away.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 1:33pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-pays-380m-plus-contego-medical-buyout\" hreflang=\"en\">Medtronic pays $380M-plus for Contego Medical buyout</a>",
+        "url": "https://www.fiercebiotech.com/medtech/medtronic-pays-380m-plus-contego-medical-buyout",
+        "summary": "Medtronic is boosting its cardiovascular disease portfolio with a deal to buy up carotid artery disease and peripheral thrombectomy tech company Contego Medical.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 11:21am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kyntra-axes-mid-stage-adc-adding-years-myriad-stumbles\" hreflang=\"en\">Kyntra axes mid-stage ADC, adding to years of stumbles</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kyntra-axes-mid-stage-adc-adding-years-myriad-stumbles",
+        "summary": "Beleaguered Kyntra Bio can’t catch a break. Formerly known as FibroGen, the company has endured a series of woes over the last few years, and now the biotech is cutting a clinical antibody-drug conjugate program from its mid-stage lineup.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 9:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding\" hreflang=\"en\">Why 2027 could be ‘Europe’s year to shine’: Panelists debate biotech funding at Fierce’s London event</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding",
+        "summary": "Panelists at Fierce Biotech's London Life Sciences Week event discussed whether Europe can pull its weight in biopharma investment next year against the gravitational pull of the U.S. and China.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 6:21am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round\" hreflang=\"en\">Isomorphic Labs raises $5B series C months after $2.1B round</a>",
+        "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round",
+        "summary": "Isomorphic Labs has raised a $5 billion series C round, marking the second time in six months that the AI drug development startup has pulled off a multibillion-dollar financing.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 8:37am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option\" hreflang=\"en\">AriBio’s oral Alzheimer’s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option</a>",
+        "url": "https://www.fiercebiotech.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option",
+        "summary": "AriBio’s erectile dysfunction med-turned Alzheimer’s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 10:07pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study\" hreflang=\"en\">Sellas marks 9-month survival benefit in late-stage leukemia vaccine study</a>",
+        "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
+        "summary": "Sellas Life Sciences’ cancer vaccine for acute myeloid leukemia has passed a phase 3 test with a more than nine-month improvement in overall survival.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 6:12pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy\" hreflang=\"en\">Marrow extracts $120M series B to advance preclinical blood disease therapy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy",
+        "summary": "A new biotech targeting blood disorders, aptly called Marrow Therapeutics, has launched with $173 million in combined funding and a preclinical lead program aimed at sickle cell disease and beta thalassemia.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 8:44am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets\" hreflang=\"en\">Lilly signs $5.9B deal with Stipple to unlock oncology targets</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets",
+        "summary": "Eli Lilly has struck a $5.9 billion deal to partner with Stipple Bio on oncology drug candidates that more precisely target tumor cells.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 3:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential\" hreflang=\"en\">CG preps new, expanded bladder cancer plans with FDA after ph. 3 win</a>",
+        "url": "https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential",
+        "summary": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 10:40am",
+        "importance_hint": 5
+      }
+    ],
+    "papers": [
+      {
+        "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
+        "url": "https://huggingface.co/papers/2611.08922",
+        "summary": "Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at population scale, motivating methods that automatically extract pre-defined phenotypes in multimodal and unstructured clinical data. Such pre-defined feature sets determine and limit which associations these approaches can discover. This limitation extends to agentic AI systems that use these tools to query population-scale data. In contrast, foundation models (FMs) trained on large volumes of clinical da",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-05T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Regularized Score Centering",
+        "url": "https://huggingface.co/papers/2611.21791",
+        "summary": "Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy learning, score centering (SC) removes the effect of reward baselines on the expected update. Our gradient diagnostics show less extreme gradients with SC than with importance sampling (IS), but SC can still fail when the learner moves far from the behavior policy that generated the data. To limit this policy mismatch, we introduce Regularized Score Centering (RSC), which adds a reverse Kullback-L",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+        "url": "https://huggingface.co/papers/2611.15348",
+        "summary": "Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchmarks that compare machine learning methods under realistic conditions, particularly sensor drift, a known but rarely quantified failure mode. Most existing studies rely on small, private datasets with inconsistent protocols, rendering results non-comparable and slowing progress. We introduce Breath-Dx, the first comprehensive benchmark of time series classification methods for breath-based disease ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-10T19:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding",
+        "url": "https://huggingface.co/papers/2611.20992",
+        "summary": "Medical image understanding with vision-language models (VLMs) typically relies on autoregressively generating reasoning and answer tokens. These unnecessary tokens make the inference cost scale with the response length and force the answer to be parsed from free-form text, incurring avoidable latency and decision errors. To this end, we introduce MedJev, a system one vision-language decision model that maps medical images, questions, and candidate answers directly to decisions in a single multimodal forward pass, without any autoregressive generation process. For fast inference, MedJev remove",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Flexible Multi-Stack Super-Resolution of Clinical Brain MRI Using Hetero-Orientation Variational Encoding: Expert Reader Evaluation in a Nigerian Cohort",
+        "url": "https://huggingface.co/papers/2611.21412",
+        "summary": "High-resolution brain MRI is important for neuroradiological assessment, yet routine clinical protocols often rely on fast, anisotropic 2D acquisitions, particularly in resource-constrained settings. These acquisitions may differ in orientation, alignment and anatomical coverage, resulting in partially overlapping image stacks. Existing learning-based super-resolution methods typically rely on single, under-constrained inputs or fixed multi-stack configurations with idealised acquisition geometry. We introduce MS-HVED, a sequence-agnostic framework for flexible multi-stack brain MRI super-reso",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 4
+      },
+      {
+        "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+        "url": "https://huggingface.co/papers/2611.21218",
+        "summary": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open medical AI evaluation initiative for inclusive healthcare. The InclusionMed Atlas organizes benchmarks across three healthcare roles and three AI capabilities. For the first release, we selected four public benchmarks from 388 candidates through structured audits and independent reproduction. With InclusionMed-DxFiles, our private diagnostic reasoning benchmark, the Atlas contains five benchmarks c",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

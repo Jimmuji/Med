@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:15:39.753941+08:00",
+  "counts": {
+    "news": 42,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
+        "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/",
+        "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 23:07:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
+        "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/",
+        "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 21:21:26 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
+        "url": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/",
+        "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 20:29:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
+        "url": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/",
+        "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 19:33:57 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: The emerging winners and losers in the AI scribe market",
+        "url": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/",
+        "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 19:25:59 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
+        "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/",
+        "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 15:36:19 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
+        "url": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/",
+        "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 14:37:13 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/",
+        "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 14:26:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "What redesigning medical school might look like",
+        "url": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/",
+        "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 13:03:55 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?",
+        "url": "https://www.statnews.com/2026/11/18/susan-collins-election-loss-impact-science-funding/",
+        "summary": "Some science advocates worry that Maine GOP Sen. Susan Collins’ defeat could hamper their ability to push back on Trump administration research policies.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education",
+        "url": "https://www.statnews.com/2026/11/18/core-to-clinic-medical-education-radical-proposal/",
+        "summary": "“Why do we have hundreds of institutions independently building parallel versions of the same pre-clerkship curriculum?”",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: RFK Jr. has got to go",
+        "url": "https://www.statnews.com/2026/11/18/kennedy-impeachment-paul-knoepfler-says-time-is-now/",
+        "summary": "With Democrats riding a blue wave after the midterms, it’s time to impeach health secretary Robert F. Kennedy Jr., writes Paul Knoepfler.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+        "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/",
+        "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+        "source": "STAT News",
+        "published": "Wed, 18 Nov 2026 00:44:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
+        "url": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/",
+        "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 19:44:14 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+        "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/",
+        "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
+        "source": "STAT News",
+        "published": "Tue, 17 Nov 2026 18:14:50 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-new-care-model-leans-community-pharmacies\" hreflang=\"en\">UnitedHealthcare's new care model leans on community pharmacies</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-new-care-model-leans-community-pharmacies",
+        "summary": "UnitedHealthcare is teaming up with CPSEN for its UHC Pharmacy Care Hub model, a new program that aims to lean on community pharmacists to reach Medicaid patients.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists\" hreflang=\"en\">Department of Labor moves to end expedited green cards for nurses, physical therapists</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists",
+        "summary": "The Trump administration proposed eliminating a longstanding exemption to the permanent labor certification program, the latest in a string of policies raising the bar for foreign-born healthcare workers seeking employer sponsorship.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural\" hreflang=\"en\">HLTH 2026: Viz.ai’s chief clinical officer on takeaways, goals of AI collab with National Rural Health Association</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural",
+        "summary": "Viz.ai Chief Clinical Officer Andrew Ibrahim, M.D., sat down with Fierce to discuss the partnership’s first year.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 11:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-hims-hers-noom-launch-peptide-brands\" hreflang=\"en\">HLTH 2026: Noom, Hims &amp; Hers roll out peptide offerings</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-hims-hers-noom-launch-peptide-brands",
+        "summary": "Noom and Hims &amp; Hers are making a play for the booming peptide market as the federal government loosens restrictions on compounded treatments.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 9:16am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/how-bait-and-switch-tactics-complicate-search-mental-healthcare\" hreflang=\"en\">How bait-and-switch tactics complicate the search for mental healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/providers/how-bait-and-switch-tactics-complicate-search-mental-healthcare",
+        "summary": "In the latest episode of \"Podnosis,\" we explore how deceptive online marketing tactics and other barriers make it harder for people to find appropriate mental healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 10:25am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/longevity-platform-hone-health-nabs-228m-build-out-offerings\" hreflang=\"en\">Longevity platform Hone Health nabs $228M to build out offerings</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/longevity-platform-hone-health-nabs-228m-build-out-offerings",
+        "summary": "The investment, which includes equity and growth financing, will support Hone's expansion into more clinical programming, more diagnostics, its clinical AI and clinical trial infrastructure.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 10:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-how-whoop-aims-play-bigger-role-healthcare\" hreflang=\"en\">HLTH 2026: How Whoop aims to play a bigger role in healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-how-whoop-aims-play-bigger-role-healthcare",
+        "summary": "The company is positioning itself as a continuous health monitor that goes beyond fitness tracking. The device's 24/7 physiological data can function almost like an ongoing health check, becoming a bridge between everyday health and medical care, Whoop's CEO said.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 9:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/pharma/overtons-fda-nomination-has-been-pulled-white-house\" hreflang=\"en\">Heidi Overton’s FDA nomination pulled by White House</a>",
+        "url": "https://www.fiercehealthcare.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
+        "summary": "The White House is pulling Heidi Overton’s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 8:44pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/medicare-shared-savings-program-saved-25b-last-year-cms\" hreflang=\"en\">Medicare Shared Savings Program saved $2.5B last year: CMS</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/medicare-shared-savings-program-saved-25b-last-year-cms",
+        "summary": "The Medicare Shared Savings Program has reached the highest savings number in its history, according to new federal data.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 9:51pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/optum-rx-rolls-out-new-pharmacy-tools-aimed-transparency\" hreflang=\"en\">Optum Rx rolls out new pharmacy tools aimed at transparency</a>",
+        "url": "https://www.fiercehealthcare.com/payers/optum-rx-rolls-out-new-pharmacy-tools-aimed-transparency",
+        "summary": "Earlier this year, Optum Rx teased the rollout of new pharmacy tools designed to address medication cost and access.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 6:46pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-teladoc-health-expands-weight-care-program-new-employer-offering\" hreflang=\"en\">HLTH 2026: Teladoc Health's weight care program lets employers partially contribute to GLP-1 costs</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-teladoc-health-expands-weight-care-program-new-employer-offering",
+        "summary": "Through the new option, employers can offer employees partially comped access to the medications from Eli Lilly and Novo Nordisk alongside other benefits, like personalized lifestyle coaching.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 2:16pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth26-daily-tracker-health-techs-ai-powered-pitch-falling-flat-survey-finds-vynca\" hreflang=\"en\">HLTH 2026 Daily Tracker: F1 mania takes over HLTH; Why DJ Steve Aoki is investing in innovative science</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth26-daily-tracker-health-techs-ai-powered-pitch-falling-flat-survey-finds-vynca",
+        "summary": "The Fierce Healthcare team is on the ground at HLTH 2026. Stick with this news tracker to catch all the highlights from the show floor, and click here for additional coverage from the conference.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 16, 2026 9:30am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo\" hreflang=\"en\">Less than a year into the job, Everett Cunningham steps down as Quanterix CEO</a>",
+        "url": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
+        "summary": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 8:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update\" hreflang=\"en\">Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
+        "summary": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 9:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission\" hreflang=\"en\">Clene Nanomedicine uses CRO Veristat’s biostatistics platform for FDA submission</a>",
+        "url": "https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission",
+        "summary": "Clinical research organization Veristat has partnered with Clene Nanomedicine to accelerate data outputs for its FDA application for its ALS drug.",
+        "source": "Fierce Biotech",
+        "published": "Nov 13, 2026 2:11pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna\" hreflang=\"en\">Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna</a>",
+        "url": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
+        "summary": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 8:31am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/what-makes-big-pharma-deal-be-transparent-dont-spam-us-and-not-using-patent-cliffs-reason\" hreflang=\"en\">At Fierce’s London event, Big Pharmas tell biotechs to ‘be transparent’ to secure deals</a>",
+        "url": "https://www.fiercebiotech.com/biotech/what-makes-big-pharma-deal-be-transparent-dont-spam-us-and-not-using-patent-cliffs-reason",
+        "summary": "Every biotech looking for a suitor wants to know: What does it take to charm a Big Pharma into a deal?",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 2:29am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact\" hreflang=\"en\">Vertex signs $220M deal with Genomics to re-up long-running discovery pact</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
+        "summary": "Vertex Pharmaceuticals has re-upped its ties with sequencing specialist Genomics in a deal worth up to $220 million, signing on for an extra four years on top of the eight the companies have already worked together.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 3:02pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial\" hreflang=\"en\">Priavoid’s Alzheimer’s pill fails to prove efficacy in phase 2 trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial",
+        "summary": "Priavoid’s pill for Alzheimer's disease has failed to prove its effectiveness in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 4:23am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-minimed-fit-tubeless-insulin-pump\" hreflang=\"en\">FDA clears MiniMed Fit tubeless insulin pump</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-clears-minimed-fit-tubeless-insulin-pump",
+        "summary": "MiniMed announced has picked up FDA clearance of its tubeless insulin pump, the MiniMed Fit.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 3:32am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope\" hreflang=\"en\">Cognito phase 3 flops in light-and-sound Alzheimer's trial, but sees ‘signal’ for HOPE</a>",
+        "url": "https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope",
+        "summary": "Cognito Therapeutics said its phase 3 HOPE study of Spectris AD, an investigational, non-invasive, at-home Alzheimer's therapy that uses light and sound stimulation to engage brain activity, failed to meet its primary endpoint.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 3:24am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data\" hreflang=\"en\">Merck axes $2.7B BTK inhibitor program after seeing phase 3 data</a>",
+        "url": "https://www.fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data",
+        "summary": "Merck &amp; Co. has stopped a trio of phase 3 blood cancer trials after one study suggested the benefits of the BTK inhibitor may fail to outweigh the risks, bringing the curtain down on a program stemming from a $2.7 billion takeover.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 3:12am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house\" hreflang=\"en\">Heidi Overton’s FDA nomination pulled by White House</a>",
+        "url": "https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
+        "summary": "The White House is pulling Heidi Overton’s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 8:44pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss\" hreflang=\"en\">FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss</a>",
+        "url": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
+        "summary": "The FDA’s rejection of Summit Therapeutics’ closely watched PD-1xVEGF bispecific ivonescimab extends beyond its previously reported failure to show a statistically significant overall survival benefit.",
+        "source": "Fierce Biotech",
+        "published": "Nov 17, 2026 4:29pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "刚刚，NVIDIA发布可能是对医疗业务最重要的财报",
+        "url": "https://www.36kr.com/p/4074766473859969",
+        "summary": "这份季报是NVIDIA旗下医疗业务迄今为止最重要的一次季报发布。",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 18 Nov 2026 09:00:59 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "珀莱雅收购花知晓，贝泰妮收购踩坑，美妆大并购时代来了？",
+        "url": "https://www.36kr.com/p/4074637232887428",
+        "summary": "收购易，“养活”难",
+        "source": "36Kr 医疗科技",
+        "published": "Wed, 18 Nov 2026 02:49:26 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "科技股“深蹲”如何操作？高毅、景林调仓曝光",
+        "url": "https://www.36kr.com/p/4073646251873154",
+        "summary": "知名私募机构最新调仓路径揭晓。",
+        "source": "36Kr 医疗科技",
+        "published": "Tue, 17 Nov 2026 13:29:23 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "PReMind: When Personal Memory Meets Visual Hazards",
+        "url": "https://huggingface.co/papers/2611.23808",
+        "summary": "Personalized vision-language assistants use visual observations and personal memories to provide advice tailored to the user. When the observed scene contains a physical hazard, personal context, such as allergies, medical conditions, or mobility constraints, can change what help is appropriate. Responding appropriately therefore requires recognizing the visible hazard and applying the relevant person's information. We introduce PReMind-Bench, a diagnostic benchmark that evaluates this combination across diverse hazards and personal-memory conditions. It separately measures memory access, grou",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-17T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

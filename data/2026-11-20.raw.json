@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T15:56:52.550739+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+        "url": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/",
+        "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 07:23:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+        "url": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/",
+        "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 00:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+        "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/",
+        "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 22:55:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+        "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/",
+        "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 22:20:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
+        "url": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/",
+        "summary": "Lawmakers leading the congressional BIOTech Caucus say Washington needs to act in the sector — and fast:",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 17:04:46 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+        "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/",
+        "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 16:59:47 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: MAHA PAC’s steakhouse spend",
+        "url": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/",
+        "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 16:30:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "National Academies report calls for faster decisions on publication retractions and corrections",
+        "url": "https://www.statnews.com/2026/11/19/national-academies-report-proposes-faster-research-retractions/",
+        "summary": "The National Academies urged the scientific community to respond more aggressively to claims of errors or manipulated data in published research",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 16:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Epic defends competitive practices; promises AI access to records",
+        "url": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/",
+        "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 14:21:08 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/",
+        "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 13:36:33 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
+        "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/",
+        "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 12:59:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
+        "url": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/",
+        "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 11:45:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
+        "url": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/",
+        "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 11:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
+        "url": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/",
+        "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
+        "url": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/",
+        "summary": "STAT columnist Vishal Khetpal examines the STREAM trial and its findings about discontinuing use of statins.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/consumers-believe-ai-will-be-key-making-healthcare-simpler-survey\" hreflang=\"en\">Consumers believe AI will be key in making healthcare simpler: survey</a>",
+        "url": "https://www.fiercehealthcare.com/payers/consumers-believe-ai-will-be-key-making-healthcare-simpler-survey",
+        "summary": "Americans want a healthcare experience that's simpler and easier to understand, and artificial intelligence may be the key to getting there, a new survey shows.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2026 2:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context\" hreflang=\"en\">HLTH 2026: Elsevier upgrades ClinicalKey AI with full patient EHR context</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context",
+        "summary": "San Juan Regional Medical Center is using ClinicalKey AI to give clinicians faster access to evidence-based guidance combined with patient-specific EHR data, with the goal of improving care and easing workforce constraints.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2026 10:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-group-foundation-making-315m-grants-available-community-organizations-10-states\" hreflang=\"en\">Cigna Group Foundation making $31.5M in grants available to community organizations in 10 states</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-group-foundation-making-315m-grants-available-community-organizations-10-states",
+        "summary": "Cigna is making $31.5 million in grant funding available over the next three years to nonprofits in 10 states that are aiming to tackle several key community health priorities.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2026 12:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tampa-general-hospital-sues-eli-lilly-over-pulled-340b-discounts\" hreflang=\"en\">Florida court tosses Tampa General Hospital's suit against Eli Lilly over 340B discounts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tampa-general-hospital-sues-eli-lilly-over-pulled-340b-discounts",
+        "summary": "The hospital initially sued the pharmaceutical company over a policy it implemented that requires providers to submit claims-level data on pharmacy and medical dispensing if they participate in 340B.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/healthcare-purchasers-must-weigh-hospital-quality-alongside-their-prices\" hreflang=\"en\">Healthcare purchasers must weigh hospital quality alongside their prices, Leapfrog says</a>",
+        "url": "https://www.fiercehealthcare.com/providers/healthcare-purchasers-must-weigh-hospital-quality-alongside-their-prices",
+        "summary": "The hospital safety watchdog paired the latest release of its hospital safety scores with calls for policymakers, purchasers and other stakeholders to consider hospital price and quality transparency side by side.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 12:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aetna-unveils-new-program-aimed-offering-end-end-support-moms-and-babies\" hreflang=\"en\">Aetna unveils new program aimed at offering end-to-end support for moms and babies</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aetna-unveils-new-program-aimed-offering-end-end-support-moms-and-babies",
+        "summary": "Aetna is rolling out a new program that aims to provide key end-to-end care for pregnant women, new mothers and infants.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 7:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-new-care-model-leans-community-pharmacies\" hreflang=\"en\">UnitedHealthcare's new care model leans on community pharmacies</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-new-care-model-leans-community-pharmacies",
+        "summary": "UnitedHealthcare is teaming up with CPSEN for its UHC Pharmacy Care Hub model, a new program that aims to lean on community pharmacists to reach Medicaid patients.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists\" hreflang=\"en\">Department of Labor moves to end expedited green cards for nurses, physical therapists</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists",
+        "summary": "The Trump administration proposed eliminating a longstanding exemption to the permanent labor certification program, the latest in a string of policies raising the bar for foreign-born healthcare workers seeking employer sponsorship.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural\" hreflang=\"en\">HLTH 2026: Viz.ai’s chief clinical officer on takeaways, goals of AI collab with National Rural Health Association</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural",
+        "summary": "Viz.ai Chief Clinical Officer Andrew Ibrahim, M.D., sat down with Fierce to discuss the partnership’s first year.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 11:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-hims-hers-noom-launch-peptide-brands\" hreflang=\"en\">HLTH 2026: Noom, Hims &amp; Hers roll out peptide offerings</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-hims-hers-noom-launch-peptide-brands",
+        "summary": "Noom and Hims &amp; Hers are making a play for the booming peptide market as the federal government loosens restrictions on compounded treatments.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 9:16am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/how-bait-and-switch-tactics-complicate-search-mental-healthcare\" hreflang=\"en\">How bait-and-switch tactics complicate the search for mental healthcare</a>",
+        "url": "https://www.fiercehealthcare.com/providers/how-bait-and-switch-tactics-complicate-search-mental-healthcare",
+        "summary": "In the latest episode of \"Podnosis,\" we explore how deceptive online marketing tactics and other barriers make it harder for people to find appropriate mental healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 10:25am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/digital-health/longevity-platform-hone-health-nabs-228m-build-out-offerings\" hreflang=\"en\">Longevity platform Hone Health nabs $228M to build out offerings</a>",
+        "url": "https://www.fiercehealthcare.com/digital-health/longevity-platform-hone-health-nabs-228m-build-out-offerings",
+        "summary": "The investment, which includes equity and growth financing, will support Hone's expansion into more clinical programming, more diagnostics, its clinical AI and clinical trial infrastructure.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 17, 2026 10:36pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency\" hreflang=\"en\">Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
+        "summary": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant’s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is using AI to shrink drug development timelines and one day solve “biological latency.”",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 4:33pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses\" hreflang=\"en\">Crown Biosciences stays put as $204M Adicon deal falls through</a>",
+        "url": "https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses",
+        "summary": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 11:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus\" hreflang=\"en\">Vaccine biotech Evaxion halts infectious disease, autoimmune work to focus on oncology</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus",
+        "summary": "Evaxion is refocusing its R&amp;D efforts to solely focus on developing and advancing its cancer vaccines.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 10:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure\" hreflang=\"en\">nChroma halves headcount, calls time on trial of potential HBV ‘cure’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure",
+        "summary": "nChroma Bio’s workforce is facing a second round of layoffs in 12 months, with the Boston biotech halving its headcount and scrapping a trial of its lead hepatitis asset.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 9:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/isomorphic-labs-adds-merck-ai-drug-discovery-roster-days-after-5b-raise\" hreflang=\"en\">Isomorphic adds Merck to AI drug discovery roster days after $5B raise</a>",
+        "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-adds-merck-ai-drug-discovery-roster-days-after-5b-raise",
+        "summary": "Isomorphic Labs’ big week just got bigger. Days after raising $5 billion, the AI-powered biotech has added Merck &amp; Co. to a list of partners that now includes three of the top four drugmakers by revenue.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 8:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-loses-rd-head-eric-hughes-amid-push-grow-innovative-medicines-business\" hreflang=\"en\">Teva loses R&amp;D head Eric Hughes amid push to grow innovative medicines business</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-loses-rd-head-eric-hughes-amid-push-grow-innovative-medicines-business",
+        "summary": "Teva’s R&amp;D chief Eric Hughes, M.D., Ph.D., has resigned one week after the company showcased its push to grow its innovative medicines business.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 6:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: VitriVax scores $87M; Ansa adds $71.5M series C</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-busts-move-disco-25b-pact-aimed-bispecific-discovery\" hreflang=\"en\">AbbVie busts a move with Disco in $2.5B dance aimed at bispecific discovery</a>",
+        "url": "https://www.fiercebiotech.com/biotech/abbvie-busts-move-disco-25b-pact-aimed-bispecific-discovery",
+        "summary": "AbbVie is twirling onto the dance floor with Disco Pharmaceuticals, offering up to $2.5 billion to work with the German platform company on cancer-targeted bispecific discovery.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 11:36am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-ceo-argues-shareholders-happy-overall-calls-coins-act-adjustment\" hreflang=\"en\">Novartis CEO argues shareholders ‘happy overall’ with strategy, calls for COINS Act adjustment</a>",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-ceo-argues-shareholders-happy-overall-calls-coins-act-adjustment",
+        "summary": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company’s strategy.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 4:20am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/majority-rate-home-diagnostic-tests-very-helpful-just-33-accuracy-dnv-survey\" hreflang=\"en\">Majority rate home diagnostic tests ‘very helpful,’ but just 33% for accuracy: DNV survey</a>",
+        "url": "https://www.fiercebiotech.com/medtech/majority-rate-home-diagnostic-tests-very-helpful-just-33-accuracy-dnv-survey",
+        "summary": "People are twice as likely to describe home diagnostic tests as very helpful versus them as very accurate, according to new global research from the quality assurance, risk management and certification company Det Norske Veritas (DNV).",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 12:19am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo\" hreflang=\"en\">Less than a year into the job, Everett Cunningham steps down as Quanterix CEO</a>",
+        "url": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
+        "summary": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 8:17am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update\" hreflang=\"en\">Biogen’s tau therapy drives bigger benefits in 2-year Alzheimer’s update</a>",
+        "url": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
+        "summary": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 9:27am",
+        "importance_hint": 4
+      },
+      {
+        "title": "刚刚，NVIDIA发布可能是对医疗业务最重要的财报",
+        "url": "https://www.36kr.com/p/4074766473859969",
+        "summary": "这份季报是NVIDIA旗下医疗业务迄今为止最重要的一次季报发布。",
+        "source": "36Kr 医疗AI",
+        "published": "Wed, 18 Nov 2026 09:00:59 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+        "url": "https://huggingface.co/papers/2611.26444",
+        "summary": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through environmental feedback. Yet existing benchmarks either evaluate reasoning and execution within the same tasks or assess them separately without their composition, so they reveal little about whether a failure comes from reasoning, execution, or their composition. We introduce Mind2Act World, a diagnosti",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-18T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
+        "url": "https://huggingface.co/papers/2611.23779",
+        "summary": "Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 curated public biomedical tabular datasets spanning electronic health records, drug discovery, genomics, transcriptomics, proteomics, metabolomics, single-cell omics, and systems biology. TabBioMed unifies these datasets through a standardized, dataset-aware preprocessing and evaluation framework, ena",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-17T19:00:00.000Z",
+        "importance_hint": 4
+      }
+    ]
+  }
+}

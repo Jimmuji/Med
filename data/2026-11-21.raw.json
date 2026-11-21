@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:54:07.409544+08:00",
+  "counts": {
+    "news": 40,
+    "papers": 3
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+        "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/",
+        "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 23:43:53 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "ICE detention of Princeton scientist rattles academia",
+        "url": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/",
+        "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 21:19:27 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+        "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/",
+        "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 20:26:10 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+        "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/",
+        "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 19:04:04 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "url": "https://www.statnews.com/pharmalot/2026/11/20/up-and-down-the-ladder-latest-comings-and-goings-jobs-2/",
+        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 15:52:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/",
+        "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&#038;J over misleading bladder cancer drug claims, and more pharma news:",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 14:16:35 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive",
+        "url": "https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/",
+        "summary": "Alterome presented preliminary Phase 1 results of its drug “selectively” targeting a range of KRAS mutations — drivers of cancers in the pancreas, lung and colon:",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 14:01:41 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Researchers explore possibility of a CTE blood test",
+        "url": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/",
+        "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 13:53:10 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
+        "url": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/",
+        "summary": "Ian Burkhart, founder of a coalition of brain implant trial participants, says device developers should give patients more agency in research.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+        "url": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/",
+        "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: More doctors should prescribe exercise after a concussion",
+        "url": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/",
+        "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
+        "url": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/",
+        "summary": "The systems built to grow global surgery are not required to measure the number of women surgeons.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+        "url": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/",
+        "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 07:23:34 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+        "url": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/",
+        "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
+        "source": "STAT News",
+        "published": "Fri, 20 Nov 2026 00:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+        "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/",
+        "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+        "source": "STAT News",
+        "published": "Thu, 19 Nov 2026 22:55:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-issues-medicare-advantage-proposals-aimed-boosting-competition\" hreflang=\"en\">CMS issues Medicare Advantage proposals aimed at boosting competition</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-issues-medicare-advantage-proposals-aimed-boosting-competition",
+        "summary": "The Trump administration has proposed a slew of changes to Medicare Advantage and Part D designed to \"revitalize care\" in these markets.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 20, 2026 6:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">UnitedHealth the latest insurer to sue over the 2027 Medicare Advantage star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "CVS Heath's Aetna is joining the ranks of insurers suing over its results in the 2027 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations\" hreflang=\"en\">CMS to withdraw moratorium on new ACA broker registrations</a>",
+        "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
+        "summary": "CMS had instituted the moratorium in late September as part of its broader push to combat fraud on the Affordable Care Act's exchanges.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 15, 2026 4:37pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/consumers-believe-ai-will-be-key-making-healthcare-simpler-survey\" hreflang=\"en\">Consumers believe AI will be key in making healthcare simpler: survey</a>",
+        "url": "https://www.fiercehealthcare.com/payers/consumers-believe-ai-will-be-key-making-healthcare-simpler-survey",
+        "summary": "Americans want a healthcare experience that's simpler and easier to understand, and artificial intelligence may be the key to getting there, a new survey shows.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2026 2:47pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context\" hreflang=\"en\">HLTH 2026: Elsevier upgrades ClinicalKey AI with full patient EHR context</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-elsevier-upgrades-clinicalkey-ai-full-patient-ehr-context",
+        "summary": "San Juan Regional Medical Center is using ClinicalKey AI to give clinicians faster access to evidence-based guidance combined with patient-specific EHR data, with the goal of improving care and easing workforce constraints.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2026 10:05am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/cigna-group-foundation-making-315m-grants-available-community-organizations-10-states\" hreflang=\"en\">Cigna Group Foundation making $31.5M in grants available to community organizations in 10 states</a>",
+        "url": "https://www.fiercehealthcare.com/payers/cigna-group-foundation-making-315m-grants-available-community-organizations-10-states",
+        "summary": "Cigna is making $31.5 million in grant funding available over the next three years to nonprofits in 10 states that are aiming to tackle several key community health priorities.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 19, 2026 12:48pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/tampa-general-hospital-sues-eli-lilly-over-pulled-340b-discounts\" hreflang=\"en\">Florida court tosses Tampa General Hospital's suit against Eli Lilly over 340B discounts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/tampa-general-hospital-sues-eli-lilly-over-pulled-340b-discounts",
+        "summary": "The hospital initially sued the pharmaceutical company over a policy it implemented that requires providers to submit claims-level data on pharmacy and medical dispensing if they participate in 340B.",
+        "source": "Fierce Healthcare",
+        "published": "Jul 8, 2026 3:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/healthcare-purchasers-must-weigh-hospital-quality-alongside-their-prices\" hreflang=\"en\">Healthcare purchasers must weigh hospital quality alongside their prices, Leapfrog says</a>",
+        "url": "https://www.fiercehealthcare.com/providers/healthcare-purchasers-must-weigh-hospital-quality-alongside-their-prices",
+        "summary": "The hospital safety watchdog paired the latest release of its hospital safety scores with calls for policymakers, purchasers and other stakeholders to consider hospital price and quality transparency side by side.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 12:33pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/aetna-unveils-new-program-aimed-offering-end-end-support-moms-and-babies\" hreflang=\"en\">Aetna unveils new program aimed at offering end-to-end support for moms and babies</a>",
+        "url": "https://www.fiercehealthcare.com/payers/aetna-unveils-new-program-aimed-offering-end-end-support-moms-and-babies",
+        "summary": "Aetna is rolling out a new program that aims to provide key end-to-end care for pregnant women, new mothers and infants.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 7:56pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-new-care-model-leans-community-pharmacies\" hreflang=\"en\">UnitedHealthcare's new care model leans on community pharmacies</a>",
+        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-unveils-new-care-model-leans-community-pharmacies",
+        "summary": "UnitedHealthcare is teaming up with CPSEN for its UHC Pharmacy Care Hub model, a new program that aims to lean on community pharmacists to reach Medicaid patients.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 4:36pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists\" hreflang=\"en\">Department of Labor moves to end expedited green cards for nurses, physical therapists</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists",
+        "summary": "The Trump administration proposed eliminating a longstanding exemption to the permanent labor certification program, the latest in a string of policies raising the bar for foreign-born healthcare workers seeking employer sponsorship.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 4:07pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural\" hreflang=\"en\">HLTH 2026: Viz.ai’s chief clinical officer on takeaways, goals of AI collab with National Rural Health Association</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth-2026-vizais-chief-clinical-officer-takeaways-goals-national-rural",
+        "summary": "Viz.ai Chief Clinical Officer Andrew Ibrahim, M.D., sat down with Fierce to discuss the partnership’s first year.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 11:20am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial\" hreflang=\"en\">Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
+        "summary": "Merck &amp; Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+        "source": "Fierce Biotech",
+        "published": "Nov 20, 2026 7:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death\" hreflang=\"en\">Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain</a>",
+        "url": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
+        "summary": "The field of micro- and nanoplastics has drawn a lot of interest in recent years as concerns grow about the impact of contamination in the environment. These tiny plastic particles are created when plastic breaks down and are usually so small that they are invisible to the naked eye.",
+        "source": "Fierce Biotech",
+        "published": "Nov 16, 2026 7:36pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-delays-belites-eye-disease-pill-decision-three-months-may\" hreflang=\"en\">FDA pushes decision on Belite’s eye disease pill back to May</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-delays-belites-eye-disease-pill-decision-three-months-may",
+        "summary": "The FDA is taking a little extra time to review Belite Bio’s application for its treatment for a rare genetic eye condition, pushing the expected action date back by three months into May next year.",
+        "source": "Fierce Biotech",
+        "published": "Nov 20, 2026 9:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-very-health-sector-biopharma-gathers-london-ma-shines-will-china-clouds-loom\" hreflang=\"en\">‘It’s a very healthy sector’: Biopharma gathers in London as M&amp;A shines and China clouds loom</a>",
+        "url": "https://www.fiercebiotech.com/biotech/its-very-health-sector-biopharma-gathers-london-ma-shines-will-china-clouds-loom",
+        "summary": "As the grand hotels and cosy cafes filled with biopharma executives and investors for London Life Sciences Week, the weather was as temperamental as any other English November.",
+        "source": "Fierce Biotech",
+        "published": "Nov 20, 2026 6:51am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-teva-loses-rd-head\" hreflang=\"en\">Chutes &amp; Ladders—Teva loses R&amp;D head as innovation pivot advances</a>",
+        "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-teva-loses-rd-head",
+        "summary": "Teva’s R&amp;D chief&nbsp;has resigned a week after the company's R&amp;D day. The White House yanked its FDA commissioner nomination at the 11th hour. Quanterix restarted its search for a CEO. And more.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 4:15pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bausch-lomb-and-celldex-rocked-phase-2-flops\" hreflang=\"en\">Bausch + Lomb and Celldex rocked by respective phase 2 flops</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bausch-lomb-and-celldex-rocked-phase-2-flops",
+        "summary": "Bausch + Lomb and Celldex have independently reported phase 2 flops. While Celldex ended work in the indication in response to the setback, Bausch + Lomb noted numerical improvements and exploratory analyses to make the case for talks about entering phase 3.",
+        "source": "Fierce Biotech",
+        "published": "Nov 20, 2026 3:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency\" hreflang=\"en\">Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
+        "summary": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant’s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is using AI to shrink drug development timelines and one day solve “biological latency.”",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 4:33pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses\" hreflang=\"en\">Crown Biosciences stays put as $204M Adicon deal falls through</a>",
+        "url": "https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses",
+        "summary": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through.",
+        "source": "Fierce Biotech",
+        "published": "Nov 18, 2026 11:10am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus\" hreflang=\"en\">Vaccine biotech Evaxion halts infectious disease, autoimmune work to focus on oncology</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vaccine-biotech-evaxion-progressing-only-oncology-assets-rd-refocus",
+        "summary": "Evaxion is refocusing its R&amp;D efforts to solely focus on developing and advancing its cancer vaccines.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 10:02am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure\" hreflang=\"en\">nChroma halves headcount, calls time on trial of potential HBV ‘cure’</a>",
+        "url": "https://www.fiercebiotech.com/biotech/nchroma-halves-headcount-calls-time-trial-potential-hbv-cure",
+        "summary": "nChroma Bio’s workforce is facing a second round of layoffs in 12 months, with the Boston biotech halving its headcount and scrapping a trial of its lead hepatitis asset.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 9:13am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/isomorphic-labs-adds-merck-ai-drug-discovery-roster-days-after-5b-raise\" hreflang=\"en\">Isomorphic adds Merck to AI drug discovery roster days after $5B raise</a>",
+        "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-adds-merck-ai-drug-discovery-roster-days-after-5b-raise",
+        "summary": "Isomorphic Labs’ big week just got bigger. Days after raising $5 billion, the AI-powered biotech has added Merck &amp; Co. to a list of partners that now includes three of the top four drugmakers by revenue.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 8:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-loses-rd-head-eric-hughes-amid-push-grow-innovative-medicines-business\" hreflang=\"en\">Teva loses R&amp;D head Eric Hughes amid push to grow innovative medicines business</a>",
+        "url": "https://www.fiercebiotech.com/biotech/teva-loses-rd-head-eric-hughes-amid-push-grow-innovative-medicines-business",
+        "summary": "Teva’s R&amp;D chief Eric Hughes, M.D., Ph.D., has resigned one week after the company showcased its push to grow its innovative medicines business.",
+        "source": "Fierce Biotech",
+        "published": "Nov 19, 2026 6:12am",
+        "importance_hint": 4
+      },
+      {
+        "title": "问诊AI？一场死亡背后的追问",
+        "url": "https://www.36kr.com/p/4077982599910529",
+        "summary": "一个被设计来生成文本的系统凭什么给出了“要命”的答案？",
+        "source": "36Kr 医疗AI",
+        "published": "Fri, 20 Nov 2026 12:50:07 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://huggingface.co/papers/2611.21885",
+        "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that it can, by its own reasoning, with no gradients and no training; we call this self-rewriting. Given its weights, graded answers and the ability to run itself, a 27B model diagnoses its failure and edits the weights behind it. It surpasses itself: ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+        "url": "https://huggingface.co/papers/2611.21053",
+        "summary": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, and an invented value in a tool call propagates through every later step. Here we present a method to build System 1 agents: local agents that call tools without generating text. A deterministic compiler turns each tool's schema and the request into multiple-choice questions whose options come from the request and the schema, then a one-pass decision model answers them. On 1,952 requests to 157 bio",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-15T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+        "url": "https://huggingface.co/papers/2611.26444",
+        "summary": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through environmental feedback. Yet existing benchmarks either evaluate reasoning and execution within the same tasks or assess them separately without their composition, so they reveal little about whether a failure comes from reasoning, execution, or their composition. We introduce Mind2Act World, a diagnosti",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-18T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

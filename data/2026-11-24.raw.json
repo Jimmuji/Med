@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T18:35:42.721285+08:00",
+  "counts": {
+    "news": 45,
+    "papers": 1
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+        "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
+        "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Why medical students should keep going to class",
+        "url": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/",
+        "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
+        "url": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/",
+        "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+        "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
+        "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+        "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/",
+        "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 07:54:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+        "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/",
+        "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 00:19:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+        "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/",
+        "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 21:23:42 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+        "url": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/",
+        "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 14:43:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/",
+        "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 14:38:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+        "url": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/",
+        "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 13:04:19 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest",
+        "url": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/",
+        "summary": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 12:01:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+        "url": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/",
+        "summary": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin.",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma",
+        "url": "https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/",
+        "summary": "Relapse in multiple myeloma is common. A new type of CAR-T aims to avoid that by adding a target to evade the tumor.",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
+        "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/",
+        "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler.",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter",
+        "url": "https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/",
+        "summary": "The Danish biotech Genmab in on a roll with cancer drugs, with success in three late-stage clinical trials over the course of a month.",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/wtw-global-health-insurance-costs-set-rise-102-next-year\" hreflang=\"en\">WTW: Global health insurance costs set to rise 10.2% next year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/wtw-global-health-insurance-costs-set-rise-102-next-year",
+        "summary": "Global health insurance costs are set to rise by double digits in 2027 for the second straight year, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 3:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hhs-medicaid-state-directed-payment-savings-primarily-stem-slowing-growth\" hreflang=\"en\">HHS: Medicaid state-directed payment savings 'primarily' stem from slowing growth</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hhs-medicaid-state-directed-payment-savings-primarily-stem-slowing-growth",
+        "summary": "A policy analysis and commentary from the department showed an estimated 7.8% of all state-directed payment spending went to rural hospitals in FY2025, and that 92.1% of estimated savings from industry-opposed statutory rate limits reflect projected spending above that year's $11.5 billion total.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 3:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes\" hreflang=\"en\">Unpacking the implications from CMS' latest proposed Medicare Advantage changes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes",
+        "summary": "Analysts dove into the beefy regulation, and project that changes to MA's star ratings program would likely cull more than $100 billion in federal spending over the next decade.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 4:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/florida-sues-leapfrog-group-misrepresenting-its-hospital-safety-grades-consumers\" hreflang=\"en\">Florida sues The Leapfrog Group for 'misrepresenting' its hospital safety grades to consumers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/florida-sues-leapfrog-group-misrepresenting-its-hospital-safety-grades-consumers",
+        "summary": "The complaint follows a similar suit brought by Tenet hospitals that successfully convinced a judge that nonparticipating hospitals were being “unfairly” penalized in Leapfrog’s methodology.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 12:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules\" hreflang=\"en\">Court strikes down anti-trans Ryan White funding rules 'based in animus, loathing and discrimination'</a>",
+        "url": "https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules",
+        "summary": "The funding requirements, challenged by HIV providers, mandated recipients of Ryan White funds to not acknowledge the identities of trans patients or use funds for gender-affirming care.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 2:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/how-messaging-could-be-next-source-clinician-burnout\" hreflang=\"en\">How messaging could be the next source of clinician burnout</a>",
+        "url": "https://www.fiercehealthcare.com/providers/how-messaging-could-be-next-source-clinician-burnout",
+        "summary": "Leaders at health communications platform TigerConnect spoke with Fierce about the trend and potential solutions for health leaders.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/innovaccer-integrates-grok-voice-gravity-voice-ai-agents\" hreflang=\"en\">Innovaccer integrates Grok Voice into Gravity Voice AI agents</a>",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/innovaccer-integrates-grok-voice-gravity-voice-ai-agents",
+        "summary": "Innovaccer patient voice interactions have grown from roughly 250,000 to more than five million since its launch six months ago, executives say.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 11:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/industry-voices-case-social-prescribing-older-adult-care\" hreflang=\"en\">Industry Voices—The case for social prescribing in older adult care</a>",
+        "url": "https://www.fiercehealthcare.com/providers/industry-voices-case-social-prescribing-older-adult-care",
+        "summary": "To truly address the public health epidemic of social isolation among older adults, healthcare providers must be part of the solution, write heads of the Humana Foundation and The John A. Hartford Foundation.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 18, 2026 4:57pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals\" hreflang=\"en\">Fierce Healthcare Layoff Tracker—RWJBarnabas Health cuts 106; athenahealth trimming 4% of workforce</a>",
+        "url": "https://www.fiercehealthcare.com/finance/fierce-healthcare-layoff-tracker-2026-job-cuts-eliminations-health-systems-hospitals",
+        "summary": "Stick with this tracker for the latest layoff and workforce updates from across healthcare.",
+        "source": "Fierce Healthcare",
+        "published": "Jan 23, 2026 4:20pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians\" hreflang=\"en\">Photon pharmacy marketplace integrated with ChatGPT for clinicians</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians",
+        "summary": "The patient experience remains the same through Photon. What is new is where the clinician can write a prescription. Clinicians with a Photon account can draft, review and send prescriptions without leaving ChatGPT.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 20, 2026 4:49pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/cms-issues-medicare-advantage-proposals-aimed-boosting-competition\" hreflang=\"en\">CMS issues Medicare Advantage proposals aimed at boosting competition</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/cms-issues-medicare-advantage-proposals-aimed-boosting-competition",
+        "summary": "The Trump administration has proposed a slew of changes to Medicare Advantage and Part D designed to \"revitalize care\" in these markets.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 20, 2026 6:18pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings\" hreflang=\"en\">UnitedHealth the latest insurer to sue over the 2027 Medicare Advantage star ratings</a>",
+        "url": "https://www.fiercehealthcare.com/payers/alignment-healthcare-sues-cms-over-its-2027-medicare-advantage-star-ratings",
+        "summary": "CVS Heath's Aetna is joining the ranks of insurers suing over its results in the 2027 Medicare Advantage star ratings.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 12, 2026 2:48pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows\" hreflang=\"en\">GE HealthCare launches ViewPoint Ultra to simplify ultrasound workflows</a>",
+        "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows",
+        "summary": "GE HealthCare has launched ViewPoint Ultra, an ultrasound workflow solution designed to help health systems standardize clinical documentation and reporting across sites and departments while supporting specialized individual care needs.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 5:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers\" hreflang=\"en\">Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers</a>",
+        "url": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+        "summary": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent’s looming loss of exclusivity.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 3:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/exicure-expands-work-parkinsons-x-cue-smart-glasses\" hreflang=\"en\">Exicure expands work into Parkinson’s with X-CUE smart glasses</a>",
+        "url": "https://www.fiercebiotech.com/medtech/exicure-expands-work-parkinsons-x-cue-smart-glasses",
+        "summary": "Exicure is partnering with NeuroQ Biologics and the South Korean medtech company Laonz to expand its business into medical device technologies designed to assist patients with Parkinson’s disease.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 2:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china\" hreflang=\"en\">House panel pushes to reverse 'hollowing out' of US biotech amid China's rise</a>",
+        "url": "https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china",
+        "summary": "The U.S. House Select Committee on China has published a report detailing policy recommendations to “reverse the hollowing out of the U.S. drug innovation industry.”",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 2:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy\" hreflang=\"en\">Kymera’s oral eczema drug impresses analysts with Dupixent-like phase 2 efficacy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy",
+        "summary": "Kymera Therapeutics’ phase 2b eczema clinical trial has hit its primary endpoint and exceeded analyst expectations, teeing up further development of an oral drug candidate that could challenge Dupixent in a range of indications.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 9:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail\" hreflang=\"en\">Arcus halts phase 3 pancreatic cancer study of CD73 inhibitor that looked destined to fail</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail",
+        "summary": "Arcus Biosciences has abandoned a phase 3 trial of quemliclustat after the small-molecule CD73 inhibitor looked unlikely to improve survival for pancreatic cancer.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 9:47am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3\" hreflang=\"en\">Invivyd aims for Q1’27 submission after Pemgarda successor shows potential in phase 3</a>",
+        "url": "https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3",
+        "summary": "Invivyd is planning to submit an approval application for its follow-up to the FDA-authorized monoclonal antibody Pemgarda in the first quarter of 2027 after hailing “high, durable antiviral activity” in a phase 3 trial.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 8:44am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/led-founders-jj-acquired-intra-cellular-ritzey-debuts-112m\" hreflang=\"en\">Led by founders of J&amp;J-acquired Intra-Cellular, Ritzey debuts with $112M for DYRK1A inhibitors</a>",
+        "url": "https://www.fiercebiotech.com/biotech/led-founders-jj-acquired-intra-cellular-ritzey-debuts-112m",
+        "summary": "The founder of Intra-Cellular Therapies, which was bought by Johnson &amp; Johnson last year for $14.6 billion, is jumping back into the biotech fray with a new company similarly aimed at signaling pathways in the brain.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 8:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target\" hreflang=\"en\">Lilly buys preclinical LoQus23 in $725M deal to zero in on Huntington’s target</a>",
+        "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target",
+        "summary": "Eli Lilly has struck a deal to buy preclinical Huntington’s disease biotech LoQus23 Therapeutics for up to $725 million.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 4:58am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns\" hreflang=\"en\">Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns</a>",
+        "url": "https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns",
+        "summary": "Contrasting with the blunt release of the complete response letter that heralded the initial rejection of deramiocel last summer, the FDA appeared mindful of the optics Friday as it sought to explain why it turned down Capricor Therapeutics’ Duchenne muscular dystrophy cell therapy for a second time.",
+        "source": "Fierce Biotech",
+        "published": "Nov 22, 2026 10:19pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/danaher-teams-microsoft-boost-experimental-execution\" hreflang=\"en\">Danaher teams up with Microsoft to boost ‘experimental execution’</a>",
+        "url": "https://www.fiercebiotech.com/medtech/danaher-teams-microsoft-boost-experimental-execution",
+        "summary": "Danaher Corporation and Microsoft are teaming up for a strategic partnership to develop smart scientific instruments and an interoperable agentic ecosystem.",
+        "source": "Fierce Biotech",
+        "published": "Nov 22, 2026 2:45am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial\" hreflang=\"en\">Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
+        "summary": "Merck &amp; Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+        "source": "Fierce Biotech",
+        "published": "Nov 20, 2026 7:53am",
+        "importance_hint": 4
+      },
+      {
+        "title": "电竞明星表演赛+机器人嘉年华，2026AIE电子展不止是展会",
+        "url": "https://www.36kr.com/p/4083189164954761",
+        "summary": "倒计时10天！AIE电子展2026将于12月3–5日在澳门、珠海两地开启。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 24 Nov 2026 03:26:08 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "8点1氪丨黄仁勋恢复CEO职务，英伟达一夜暴增9520亿美元；幼儿园要招2岁幼儿了；懂车帝回应“测试内容大调整”",
+        "url": "https://www.36kr.com/p/4083016736478085",
+        "summary": "董事会一致投票决定恢复其职务。",
+        "source": "36Kr 医疗AI",
+        "published": "Tue, 24 Nov 2026 00:19:31 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "转型新能源失败，绵阳国资入主麦迪科技四年后拟退出",
+        "url": "https://www.36kr.com/p/4081997331321733",
+        "summary": "达产即亏损",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 23 Nov 2026 09:43:00 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "蚂蚁靠金融补贴、京东靠卖药兜底：大厂绕开医保的医疗AI试验",
+        "url": "https://www.36kr.com/p/4081760280875906",
+        "summary": "医保主导院内付费，大厂医疗AI困于商业化。",
+        "source": "36Kr 医疗AI",
+        "published": "Mon, 23 Nov 2026 04:02:29 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "中脑云用脑机闭环替代量表试药，寻求新一轮融资",
+        "url": "https://www.36kr.com/p/4081818751997065",
+        "summary": "中脑云以闭环脑机接口技术革新精神科诊疗",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 23 Nov 2026 06:29:43 GMT",
+        "importance_hint": 3
+      },
+      {
+        "title": "医链医疗微创器械提效泌尿妇产手术，推进新一轮融资",
+        "url": "https://www.36kr.com/p/4081821481653128",
+        "summary": "医链医疗推泌尿妇产微创器械，正推进新一轮融资",
+        "source": "36Kr 医疗科技",
+        "published": "Mon, 23 Nov 2026 06:28:33 GMT",
+        "importance_hint": 3
+      }
+    ],
+    "papers": [
+      {
+        "title": "Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values",
+        "url": "https://huggingface.co/papers/2611.29361",
+        "summary": "Current MLLM methods largely focus on whether models attend to the right visual regions, implicitly treating spatial attention map as the primary key of effective visual perception. To examine this assumption, we introduce a medical VQA dataset with paired non-contrast (NC) and contrast-enhanced (CE) images that share corresponding anatomy while providing different cues. We show that this view is incomplete: across paired NC and CE medical images, MLLMs often exhibit similar attention patterns despite producing contrasting answers, while controlled bidirectional interventions induce substantia",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-21T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

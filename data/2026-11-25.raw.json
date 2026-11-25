@@ -1,0 +1,366 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T17:25:54.310253+08:00",
+  "counts": {
+    "news": 39,
+    "papers": 5
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
+        "url": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/",
+        "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 19:30:29 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/",
+        "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 14:27:36 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
+        "url": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/",
+        "summary": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 14:26:07 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
+        "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/",
+        "summary": "In this edition of STAT Health Tech: Alaskan hospitals using AI to improve stroke care, a look ahead at RSNA 2026, and peptides go mainstream.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 14:19:30 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
+        "url": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/",
+        "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 14:15:03 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
+        "url": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/",
+        "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 13:39:31 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "Opinion: Why medical students should keep going to class",
+        "url": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/",
+        "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
+        "url": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/",
+        "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+        "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/",
+        "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+        "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
+        "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+        "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/",
+        "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 07:54:44 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+        "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/",
+        "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+        "source": "STAT News",
+        "published": "Tue, 24 Nov 2026 00:19:48 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+        "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/",
+        "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 21:23:42 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+        "url": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/",
+        "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 14:43:21 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+        "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/",
+        "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
+        "source": "STAT News",
+        "published": "Mon, 23 Nov 2026 14:38:08 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/fewer-choices-available-enrollees-aca-exchanges-rwjf\" hreflang=\"en\">Fewer choices available to enrollees on ACA exchanges: RWJF</a>",
+        "url": "https://www.fiercehealthcare.com/payers/fewer-choices-available-enrollees-aca-exchanges-rwjf",
+        "summary": "The number of regions where patients have limited choices for Affordable Care Act plans is on the rise, according to a new analysis.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 3:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/voters-expect-lawmakers-address-healthcare-affordability-access-poll\" hreflang=\"en\">Voters expect lawmakers to address healthcare affordability, access: poll</a>",
+        "url": "https://www.fiercehealthcare.com/payers/voters-expect-lawmakers-address-healthcare-affordability-access-poll",
+        "summary": "Half of voters said they are paying more this year in premiums and out-of-pocket costs, according to a new national poll.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 4:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/academic-hospital-heads-petition-congress-2-year-delay-cms-340b-cuts\" hreflang=\"en\">Academic hospital heads petition Congress for 2-year delay to CMS' 340B cuts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/academic-hospital-heads-petition-congress-2-year-delay-cms-340b-cuts",
+        "summary": "A reimbursement change finalized this month would hit 340B hospitals for nearly $5.5 billion, with academic institutions shouldering more than half of the impact, 95 executives of academic institutions wrote to congressional leaders.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 4:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centralized-platform-submitting-managing-out-network-billing-disputes-launches\" hreflang=\"en\">Centralized platform for submitting, managing out-of-network billing disputes launches</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centralized-platform-submitting-managing-out-network-billing-disputes-launches",
+        "summary": "The IDR Gateway replaces the web forms providers, payers and other parties previously used to trigger and pursue payment arbitration under the Independent Dispute Resolution process.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 2:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death\" hreflang=\"en\">Measles update: First death in Virginia, ninth in Pennsylvania</a>",
+        "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+        "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/webmd-ignite-brings-openais-chatgpt-platform-healthcare-org-advertising\" hreflang=\"en\">WebMD Ignite brings OpenAI’s ChatGPT to platform for healthcare advertising</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/webmd-ignite-brings-openais-chatgpt-platform-healthcare-org-advertising",
+        "summary": "The new collaboration combines direct platform support with healthcare advertising campaign strategies, the companies say.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 2:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/wtw-global-health-insurance-costs-set-rise-102-next-year\" hreflang=\"en\">WTW: Global health insurance costs set to rise 10.2% next year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/wtw-global-health-insurance-costs-set-rise-102-next-year",
+        "summary": "Global health insurance costs are set to rise by double digits in 2027 for the second straight year, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 3:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hhs-medicaid-state-directed-payment-savings-primarily-stem-slowing-growth\" hreflang=\"en\">HHS: Medicaid state-directed payment savings 'primarily' stem from slowing growth</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hhs-medicaid-state-directed-payment-savings-primarily-stem-slowing-growth",
+        "summary": "A policy analysis and commentary from the department showed an estimated 7.8% of all state-directed payment spending went to rural hospitals in FY2025, and that 92.1% of estimated savings from industry-opposed statutory rate limits reflect projected spending above that year's $11.5 billion total.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 3:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes\" hreflang=\"en\">Unpacking the implications from CMS' latest proposed Medicare Advantage changes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes",
+        "summary": "Analysts dove into the beefy regulation, and project that changes to MA's star ratings program would likely cull more than $100 billion in federal spending over the next decade.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 4:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/florida-sues-leapfrog-group-misrepresenting-its-hospital-safety-grades-consumers\" hreflang=\"en\">Florida sues The Leapfrog Group for 'misrepresenting' its hospital safety grades to consumers</a>",
+        "url": "https://www.fiercehealthcare.com/providers/florida-sues-leapfrog-group-misrepresenting-its-hospital-safety-grades-consumers",
+        "summary": "The complaint follows a similar suit brought by Tenet hospitals that successfully convinced a judge that nonparticipating hospitals were being “unfairly” penalized in Leapfrog’s methodology.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 12:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules\" hreflang=\"en\">Court strikes down anti-trans Ryan White funding rules 'based in animus, loathing and discrimination'</a>",
+        "url": "https://www.fiercehealthcare.com/providers/provider-groups-file-lawsuit-against-hhs-over-new-ryan-white-funding-rules",
+        "summary": "The funding requirements, challenged by HIV providers, mandated recipients of Ryan White funds to not acknowledge the identities of trans patients or use funds for gender-affirming care.",
+        "source": "Fierce Healthcare",
+        "published": "Jun 11, 2026 2:28pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/how-messaging-could-be-next-source-clinician-burnout\" hreflang=\"en\">How messaging could be the next source of clinician burnout</a>",
+        "url": "https://www.fiercehealthcare.com/providers/how-messaging-could-be-next-source-clinician-burnout",
+        "summary": "Leaders at health communications platform TigerConnect spoke with Fierce about the trend and potential solutions for health leaders.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 10:10am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system\" hreflang=\"en\">Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
+        "summary": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay.",
+        "source": "Fierce Biotech",
+        "published": "Nov 25, 2026 2:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance\" hreflang=\"en\">ARM CEO reflects on ‘wild 12 months’ pushing back on FDA’s shifting gene therapy stance</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance",
+        "summary": "When Fierce first met up with Tim Hunt back in November 2025, the CEO of the Alliance for Regenerative Medicine (ARM)—which represents over 400 members, including biotechs—was optimistic that cell and gene therapies were high on the government’s agenda.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 2:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial\" hreflang=\"en\">DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
+        "summary": "DiaMedica Therapeutics has shared phase 2 results in severe early-onset fetal growth restriction, reporting that most participants with known delivery dates remained pregnant longer than expected.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 9:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies\" hreflang=\"en\">Why Iambic’s CEO believes preclinical cancer therapy could be ‘holy grail’ for CDK inhibitors</a>",
+        "url": "https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies",
+        "summary": "Fresh off a $150 million IPO, Iambic Therapeutics has unveiled preclinical data for a potential challenger in one of oncology's most competitive drug classes: cyclin-dependent kinases.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 11:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vyriad-tells-fierce-how-it-manages-quietly-attract-big-pharmas\" hreflang=\"en\">‘We’ve been a quiet company’: Why viral biotech Vyriad attracts Big Pharmas despite low profile</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vyriad-tells-fierce-how-it-manages-quietly-attract-big-pharmas",
+        "summary": "Vyriad's leadership may describe the biotech as a “very quiet company” when compared to some of its more buzzy peers, but the drug developer's partnerships speak for themselves.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 9:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test\" hreflang=\"en\">FDA signs off on Siemens Healthineers next gen multiple sclerosis blood test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test",
+        "summary": "The FDA has given de novo marketing authorization for Siemens Healthineers’ Atellica IM Neurofilament Light Chain (NfL) assay.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 5:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows\" hreflang=\"en\">GE HealthCare launches ViewPoint Ultra to simplify ultrasound workflows</a>",
+        "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows",
+        "summary": "GE HealthCare has launched ViewPoint Ultra, an ultrasound workflow solution designed to help health systems standardize clinical documentation and reporting across sites and departments while supporting specialized individual care needs.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 5:25am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers\" hreflang=\"en\">Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers</a>",
+        "url": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+        "summary": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent’s looming loss of exclusivity.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 3:08am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/exicure-expands-work-parkinsons-x-cue-smart-glasses\" hreflang=\"en\">Exicure expands work into Parkinson’s with X-CUE smart glasses</a>",
+        "url": "https://www.fiercebiotech.com/medtech/exicure-expands-work-parkinsons-x-cue-smart-glasses",
+        "summary": "Exicure is partnering with NeuroQ Biologics and the South Korean medtech company Laonz to expand its business into medical device technologies designed to assist patients with Parkinson’s disease.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 2:48am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china\" hreflang=\"en\">House panel pushes to reverse 'hollowing out' of US biotech amid China's rise</a>",
+        "url": "https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china",
+        "summary": "The U.S. House Select Committee on China has published a report detailing policy recommendations to “reverse the hollowing out of the U.S. drug innovation industry.”",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 2:45pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Ritzey reveals $112.5M; VitriVax scores $87M</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+        "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+        "source": "Fierce Biotech",
+        "published": "Dec 22, 2025 3:30pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy\" hreflang=\"en\">Kymera’s oral eczema drug impresses analysts with Dupixent-like phase 2 efficacy</a>",
+        "url": "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy",
+        "summary": "Kymera Therapeutics’ phase 2b eczema clinical trial has hit its primary endpoint and exceeded analyst expectations, teeing up further development of an oral drug candidate that could challenge Dupixent in a range of indications.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 9:09am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "LingSante MedGuard Technical Report",
+        "url": "https://huggingface.co/papers/2611.25509",
+        "summary": "As medical AI is increasingly used for patient consultation and clinical decision support, identifying harmful, non-compliant, or ethically problematic responses is essential for responsible deployment. Assessing these risks requires checking clinical claims against relevant evidence, verifying calculations, and applying medical requirements under their intended conditions. We introduce LingSante MedGuard, a capability-enhanced guardrail that integrates supervision from a medical guardrail teacher model and six specialized medical capability experts into a unified model. The guardrail teacher ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-18T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Self-Evolving Evaluation Environments for Computer-Use Agents",
+        "url": "https://huggingface.co/papers/2611.30962",
+        "summary": "Computer-use agents (CUAs) are rapidly improving, yet their evaluation remains largely static. Existing benchmarks provide a strong foundation, but fixed difficulty ceilings, limited feature coverage, and coarse aggregate scores progressively weaken their discriminative and diagnostic value. We introduce CUA-SEE, a closed-loop evaluation environment that co-evolves tasks and executable verifiers from rollout evidence. It disentangles three objectives: benchmark evolution expands evaluation scope through cohort-calibrated difficulty and coverage growth; diagnostic evolution increases resolution",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-22T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments",
+        "url": "https://huggingface.co/papers/2611.32094",
+        "summary": "Spatial reasoning in hospitals requires tracking look-alike equipment, interpreting patient-relative directions, and judging passage widths, yet existing benchmarks provide limited coverage of these abilities. We introduce Clinical3D-Bench, a simulated benchmark with 3,368 questions of eight types on egocentric walkthroughs of 373 hospital-room layouts. Layouts follow hospital design guidelines, answers are computed from the 3D scenes, and paired scene states test whether models change their answers when relevant evidence changes. Videos are photorealistic, and ten physicians screened the layo",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-23T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "KMed-31B Technical Report",
+        "url": "https://huggingface.co/papers/2611.28719",
+        "summary": "We present KMed-31B, a medical large language model post-trained from an open-weight model for on-premises deployment with limited hardware. Post-training a model for diverse medical tasks remains difficult, because improving one kind of task can lower performance on another. We attribute this to differences between tasks in expected output and available feedback. Medical question answering and diagnosis prediction have reference answers, whereas clinical inquiry has no single correct response and is judged with rubrics. We therefore divide medical training tasks into four categories by these ",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-20T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "LUCID: Statistically Grounded Self-Correction for LLM Reasoning Evaluation",
+        "url": "https://huggingface.co/papers/2611.31595",
+        "summary": "Cheap language-model raters grade chain-of-thought reasoning at scale, yet systematic step-rating errors can skew reasoning audits and solution rankings. We introduce LUCID (Loop for Unbiased Calibration via Inference-time Diagnosis), which pairs prompt self-correction with Design-based Supervised Learning (DSL). Without retraining or weight access, LUCID calibrates binary step ratings by aligning predicted and expert soundness rates. From a small expert-labeled set, LUCID summarizes rater bias in plain text and prompts the rater to re-grade unseen steps. For example, on PRM800K, GPT-5-mini gr",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-22T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}

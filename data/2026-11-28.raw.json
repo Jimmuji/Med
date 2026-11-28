@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:36:25.426091+08:00",
+  "counts": {
+    "news": 31,
+    "papers": 2
+  },
+  "items": {
+    "news": [
+      {
+        "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+        "url": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/",
+        "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
+        "source": "STAT News",
+        "published": "Fri, 27 Nov 2026 16:00:54 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "The stories we’re grateful for this year",
+        "url": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/",
+        "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+        "source": "STAT News",
+        "published": "Fri, 27 Nov 2026 15:49:05 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "STAT+: Here are some health AI conversation starters for the holidays",
+        "url": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/",
+        "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+        "source": "STAT News",
+        "published": "Fri, 27 Nov 2026 14:54:22 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+        "url": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/",
+        "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
+        "source": "STAT News",
+        "published": "Fri, 27 Nov 2026 09:30:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+        "url": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/",
+        "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write.",
+        "source": "STAT News",
+        "published": "Fri, 27 Nov 2026 09:30:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+        "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/",
+        "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+        "source": "STAT News",
+        "published": "Thu, 26 Nov 2026 19:00:00 +0000",
+        "importance_hint": 5
+      },
+      {
+        "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
+        "url": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/",
+        "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+        "source": "STAT News",
+        "published": "Thu, 26 Nov 2026 12:00:00 +0000",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/rural-communities-face-heavier-chronic-disease-burden-increasing-pressure-pcps\" hreflang=\"en\">Rural communities face heavier chronic disease burden, increasing pressure on PCPs: athenaInstitute</a>",
+        "url": "https://www.fiercehealthcare.com/providers/rural-communities-face-heavier-chronic-disease-burden-increasing-pressure-pcps",
+        "summary": "The report analyzed athenahealth data across 12.3 million rural patients between 2021 and 2025.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 25, 2026 10:43am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/weekly-rundown-waystar-integrates-google-clouds-gemini-healthcare-oracle-debuts-ai\" hreflang=\"en\">Weekly Rundown: Waystar integrates into Google Cloud’s Gemini for healthcare; Oracle debuts AI agents for clinical trials</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-waystar-integrates-google-clouds-gemini-healthcare-oracle-debuts-ai",
+        "summary": "The latest news from Waystar, OpenAI, Amazon, Artera and more.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 3:31pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/catching-new-ceo-unitedhealthcares-surest\" hreflang=\"en\">Catching up with the new CEO of UnitedHealthcare's Surest</a>",
+        "url": "https://www.fiercehealthcare.com/payers/catching-new-ceo-unitedhealthcares-surest",
+        "summary": "Joe Clark is stepping into the CEO chair at UnitedHealthcare's Surest unit with an eye on affordability.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 25, 2026 11:59am",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/fewer-choices-available-enrollees-aca-exchanges-rwjf\" hreflang=\"en\">Fewer choices available to enrollees on ACA exchanges: RWJF</a>",
+        "url": "https://www.fiercehealthcare.com/payers/fewer-choices-available-enrollees-aca-exchanges-rwjf",
+        "summary": "The number of regions where patients have limited choices for Affordable Care Act plans is on the rise, according to a new analysis.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 3:38pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/voters-expect-lawmakers-address-healthcare-affordability-access-poll\" hreflang=\"en\">Voters expect lawmakers to address healthcare affordability, access: poll</a>",
+        "url": "https://www.fiercehealthcare.com/payers/voters-expect-lawmakers-address-healthcare-affordability-access-poll",
+        "summary": "Half of voters said they are paying more this year in premiums and out-of-pocket costs, according to a new national poll.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 4:58pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/academic-hospital-heads-petition-congress-2-year-delay-cms-340b-cuts\" hreflang=\"en\">Academic hospital heads petition Congress for 2-year delay to CMS' 340B cuts</a>",
+        "url": "https://www.fiercehealthcare.com/providers/academic-hospital-heads-petition-congress-2-year-delay-cms-340b-cuts",
+        "summary": "A reimbursement change finalized this month would hit 340B hospitals for nearly $5.5 billion, with academic institutions shouldering more than half of the impact, 95 executives of academic institutions wrote to congressional leaders.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 4:00pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/centralized-platform-submitting-managing-out-network-billing-disputes-launches\" hreflang=\"en\">Centralized platform for submitting, managing out-of-network billing disputes launches</a>",
+        "url": "https://www.fiercehealthcare.com/payers/centralized-platform-submitting-managing-out-network-billing-disputes-launches",
+        "summary": "The IDR Gateway replaces the web forms providers, payers and other parties previously used to trigger and pursue payment arbitration under the Independent Dispute Resolution process.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 24, 2026 2:01pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death\" hreflang=\"en\">Measles update: First death in Virginia, ninth in Pennsylvania</a>",
+        "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+        "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year’s outbreaks of the vaccine-preventable disease.",
+        "source": "Fierce Healthcare",
+        "published": "Oct 13, 2026 3:23pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/health-tech/webmd-ignite-brings-openais-chatgpt-platform-healthcare-org-advertising\" hreflang=\"en\">WebMD Ignite brings OpenAI’s ChatGPT to platform for healthcare advertising</a>",
+        "url": "https://www.fiercehealthcare.com/health-tech/webmd-ignite-brings-openais-chatgpt-platform-healthcare-org-advertising",
+        "summary": "The new collaboration combines direct platform support with healthcare advertising campaign strategies, the companies say.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 2:28pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/payers/wtw-global-health-insurance-costs-set-rise-102-next-year\" hreflang=\"en\">WTW: Global health insurance costs set to rise 10.2% next year</a>",
+        "url": "https://www.fiercehealthcare.com/payers/wtw-global-health-insurance-costs-set-rise-102-next-year",
+        "summary": "Global health insurance costs are set to rise by double digits in 2027 for the second straight year, according to a new survey.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 3:17pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/providers/hhs-medicaid-state-directed-payment-savings-primarily-stem-slowing-growth\" hreflang=\"en\">HHS: Medicaid state-directed payment savings 'primarily' stem from slowing growth</a>",
+        "url": "https://www.fiercehealthcare.com/providers/hhs-medicaid-state-directed-payment-savings-primarily-stem-slowing-growth",
+        "summary": "A policy analysis and commentary from the department showed an estimated 7.8% of all state-directed payment spending went to rural hospitals in FY2025, and that 92.1% of estimated savings from industry-opposed statutory rate limits reflect projected spending above that year's $11.5 billion total.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 3:11pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes\" hreflang=\"en\">Unpacking the implications from CMS' latest proposed Medicare Advantage changes</a>",
+        "url": "https://www.fiercehealthcare.com/regulatory/unpacking-implications-cms-latest-proposed-medicare-advantage-changes",
+        "summary": "Analysts dove into the beefy regulation, and project that changes to MA's star ratings program would likely cull more than $100 billion in federal spending over the next decade.",
+        "source": "Fierce Healthcare",
+        "published": "Nov 23, 2026 4:26pm",
+        "importance_hint": 3
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc\" hreflang=\"en\">Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC</a>",
+        "url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
+        "summary": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise.",
+        "source": "Fierce Biotech",
+        "published": "Nov 25, 2026 10:30am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m\" hreflang=\"en\">Schrödinger signs €22M biologics collab with sequencing automation outfit Enpicom</a>",
+        "url": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
+        "summary": "Computational discovery biotech Schrödinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth €22 million.",
+        "source": "Fierce Biotech",
+        "published": "Nov 25, 2026 9:09am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting\" hreflang=\"en\">FDA issues noncompliance letters to 2 biotechs over lack of trial data reporting</a>",
+        "url": "https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting",
+        "summary": "The FDA has issued two biotechs with noncompliance letters for failure to report clinical trial results.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 6:09pm",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial\" hreflang=\"en\">Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
+        "summary": "A phase 2 trial of Desentum’s birch pollen allergen immunotherapy has hit its primary endpoint, teeing up further study of a short-course medication that could provide a persistent effect.",
+        "source": "Fierce Biotech",
+        "published": "Nov 25, 2026 8:23am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice\" hreflang=\"en\">‘The potential is there’: BetterLife’s LSD cousin mirrors neuroplasticity in mice without the hallucinations</a>",
+        "url": "https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice",
+        "summary": "With the boom in researching psychedelics to treat neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these drugs.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 11:19pm",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system\" hreflang=\"en\">Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system</a>",
+        "url": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
+        "summary": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay.",
+        "source": "Fierce Biotech",
+        "published": "Nov 25, 2026 2:04am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance\" hreflang=\"en\">ARM CEO reflects on ‘wild 12 months’ pushing back on FDA’s shifting gene therapy stance</a>",
+        "url": "https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance",
+        "summary": "When Fierce first met up with Tim Hunt back in November 2025, the CEO of the Alliance for Regenerative Medicine (ARM)—which represents over 400 members, including biotechs—was optimistic that cell and gene therapies were high on the government’s agenda.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 2:39am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial\" hreflang=\"en\">DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial</a>",
+        "url": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
+        "summary": "DiaMedica Therapeutics has shared phase 2 results in severe early-onset fetal growth restriction, reporting that most participants with known delivery dates remained pregnant longer than expected.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 9:34am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies\" hreflang=\"en\">Why Iambic’s CEO believes preclinical cancer therapy could be ‘holy grail’ for CDK inhibitors</a>",
+        "url": "https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies",
+        "summary": "Fresh off a $150 million IPO, Iambic Therapeutics has unveiled preclinical data for a potential challenger in one of oncology's most competitive drug classes: cyclin-dependent kinases.",
+        "source": "Fierce Biotech",
+        "published": "Nov 23, 2026 11:27am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/biotech/vyriad-tells-fierce-how-it-manages-quietly-attract-big-pharmas\" hreflang=\"en\">‘We’ve been a quiet company’: Why viral biotech Vyriad attracts Big Pharmas despite low profile</a>",
+        "url": "https://www.fiercebiotech.com/biotech/vyriad-tells-fierce-how-it-manages-quietly-attract-big-pharmas",
+        "summary": "Vyriad's leadership may describe the biotech as a “very quiet company” when compared to some of its more buzzy peers, but the drug developer's partnerships speak for themselves.",
+        "source": "Fierce Biotech",
+        "published": "Oct 8, 2026 9:01am",
+        "importance_hint": 4
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test\" hreflang=\"en\">FDA signs off on Siemens Healthineers next gen multiple sclerosis blood test</a>",
+        "url": "https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test",
+        "summary": "The FDA has given de novo marketing authorization for Siemens Healthineers’ Atellica IM Neurofilament Light Chain (NfL) assay.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 5:34am",
+        "importance_hint": 5
+      },
+      {
+        "title": "<a href=\"https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows\" hreflang=\"en\">GE HealthCare launches ViewPoint Ultra to simplify ultrasound workflows</a>",
+        "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows",
+        "summary": "GE HealthCare has launched ViewPoint Ultra, an ultrasound workflow solution designed to help health systems standardize clinical documentation and reporting across sites and departments while supporting specialized individual care needs.",
+        "source": "Fierce Biotech",
+        "published": "Nov 24, 2026 5:25am",
+        "importance_hint": 4
+      }
+    ],
+    "papers": [
+      {
+        "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+        "url": "https://huggingface.co/papers/2611.28849",
+        "summary": "When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from a condition that still needs verification, a distinction that binary safety labels leave unspecified. We formulate this decision through four actions: allow, warn, review, and refuse. To ground these decisions in verifiable evidence, we build a corpus of 20,126 training audits and the JudiBench benchmark, connecting each action to diagnostic judgments, source evidence, and controlled context chan",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-20T19:00:00.000Z",
+        "importance_hint": 3
+      },
+      {
+        "title": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration",
+        "url": "https://huggingface.co/papers/2611.32993",
+        "summary": "Structured clinical decisions from volumetric computed tomography (CT) require anatomically grounded predictions and calibrated confidence estimates. However, existing 3D medical multimodal models often suffer from uncalibrated autoregressive decoding and shortcut reliance on irrelevant anatomical regions. We introduce Radev, a decision-native multimodal model that integrates anatomy-guided visual compression, direct candidate prediction, and counterfactual confidence supervision. To bridge global context with fine-grained slice details, a frozen 3D encoder extracts reusable organ-level featur",
+        "source": "HuggingFace Papers (Medical)",
+        "published": "2026-11-23T19:00:00.000Z",
+        "importance_hint": 3
+      }
+    ]
+  }
+}
